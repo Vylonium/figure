@@ -3,35 +3,21 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Halaman Tidak Ditemukan — Wikybook News</title>
+  <title>Halaman Tidak Ditemukan — Wikybook Figure</title>
   <link rel="icon" type="image/png" href="/logo.png">
-  <link rel="manifest" href="/manifest.json">
-  <script src="https://cdn.tailwindcss.com"></script>
-  <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-32K4RH4DKN"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-32K4RH4DKN");</script>
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-32K4RH4DKN');
-  </script>
-  <!-- SPA redirect: kirim path ke index.html via sessionStorage -->
-  <script>
-    // GitHub Pages 404 trick: simpan URL asli lalu redirect ke /
-    var path = window.location.pathname;
-    var search = window.location.search;
-    var hash = window.location.hash;
-    // Simpan intended URL ke sessionStorage agar index.html bisa restore
-    sessionStorage.setItem('spa_redirect', path + search + hash);
-    // Redirect ke root
-    window.location.replace('/');
+    var path = window.location.pathname + window.location.search + window.location.hash;
+    sessionStorage.setItem("spa_redirect", path);
+    window.location.replace("/");
   </script>
 </head>
-<body class="bg-gray-50 flex items-center justify-center min-h-screen">
-  <div class="text-center p-8">
-    <div class="text-6xl mb-4">📰</div>
-    <h1 class="text-2xl font-bold text-gray-900 mb-2">Mengalihkan...</h1>
-    <p class="text-gray-500">Membawa kamu ke halaman yang tepat.</p>
+<body style="background:#f9fafb;display:flex;align-items:center;justify-content:center;min-height:100vh;font-family:sans-serif;">
+  <div style="text-align:center;padding:2rem">
+    <div style="font-size:3rem;margin-bottom:1rem">👤</div>
+    <h1 style="color:#111;margin-bottom:.5rem">Mengalihkan...</h1>
+    <p style="color:#6b7280">Membawa kamu ke halaman yang tepat.</p>
   </div>
 </body>
 </html>
