@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://news.hypeemart.my.id/sitemap.xml
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
