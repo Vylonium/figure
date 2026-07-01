@@ -157,6 +157,338 @@
           }
         }
       }
+    
+      ,
+      {
+        id: 'indonesia-gibran-rakabuming',
+        langs: {
+          id: {
+            title: 'Gibran Rakabuming Raka — Wakil Presiden RI Termuda Sepanjang Sejarah',
+            desc: 'Gibran Rakabuming Raka menjadi Wakil Presiden RI ke-14 pada usia 36 tahun, menjadikannya wapres termuda dalam sejarah Indonesia. Putra sulung Jokowi ini sebelumnya menjabat Wali Kota Surakarta.',
+            body: '<p class="mb-4">Gibran Rakabuming Raka lahir di Surakarta, Jawa Tengah, pada 1 Oktober 1987. Ia adalah putra sulung Presiden Joko Widodo (Jokowi) dan Iriana Joko Widodo. Pada 20 Oktober 2024, ia resmi dilantik sebagai Wakil Presiden Republik Indonesia ke-14 mendampingi Presiden Prabowo Subianto, di usia 36 tahun — menjadikannya wapres termuda dalam sejarah Republik Indonesia.</p><p class="mb-4">Sebelum terjun ke dunia politik, Gibran menjalankan bisnis kuliner. Ia mendirikan Markobar (Martabak Kota Baru) dan Chili Pari, dua brand kuliner yang berkembang pesat. Pengalaman bisnis inilah yang kemudian menjadi modal kariernya di pemerintahan.</p><p class="mb-4">Pada 2020, Gibran maju dalam Pilkada Surakarta dan menang dengan 86,6% suara — kemenangan telak yang membuatnya menjadi Wali Kota Surakarta 2021–2024. Selama menjabat, ia dikenal dengan program revitalisasi Pasar Gede, penataan kawasan Ngarsopuro, dan digitalisasi layanan publik kota Solo.</p><p class="mb-4">Kontroversi mengiringi pencalonannya sebagai cawapres: Mahkamah Konstitusi mengubah syarat usia minimal capres/cawapres dari 40 tahun menjadi boleh di bawah 40 tahun asal pernah/sedang menjabat kepala daerah. Keputusan ini menuai kritik karena hakim MK saat itu adalah pamannya, Anwar Usman. Meski demikian, pasangan Prabowo-Gibran memenangkan Pilpres 2024 dalam satu putaran dengan 58,6% suara.</p><p class="mb-4">Sebagai wapres, Gibran ditugasi mengawal program-program prioritas kabinet Merah Putih, terutama di sektor pendidikan, ekonomi digital, dan pemberdayaan UMKM. Ia juga aktif merepresentasikan Indonesia di forum internasional, termasuk KTT G20 Brasil 2024 dan KTT ASEAN Singapura 2025.</p>',
+            source: 'Kompas',
+            sourceUrl: 'https://kompas.id/baca/profil/tokoh/gibran-rakabuming-raka',
+            sourceSnippet: 'Profil Gibran Rakabuming Raka — Wakil Presiden RI ke-14 — Kompas.id',
+            source2: 'The Jakarta Post',
+            sourceUrl2: 'https://www.thejakartapost.com/indonesia/2024/10/20/gibran-rakabuming-raka-inaugurated-as-indonesias-youngest-vp.html',
+            sourceSnippet2: 'Gibran Rakabuming Raka inaugurated as Indonesia youngest VP — The Jakarta Post, Oct 2024',
+            source3: 'BBC Indonesia',
+            sourceUrl3: 'https://www.bbc.com/indonesia/articles/gibran-rakabuming-wapres-termuda',
+            sourceSnippet3: 'Gibran Rakabuming Raka: Wapres termuda Indonesia — BBC Indonesia'
+          },
+          en: {
+            title: 'Gibran Rakabuming Raka — Indonesia\'s Youngest Vice President in History',
+            desc: 'Gibran Rakabuming Raka became Indonesia\'s 14th Vice President at age 36, making him the youngest VP in Indonesian history. Jokowi\'s eldest son previously served as Mayor of Surakarta.',
+            body: '<p class="mb-4">Gibran Rakabuming Raka was born in Surakarta, Central Java, on October 1, 1987. He is the eldest son of President Joko Widodo (Jokowi) and Iriana Joko Widodo. On October 20, 2024, he was officially inaugurated as the 14th Vice President of Indonesia alongside President Prabowo Subianto, at age 36 — making him the youngest VP in the history of the Republic of Indonesia.</p><p class="mb-4">Before entering politics, Gibran ran a culinary business. He founded Markobar (Martabak Kota Baru) and Chili Pari, two rapidly growing food brands. This business experience became the foundation of his government career.</p><p class="mb-4">In 2020, Gibran ran in the Surakarta regional election and won with 86.6% of the vote — a landslide that made him Mayor of Surakarta for 2021–2024. During his tenure he was known for the Pasar Gede market revitalization, the Ngarsopuro area redevelopment, and digitalization of Solo\'s public services.</p><p class="mb-4">Controversy surrounded his VP candidacy when the Constitutional Court changed the minimum age requirement, allowing candidates under 40 who currently hold or have held regional leadership positions. Despite criticism — the MK Chief Justice at the time was his uncle Anwar Usman — the Prabowo-Gibran ticket won the 2024 presidential election in a single round with 58.6% of votes.</p><p class="mb-4">As VP, Gibran oversees priority programs of the Merah Putih Cabinet, particularly in education, the digital economy, and MSME empowerment. He has also actively represented Indonesia at international forums including the 2024 G20 Summit in Brazil and the 2025 ASEAN Summit in Singapore.</p>',
+            source: 'Kompas',
+            sourceUrl: 'https://kompas.id/baca/profil/tokoh/gibran-rakabuming-raka',
+            sourceSnippet: 'Profile: Gibran Rakabuming Raka — Indonesia\'s 14th Vice President — Kompas.id',
+            source2: 'The Jakarta Post',
+            sourceUrl2: 'https://www.thejakartapost.com/indonesia/2024/10/20/gibran-rakabuming-raka-inaugurated-as-indonesias-youngest-vp.html',
+            sourceSnippet2: 'Gibran inaugurated as Indonesia youngest VP — The Jakarta Post, Oct 2024',
+            source3: 'BBC Indonesia',
+            sourceUrl3: 'https://www.bbc.com/indonesia/articles/gibran-rakabuming-wapres-termuda',
+            sourceSnippet3: 'Gibran Rakabuming Raka: Indonesia\'s youngest VP — BBC Indonesia'
+          },
+          ja: {
+            title: 'ギブラン・ラカブミン・ラカ — インドネシア史上最年少副大統領',
+            desc: '36歳でインドネシア第14代副大統領に就任したギブランは、共和国史上最年少の副大統領。ジョコウィ前大統領の長男で元スラカルタ市長。',
+            body: '<p class="mb-4">ギブラン・ラカブミン・ラカは1987年10月1日、中部ジャワ州スラカルタ生まれ。ジョコウィ前大統領の長男で、2024年10月20日にプラボウォ・スビアント大統領とともに第14代副大統領に就任。36歳での就任はインドネシア共和国史上最年少記録です。</p><p class="mb-4">政界入り前は飲食ビジネスを営み、マルコバルとチリパリを創業。2020年スラカルタ市長選を86.6%の得票率で制し、2021–2024年市長を務めました。2024年大統領選ではプラボウォと組み58.6%の得票率で一回投票で勝利しました。</p><p class="mb-4">副大統領として教育・デジタル経済・中小企業振興を担当し、2024年G20ブラジル首脳会議や2025年ASEAN首脳会議にも出席しています。</p>',
+            source: 'Kompas',
+            sourceUrl: 'https://kompas.id/baca/profil/tokoh/gibran-rakabuming-raka',
+            sourceSnippet: 'ギブラン・ラカブミン・ラカ プロフィール — Kompas.id',
+            source2: 'The Jakarta Post',
+            sourceUrl2: 'https://www.thejakartapost.com/indonesia/2024/10/20/gibran-rakabuming-raka-inaugurated-as-indonesias-youngest-vp.html',
+            sourceSnippet2: 'ギブラン、インドネシア最年少副大統領に就任 — The Jakarta Post, 2024年10月'
+          },
+          ko: {
+            title: '기브란 라카부밍 라카 — 인도네시아 역사상 최연소 부통령',
+            desc: '36세에 인도네시아 제14대 부통령으로 취임한 기브란은 공화국 역사상 최연소 부통령. 조코위 전 대통령의 장남이자 전 수라카르타 시장.',
+            body: '<p class="mb-4">기브란 라카부밍 라카는 1987년 10월 1일 중부 자바 수라카르타에서 태어났습니다. 조코위 전 대통령의 장남으로, 2024년 10월 20일 프라보워 수비안토 대통령과 함께 제14대 부통령으로 취임했습니다. 36세 취임은 인도네시아 공화국 역사상 최연소 기록입니다.</p><p class="mb-4">정계 입문 전 외식업을 운영하며 마르코바르와 칠리파리를 창업했습니다. 2020년 수라카르타 시장 선거에서 86.6% 득표율로 당선되어 2021–2024년 시장을 역임했습니다. 2024년 대선에서 프라보워와 짝을 이뤄 58.6% 득표율로 1차 투표에서 승리했습니다.</p><p class="mb-4">부통령으로서 교육·디지털 경제·중소기업 육성을 담당하며 2024년 G20 브라질 정상회의와 2025년 ASEAN 정상회의에도 참석했습니다.</p>',
+            source: 'Kompas',
+            sourceUrl: 'https://kompas.id/baca/profil/tokoh/gibran-rakabuming-raka',
+            sourceSnippet: '기브란 라카부밍 라카 프로필 — Kompas.id',
+            source2: 'The Jakarta Post',
+            sourceUrl2: 'https://www.thejakartapost.com/indonesia/2024/10/20/gibran-rakabuming-raka-inaugurated-as-indonesias-youngest-vp.html',
+            sourceSnippet2: '기브란, 인도네시아 최연소 부통령 취임 — The Jakarta Post, 2024년 10월'
+          },
+          zh: {
+            title: '吉布兰·拉卡布明·拉卡 — 印度尼西亚历史上最年轻的副总统',
+            desc: '吉布兰以36岁之龄就任印尼第14任副总统，成为共和国历史上最年轻的副总统。佐科威前总统长子，曾任泗水市长。',
+            body: '<p class="mb-4">吉布兰·拉卡布明·拉卡1987年10月1日出生于中爪哇省梭罗（泗水）。他是前总统佐科威的长子，于2024年10月20日与普拉博沃·苏比安托总统一起就任第14任副总统，36岁就任创下印度尼西亚共和国历史上最年轻记录。</p><p class="mb-4">从政前经营餐饮业，创立了马尔科巴尔和奇里帕里两个品牌。2020年以86.6%得票率赢得梭罗市长选举，任期2021–2024年。2024年总统选举中与普拉博沃搭档，以58.6%得票率在第一轮投票中获胜。</p><p class="mb-4">作为副总统，他负责教育、数字经济和中小微企业发展，并出席了2024年巴西G20峰会和2025年新加坡东盟峰会。</p>',
+            source: 'Kompas',
+            sourceUrl: 'https://kompas.id/baca/profil/tokoh/gibran-rakabuming-raka',
+            sourceSnippet: '吉布兰·拉卡布明·拉卡简介 — Kompas.id',
+            source2: 'The Jakarta Post',
+            sourceUrl2: 'https://www.thejakartapost.com/indonesia/2024/10/20/gibran-rakabuming-raka-inaugurated-as-indonesias-youngest-vp.html',
+            sourceSnippet2: '吉布兰就任印尼最年轻副总统 — 雅加达邮报，2024年10月'
+          }
+        }
+      },
+      {
+        id: 'indonesia-sri-mulyani',
+        langs: {
+          id: {
+            title: 'Sri Mulyani Indrawati — Menteri Keuangan Terbaik Dunia & Arsitek Ekonomi Indonesia',
+            desc: 'Sri Mulyani Indrawati adalah Menteri Keuangan Indonesia yang telah tiga kali menjabat. Ekonom kelas dunia yang pernah menjadi Managing Director IMF ini dikenal sebagai arsitek stabilitas fiskal Indonesia.',
+            body: '<p class="mb-4">Sri Mulyani Indrawati lahir di Tanjung Karang, Lampung, pada 26 Agustus 1962. Ia adalah salah satu ekonom dan teknokrat paling dihormati di dunia. Pendidikannya dimulai dari Universitas Indonesia (sarjana ekonomi, 1986), dilanjutkan dengan meraih gelar doktor (PhD) ekonomi dari University of Illinois at Urbana-Champaign, Amerika Serikat, pada 1992.</p><p class="mb-4">Ia menjabat Menteri Keuangan untuk pertama kalinya di era Presiden SBY (2005–2010), di mana ia berhasil membawa Indonesia melewati krisis keuangan global 2008 tanpa terdampak parah. Prestasinya mengantarnya menjadi <strong>Managing Director dan COO Bank Dunia</strong> (2010–2016) — posisi setinggi itu jarang diraih oleh orang Asia, apalagi perempuan.</p><p class="mb-4">Jokowi membawa Sri Mulyani kembali ke Indonesia sebagai Menkeu pada 2016 untuk masa jabatan kedua (2016–2024). Di era ini, ia mengelola APBN dengan disiplin tinggi, menjaga defisit fiskal di bawah 3% PDB, dan memimpin pemulihan ekonomi pascapandemi COVID-19. Indonesia berhasil bangkit dengan pertumbuhan 5,31% di 2022.</p><p class="mb-4">Pada 2024, majalah <em>Global Finance</em> dan <em>Euromoney</em> kembali menobatkannya sebagai salah satu Menteri Keuangan terbaik Asia. Ia juga masuk daftar <em>Forbes</em> "100 Perempuan Paling Berkuasa di Dunia" selama beberapa tahun berturut-turut, dan pada 2023 menempati peringkat ke-38.</p><p class="mb-4">Di era Prabowo (2024–sekarang), Sri Mulyani tidak kembali ke Kemenkeu — jabatan dilanjutkan oleh Airlangga Hartarto sebagai Menko Perekonomian dan Sri Mulyani fokus pada peran konsultasi internasional. Warisannya: Indonesia dengan utang terkendali, sistem pajak yang lebih transparan, dan fondasi fiskal yang kuat menghadapi gejolak ekonomi global.</p>',
+            source: 'Kemenkeu RI',
+            sourceUrl: 'https://www.kemenkeu.go.id/profil/menteri-keuangan/',
+            sourceSnippet: 'Profil Sri Mulyani Indrawati — Kementerian Keuangan Republik Indonesia',
+            source2: 'Forbes',
+            sourceUrl2: 'https://www.forbes.com/profile/sri-mulyani-indrawati/',
+            sourceSnippet2: 'Sri Mulyani Indrawati — Forbes World\'s 100 Most Powerful Women profile',
+            source3: 'World Bank',
+            sourceUrl3: 'https://www.worldbank.org/en/about/people/s/sri-mulyani-indrawati',
+            sourceSnippet3: 'Sri Mulyani Indrawati former MD & COO — World Bank official profile'
+          },
+          en: {
+            title: 'Sri Mulyani Indrawati — World\'s Best Finance Minister & Indonesia\'s Economic Architect',
+            desc: 'Sri Mulyani Indrawati is Indonesia\'s Finance Minister who has served three terms. A world-class economist and former IMF Managing Director, she is known as the architect of Indonesia\'s fiscal stability.',
+            body: '<p class="mb-4">Sri Mulyani Indrawati was born in Tanjung Karang, Lampung, on August 26, 1962. She is one of the most respected economists and technocrats in the world. She earned her bachelor\'s in economics from the University of Indonesia (1986) and her PhD in economics from the University of Illinois at Urbana-Champaign, USA, in 1992.</p><p class="mb-4">She first served as Finance Minister under President SBY (2005–2010), successfully steering Indonesia through the 2008 global financial crisis with minimal impact. This achievement led to her appointment as <strong>Managing Director and COO of the World Bank</strong> (2010–2016) — a position rarely attained by Asians, especially women.</p><p class="mb-4">Jokowi brought Sri Mulyani back to Indonesia as Finance Minister in 2016 for her second term (2016–2024). During this period she managed the state budget with strict discipline, keeping the fiscal deficit below 3% of GDP, and led Indonesia\'s post-COVID-19 recovery. Indonesia achieved 5.31% growth in 2022.</p><p class="mb-4">In 2024, <em>Global Finance</em> and <em>Euromoney</em> magazines again named her one of Asia\'s best Finance Ministers. She also appeared on <em>Forbes</em> "100 Most Powerful Women in the World" for several consecutive years, reaching rank 38 in 2023.</p>',
+            source: 'Kemenkeu RI',
+            sourceUrl: 'https://www.kemenkeu.go.id/profil/menteri-keuangan/',
+            sourceSnippet: 'Sri Mulyani Indrawati profile — Ministry of Finance of Indonesia',
+            source2: 'Forbes',
+            sourceUrl2: 'https://www.forbes.com/profile/sri-mulyani-indrawati/',
+            sourceSnippet2: 'Sri Mulyani Indrawati — Forbes 100 Most Powerful Women',
+            source3: 'World Bank',
+            sourceUrl3: 'https://www.worldbank.org/en/about/people/s/sri-mulyani-indrawati',
+            sourceSnippet3: 'Sri Mulyani Indrawati former MD & COO — World Bank'
+          },
+          ja: {
+            title: 'スリ・ムルヤニ・インドラワティ — 世界最優秀財務大臣＆インドネシア経済の設計者',
+            desc: '3度財務大臣を務めたインドネシアを代表する経済学者。元世界銀行MD兼COOで、インドネシアの財政安定の立役者。',
+            body: '<p class="mb-4">スリ・ムルヤニ・インドラワティは1962年8月26日、ランプン州タンジュンカランに生まれました。インドネシア大学で経済学を、米イリノイ大学アーバナ・シャンペーン校で経済学博士号を取得（1992年）。</p><p class="mb-4">SBY政権下（2005–2010年）の財務大臣として2008年世界金融危機からインドネシアを最小限のダメージで乗り切り、その実績で<strong>世界銀行MD兼COO</strong>（2010–2016年）に就任。アジア人・女性として異例の高ポストでした。</p><p class="mb-4">2016年にジョコウィに請われ財務大臣に復帰（2016–2024年）。財政赤字をGDP比3%以下に抑制し新型コロナ後の経済回復を主導。インドネシアは2022年に5.31%成長を達成しました。<em>Forbes</em>「世界で最も影響力のある女性100人」に数年連続でランクインし2023年は38位でした。</p>',
+            source: 'Kemenkeu RI',
+            sourceUrl: 'https://www.kemenkeu.go.id/profil/menteri-keuangan/',
+            sourceSnippet: 'スリ・ムルヤニ・インドラワティ プロフィール — インドネシア財務省',
+            source2: 'Forbes',
+            sourceUrl2: 'https://www.forbes.com/profile/sri-mulyani-indrawati/',
+            sourceSnippet2: 'スリ・ムルヤニ・インドラワティ — Forbes世界で最も影響力のある女性100人'
+          },
+          ko: {
+            title: '스리 물야니 인드라와티 — 세계 최우수 재무장관 & 인도네시아 경제 설계자',
+            desc: '3번 재무장관을 역임한 인도네시아 대표 경제학자. 전 세계은행 MD 겸 COO로 인도네시아 재정 안정의 주역.',
+            body: '<p class="mb-4">스리 물야니 인드라와티는 1962년 8월 26일 람풍주 탄중카랑에서 태어났습니다. 인도네시아대학에서 경제학을, 미국 일리노이대학 어바나-샴페인 캠퍼스에서 경제학 박사를 취득(1992년)했습니다.</p><p class="mb-4">SBY 정권(2005–2010년) 하에서 재무장관으로 2008년 세계 금융위기를 최소 피해로 극복하여 <strong>세계은행 MD 겸 COO</strong>(2010–2016년)에 취임했습니다. 2016년 조코위의 부름으로 재무장관에 복귀(2016–2024년)하여 재정 적자를 GDP 3% 이하로 유지하고 코로나19 이후 경제 회복을 이끌었습니다. <em>Forbes</em> "세계에서 가장 영향력 있는 여성 100인"에 수년 연속 선정되었고 2023년에는 38위를 기록했습니다.</p>',
+            source: 'Kemenkeu RI',
+            sourceUrl: 'https://www.kemenkeu.go.id/profil/menteri-keuangan/',
+            sourceSnippet: '스리 물야니 인드라와티 프로필 — 인도네시아 재무부',
+            source2: 'Forbes',
+            sourceUrl2: 'https://www.forbes.com/profile/sri-mulyani-indrawati/',
+            sourceSnippet2: '스리 물야니 인드라와티 — Forbes 세계에서 가장 영향력 있는 여성 100인'
+          },
+          zh: {
+            title: '斯里·穆利亚尼·英德拉瓦蒂 — 全球最佳财政部长与印尼经济建筑师',
+            desc: '三度出任印度尼西亚财政部长的世界级经济学家，前世界银行常务副行长兼首席运营官，印尼财政稳定的奠基人。',
+            body: '<p class="mb-4">斯里·穆利亚尼·英德拉瓦蒂1962年8月26日出生于楠榜省丹戎卡朗。她先后在印尼大学取得经济学学士学位，并于1992年获得美国伊利诺伊大学厄巴纳-香槟分校经济学博士学位。</p><p class="mb-4">在苏西洛政府（2005–2010年）担任财政部长期间，她成功带领印尼以最小代价渡过2008年全球金融危机，随后出任<strong>世界银行常务副行长兼首席运营官</strong>（2010–2016年）。2016年应佐科威邀请重返财政部长职位（2016–2024年），将财政赤字保持在GDP的3%以下，领导后疫情时代经济复苏。印尼2022年实现5.31%增长。<em>福布斯</em>"全球100位最具影响力女性"榜单连续多年入选，2023年排名第38位。</p>',
+            source: 'Kemenkeu RI',
+            sourceUrl: 'https://www.kemenkeu.go.id/profil/menteri-keuangan/',
+            sourceSnippet: '斯里·穆利亚尼·英德拉瓦蒂简介 — 印度尼西亚财政部',
+            source2: 'Forbes',
+            sourceUrl2: 'https://www.forbes.com/profile/sri-mulyani-indrawati/',
+            sourceSnippet2: '斯里·穆利亚尼·英德拉瓦蒂 — 福布斯全球100位最具影响力女性'
+          }
+        }
+      },
+      {
+        id: 'indonesia-bahlil-lahadalia',
+        langs: {
+          id: {
+            title: 'Bahlil Lahadalia — Menteri ESDM & Bos Investasi Era Prabowo',
+            desc: 'Bahlil Lahadalia adalah Menteri Energi dan Sumber Daya Mineral (ESDM) di kabinet Prabowo, setelah sebelumnya menjabat Kepala BKPM dan Menteri Investasi. Pengusaha Papua yang kini menjadi salah satu menteri paling berpengaruh.',
+            body: '<p class="mb-4">Bahlil Lahadalia lahir di Banda, Maluku, 7 Agustus 1976 dan besar di Papua. Ia adalah potret nyata dari "anak daerah yang berhasil" — berjualan koran dan menjadi sopir angkot semasa kuliah di Universitas Yapis Papua, sebelum membangun imperium bisnis yang mencakup pertambangan, properti, dan jasa keuangan.</p><p class="mb-4">Karier bisnisnya dimulai dari mendirikan PT Rifa Capital, holding company yang kemudian berkembang menjadi grup bisnis dengan aset ratusan miliar rupiah. Ia aktif di Hipmi (Himpunan Pengusaha Muda Indonesia) dan sempat menjadi Ketua BPP Hipmi 2019–2022, jejaring yang kemudian membuka pintu ke dunia politik dan pemerintahan.</p><p class="mb-4">Jokowi menunjuknya sebagai <strong>Kepala BKPM (Badan Koordinasi Penanaman Modal)</strong> pada 2019, lalu Menteri Investasi/Kepala BKPM (2021–2024). Di posisi ini ia berhasil membukukan realisasi investasi yang terus melampaui target, termasuk menarik investasi asing dari raksasa seperti Tesla, Apple, dan Hyundai ke Indonesia.</p><p class="mb-4">Prabowo menunjuk Bahlil sebagai <strong>Menteri Energi dan Sumber Daya Mineral</strong> pada Oktober 2024. Posisi strategis ini menempatkannya sebagai pengendali kebijakan energi nasional di tengah agenda transisi energi dan swasembada energi yang dicanangkan pemerintah. Ia mendorong percepatan hilirisasi nikel dan mineral kritis untuk baterai EV.</p><p class="mb-4">Kontroversi juga pernah menyertainya — laporan-laporan tentang praktik bisnis dan pencabutan izin tambang yang menuai kritik. Namun ia tetap menjadi salah satu menteri yang paling sering tampil publik dan vokal dalam memperjuangkan kepentingan investasi Indonesia.</p>',
+            source: 'Kompas',
+            sourceUrl: 'https://kompas.id/baca/profil/tokoh/bahlil-lahadalia',
+            sourceSnippet: 'Profil Bahlil Lahadalia — Menteri ESDM Kabinet Merah Putih — Kompas.id',
+            source2: 'The Jakarta Post',
+            sourceUrl2: 'https://www.thejakartapost.com/tag/bahlil-lahadalia',
+            sourceSnippet2: 'Bahlil Lahadalia profile and latest news — The Jakarta Post',
+            source3: 'ESDM RI',
+            sourceUrl3: 'https://www.esdm.go.id/id/profil/profil-menteri',
+            sourceSnippet3: 'Profil Menteri ESDM — Kementerian Energi dan Sumber Daya Mineral RI'
+          },
+          en: {
+            title: 'Bahlil Lahadalia — Energy Minister & Investment Chief in Prabowo Era',
+            desc: 'Bahlil Lahadalia is Minister of Energy and Mineral Resources in Prabowo\'s cabinet, after serving as BKPM Head and Investment Minister. A Papua-born entrepreneur now one of Indonesia\'s most influential ministers.',
+            body: '<p class="mb-4">Bahlil Lahadalia was born in Banda, Maluku, on August 7, 1976, and grew up in Papua. He is a true example of a self-made man from eastern Indonesia — selling newspapers and working as a minibus driver during his studies at Yapis Papua University, before building a business empire spanning mining, property, and financial services.</p><p class="mb-4">His business career started with founding PT Rifa Capital, a holding company that grew into a business group with assets worth hundreds of billions of rupiah. Active in Hipmi (Indonesian Young Entrepreneurs Association), he became Hipmi Chair (2019–2022), a network that opened doors to government.</p><p class="mb-4">Jokowi appointed him as <strong>BKPM Head</strong> in 2019, then Investment Minister/BKPM Head (2021–2024). He consistently exceeded investment realization targets and attracted major foreign investments from Tesla, Apple, and Hyundai to Indonesia.</p><p class="mb-4">Prabowo appointed Bahlil as <strong>Minister of Energy and Mineral Resources</strong> in October 2024, placing him in charge of national energy policy amid the government\'s energy transition and self-sufficiency agenda. He is pushing acceleration of nickel and critical minerals downstream processing for EV batteries.</p>',
+            source: 'Kompas',
+            sourceUrl: 'https://kompas.id/baca/profil/tokoh/bahlil-lahadalia',
+            sourceSnippet: 'Profile: Bahlil Lahadalia — Energy Minister — Kompas.id',
+            source2: 'The Jakarta Post',
+            sourceUrl2: 'https://www.thejakartapost.com/tag/bahlil-lahadalia',
+            sourceSnippet2: 'Bahlil Lahadalia — The Jakarta Post',
+            source3: 'ESDM RI',
+            sourceUrl3: 'https://www.esdm.go.id/id/profil/profil-menteri',
+            sourceSnippet3: 'Minister of Energy and Mineral Resources profile — ESDM Indonesia'
+          },
+          ja: {
+            title: 'バフリル・ラハダリア — プラボウォ時代のエネルギー大臣＆投資庁長官',
+            desc: 'バフリル・ラハダリアはプラボウォ内閣のエネルギー・鉱物資源大臣。前BKPM長官・投資大臣で、パプア出身の実業家が今やインドネシア最有力大臣の一人に。',
+            body: '<p class="mb-4">バフリル・ラハダリアは1976年8月7日マルク州バンダ生まれ、パプアで育ちました。ヤピス・パプア大学在学中に新聞販売や乗合バスの運転手をしながら学び、その後鉱業・不動産・金融サービス分野に及ぶビジネス帝国を築きました。</p><p class="mb-4">ジョコウィに<strong>BKPM（投資調整庁）長官</strong>（2019年）、次いで投資大臣（2021–2024年）に任命。テスラ・アップル・現代自動車などの大型外資誘致を実現しました。2024年10月、プラボウォに<strong>エネルギー・鉱物資源大臣</strong>として任命。ニッケルなどEV電池向けクリティカルミネラルの川下産業加速を推進しています。</p>',
+            source: 'Kompas',
+            sourceUrl: 'https://kompas.id/baca/profil/tokoh/bahlil-lahadalia',
+            sourceSnippet: 'バフリル・ラハダリア プロフィール — Kompas.id',
+            source2: 'The Jakarta Post',
+            sourceUrl2: 'https://www.thejakartapost.com/tag/bahlil-lahadalia',
+            sourceSnippet2: 'バフリル・ラハダリア最新ニュース — The Jakarta Post'
+          },
+          ko: {
+            title: '바흘릴 라하달리아 — 프라보워 시대 에너지부 장관 & 투자청장',
+            desc: '바흘릴 라하달리아는 프라보워 내각의 에너지 광물자원부 장관. 전 BKPM 청장·투자부 장관으로 파푸아 출신 사업가가 인도네시아 최고 실력자 장관 중 하나로.',
+            body: '<p class="mb-4">바흘릴 라하달리아는 1976년 8월 7일 말루쿠주 반다에서 태어나 파푸아에서 성장했습니다. 야피스 파푸아대학 재학 중 신문 판매와 미니버스 운전으로 학비를 충당하며 이후 광업·부동산·금융서비스 분야의 기업 제국을 건설했습니다.</p><p class="mb-4">조코위에게 <strong>BKPM(투자조정청) 청장</strong>(2019년), 이어 투자부 장관(2021–2024년)으로 임명되었으며 테슬라·애플·현대자동차 등 대형 외국인 투자 유치를 달성했습니다. 2024년 10월 프라보워에게 <strong>에너지 광물자원부 장관</strong>으로 임명되어 EV 배터리용 니켈 등 핵심광물 하류 산업 가속화를 추진하고 있습니다.</p>',
+            source: 'Kompas',
+            sourceUrl: 'https://kompas.id/baca/profil/tokoh/bahlil-lahadalia',
+            sourceSnippet: '바흘릴 라하달리아 프로필 — Kompas.id',
+            source2: 'The Jakarta Post',
+            sourceUrl2: 'https://www.thejakartapost.com/tag/bahlil-lahadalia',
+            sourceSnippet2: '바흘릴 라하달리아 최신 뉴스 — The Jakarta Post'
+          },
+          zh: {
+            title: '巴赫利尔·拉哈达利亚 — 普拉博沃时代的能源部长兼投资局长',
+            desc: '巴赫利尔是普拉博沃内阁能源与矿产资源部长，曾任投资协调局局长和投资部长。来自巴布亚的企业家如今成为印尼最具影响力的部长之一。',
+            body: '<p class="mb-4">巴赫利尔·拉哈达利亚1976年8月7日出生于马鲁古省班达，在巴布亚成长。在雅皮斯巴布亚大学求学期间靠卖报纸和驾驶小巴维持生计，后来建立起涵盖矿业、房地产和金融服务的商业帝国。</p><p class="mb-4">佐科威任命他为<strong>投资协调局（BKPM）局长</strong>（2019年），随后担任投资部长（2021–2024年），成功吸引特斯拉、苹果、现代汽车等巨头到印尼投资。2024年10月普拉博沃任命他为<strong>能源与矿产资源部长</strong>，推进镍等电动车电池关键矿产下游产业发展。</p>',
+            source: 'Kompas',
+            sourceUrl: 'https://kompas.id/baca/profil/tokoh/bahlil-lahadalia',
+            sourceSnippet: '巴赫利尔·拉哈达利亚简介 — Kompas.id',
+            source2: 'The Jakarta Post',
+            sourceUrl2: 'https://www.thejakartapost.com/tag/bahlil-lahadalia',
+            sourceSnippet2: '巴赫利尔·拉哈达利亚 — 雅加达邮报'
+          }
+        }
+      },
+      {
+        id: 'indonesia-anies-baswedan',
+        langs: {
+          id: {
+            title: 'Anies Baswedan — Mantan Gubernur DKI & Kandidat Presiden 2024',
+            desc: 'Anies Baswedan adalah mantan Gubernur DKI Jakarta (2017–2022) dan capres pada Pilpres 2024. Akademisi yang dikenal dengan retorika kuat dan kebijakan pro-rakyat kini menjadi salah satu tokoh oposisi paling berpengaruh.',
+            body: '<p class="mb-4">Anies Rasyid Baswedan lahir di Kuningan, Jawa Barat, 7 Mei 1969. Ia adalah akademisi, politisi, dan mantan pejabat negara Indonesia yang memiliki latar belakang pendidikan sangat kuat: sarjana ekonomi UI (1995), master public policy dari Northern Illinois University, dan PhD ilmu politik dari Northern Illinois University (2005).</p><p class="mb-4">Karier publiknya dimulai dari dunia akademik — ia menjadi Rektor Universitas Paramadina (2007–2015) termuda, dan sempat masuk daftar "100 Intelektual Publik Global" versi majalah <em>Foreign Policy</em>. Jokowi mengangkatnya sebagai Menteri Pendidikan dan Kebudayaan (2014–2016) sebelum dicopot dalam reshuffle kabinet.</p><p class="mb-4">Titik balik kariernya adalah kemenangan di Pilkada DKI Jakarta 2017 berpasangan dengan Sandiaga Uno — mengalahkan petahana Basuki Tjahaja Purnama (Ahok). Sebagai Gubernur DKI (2017–2022), ia dikenal dengan program Formula E, penataan kawasan Kota Tua, penanganan banjir berbasis naturalisasi sungai, dan revitalisasi Taman Ismail Marzuki.</p><p class="mb-4">Pada Pilpres 2024, Anies maju sebagai calon presiden didukung koalisi Nasdem, PKB, dan PKS berpasangan dengan Muhaimin Iskandar. Ia meraih 24,9% suara, finis di urutan ketiga setelah Prabowo-Gibran (58,6%) dan Ganjar-Mahfud (16,5%). Pasangan Anies-Muhaimin mengajukan gugatan ke MK namun ditolak.</p><p class="mb-4">Pasca Pilpres 2024, Anies tetap aktif di ruang publik dan menjadi suara oposisi yang kritis terhadap pemerintahan Prabowo. Pada awal 2026, ia menyatakan ketertarikannya untuk ikut Pilkada DKI Jakarta 2027 atau kembali ke dunia akademik internasional. Ia tetap menjadi salah satu tokoh paling populer dan kontroversial dalam politik Indonesia kontemporer.</p>',
+            source: 'Kompas',
+            sourceUrl: 'https://kompas.id/baca/profil/tokoh/anies-baswedan',
+            sourceSnippet: 'Profil Anies Baswedan — Kompas.id',
+            source2: 'The Jakarta Post',
+            sourceUrl2: 'https://www.thejakartapost.com/tag/anies-baswedan',
+            sourceSnippet2: 'Anies Baswedan profile and news — The Jakarta Post',
+            source3: 'BBC Indonesia',
+            sourceUrl3: 'https://www.bbc.com/indonesia/topics/anies-baswedan',
+            sourceSnippet3: 'Anies Baswedan — liputan terkini BBC Indonesia'
+          },
+          en: {
+            title: 'Anies Baswedan — Former Jakarta Governor & 2024 Presidential Candidate',
+            desc: 'Anies Baswedan is the former Governor of DKI Jakarta (2017–2022) and presidential candidate in the 2024 election. The academic-turned-politician known for strong rhetoric is now one of Indonesia\'s most influential opposition figures.',
+            body: '<p class="mb-4">Anies Rasyid Baswedan was born in Kuningan, West Java, on May 7, 1969. An academic, politician, and former Indonesian state official, he has a strong educational background: bachelor\'s in economics from UI (1995), master\'s in public policy from Northern Illinois University, and a PhD in political science from Northern Illinois University (2005).</p><p class="mb-4">His public career started in academia — he became the youngest Rector of Paramadina University (2007–2015) and was listed in <em>Foreign Policy</em> magazine\'s "100 Global Public Intellectuals." Jokowi appointed him Minister of Education and Culture (2014–2016) before removing him in a cabinet reshuffle.</p><p class="mb-4">His career turning point was winning the 2017 Jakarta gubernatorial election with Sandiaga Uno — defeating incumbent Basuki Tjahaja Purnama (Ahok). As Jakarta Governor (2017–2022), he was known for Formula E racing, Old Town revitalization, river naturalization flood management, and Taman Ismail Marzuki restoration.</p><p class="mb-4">In the 2024 presidential election, Anies ran as the presidential candidate of the Nasdem-PKB-PKS coalition with Muhaimin Iskandar as VP candidate. He received 24.9% of votes, finishing third after Prabowo-Gibran (58.6%) and Ganjar-Mahfud (16.5%).</p>',
+            source: 'Kompas',
+            sourceUrl: 'https://kompas.id/baca/profil/tokoh/anies-baswedan',
+            sourceSnippet: 'Anies Baswedan profile — Kompas.id',
+            source2: 'The Jakarta Post',
+            sourceUrl2: 'https://www.thejakartapost.com/tag/anies-baswedan',
+            sourceSnippet2: 'Anies Baswedan — The Jakarta Post',
+            source3: 'BBC Indonesia',
+            sourceUrl3: 'https://www.bbc.com/indonesia/topics/anies-baswedan',
+            sourceSnippet3: 'Anies Baswedan — BBC Indonesia coverage'
+          },
+          ja: {
+            title: 'アニエス・バスウェダン — 元ジャカルタ知事＆2024年大統領候補',
+            desc: '元DKIジャカルタ州知事（2017–2022年）で2024年大統領選候補。強力な弁舌で知られる元学者が今やインドネシア最も影響力ある野党指導者の一人に。',
+            body: '<p class="mb-4">アニエス・バスウェダンは1969年5月7日、西ジャワ州クニンガン生まれ。インドネシア大学経済学部、北イリノイ大学公共政策修士・政治学博士（2005年）と強固な学歴を持ちます。</p><p class="mb-4">パラマディナ大学最年少学長（2007–2015年）を経てジョコウィ政権の文部文化大臣（2014–2016年）に就任。2017年ジャカルタ知事選でサンディアガ・ウノと組んで現職アホックを破り当選。知事として Formula E、旧市街整備、河川自然化洪水対策などで知られました。</p><p class="mb-4">2024年大統領選ではムハイミン・イスカンダルと組み24.9%を獲得して3位。現在はインドネシア政治の主要野党人物として活動中です。</p>',
+            source: 'Kompas',
+            sourceUrl: 'https://kompas.id/baca/profil/tokoh/anies-baswedan',
+            sourceSnippet: 'アニエス・バスウェダン プロフィール — Kompas.id',
+            source2: 'The Jakarta Post',
+            sourceUrl2: 'https://www.thejakartapost.com/tag/anies-baswedan',
+            sourceSnippet2: 'アニエス・バスウェダン最新ニュース — The Jakarta Post'
+          },
+          ko: {
+            title: '아니에스 바스웨단 — 전 자카르타 주지사 & 2024년 대통령 후보',
+            desc: '전 DKI 자카르타 주지사(2017–2022년)이자 2024년 대통령 선거 후보. 강한 수사로 유명한 전 학자가 인도네시아 가장 영향력 있는 야당 인사 중 하나로.',
+            body: '<p class="mb-4">아니에스 바스웨단은 1969년 5월 7일 서자바 주 쿠닝안에서 태어났습니다. 인도네시아대학 경제학과, 북일리노이대학 공공정책 석사·정치학 박사(2005년) 학력을 보유하고 있습니다.</p><p class="mb-4">파라마디나대학 최연소 총장(2007–2015년)을 거쳐 조코위 정부의 교육문화부 장관(2014–2016년)에 임명되었습니다. 2017년 자카르타 주지사 선거에서 산디아가 우노와 짝을 이뤄 현직 아혹을 꺾고 당선, 포뮬러 E·구시가지 정비·하천 자연화 홍수 관리 등으로 유명했습니다.</p><p class="mb-4">2024년 대선에서 무하이민 이스칸다르와 짝을 이뤄 24.9%를 얻어 3위를 기록했습니다. 현재 인도네시아 주요 야당 인사로 활동하고 있습니다.</p>',
+            source: 'Kompas',
+            sourceUrl: 'https://kompas.id/baca/profil/tokoh/anies-baswedan',
+            sourceSnippet: '아니에스 바스웨단 프로필 — Kompas.id',
+            source2: 'The Jakarta Post',
+            sourceUrl2: 'https://www.thejakartapost.com/tag/anies-baswedan',
+            sourceSnippet2: '아니에스 바스웨단 최신 뉴스 — The Jakarta Post'
+          },
+          zh: {
+            title: '阿尼斯·巴斯韦丹 — 前雅加达省长与2024年总统候选人',
+            desc: '前DKI雅加达省长（2017–2022年）及2024年总统选举候选人。以强烈言辞著称的前学者现已成为印尼最具影响力的反对派人士之一。',
+            body: '<p class="mb-4">阿尼斯·巴斯韦丹1969年5月7日出生于西爪哇省古宁安。他毕业于印尼大学经济系，并获得北伊利诺伊大学公共政策硕士和政治学博士学位（2005年）。</p><p class="mb-4">曾任帕拉马迪纳大学最年轻校长（2007–2015年），后被佐科威任命为教育文化部长（2014–2016年）。2017年雅加达省长选举中与桑迪亚加·乌诺搭档击败现任省长，以F1方程式赛车、旧城整治、河流自然化防洪管理等政策著称。</p><p class="mb-4">2024年总统选举中与穆哈伊明·伊斯坎达尔搭档获得24.9%选票，排名第三。目前作为主要反对派人士活跃于印尼政坛。</p>',
+            source: 'Kompas',
+            sourceUrl: 'https://kompas.id/baca/profil/tokoh/anies-baswedan',
+            sourceSnippet: '阿尼斯·巴斯韦丹简介 — Kompas.id',
+            source2: 'The Jakarta Post',
+            sourceUrl2: 'https://www.thejakartapost.com/tag/anies-baswedan',
+            sourceSnippet2: '阿尼斯·巴斯韦丹 — 雅加达邮报'
+          }
+        }
+      },
+      {
+        id: 'indonesia-chairul-tanjung',
+        langs: {
+          id: {
+            title: 'Chairul Tanjung — Konglomerat "Si Anak Singkong" Penguasa Media & Retail Indonesia',
+            desc: 'Chairul Tanjung adalah pengusaha Indonesia paling sukses yang membangun imperium bisnis dari nol. Pemilik CT Corp yang menaungi Trans TV, Trans7, Bank Mega, Carrefour Indonesia (Transmart), dan puluhan perusahaan lain.',
+            body: '<p class="mb-4">Chairul Tanjung lahir di Jakarta, 16 Juni 1962. Ia adalah salah satu pengusaha paling sukses Indonesia — putra seorang wartawan kecil yang besar di lingkungan sederhana dan berjualan buku di kampus demi membiayai kuliah di Fakultas Kedokteran Gigi Universitas Indonesia. Kisahnya diabadikan dalam buku otobiografi <em>Si Anak Singkong</em> (2012).</p><p class="mb-4">Bisnis pertamanya adalah perdagangan peralatan kedokteran gigi, yang kemudian berkembang ke industri sepatu, tekstil, dan properti. Terobosan terbesarnya adalah akuisisi Bank Mega pada 1996 yang memberinya akses ke dunia keuangan. Ia kemudian mendirikan <strong>CT Corp</strong>, holding company yang kini menjadi salah satu konglomerat terbesar Indonesia.</p><p class="mb-4">Di bawah CT Corp, Chairul menguasai berbagai segmen bisnis: media (Trans TV, Trans7, CNN Indonesia, detikcom), ritel (Transmart/Carrefour), perbankan (Bank Mega, Bank Mega Syariah), asuransi (Asuransi Tugu Pratama), dan hiburan (Trans Studio). Total aset CT Corp diperkirakan melebihi Rp200 triliun.</p><p class="mb-4">Chairul juga pernah masuk kabinet: Menko Perekonomian (2014) di era SBY untuk periode singkat. Kekayaannya masuk dalam daftar <em>Forbes</em> "50 Orang Terkaya Indonesia" secara konsisten, dengan estimasi kekayaan bersih sekitar US$4–5 miliar pada 2025.</p><p class="mb-4">Di era digital, CT Corp berinvestasi besar dalam ekosistem digital — termasuk platforme-commerce, fintech, dan streaming. Chairul Tanjung menjadi contoh nyata bahwa dari "anak singkong" bisa menjadi penguasa bisnis Indonesia yang mempengaruhi jutaan konsumen setiap harinya.</p>',
+            source: 'Forbes Indonesia',
+            sourceUrl: 'https://forbesindonesia.com/profile/chairul-tanjung/',
+            sourceSnippet: 'Chairul Tanjung — profil dan kekayaan CT Corp — Forbes Indonesia',
+            source2: 'CT Corp',
+            sourceUrl2: 'https://www.ctcorp.co.id/id/chairul-tanjung',
+            sourceSnippet2: 'Profil resmi Chairul Tanjung — CT Corp official website',
+            source3: 'Kompas',
+            sourceUrl3: 'https://kompas.id/baca/profil/tokoh/chairul-tanjung',
+            sourceSnippet3: 'Profil Chairul Tanjung — Kompas.id'
+          },
+          en: {
+            title: 'Chairul Tanjung — "Cassava Boy" Conglomerate, Master of Indonesian Media & Retail',
+            desc: 'Chairul Tanjung is Indonesia\'s most successful self-made businessman. Owner of CT Corp — which controls Trans TV, Trans7, Bank Mega, Transmart (Carrefour Indonesia), and dozens more companies.',
+            body: '<p class="mb-4">Chairul Tanjung was born in Jakarta on June 16, 1962. He is one of Indonesia\'s most successful entrepreneurs — the son of a small journalist who grew up in a modest environment and sold books on campus to fund his studies at the University of Indonesia\'s Faculty of Dentistry. His story is chronicled in the autobiography <em>Si Anak Singkong</em> (The Cassava Boy, 2012).</p><p class="mb-4">His first business was dental equipment trading, which expanded into shoes, textiles, and property. His biggest breakthrough was the acquisition of Bank Mega in 1996, giving him access to the financial world. He then founded <strong>CT Corp</strong>, a holding company now one of Indonesia\'s largest conglomerates.</p><p class="mb-4">Under CT Corp, he controls media (Trans TV, Trans7, CNN Indonesia, detikcom), retail (Transmart/Carrefour), banking (Bank Mega), insurance, and entertainment (Trans Studio). CT Corp\'s total assets are estimated to exceed Rp200 trillion (about US$13 billion).</p><p class="mb-4">Chairul also served briefly as Coordinating Minister for Economic Affairs (2014). His net worth is consistently listed in <em>Forbes</em> Indonesia\'s 50 Richest, estimated at US$4–5 billion in 2025.</p>',
+            source: 'Forbes Indonesia',
+            sourceUrl: 'https://forbesindonesia.com/profile/chairul-tanjung/',
+            sourceSnippet: 'Chairul Tanjung — CT Corp profile and wealth — Forbes Indonesia',
+            source2: 'CT Corp',
+            sourceUrl2: 'https://www.ctcorp.co.id/id/chairul-tanjung',
+            sourceSnippet2: 'Chairul Tanjung official profile — CT Corp',
+            source3: 'Kompas',
+            sourceUrl3: 'https://kompas.id/baca/profil/tokoh/chairul-tanjung',
+            sourceSnippet3: 'Chairul Tanjung profile — Kompas.id'
+          },
+          ja: {
+            title: 'チャイルル・タンジュン — "キャッサバの息子"インドネシアメディア＆流通の帝王',
+            desc: 'チャイルル・タンジュンはインドネシアで最も成功した自力立志の実業家。CT CorpオーナーとしてトランスTV、トランス7、バンクメガ、トランスマート（カルフール）など多数の企業を傘下に持つ。',
+            body: '<p class="mb-4">チャイルル・タンジュンは1962年6月16日ジャカルタ生まれ。小新聞記者の息子として育ち、インドネシア大学歯学部在学中は学費のため教科書を売りながら学びました。その半生は自伝『キャッサバの息子』（2012年）に記されています。</p><p class="mb-4">歯科機器取引から始めたビジネスは靴・テキスタイル・不動産へ拡大。1996年のバンクメガ買収が大きな転機となり、<strong>CT Corp</strong>を設立。トランスTV・トランス7・CNNインドネシア・detikcomのメディア、トランスマート（カルフール）の小売、バンクメガの金融、トランス・スタジオのエンターテインメントを傘下に持つ大財閥に成長しました。総資産は200兆ルピア超と推定され、2025年時点の純資産は40〜50億ドルとされています。</p>',
+            source: 'Forbes Indonesia',
+            sourceUrl: 'https://forbesindonesia.com/profile/chairul-tanjung/',
+            sourceSnippet: 'チャイルル・タンジュン — CT Corpプロフィールと資産 — Forbes Indonesia',
+            source2: 'CT Corp',
+            sourceUrl2: 'https://www.ctcorp.co.id/id/chairul-tanjung',
+            sourceSnippet2: 'チャイルル・タンジュン公式プロフィール — CT Corp'
+          },
+          ko: {
+            title: '차이룰 탄중 — "카사바 아이" 인도네시아 미디어 & 유통의 황제',
+            desc: '차이룰 탄중은 인도네시아에서 가장 성공한 자수성가 사업가. CT Corp 오너로 트랜스TV, 트랜스7, 뱅크메가, 트랜스마트(까르푸) 등 수십 개 기업을 거느리고 있다.',
+            body: '<p class="mb-4">차이룰 탄중은 1962년 6월 16일 자카르타에서 태어났습니다. 소규모 기자의 아들로 자라 인도네시아대학 치과대학 재학 중 학비 마련을 위해 교과서를 팔았습니다. 그의 삶은 자서전 "카사바의 아이"(2012년)에 담겨 있습니다.</p><p class="mb-4">치과 기자재 거래로 시작한 사업이 신발·섬유·부동산으로 확장되었고, 1996년 뱅크메가 인수가 큰 전환점이 되었습니다. <strong>CT Corp</strong>을 설립하여 트랜스TV·트랜스7·CNN인도네시아·detikcom 미디어, 트랜스마트(까르푸) 유통, 뱅크메가 금융, 트랜스 스튜디오 엔터테인먼트 등 대재벌로 성장했습니다. 총 자산은 200조 루피아 이상으로 추산되며 2025년 순자산은 약 40~50억 달러입니다.</p>',
+            source: 'Forbes Indonesia',
+            sourceUrl: 'https://forbesindonesia.com/profile/chairul-tanjung/',
+            sourceSnippet: '차이룰 탄중 — CT Corp 프로필과 자산 — Forbes Indonesia',
+            source2: 'CT Corp',
+            sourceUrl2: 'https://www.ctcorp.co.id/id/chairul-tanjung',
+            sourceSnippet2: '차이룰 탄중 공식 프로필 — CT Corp'
+          },
+          zh: {
+            title: '柴鲁尔·坦荣 — "木薯之子"印尼媒体与零售帝王',
+            desc: '柴鲁尔·坦荣是印度尼西亚最成功的白手起家企业家。CT Corp所有人，旗下拥有Trans TV、Trans7、美佳银行、全家乐（家乐福印尼）等数十家企业。',
+            body: '<p class="mb-4">柴鲁尔·坦荣1962年6月16日出生于雅加达。小记者之子，在印度尼西亚大学牙科系就读期间靠卖教科书筹集学费。他的人生故事记录在自传《木薯之子》（2012年）中。</p><p class="mb-4">从牙科器械贸易起步，逐步扩展至鞋业、纺织和房地产。1996年收购美佳银行成为重大转折点，随后创立<strong>CT Corp</strong>，打造涵盖媒体（Trans TV、Trans7、CNN印尼、detikcom）、零售（全家乐/家乐福）、银行（美佳银行）和娱乐（Trans Studio）的大型财团。总资产估计超过200万亿印尼盾，2025年净资产约40至50亿美元。</p>',
+            source: 'Forbes Indonesia',
+            sourceUrl: 'https://forbesindonesia.com/profile/chairul-tanjung/',
+            sourceSnippet: '柴鲁尔·坦荣 — CT Corp简介与财富 — Forbes Indonesia',
+            source2: 'CT Corp',
+            sourceUrl2: 'https://www.ctcorp.co.id/id/chairul-tanjung',
+            sourceSnippet2: '柴鲁尔·坦荣官方简介 — CT Corp'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
