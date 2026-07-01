@@ -1,0 +1,17 @@
+{
+  "name": "Wikybook News — Portal Berita Dunia",
+  "short_name": "Wikybook News",
+  "description": "Portal berita dunia terkini dalam 5 bahasa oleh Wikybook",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "orientation": "portrait-primary",
+  "lang": "id",
+  "categories": ["news", "magazine"],
+  "icons": [
+    { "src": "logo.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
