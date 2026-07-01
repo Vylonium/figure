@@ -512,6 +512,70 @@
           }
         }
       }
+      ,
+      {
+        id: 'global-khamenei-pemakaman-bersejarah-2026',
+        langs: {
+          id: {
+            title: 'Ayatollah Ali Khamenei — Pemakaman Bersejarah Iran Dimulai 4 Juli 2026',
+            desc: 'Pemimpin Tertinggi Iran Ayatollah Ali Khamenei, yang tewas dalam serangan udara gabungan AS-Israel pada 28 Februari 2026, akan dimakamkan dalam prosesi pemakaman kenegaraan terbesar dalam sejarah Iran, dimulai 4 Juli 2026 di Tehran.',
+            body: '<p>Pemimpin Tertinggi Iran Ayatollah Ali Khamenei, yang tewas dalam serangan udara berskala besar oleh Amerika Serikat dan Israel pada 28 Februari 2026, akhirnya akan dimakamkan dalam prosesi pemakaman kenegaraan yang digambarkan sebagai "terbesar dalam sejarah Iran." Prosesi pemakaman dimulai pada 4 Juli 2026 di Tehran dan pemakaman dijadwalkan pada 9 Juli 2026.</p><p>Iran menyiapkan prosesi berkabung selama enam hari di beberapa kota — sebuah skala yang belum pernah terjadi sebelumnya dalam sejarah Republik Islam Iran. Pejabat dari lebih dari 30 negara dijadwalkan hadir dalam pemakaman tersebut, menjadikannya salah satu upacara kenegaraan terbesar yang pernah diselenggarakan di kawasan Timur Tengah.</p><p>Khamenei yang lahir pada 19 April 1939 di Mashhad, Iran, telah menjabat sebagai Pemimpin Tertinggi Iran sejak 1989 menggantikan pendiri Republik Islam Iran, Ayatollah Khomeini. Selama lebih dari tiga dekade kepemimpinannya, ia menjadi figur sentral dalam posisi tegas Iran melawan Amerika Serikat dan Israel, mendukung kelompok-kelompok proksi di seluruh Timur Tengah, dan mempertahankan program nuklir Iran.</p><p>Kematiannya pada 28 Februari 2026 menjadi titik balik geopolitik yang sangat dramatis. Setelah kematiannya, Iran menunjuk Mojtaba Khamenei — putra Ayatollah — sebagai Pemimpin Tertinggi yang baru pada 9 Maret 2026, meski penunjukan ini memicu perdebatan di dalam tubuh Dewan Para Ahli Iran.</p><p>Konflik yang berujung pada kematian Khamenei telah berlangsung berbulan-bulan, menyeret lebih dari 14 negara ke dalam pusaran konflik regional yang mempengaruhi harga minyak dunia dan stabilitas kawasan Timur Tengah secara keseluruhan.</p>',
+            source: 'AP News',
+            sourceUrl: 'https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c',
+            sourceSnippet: 'Iran\'s supreme leader killed in major attack by US and Israel — AP News, 28 Februari 2026',
+            source2: 'Euronews',
+            sourceUrl2: 'https://www.euronews.com/2026/06/30/iran-prepares-largest-state-funeral-in-history-for-slain-ayatollah-ali-khamenei',
+            sourceSnippet2: 'Iran prepares largest state funeral in history for slain Ayatollah Ali Khamenei — Euronews, 30 Juni 2026',
+            source3: 'Arab News',
+            sourceUrl3: 'https://www.arabnews.com/node/2649182/middle-east',
+            sourceSnippet3: 'Iran prepares for late supreme leader\'s funeral — Arab News, 1 Juli 2026',
+            source4: 'Reuters',
+            sourceUrl4: 'https://www.reuters.com/world/middle-east/iran-says-funeral-late-supreme-leader-khamenei-begin-july-4-burial-set-july-9-2026-06-13/',
+            sourceSnippet4: 'Funeral for Iran\'s late Supreme Leader Khamenei to begin July 4, burial set July 9 — Reuters'
+          },
+          en: {
+            title: 'Ayatollah Ali Khamenei — Iran\'s Historic State Funeral Begins July 4, 2026',
+            desc: 'Iran\'s Supreme Leader Ayatollah Ali Khamenei, killed in a joint US-Israel airstrike on February 28, 2026, will be laid to rest in the largest state funeral in Iranian history, beginning July 4, 2026 in Tehran.',
+            body: '<p>Iran\'s Supreme Leader Ayatollah Ali Khamenei, who was killed in a large-scale airstrike by the United States and Israel on February 28, 2026, will finally be laid to rest in a state funeral described as "the largest in Iranian history." The funeral procession begins on July 4, 2026 in Tehran, with burial scheduled for July 9, 2026.</p><p>Iran has prepared a six-day mourning procession across several cities — an unprecedented scale in the history of the Islamic Republic of Iran. Officials from more than 30 countries are scheduled to attend the funeral, making it one of the largest state ceremonies ever held in the Middle East region.</p><p>Khamenei, born on April 19, 1939 in Mashhad, Iran, had served as Iran\'s Supreme Leader since 1989, succeeding the founder of the Islamic Republic of Iran, Ayatollah Khomeini. Over more than three decades of his leadership, he became a central figure in Iran\'s firm stance against the United States and Israel, supporting proxy groups throughout the Middle East and maintaining Iran\'s nuclear program.</p><p>His death on February 28, 2026 marked an extremely dramatic geopolitical turning point. Following his death, Iran appointed Mojtaba Khamenei — the Ayatollah\'s son — as the new Supreme Leader on March 9, 2026, though this appointment sparked debate within Iran\'s Assembly of Experts.</p><p>The conflict that led to Khamenei\'s death had been ongoing for months, drawing more than 14 countries into the vortex of a regional conflict that affected global oil prices and the overall stability of the Middle East.</p>',
+            source: 'AP News',
+            sourceUrl: 'https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c',
+            sourceSnippet: 'Iran\'s supreme leader killed in major attack by US and Israel — AP News, Feb 28 2026',
+            source2: 'Euronews',
+            sourceUrl2: 'https://www.euronews.com/2026/06/30/iran-prepares-largest-state-funeral-in-history-for-slain-ayatollah-ali-khamenei',
+            sourceSnippet2: 'Iran prepares largest state funeral in history for slain Ayatollah Ali Khamenei — Euronews, June 30 2026',
+            source3: 'Arab News',
+            sourceUrl3: 'https://www.arabnews.com/node/2649182/middle-east',
+            sourceSnippet3: 'Iran prepares for late supreme leader\'s funeral — Arab News, July 1 2026',
+            source4: 'Reuters',
+            sourceUrl4: 'https://www.reuters.com/world/middle-east/iran-says-funeral-late-supreme-leader-khamenei-begin-july-4-burial-set-july-9-2026-06-13/',
+            sourceSnippet4: 'Funeral for Iran\'s late Supreme Leader Khamenei to begin July 4, burial set July 9 — Reuters'
+          },
+          ja: {
+            title: 'アリー・ハーメネイー師 — イラン史上最大の国葬が2026年7月4日より開始',
+            desc: '2026年2月28日に米国・イスラエルの共同空爆で死亡したイランの最高指導者アリー・ハーメネイー師の国葬が、7月4日よりテヘランで始まり、7月9日に埋葬される。イラン史上最大規模の国葬となる見通し。',
+            body: '<p>2026年2月28日に米国・イスラエルの大規模空爆で死亡したイランの最高指導者アリー・ハーメネイー師の国葬が、「イラン史上最大規模」として7月4日からテヘランで始まり、7月9日に埋葬が執り行われる。6日間にわたる追悼式典が複数の都市で開催される前例のない規模で、30カ国以上の高官が参列する。</p><p>1939年4月19日生まれのハーメネイー師は、1989年から35年以上にわたりイスラム共和国の最高指導者を務め、米国・イスラエルへの強硬姿勢と核開発計画維持の象徴的存在だった。死後、息子のモジュタバー・ハーメネイーが2026年3月9日に新最高指導者に任命された。</p>',
+            source: 'AP News',
+            sourceUrl: 'https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c',
+            sourceSnippet: 'イランの最高指導者、米国・イスラエルの大規模攻撃で死亡 — AP News 2026年2月28日'
+          },
+          ko: {
+            title: '아야톨라 알리 하메네이 — 이란 역사상 최대 국장이 2026년 7월 4일 시작',
+            desc: '2026년 2월 28일 미국·이스라엘 연합 공습으로 사망한 이란 최고지도자 아야톨라 알리 하메네이의 국장이 7월 4일 테헤란에서 시작되어 7월 9일 매장될 예정이다. 이란 역사상 최대 규모의 국장이 될 것으로 보인다.',
+            body: '<p>2026년 2월 28일 미국과 이스라엘의 대규모 공습으로 사망한 이란 최고지도자 아야톨라 알리 하메네이의 국장이 "이란 역사상 최대 규모"로 7월 4일 테헤란에서 시작되어 7월 9일 매장된다. 6일간 여러 도시에서 진행되는 전례 없는 규모의 추모 행렬에 30개국 이상에서 고위 관리들이 참석할 예정이다.</p><p>1939년 4월 19일 태어난 하메네이는 1989년부터 35년 이상 이란 이슬람 공화국의 최고지도자를 지내며 미국·이스라엘에 대한 강경 노선과 핵 개발 프로그램 유지의 상징적 존재였다. 사망 후 아들 모즈타바 하메네이가 2026년 3월 9일 새 최고지도자로 임명됐다.</p>',
+            source: 'AP News',
+            sourceUrl: 'https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c',
+            sourceSnippet: '이란 최고지도자, 미국·이스라엘의 대규모 공격으로 사망 — AP News 2026년 2월 28일'
+          },
+          zh: {
+            title: '阿亚图拉阿里·哈梅内伊 — 伊朗史上最大国葬将于2026年7月4日开始',
+            desc: '2026年2月28日在美国-以色列联合空袭中阵亡的伊朗最高领袖阿亚图拉阿里·哈梅内伊，将迎来伊朗历史上规模最大的国葬，典礼于7月4日在德黑兰开始，7月9日安葬。',
+            body: '<p>2026年2月28日在美国和以色列大规模空袭中身亡的伊朗最高领袖阿亚图拉阿里·哈梅内伊，将以"伊朗历史上规模最大"的国葬迎来最终的告别。国葬典礼于2026年7月4日在德黑兰开始，7月9日完成安葬。伊朗为此安排了长达六天、横跨多个城市的国哀活动，预计将有30多个国家的官员出席。</p><p>生于1939年4月19日的哈梅内伊，自1989年起担任伊朗伊斯兰共和国最高领袖长达35年以上，是伊朗对美、以强硬立场和核开发计划的标志性人物。身亡后，其子穆吉塔巴·哈梅内伊于2026年3月9日被任命为新的最高领袖。</p>',
+            source: 'AP News',
+            sourceUrl: 'https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c',
+            sourceSnippet: '伊朗最高领袖在美以联合重大袭击中阵亡 — AP News，2026年2月28日'
+          }
+        }
+      }
     ]
   };
   if (typeof window.countryDataFiles !== 'undefined') {
