@@ -1223,6 +1223,133 @@
           }
         }
       }
+      ,
+      {
+        id: 'global-benjamin-netanyahu',
+        langs: {
+          id: {
+            title: 'Benjamin Netanyahu — PM Israel Terlama, Nyatakan "Perang Tidak Akan Pernah Berakhir"',
+            desc: 'Benjamin Netanyahu adalah Perdana Menteri Israel yang telah berkuasa dalam beberapa periode sejak 1996. Pada akhir Juni 2026, ia menyatakan bahwa Gaza tidak lagi menjadi ancaman militer, namun perang-perang Israel di kawasan Timur Tengah "tidak akan pernah berakhir."',
+            body: '<p>Benjamin "Bibi" Netanyahu lahir pada 21 Oktober 1949 di Tel Aviv, wilayah Mandat Britania Palestina (kini Israel). Ia menempuh pendidikan di Massachusetts Institute of Technology (MIT), meraih gelar sarjana arsitektur dan master administrasi bisnis. Sebelum terjun ke politik, ia sempat berkarier sebagai diplomat, termasuk menjabat Duta Besar Israel untuk PBB.</p><p>Netanyahu pertama kali menjabat sebagai Perdana Menteri Israel pada 1996–1999, kemudian kembali berkuasa sejak 2009 dengan beberapa periode terputus, menjadikannya PM Israel yang paling lama menjabat dalam sejarah negara tersebut. Kepemimpinannya ditandai dengan kebijakan keamanan yang agresif dan hubungan yang kompleks dengan berbagai pemerintahan AS.</p><p>Pada 30 Juni 2026, Netanyahu melakukan kunjungan ke wilayah pendudukan Lebanon Selatan, menegaskan bahwa Israel "belum akan pergi" dari wilayah tersebut — sebuah pernyataan yang menegaskan komitmennya terhadap kehadiran militer Israel yang berkelanjutan di kawasan tersebut meski mendapat tekanan internasional.</p><p>Malam harinya, dalam wawancara dengan Channel 14 News, Netanyahu menyatakan bahwa Gaza "tidak lagi menjadi ancaman militer" bagi Israel, meski ia mengakui bahwa kekuasaan Hamas di wilayah tersebut belum sepenuhnya dibongkar. Ia juga secara terbuka menyatakan bahwa perang-perang Israel di seluruh Timur Tengah "tidak akan pernah berakhir" — pernyataan yang mencerminkan pandangan strategis jangka panjangnya terhadap konflik regional.</p><p>Di sisi kebijakan luar negeri, Netanyahu juga menyatakan keinginannya untuk secara bertahap mengurangi ketergantungan Israel pada bantuan finansial Amerika Serikat dalam satu dekade ke depan, menyebutnya sebagai "kesejahteraan" (welfare) yang menurutnya perlu dihapuskan demi kemandirian ekonomi dan pertahanan Israel jangka panjang — sebuah pernyataan yang mengejutkan mengingat hubungan erat historis Israel-AS.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/middle-east/netanyahu-visits-occupied-southern-lebanon-says-israel-wont-leave-yet-2026-06-30/',
+            sourceSnippet: 'Netanyahu visits occupied southern Lebanon, says Israel won\'t leave yet — Reuters, 30 Juni 2026',
+            source2: 'JNS',
+            sourceUrl2: 'https://www.jns.org/news/israel-news/netanyahu-gaza-no-longer-poses-military-threat-hamas-rule-yet-to-be-dismantled',
+            sourceSnippet2: 'Netanyahu: Gaza no longer poses military threat, Hamas rule yet to be dismantled — JNS, 30 Juni 2026',
+            source3: 'Middle East Eye',
+            sourceUrl3: 'https://www.middleeasteye.net/live-blog/live-blog-update/israeli-press-review-netanyahu-says-wars-will-never-end',
+            sourceSnippet3: 'Israeli press review: Netanyahu says wars will never end — Middle East Eye, 1 Juli 2026',
+            source4: 'Anadolu Agency',
+            sourceUrl4: 'https://www.aa.com.tr/en/middle-east/netanyahu-wants-to-phase-out-us-aid-to-israel-within-decade-labels-it-welfare-/3983012',
+            sourceSnippet4: 'Netanyahu wants to phase out US aid to Israel within decade, labels it \'welfare\' — Anadolu Agency, 1 Juli 2026'
+          },
+          en: {
+            title: 'Benjamin Netanyahu — Israel\'s Longest-Serving PM, Declares "Wars Will Never End"',
+            desc: 'Benjamin Netanyahu is Israel\'s Prime Minister who has held power across multiple terms since 1996. In late June 2026, he stated Gaza no longer poses a military threat, but Israel\'s wars in the Middle East "will never end."',
+            body: '<p>Benjamin "Bibi" Netanyahu was born on October 21, 1949 in Tel Aviv, British Mandate Palestine (now Israel). He was educated at the Massachusetts Institute of Technology (MIT), earning a bachelor\'s degree in architecture and a master\'s in business administration. Before entering politics, he had a career as a diplomat, including serving as Israel\'s Ambassador to the UN.</p><p>Netanyahu first served as Israel\'s Prime Minister from 1996–1999, then returned to power since 2009 across several non-consecutive terms, making him Israel\'s longest-serving PM in the country\'s history. His leadership has been marked by aggressive security policies and complex relations with various US administrations.</p><p>On June 30, 2026, Netanyahu visited occupied southern Lebanon, affirming that Israel "won\'t leave yet" from the territory — a statement asserting his commitment to continued Israeli military presence in the region despite international pressure.</p><p>That evening, in an interview with Channel 14 News, Netanyahu stated that Gaza "no longer poses a military threat" to Israel, though he acknowledged Hamas\'s rule over the territory has not yet been fully dismantled. He also openly stated that Israel\'s wars across the Middle East "will never end" — a statement reflecting his long-term strategic view of the regional conflict.</p><p>On foreign policy, Netanyahu also expressed his desire to gradually reduce Israel\'s dependence on US financial aid over the next decade, calling it "welfare" that he believes should be phased out for Israel\'s long-term economic and defense independence — a striking statement given the historically close Israel-US relationship.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/middle-east/netanyahu-visits-occupied-southern-lebanon-says-israel-wont-leave-yet-2026-06-30/',
+            sourceSnippet: 'Netanyahu visits occupied southern Lebanon, says Israel won\'t leave yet — Reuters, June 30 2026',
+            source2: 'JNS',
+            sourceUrl2: 'https://www.jns.org/news/israel-news/netanyahu-gaza-no-longer-poses-military-threat-hamas-rule-yet-to-be-dismantled',
+            sourceSnippet2: 'Netanyahu: Gaza no longer poses military threat, Hamas rule yet to be dismantled — JNS, June 30 2026',
+            source3: 'Middle East Eye',
+            sourceUrl3: 'https://www.middleeasteye.net/live-blog/live-blog-update/israeli-press-review-netanyahu-says-wars-will-never-end',
+            sourceSnippet3: 'Israeli press review: Netanyahu says wars will never end — Middle East Eye, July 1 2026',
+            source4: 'Anadolu Agency',
+            sourceUrl4: 'https://www.aa.com.tr/en/middle-east/netanyahu-wants-to-phase-out-us-aid-to-israel-within-decade-labels-it-welfare-/3983012',
+            sourceSnippet4: 'Netanyahu wants to phase out US aid to Israel within decade, labels it \'welfare\' — Anadolu Agency, July 1 2026'
+          },
+          ja: {
+            title: 'ベンヤミン・ネタニヤフ — イスラエル史上最長在任首相、「戦争は終わらない」と宣言',
+            desc: 'ベンヤミン・ネタニヤフは1996年以来複数期にわたりイスラエル首相を務める。2026年6月末、ガザはもはや軍事的脅威ではないと述べつつ、中東でのイスラエルの戦争は「決して終わらない」と発言した。',
+            body: '<p>ベンヤミン（ビビ）・ネタニヤフは1949年10月21日、英国委任統治領パレスチナ（現イスラエル）テルアビブ生まれ。マサチューセッツ工科大学（MIT）で建築学の学士号と経営学修士号を取得。政界入り前は外交官としてイスラエルの国連大使を務めた。</p><p>1996-1999年に初めて首相を務め、2009年以降複数期にわたり政権に復帰、イスラエル史上最長在任の首相となった。</p><p>2026年6月30日、占領下の南レバノンを訪問し、イスラエルは「まだ撤退しない」と明言。同日夜のチャンネル14ニュースとのインタビューでは、ガザはもはや軍事的脅威ではないとしつつ、ハマスの支配は完全には解体されていないと認めた。また中東でのイスラエルの戦争は「決して終わらない」と公言した。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/middle-east/netanyahu-visits-occupied-southern-lebanon-says-israel-wont-leave-yet-2026-06-30/',
+            sourceSnippet: 'ネタニヤフ、占領下の南レバノン訪問、イスラエルはまだ撤退しないと発言 — ロイター 2026年6月30日'
+          },
+          ko: {
+            title: '베냐민 네타냐후 — 이스라엘 최장수 총리, "전쟁은 결코 끝나지 않는다" 선언',
+            desc: '베냐민 네타냐후는 1996년 이후 여러 차례 이스라엘 총리를 역임했다. 2026년 6월 말, 가자지구가 더 이상 군사적 위협이 아니라고 말하면서도 중동에서 이스라엘의 전쟁은 "결코 끝나지 않을 것"이라고 발언했다.',
+            body: '<p>베냐민(비비) 네타냐후는 1949년 10월 21일 영국 위임통치령 팔레스타인(현 이스라엘) 텔아비브 출생. 매사추세츠 공과대학(MIT)에서 건축학 학사와 경영학 석사를 취득했다. 정계 입문 전 외교관으로 활동하며 이스라엘의 유엔 대사를 지냈다.</p><p>1996-1999년 처음 총리를 지냈고 2009년 이후 여러 차례 정권에 복귀해 이스라엘 역사상 최장수 총리가 됐다.</p><p>2026년 6월 30일, 점령 중인 남레바논을 방문해 이스라엘은 "아직 떠나지 않을 것"이라고 밝혔다. 같은 날 밤 채널14 뉴스와의 인터뷰에서는 가자지구가 더 이상 군사적 위협이 아니라면서도 하마스의 지배는 아직 완전히 해체되지 않았다고 인정했다. 또한 중동에서 이스라엘의 전쟁은 "결코 끝나지 않을 것"이라고 공개적으로 밝혔다.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/middle-east/netanyahu-visits-occupied-southern-lebanon-says-israel-wont-leave-yet-2026-06-30/',
+            sourceSnippet: '네타냐후, 점령 남레바논 방문, 이스라엘은 아직 떠나지 않을 것 — 로이터 2026년 6월 30일'
+          },
+          zh: {
+            title: '本雅明·内塔尼亚胡 — 以色列在任最久总理，宣称"战争永远不会结束"',
+            desc: '本雅明·内塔尼亚胡自1996年以来多次担任以色列总理。2026年6月末，他表示加沙不再构成军事威胁，但以色列在中东的战争"永远不会结束"。',
+            body: '<p>本雅明（比比）·内塔尼亚胡1949年10月21日生于英属巴勒斯坦托管地（现以色列）特拉维夫。他在麻省理工学院（MIT）获建筑学学士学位及工商管理硕士学位。从政前曾任外交官，担任以色列驻联合国大使。</p><p>1996-1999年首次出任总理，2009年后多次复出执政，成为以色列历史上在任时间最长的总理。</p><p>2026年6月30日，他访问被占领的黎巴嫩南部，重申以色列"还不会离开"该地区。当晚在接受第14频道新闻采访时，他表示加沙不再对以色列构成军事威胁，但承认哈马斯的统治尚未完全被瓦解。他还公开表示以色列在整个中东的战争"永远不会结束"。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/middle-east/netanyahu-visits-occupied-southern-lebanon-says-israel-wont-leave-yet-2026-06-30/',
+            sourceSnippet: '内塔尼亚胡访问被占领的黎巴嫩南部，称以色列还不会离开 — 路透社，2026年6月30日'
+          }
+        }
+      },
+      {
+        id: 'global-ursula-von-der-leyen',
+        langs: {
+          id: {
+            title: 'Ursula von der Leyen — Presiden Komisi Eropa, Perluas Pengaruh EU ke Kaukasus Selatan',
+            desc: 'Ursula von der Leyen adalah Presiden Komisi Eropa yang aktif memperluas jangkauan diplomatik dan ekonomi Uni Eropa. Pada awal Juli 2026, ia mengumumkan bantuan €200 juta untuk konektivitas Kaukasus Selatan dalam kunjungannya ke Azerbaijan.',
+            body: '<p>Ursula Gertrud von der Leyen lahir pada 8 Oktober 1958 di Brussels, Belgia. Ia meraih gelar dokter di bidang kedokteran dari Hannover Medical School, Jerman. Sebelum menjabat di tingkat Uni Eropa, ia membangun karier politik panjang di Jerman, termasuk menjabat Menteri Pertahanan Jerman (2013–2019) di bawah pemerintahan Kanselir Angela Merkel — menjadikannya wanita pertama yang memegang jabatan tersebut.</p><p>Pada 2019, von der Leyen terpilih sebagai Presiden Komisi Eropa, posisi eksekutif tertinggi Uni Eropa, menjadikannya wanita pertama yang menduduki jabatan tersebut dalam sejarah UE. Ia kemudian terpilih kembali untuk masa jabatan kedua, memimpin UE melalui berbagai tantangan besar termasuk pandemi COVID-19, perang Rusia-Ukraina, dan ketegangan perdagangan global.</p><p>Pada 1 Juli 2026, von der Leyen mengumumkan komitmen Uni Eropa untuk memberikan hibah hingga €200 juta guna meningkatkan konektivitas transportasi, energi, dan digital di kawasan Kaukasus Selatan. Pengumuman ini disampaikan dalam kunjungannya ke Baku, Azerbaijan, di mana ia mengadakan pertemuan dengan Presiden Ilham Aliyev membahas stabilitas regional dan kerja sama energi.</p><p>Di bidang perdagangan, von der Leyen turut mengawasi implementasi kesepakatan dagang UE-AS yang mulai berlaku pada akhir Juni 2026, serta memperkenalkan regulasi baru terkait baja dan e-commerce untuk mengurangi ketimpangan perdagangan dengan China. Komisi Eropa di bawah kepemimpinannya juga baru saja merilis paket dana sebesar $4,4 miliar untuk mendukung pengadaan drone militer bagi Ukraina, bagian dari paket dukungan senilai $102 miliar untuk negara tersebut.</p><p>Sebagai salah satu pemimpin perempuan paling berpengaruh di dunia, von der Leyen terus memainkan peran sentral dalam menyeimbangkan hubungan Uni Eropa dengan AS, China, dan Rusia, sekaligus memperkuat pengaruh geopolitik dan ekonomi UE di kawasan-kawasan strategis seperti Kaukasus Selatan dan Timur Tengah.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/eu-provide-200-mln-euros-boost-south-caucasus-connectivity-von-der-leyen-says-2026-07-01/',
+            sourceSnippet: 'EU to provide 200 million euros to boost South Caucasus connectivity, von der Leyen says — Reuters, 1 Juli 2026',
+            source2: 'Euronews',
+            sourceUrl2: 'https://www.euronews.com/2026/07/01/eu-looks-to-south-caucasus-for-solutions-as-von-der-leyen-holds-talks-with-president-aliye',
+            sourceSnippet2: 'EU looks to South Caucasus for solutions as von der Leyen holds talks with President Aliyev — Euronews, 1 Juli 2026',
+            source3: 'Le Monde',
+            sourceUrl3: 'https://www.lemonde.fr/en/international/article/2026/06/30/eu-to-implement-trade-deal-with-us-starting-wednesday_6755007_4.html',
+            sourceSnippet3: 'EU to implement trade deal with US starting Wednesday — Le Monde, 30 Juni 2026',
+            source4: 'The Defense Post',
+            sourceUrl4: 'https://thedefensepost.com/2026/07/01/eu-ukraine-support-loan-drones/',
+            sourceSnippet4: 'EU Releases $4.4B for Drones Under $102B Ukraine Support Loan — The Defense Post, 1 Juli 2026'
+          },
+          en: {
+            title: 'Ursula von der Leyen — European Commission President, Expanding EU Influence into South Caucasus',
+            desc: 'Ursula von der Leyen is President of the European Commission, actively expanding the EU\'s diplomatic and economic reach. In early July 2026, she announced €200 million in aid for South Caucasus connectivity during her visit to Azerbaijan.',
+            body: '<p>Ursula Gertrud von der Leyen was born on October 8, 1958 in Brussels, Belgium. She earned a medical degree from Hannover Medical School, Germany. Before serving at the EU level, she built a long political career in Germany, including serving as German Defense Minister (2013–2019) under Chancellor Angela Merkel\'s government — making her the first woman to hold that position.</p><p>In 2019, von der Leyen was elected President of the European Commission, the EU\'s highest executive position, making her the first woman to hold the role in EU history. She was later re-elected for a second term, leading the EU through major challenges including the COVID-19 pandemic, the Russia-Ukraine war, and global trade tensions.</p><p>On July 1, 2026, von der Leyen announced the EU\'s commitment to provide up to €200 million in grants to boost transport, energy, and digital connectivity across the South Caucasus region. The announcement was made during her visit to Baku, Azerbaijan, where she held talks with President Ilham Aliyev on regional stability and energy cooperation.</p><p>On trade, von der Leyen has also overseen the implementation of the EU-US trade deal that took effect in late June 2026, as well as introducing new regulations on steel and e-commerce to reduce trade imbalances with China. The European Commission under her leadership also recently released a $4.4 billion package to support military drone procurement for Ukraine, part of a $102 billion support package for the country.</p><p>As one of the world\'s most influential female leaders, von der Leyen continues to play a central role in balancing the EU\'s relations with the US, China, and Russia, while strengthening the EU\'s geopolitical and economic influence in strategic regions such as the South Caucasus and Middle East.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/eu-provide-200-mln-euros-boost-south-caucasus-connectivity-von-der-leyen-says-2026-07-01/',
+            sourceSnippet: 'EU to provide 200 million euros to boost South Caucasus connectivity, von der Leyen says — Reuters, July 1 2026',
+            source2: 'Euronews',
+            sourceUrl2: 'https://www.euronews.com/2026/07/01/eu-looks-to-south-caucasus-for-solutions-as-von-der-leyen-holds-talks-with-president-aliye',
+            sourceSnippet2: 'EU looks to South Caucasus for solutions as von der Leyen holds talks with President Aliyev — Euronews, July 1 2026',
+            source3: 'Le Monde',
+            sourceUrl3: 'https://www.lemonde.fr/en/international/article/2026/06/30/eu-to-implement-trade-deal-with-us-starting-wednesday_6755007_4.html',
+            sourceSnippet3: 'EU to implement trade deal with US starting Wednesday — Le Monde, June 30 2026',
+            source4: 'The Defense Post',
+            sourceUrl4: 'https://thedefensepost.com/2026/07/01/eu-ukraine-support-loan-drones/',
+            sourceSnippet4: 'EU Releases $4.4B for Drones Under $102B Ukraine Support Loan — The Defense Post, July 1 2026'
+          },
+          ja: {
+            title: 'ウルズラ・フォンデアライエン — 欧州委員会委員長、南コーカサスへEU影響力を拡大',
+            desc: 'ウルズラ・フォンデアライエンは欧州委員会委員長として、EUの外交・経済的影響力の拡大に積極的に取り組んでいる。2026年7月初旬、アゼルバイジャン訪問中に南コーカサスの連結性強化のため2億ユーロの支援を発表した。',
+            body: '<p>ウルズラ・ゲルトルート・フォンデアライエンは1958年10月8日、ベルギー・ブリュッセル生まれ。ドイツのハノーバー医科大学で医学博士号を取得。EU就任前はドイツで長い政治キャリアを築き、メルケル首相政権下でドイツ国防相（2013-2019年）を務め、同職に就いた初の女性となった。</p><p>2019年、EU最高執行機関である欧州委員会委員長に選出され、EU史上初の女性委員長となった。その後2期目に再選され、新型コロナウイルスパンデミック、ロシア・ウクライナ戦争、世界的な貿易摩擦などの大きな課題を通じてEUを率いた。</p><p>2026年7月1日、フォンデアライエンは南コーカサス地域の輸送・エネルギー・デジタル連結性強化のため最大2億ユーロの助成金提供を発表。アゼルバイジャンの首都バクー訪問中にアリエフ大統領と会談し地域の安定とエネルギー協力について協議した。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/eu-provide-200-mln-euros-boost-south-caucasus-connectivity-von-der-leyen-says-2026-07-01/',
+            sourceSnippet: 'EU、南コーカサス連結性強化へ2億ユーロ提供とフォンデアライエン氏 — ロイター 2026年7月1日'
+          },
+          ko: {
+            title: '우르줄라 폰데어라이엔 — 유럽집행위원회 위원장, 남캅카스로 EU 영향력 확대',
+            desc: '우르줄라 폰데어라이엔은 유럽집행위원회 위원장으로서 EU의 외교·경제적 영향력 확대에 적극 나서고 있다. 2026년 7월 초, 아제르바이잔 방문 중 남캅카스 연결성 강화를 위해 2억 유로 지원을 발표했다.',
+            body: '<p>우르줄라 게르트루트 폰데어라이엔은 1958년 10월 8일 벨기에 브뤼셀 출생. 독일 하노버 의과대학에서 의학박사 학위를 취득했다. EU 취임 전 독일에서 오랜 정치 경력을 쌓았으며, 메르켈 총리 정부에서 독일 국방장관(2013~2019년)을 역임해 해당 직위에 오른 최초의 여성이 됐다.</p><p>2019년 EU 최고 집행기관인 유럽집행위원회 위원장에 선출되며 EU 역사상 최초의 여성 위원장이 됐다. 이후 2기 연임에 성공해 코로나19 팬데믹, 러시아-우크라이나 전쟁, 글로벌 무역 긴장 등 주요 과제를 통해 EU를 이끌었다.</p><p>2026년 7월 1일, 폰데어라이엔은 남캅카스 지역의 교통·에너지·디지털 연결성 강화를 위해 최대 2억 유로의 보조금 지원을 발표했다. 아제르바이잔 수도 바쿠 방문 중 알리예프 대통령과 회담을 갖고 지역 안정과 에너지 협력을 논의했다.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/eu-provide-200-mln-euros-boost-south-caucasus-connectivity-von-der-leyen-says-2026-07-01/',
+            sourceSnippet: 'EU, 남캅카스 연결성 강화 위해 2억 유로 지원 발표 — 로이터 2026년 7월 1일'
+          },
+          zh: {
+            title: '乌尔苏拉·冯德莱恩 — 欧盟委员会主席，将欧盟影响力扩展至南高加索',
+            desc: '乌尔苏拉·冯德莱恩担任欧盟委员会主席，积极扩大欧盟的外交和经济影响力。2026年7月初，她在访问阿塞拜疆期间宣布提供2亿欧元资金以加强南高加索地区的互联互通。',
+            body: '<p>乌尔苏拉·格特鲁德·冯德莱恩1958年10月8日生于比利时布鲁塞尔。她在德国汉诺威医学院取得医学博士学位。在担任欧盟职务前，她在德国建立了长期的从政生涯，曾在默克尔总理政府中担任德国国防部长（2013-2019年），成为首位担任该职位的女性。</p><p>2019年，她当选欧盟委员会主席，这是欧盟最高行政职位，使她成为欧盟历史上首位女性主席。此后她成功连任第二届，带领欧盟应对新冠疫情、俄乌战争及全球贸易紧张等重大挑战。</p><p>2026年7月1日，冯德莱恩宣布欧盟将提供最高2亿欧元的资助，以加强南高加索地区的交通、能源和数字连接。该声明是在她访问阿塞拜疆首都巴库期间发布的，她在此与阿利耶夫总统举行会谈，讨论地区稳定与能源合作。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/eu-provide-200-mln-euros-boost-south-caucasus-connectivity-von-der-leyen-says-2026-07-01/',
+            sourceSnippet: '欧盟宣布提供2亿欧元加强南高加索连接性，冯德莱恩表示 — 路透社，2026年7月1日'
+          }
+        }
+      }
     ]
   };
   if (typeof window.countryDataFiles !== 'undefined') {
