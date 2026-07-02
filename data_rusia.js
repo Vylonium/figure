@@ -129,6 +129,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'rusia-dmitry-medvedev',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Dmitry Medvedev — Wakil Ketua Dewan Keamanan Rusia, Suarakan Ancaman Perang Dunia Ketiga',
+            desc: 'Dmitry Medvedev adalah Wakil Ketua Dewan Keamanan Rusia dan mantan Presiden serta Perdana Menteri Rusia. Pada 2026, ia dikenal sebagai salah satu suara paling keras rezim Rusia, memperingatkan potensi Perang Dunia Ketiga dan mengeluarkan berbagai pernyataan konfrontatif terhadap Barat.',
+            body: '<p>Dmitry Anatolyevich Medvedev lahir pada 14 September 1965 di Leningrad (kini Saint Petersburg), Uni Soviet. Ia meraih gelar hukum dari Universitas Negeri Leningrad, tempat ia juga mengenal Vladimir Putin yang kelak menjadi sekutu politik terdekatnya selama puluhan tahun. Kariernya di pemerintahan dimulai sebagai penasihat hukum sebelum bergabung dengan tim inti Putin di Kremlin pada awal 2000-an.</p><p>Medvedev menjabat sebagai Presiden Rusia dari 2008 hingga 2012, periode di mana Putin menduduki posisi Perdana Menteri akibat batasan konstitusional masa jabatan presiden — sebuah pengaturan yang secara luas dipandang sebagai strategi untuk mempertahankan kekuasaan Putin. Setelah itu, Medvedev kembali menjabat sebagai Perdana Menteri Rusia dari 2012 hingga 2020, sebelum akhirnya diangkat sebagai Wakil Ketua Dewan Keamanan Rusia, posisi yang ia pegang hingga kini.</p><p>Pada Maret 2026, di tengah eskalasi konflik Timur Tengah, Medvedev menyatakan bahwa Perang Dunia Ketiga "pasti akan dimulai" jika Presiden AS Donald Trump melanjutkan apa yang disebutnya "kebijakan gila" perubahan rezim di Iran, menyebut serangan AS terhadap Iran sebagai "kesalahan besar" yang akan mendorong Teheran mengejar senjata nuklir "dengan tiga kali lipat" upaya.</p><p>Pada Mei 2026, Medvedev memperingatkan negara-negara Eropa untuk bersiap menghadapi lebih banyak insiden drone menyusul kejadian di Rumania, sekaligus mengeluarkan pernyataan tajam yang menyebut kebijakan Perdana Menteri Armenia Nikol Pashinyan sebagai "berbahaya" bagi negaranya, memperingatkan Armenia dapat kehilangan akses ke pasar Rusia dan Uni Ekonomi Eurasia (EAEU) akibat kebijakan tersebut.</p><p>Sebagai salah satu tokoh paling vokal dalam elite kekuasaan Rusia, Medvedev terus dikenal karena pernyataan-pernyataannya yang provokatif dan konfrontatif terhadap Barat, mencerminkan sikap garis keras rezim Rusia di tengah perang Ukraina yang berkepanjangan dan ketegangan global yang terus meningkat.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/europe/russian-official-warns-europe-brace-more-drone-incidents-after-romania-episode-2026-05-29/',
+            sourceSnippet: 'Russian official warns Europe to brace for more drone incidents after Romania episode — Reuters, 29 Mei 2026',
+            source2: 'Anadolu Agency',
+            sourceUrl2: 'https://www.aa.com.tr/en/world/russias-medvedev-says-world-war-iii-will-undoubtedly-begin-if-trump-continues-insane-course-of-regime-change/3847493',
+            sourceSnippet2: 'Russia\'s Medvedev says World War III \'will undoubtedly begin\' if Trump continues \'insane course\' of regime change — Anadolu Agency, 3 Maret 2026',
+            source3: 'Tasnim News',
+            sourceUrl3: 'https://www.tasnimnews.ir/en/news/2026/05/25/3600260/medvedev-calls-pashinyan-s-course-dangerous-for-armenia',
+            sourceSnippet3: 'Medvedev Calls Pashinyan\'s Course Dangerous for Armenia — Tasnim News, 25 Mei 2026',
+            source4: 'Understanding War',
+            sourceUrl4: 'https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-april-30-2026/',
+            sourceSnippet4: 'Russian Offensive Campaign Assessment, April 30, 2026 — Institute for the Study of War'
+          },
+          en: {
+            title: 'Dmitry Medvedev — Deputy Chair of Russia\'s Security Council, Voices World War III Threat',
+            desc: 'Dmitry Medvedev is Deputy Chairman of Russia\'s Security Council and former President and Prime Minister of Russia. In 2026, he is known as one of the regime\'s harshest voices, warning of potential World War III and issuing various confrontational statements toward the West.',
+            body: '<p>Dmitry Anatolyevich Medvedev was born on September 14, 1965 in Leningrad (now Saint Petersburg), Soviet Union. He earned a law degree from Leningrad State University, where he also met Vladimir Putin, who would later become his closest political ally for decades. His government career began as a legal advisor before joining Putin\'s core team at the Kremlin in the early 2000s.</p><p>Medvedev served as President of Russia from 2008 to 2012, a period during which Putin held the Prime Minister position due to constitutional term limits on the presidency — an arrangement widely seen as a strategy to maintain Putin\'s power. Afterward, Medvedev again served as Russia\'s Prime Minister from 2012 to 2020, before finally being appointed Deputy Chairman of Russia\'s Security Council, a position he still holds today.</p><p>In March 2026, amid escalating Middle East conflict, Medvedev stated that World War III "will undoubtedly begin" if US President Donald Trump continued what he called an "insane policy" of regime change in Iran, calling the US attack on Iran a "grave mistake" that would push Tehran to pursue nuclear weapons "with triple" the effort.</p><p>In May 2026, Medvedev warned European countries to brace for more drone incidents following the episode in Romania, while also issuing sharp statements calling Armenian Prime Minister Nikol Pashinyan\'s policies "dangerous" for his country, warning Armenia could lose access to the Russian market and the Eurasian Economic Union (EAEU) due to such policies.</p><p>As one of the most vocal figures in Russia\'s ruling elite, Medvedev continues to be known for his provocative and confrontational statements toward the West, reflecting the Russian regime\'s hardline stance amid the prolonged Ukraine war and increasing global tensions.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/europe/russian-official-warns-europe-brace-more-drone-incidents-after-romania-episode-2026-05-29/',
+            sourceSnippet: 'Russian official warns Europe to brace for more drone incidents after Romania episode — Reuters, May 29 2026',
+            source2: 'Anadolu Agency',
+            sourceUrl2: 'https://www.aa.com.tr/en/world/russias-medvedev-says-world-war-iii-will-undoubtedly-begin-if-trump-continues-insane-course-of-regime-change/3847493',
+            sourceSnippet2: 'Russia\'s Medvedev says World War III \'will undoubtedly begin\' if Trump continues \'insane course\' of regime change — Anadolu Agency, March 3 2026',
+            source3: 'Tasnim News',
+            sourceUrl3: 'https://www.tasnimnews.ir/en/news/2026/05/25/3600260/medvedev-calls-pashinyan-s-course-dangerous-for-armenia',
+            sourceSnippet3: 'Medvedev Calls Pashinyan\'s Course Dangerous for Armenia — Tasnim News, May 25 2026'
+          },
+          ja: {
+            title: 'ドミトリー・メドヴェージェフ — ロシア安全保障会議副議長、第三次世界大戦の脅威を発言',
+            desc: 'ドミトリー・メドヴェージェフはロシア安全保障会議副議長で、ロシア元大統領・元首相。2026年、体制内で最も強硬な声の一人として知られ、第三次世界大戦の可能性を警告し西側への対立的な発言を繰り返している。',
+            body: '<p>ドミトリー・アナトーリエヴィチ・メドヴェージェフは1965年9月14日、ソ連レニングラード（現サンクトペテルブルク）生まれ。レニングラード国立大学で法学位を取得し、そこで後に数十年にわたる最も近い政治的盟友となるウラジーミル・プーチンと出会った。政府でのキャリアは法律顧問として始まり、2000年代初頭にクレムリンのプーチンの中核チームに加わった。</p><p>2008年から2012年までロシア大統領を務め、この間プーチンは大統領任期の憲法上の制限のため首相職に就いた。この後メドヴェージェフは2012年から2020年まで再びロシア首相を務め、最終的にロシア安全保障会議副議長に任命され、現在もその職にある。</p><p>2026年3月、中東紛争の激化の中、メドヴェージェフはトランプ米大統領がイランでの体制転換という「狂気の政策」を続ければ、第三次世界大戦が「間違いなく始まる」と述べた。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/europe/russian-official-warns-europe-brace-more-drone-incidents-after-romania-episode-2026-05-29/',
+            sourceSnippet: 'ロシア高官、ルーマニアの事案後さらなるドローン事件に備えるよう欧州に警告 — ロイター 2026年5月29日'
+          },
+          ko: {
+            title: '드미트리 메드베데프 — 러시아 안보회의 부의장, 제3차 세계대전 위협 발언',
+            desc: '드미트리 메드베데프는 러시아 안보회의 부의장이자 러시아 전 대통령·전 총리. 2026년, 체제 내 가장 강경한 목소리 중 한 명으로 알려져 제3차 세계대전 가능성을 경고하고 서방에 대한 대립적인 발언을 이어가고 있다.',
+            body: '<p>드미트리 아나톨리예비치 메드베데프는 1965년 9월 14일 소련 레닌그라드(현 상트페테르부르크) 출생. 레닌그라드 국립대학에서 법학 학위를 취득했으며, 그곳에서 훗날 수십 년간 가장 가까운 정치적 동맹이 될 블라디미르 푸틴을 만났다. 정부 경력은 법률고문으로 시작했으며 2000년대 초 크렘린의 푸틴 핵심팀에 합류했다.</p><p>2008년부터 2012년까지 러시아 대통령을 지냈으며, 이 기간 동안 푸틴은 대통령 임기 제한 규정으로 인해 총리직을 맡았다. 이후 메드베데프는 2012년부터 2020년까지 다시 러시아 총리를 지냈고, 최종적으로 러시아 안보회의 부의장에 임명되어 현재까지 이 직위를 유지하고 있다.</p><p>2026년 3월, 중동 분쟁 격화 속에서 메드베데프는 트럼프 미국 대통령이 이란에서의 정권 교체라는 "미친 정책"을 계속한다면 제3차 세계대전이 "틀림없이 시작될 것"이라고 밝혔다.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/europe/russian-official-warns-europe-brace-more-drone-incidents-after-romania-episode-2026-05-29/',
+            sourceSnippet: '러시아 관리, 루마니아 사건 이후 추가 드론 사건 대비 유럽에 경고 — 로이터 2026년 5월 29일'
+          },
+          zh: {
+            title: '德米特里·梅德韦杰夫 — 俄罗斯安全会议副主席，发出第三次世界大战威胁言论',
+            desc: '德米特里·梅德韦杰夫是俄罗斯安全会议副主席，也是俄罗斯前总统兼前总理。2026年，他作为该政权最强硬的声音之一而闻名，警告可能爆发第三次世界大战，并对西方发表了多次对抗性言论。',
+            body: '<p>德米特里·阿纳托利耶维奇·梅德韦杰夫1965年9月14日生于苏联列宁格勒（今圣彼得堡）。他在列宁格勒国立大学获得法学学位，并在那里结识了后来数十年间最亲密的政治盟友弗拉基米尔·普京。他的政府生涯始于法律顾问，2000年代初加入普京在克里姆林宫的核心团队。</p><p>2008年至2012年，他担任俄罗斯总统，此期间普京因宪法对总统任期的限制而担任总理职务——这一安排被普遍视为维持普京权力的策略。此后，梅德韦杰夫于2012年至2020年再度出任俄罗斯总理，最终被任命为俄罗斯安全会议副主席，至今仍担任该职务。</p><p>2026年3月，在中东冲突升级之际，梅德韦杰夫表示，如果美国总统特朗普继续其所谓在伊朗实施政权更迭的"疯狂政策"，第三次世界大战"必将爆发"。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/europe/russian-official-warns-europe-brace-more-drone-incidents-after-romania-episode-2026-05-29/',
+            sourceSnippet: '俄罗斯官员警告欧洲应对罗马尼亚事件后可能发生的更多无人机事件 — 路透社，2026年5月29日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
