@@ -67,6 +67,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'inggris-king-charles-iii',
+        category: 'lainnya',
+        langs: {
+          id: {
+            title: 'Raja Charles III — Monarki Inggris, Umumkan Transparansi Keuangan Kerajaan Bersejarah',
+            desc: 'Raja Charles III adalah Raja Britania Raya dan Kepala Negara Persemakmuran yang naik takhta pada 2022. Pada Juni 2026, ia mengumumkan tidak akan tinggal di Istana Buckingham setelah renovasi besar, sekaligus menjadi raja Inggris pertama yang mengungkap rincian keuangan kerajaan secara terbuka.',
+            body: '<p>Charles Philip Arthur George lahir pada 14 November 1948 di Istana Buckingham, London, sebagai putra sulung Ratu Elizabeth II dan Pangeran Philip. Ia menempuh pendidikan di Gordonstoun School di Skotlandia dan meraih gelar dari Trinity College, Cambridge, menjadikannya anggota keluarga kerajaan Inggris pertama yang meraih gelar universitas.</p><p>Sebagai Pangeran Wales selama lebih dari lima dekade — masa jabatan pewaris takhta terlama dalam sejarah Inggris — Charles dikenal atas advokasinya yang konsisten terhadap isu lingkungan dan arsitektur berkelanjutan jauh sebelum isu tersebut menjadi perhatian arus utama. Ia naik takhta sebagai Raja Charles III pada September 2022 setelah wafatnya Ratu Elizabeth II, ibunya, yang memerintah selama 70 tahun.</p><p>Pada 26 Juni 2026, dalam sebuah pengarahan mengenai keuangan kerajaan, Charles menjadi raja Inggris pertama yang secara terbuka mengungkapkan rincian keuangan monarki, sekaligus mengumumkan bahwa ia tidak akan kembali tinggal di Istana Buckingham setelah renovasi besar-besaran istana tersebut selesai — sebuah langkah transparansi yang belum pernah terjadi sebelumnya dalam sejarah monarki Inggris modern.</p><p>Pada akhir Juni 2026, Raja Charles, Ratu Camilla, dan Pangeran William menghadapi aksi protes anti-monarki saat menghadiri upacara kerajaan di Skotlandia, mencerminkan sentimen yang terus berkembang terhadap institusi monarki di kalangan sebagian masyarakat Inggris. Meski demikian, keluarga kerajaan tetap menjalankan agenda seremonial rutin, termasuk Trooping the Colour yang menandai perayaan resmi ketiga sejak Charles naik takhta.</p><p>Di sisi keluarga, Charles dilaporkan mengadakan "makan malam keluarga langka" di Skotlandia menjelang kunjungan Pangeran Harry ke Inggris, mengindikasikan upaya rekonsiliasi dalam hubungan keluarga kerajaan yang sempat renggang. Raja Charles juga menyetujui rencana akomodasi khusus bagi Pangeran Harry dan Meghan Markle untuk kunjungan pertama mereka ke Inggris sebagai pasangan sejak berbagai perselisihan keluarga sebelumnya.</p>',
+            source: 'NPR',
+            sourceUrl: 'https://www.npr.org/2026/06/26/g-s1-130347/king-charles-buckingham-palace',
+            sourceSnippet: 'King Charles III will not live at Buckingham Palace after its costly refurbishment — NPR, 26 Juni 2026',
+            source2: 'People',
+            sourceUrl2: 'https://people.com/prince-william-king-charles-queen-camilla-face-protesters-scotland-12010936',
+            sourceSnippet2: 'Prince William, King Charles and Queen Camilla Face Protesters at Royal Service in Scotland — People',
+            source3: 'USA Today',
+            sourceUrl3: 'https://www.usatoday.com/story/entertainment/celebrities/2026/06/27/prince-harry-king-charles-duchess-meghan-uk-visit/90716365007/',
+            sourceSnippet3: 'Prince Harry accepts King Charles\' family accommodations offer for UK visit — USA Today, 27 Juni 2026',
+            source4: 'ABC News',
+            sourceUrl4: 'https://abcnews.com/GMA/Culture/king-charles-iii-prince-william-kate-step-trooping/story?id=133827052',
+            sourceSnippet4: 'King Charles III, Prince William and Kate, more step out for Trooping the Colour — ABC News'
+          },
+          en: {
+            title: 'King Charles III — British Monarch, Announces Historic Royal Financial Transparency',
+            desc: 'King Charles III is King of the United Kingdom and Head of the Commonwealth who ascended the throne in 2022. In June 2026, he announced he would not live at Buckingham Palace after its major renovation, while becoming the first British monarch to publicly disclose royal financial details.',
+            body: '<p>Charles Philip Arthur George was born on November 14, 1948 at Buckingham Palace, London, as the eldest son of Queen Elizabeth II and Prince Philip. He was educated at Gordonstoun School in Scotland and earned a degree from Trinity College, Cambridge, making him the first British royal family member to earn a university degree.</p><p>As Prince of Wales for over five decades — the longest heir apparent tenure in British history — Charles was known for his consistent advocacy for environmental issues and sustainable architecture long before these became mainstream concerns. He ascended the throne as King Charles III in September 2022 following the death of his mother, Queen Elizabeth II, who reigned for 70 years.</p><p>On June 26, 2026, at a briefing on royal finances, Charles became the first British monarch to publicly disclose royal financial details, while also announcing he would not return to live at Buckingham Palace after the palace\'s massive renovation is completed — an unprecedented transparency move in modern British monarchy history.</p><p>In late June 2026, King Charles, Queen Camilla, and Prince William faced anti-monarchy protests while attending a royal ceremony in Scotland, reflecting growing sentiment against the monarchy institution among some segments of British society. Nevertheless, the royal family continued its routine ceremonial agenda, including Trooping the Colour marking the third official celebration since Charles ascended the throne.</p><p>On the family front, Charles reportedly held a "rare family dinner" in Scotland ahead of Prince Harry\'s visit to the UK, indicating reconciliation efforts in the previously strained royal family relationship. King Charles also approved special accommodation plans for Prince Harry and Meghan Markle for their first UK visit as a couple since various previous family disputes.</p>',
+            source: 'NPR',
+            sourceUrl: 'https://www.npr.org/2026/06/26/g-s1-130347/king-charles-buckingham-palace',
+            sourceSnippet: 'King Charles III will not live at Buckingham Palace after its costly refurbishment — NPR, June 26 2026',
+            source2: 'People',
+            sourceUrl2: 'https://people.com/prince-william-king-charles-queen-camilla-face-protesters-scotland-12010936',
+            sourceSnippet2: 'Prince William, King Charles and Queen Camilla Face Protesters at Royal Service in Scotland — People',
+            source3: 'USA Today',
+            sourceUrl3: 'https://www.usatoday.com/story/entertainment/celebrities/2026/06/27/prince-harry-king-charles-duchess-meghan-uk-visit/90716365007/',
+            sourceSnippet3: 'Prince Harry accepts King Charles\' family accommodations offer for UK visit — USA Today, June 27 2026'
+          },
+          ja: {
+            title: 'チャールズ3世国王 — 英国君主、歴史的な王室財政の透明性発表',
+            desc: 'チャールズ3世国王は2022年に即位した英国国王兼英連邦の長。2026年6月、バッキンガム宮殿の大規模改修後もそこに住まないと発表し、英国君主として初めて王室財政の詳細を公開した。',
+            body: '<p>チャールズ・フィリップ・アーサー・ジョージは1948年11月14日、ロンドンのバッキンガム宮殿でエリザベス2世女王とフィリップ王配の長男として誕生。スコットランドのゴードンストウン校で教育を受け、ケンブリッジ大学トリニティ・カレッジで学位を取得、英国王室初の大学卒業者となった。</p><p>50年以上にわたりウェールズ公を務め（英国史上最長の王位継承者在任期間）、環境問題と持続可能な建築を主流になるはるか以前から一貫して提唱してきたことで知られる。2022年9月、70年間統治した母エリザベス2世女王の崩御を受けチャールズ3世として即位した。</p><p>2026年6月26日、王室財政に関する説明会で、チャールズは英国君主として初めて王室財政の詳細を公に開示し、宮殿の大規模改修完了後もバッキンガム宮殿に戻って住まないことを発表した。</p>',
+            source: 'NPR',
+            sourceUrl: 'https://www.npr.org/2026/06/26/g-s1-130347/king-charles-buckingham-palace',
+            sourceSnippet: 'チャールズ3世国王、改修後もバッキンガム宮殿に住まないと発表 — NPR 2026年6月26日'
+          },
+          ko: {
+            title: '찰스 3세 국왕 — 영국 군주, 역사적인 왕실 재정 투명성 발표',
+            desc: '찰스 3세 국왕은 2022년 즉위한 영국 국왕 겸 영연방 수장. 2026년 6월, 버킹엄궁 대규모 개보수 후에도 그곳에 거주하지 않겠다고 발표했으며, 영국 군주로서 처음으로 왕실 재정 세부사항을 공개했다.',
+            body: '<p>찰스 필립 아서 조지는 1948년 11월 14일 런던 버킹엄궁에서 엘리자베스 2세 여왕과 필립 공의 장남으로 출생. 스코틀랜드 고든스턴 학교에서 교육받고 케임브리지 트리니티 칼리지에서 학위를 취득해 영국 왕실 최초로 대학 학위를 받은 인물이 됐다.</p><p>50년 넘게 웨일스 공을 지내며(영국 역사상 최장 왕위 계승자 재임 기간) 환경 문제와 지속 가능한 건축을 주류가 되기 훨씬 전부터 일관되게 옹호한 것으로 알려져 있다. 2022년 9월, 70년간 통치한 어머니 엘리자베스 2세 여왕의 서거 후 찰스 3세로 즉위했다.</p><p>2026년 6월 26일, 왕실 재정 관련 브리핑에서 찰스는 영국 군주로서 처음으로 왕실 재정 세부사항을 공개적으로 밝혔으며, 궁전의 대규모 개보수 완료 후에도 버킹엄궁으로 돌아가 거주하지 않겠다고 발표했다.</p>',
+            source: 'NPR',
+            sourceUrl: 'https://www.npr.org/2026/06/26/g-s1-130347/king-charles-buckingham-palace',
+            sourceSnippet: '찰스 3세 국왕, 개보수 후에도 버킹엄궁에 거주하지 않겠다고 발표 — NPR 2026년 6월 26일'
+          },
+          zh: {
+            title: '查尔斯三世国王 — 英国君主，宣布具有历史意义的王室财务透明化',
+            desc: '查尔斯三世国王是2022年登基的英国国王兼英联邦元首。2026年6月，他宣布在白金汉宫大规模翻修后不会入住，同时成为首位公开披露王室财务细节的英国君主。',
+            body: '<p>查尔斯·菲利普·亚瑟·乔治1948年11月14日生于伦敦白金汉宫，是伊丽莎白二世女王与菲利普亲王的长子。他在苏格兰戈登斯敦中学接受教育，并在剑桥大学三一学院取得学位，成为英国王室首位获得大学学位的成员。</p><p>他担任威尔士亲王超过五十年（英国历史上任期最长的王位继承人），早在环保和可持续建筑成为主流关注议题之前，他就一直倡导这些理念。2022年9月，在统治70年的母亲伊丽莎白二世女王去世后，他登基为查尔斯三世国王。</p><p>2026年6月26日，在一次关于王室财务的通报会上，查尔斯成为首位公开披露王室财务细节的英国君主，同时宣布在宫殿大规模翻修完成后不会返回白金汉宫居住。</p>',
+            source: 'NPR',
+            sourceUrl: 'https://www.npr.org/2026/06/26/g-s1-130347/king-charles-buckingham-palace',
+            sourceSnippet: '查尔斯三世国王宣布翻修后不会入住白金汉宫 — NPR，2026年6月26日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
