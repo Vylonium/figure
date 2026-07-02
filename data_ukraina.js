@@ -67,6 +67,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'ukraina-oleksandr-syrskyi',
+        category: 'militer',
+        langs: {
+          id: {
+            title: 'Oleksandr Syrskyi — Panglima Militer Ukraina, Siapkan Pertahanan Hadapi Serangan Rusia Baru',
+            desc: 'Oleksandr Syrskyi adalah Panglima Angkatan Bersenjata Ukraina yang memimpin pertahanan negara melawan invasi Rusia. Pada akhir Juni 2026, ia memperingatkan kemungkinan serangan baru Rusia dari utara sekaligus melaporkan Ukraina telah merebut kembali lebih dari 600 kilometer persegi wilayah sepanjang 2026.',
+            body: '<p>Oleksandr Syrskyi lahir pada 26 Agustus 1965 di Novomoskovsk, Rusia (saat itu bagian dari Uni Soviet). Ia menempuh pendidikan militer di Akademi Militer Moskow sebelum memulai kariernya di angkatan bersenjata Ukraina pasca-kemerdekaan negara tersebut dari Uni Soviet pada 1991.</p><p>Syrskyi membangun reputasi sebagai salah satu jenderal paling cakap Ukraina melalui perannya dalam mempertahankan Kyiv pada awal invasi Rusia 2022, serta memimpin operasi pembebasan Kharkiv yang sukses pada akhir tahun yang sama. Pada Februari 2024, ia diangkat sebagai Panglima Tertinggi Angkatan Bersenjata Ukraina oleh Presiden Volodymyr Zelensky, menggantikan Jenderal Valery Zaluzhny.</p><p>Pada 30 Juni 2026, Syrskyi mengungkapkan bahwa pasukannya tengah bersiap menghadapi kemungkinan serangan baru Rusia dari wilayah utara, khususnya di kawasan Chernihiv, mengingat Presiden Rusia Vladimir Putin dilaporkan telah memerintahkan Staf Umum Rusia untuk menyiapkan rencana penyerangan terhadap Kyiv.</p><p>Meski menghadapi tekanan besar dari konsentrasi lebih dari 721.000 pasukan Rusia di wilayah Ukraina, Syrskyi melaporkan bahwa pasukan Ukraina berhasil merebut kembali lebih dari 600 kilometer persegi wilayah sepanjang 2026 — salah satu pencapaian teritorial tersukses dalam beberapa tahun terakhir perang tersebut. Ia juga memperingatkan kemungkinan Rusia melakukan gelombang mobilisasi baru sebagai langkah terakhir untuk memperkuat pasukannya.</p><p>Sebagai Panglima Militer, Syrskyi terus memainkan peran sentral dalam strategi pertahanan Ukraina yang menghadapi tekanan berkelanjutan dari invasi Rusia yang telah berlangsung lebih dari empat tahun, sekaligus menjadi simbol ketahanan militer Ukraina di mata dunia internasional.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/top-ukrainian-commander-says-readying-possible-new-russian-attack-north-2026-06-30/',
+            sourceSnippet: 'Top Ukrainian commander says readying for possible new Russian attack from north — Reuters, 30 Juni 2026',
+            source2: 'United24 Media',
+            sourceUrl2: 'https://united24media.com/war-in-ukraine/putin-ordered-russian-general-staff-to-prepare-plans-for-capturing-kyiv-syrskyi-says-20325',
+            sourceSnippet2: '"Putin Ordered Russian General Staff to Prepare Plans for Capturing Kyiv," Syrskyi Says — United24 Media, 30 Juni 2026',
+            source3: 'Modern Diplomacy',
+            sourceUrl3: 'https://moderndiplomacy.eu/2026/06/08/ukraine-says-it-has-retaken-over-600-square-kilometers-in-2026-syrskyi-claims/',
+            sourceSnippet3: 'Ukraine says it has retaken over 600 square kilometers in 2026 — Modern Diplomacy, 8 Juni 2026',
+            source4: 'Militarnyi',
+            sourceUrl4: 'https://militarnyi.com/en/news/russia-concentrate-721000-troops-in-ukraine/',
+            sourceSnippet4: 'Syrskyi: Russia Concentrated Over 721,000 Troops in Ukraine — Militarnyi'
+          },
+          en: {
+            title: 'Oleksandr Syrskyi — Ukraine\'s Commander-in-Chief, Prepares Defense for New Russian Attack',
+            desc: 'Oleksandr Syrskyi is Commander-in-Chief of Ukraine\'s Armed Forces, leading the country\'s defense against Russia\'s invasion. In late June 2026, he warned of a possible new Russian attack from the north while reporting Ukraine had retaken over 600 square kilometers of territory throughout 2026.',
+            body: '<p>Oleksandr Syrskyi was born on August 26, 1965 in Novomoskovsk, Russia (then part of the Soviet Union). He received military education at the Moscow Military Academy before beginning his career in Ukraine\'s armed forces following the country\'s independence from the Soviet Union in 1991.</p><p>Syrskyi built a reputation as one of Ukraine\'s most capable generals through his role in defending Kyiv during the early stages of Russia\'s 2022 invasion, as well as leading the successful Kharkiv liberation operation later that year. In February 2024, he was appointed Commander-in-Chief of Ukraine\'s Armed Forces by President Volodymyr Zelensky, succeeding General Valery Zaluzhny.</p><p>On June 30, 2026, Syrskyi revealed that his forces were preparing for a possible new Russian attack from the northern region, particularly the Chernihiv area, given reports that Russian President Vladimir Putin had ordered the Russian General Staff to prepare plans for an assault on Kyiv.</p><p>Despite facing significant pressure from a concentration of over 721,000 Russian troops in Ukrainian territory, Syrskyi reported that Ukrainian forces had successfully retaken more than 600 square kilometers of territory throughout 2026 — one of the most successful territorial gains in recent years of the war. He also warned of the possibility of Russia conducting a new mobilization wave as a last resort to reinforce its forces.</p><p>As Commander-in-Chief, Syrskyi continues to play a central role in Ukraine\'s defense strategy facing sustained pressure from Russia\'s invasion that has lasted over four years, while also becoming a symbol of Ukrainian military resilience in the eyes of the international community.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/top-ukrainian-commander-says-readying-possible-new-russian-attack-north-2026-06-30/',
+            sourceSnippet: 'Top Ukrainian commander says readying for possible new Russian attack from north — Reuters, June 30 2026',
+            source2: 'United24 Media',
+            sourceUrl2: 'https://united24media.com/war-in-ukraine/putin-ordered-russian-general-staff-to-prepare-plans-for-capturing-kyiv-syrskyi-says-20325',
+            sourceSnippet2: '"Putin Ordered Russian General Staff to Prepare Plans for Capturing Kyiv," Syrskyi Says — United24 Media, June 30 2026',
+            source3: 'Modern Diplomacy',
+            sourceUrl3: 'https://moderndiplomacy.eu/2026/06/08/ukraine-says-it-has-retaken-over-600-square-kilometers-in-2026-syrskyi-claims/',
+            sourceSnippet3: 'Ukraine says it has retaken over 600 square kilometers in 2026 — Modern Diplomacy, June 8 2026'
+          },
+          ja: {
+            title: 'オレクサンドル・シルスキー — ウクライナ軍総司令官、ロシアの新たな攻撃に備える',
+            desc: 'オレクサンドル・シルスキーはウクライナ軍総司令官として、ロシアの侵攻に対する国防を指揮している。2026年6月末、北部からのロシアの新たな攻撃の可能性を警告する一方、2026年を通じて600平方キロメートル以上の領土を奪還したと報告した。',
+            body: '<p>オレクサンドル・シルスキーは1965年8月26日、当時ソ連領だったロシアのノヴォモスコフスク生まれ。モスクワ軍事アカデミーで軍事教育を受けた後、1991年のソ連からのウクライナ独立後に同国軍でキャリアを開始した。</p><p>2022年のロシア侵攻初期にキーウ防衛で活躍し、同年後半のハルキウ解放作戦を成功に導いたことで、ウクライナ最も有能な将軍の一人としての評価を確立した。2024年2月、ゼレンスキー大統領によりウクライナ軍総司令官に任命され、ヴァレリー・ザルジニー将軍の後任となった。</p><p>2026年6月30日、シルスキーはロシアのプーチン大統領がキーウ攻撃計画の準備をロシア軍参謀本部に命じたとの報道を受け、北部特にチェルニーヒウ地域からの新たな攻撃に備えていることを明らかにした。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/top-ukrainian-commander-says-readying-possible-new-russian-attack-north-2026-06-30/',
+            sourceSnippet: 'ウクライナ軍最高司令官、北部からのロシアの新攻撃に備える — ロイター 2026年6月30日'
+          },
+          ko: {
+            title: '올렉산드르 시르스키 — 우크라이나군 총사령관, 러시아의 새로운 공격에 대비',
+            desc: '올렉산드르 시르스키는 우크라이나군 총사령관으로 러시아의 침공에 맞선 국방을 이끌고 있다. 2026년 6월 말, 북부에서의 러시아 새 공격 가능성을 경고하는 한편, 2026년 한 해 동안 600제곱킬로미터 이상의 영토를 탈환했다고 보고했다.',
+            body: '<p>올렉산드르 시르스키는 1965년 8월 26일 당시 소련 영토였던 러시아 노보모스코프스크 출생. 모스크바 군사아카데미에서 군사교육을 받은 후 1991년 소련으로부터 우크라이나가 독립한 뒤 우크라이나군에서 경력을 시작했다.</p><p>2022년 러시아 침공 초기 키이우 방어에서 활약하고, 같은 해 하르키우 해방 작전을 성공으로 이끌며 우크라이나에서 가장 유능한 장군 중 한 명으로 명성을 쌓았다. 2024년 2월, 젤렌스키 대통령에 의해 우크라이나군 총사령관에 임명되어 발레리 잘루즈니 장군의 후임이 됐다.</p><p>2026년 6월 30일, 시르스키는 러시아 푸틴 대통령이 키이우 공격 계획 준비를 러시아군 참모본부에 지시했다는 보도를 근거로, 북부 특히 체르니히우 지역에서의 새로운 공격에 대비하고 있다고 밝혔다.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/top-ukrainian-commander-says-readying-possible-new-russian-attack-north-2026-06-30/',
+            sourceSnippet: '우크라이나군 최고사령관, 북부에서의 러시아 새 공격에 대비 — 로이터 2026년 6월 30일'
+          },
+          zh: {
+            title: '奥列克桑德尔·瑟尔斯基 — 乌克兰军总司令，为俄罗斯新攻势做准备',
+            desc: '奥列克桑德尔·瑟尔斯基是乌克兰武装部队总司令，领导国家抵御俄罗斯的入侵。2026年6月末，他警告俄罗斯可能从北部发动新攻势，同时报告乌克兰在2026年已收复超过600平方公里的领土。',
+            body: '<p>奥列克桑德尔·瑟尔斯基1965年8月26日生于当时属于苏联的俄罗斯新莫斯科夫斯克。他在莫斯科军事学院接受军事教育，1991年乌克兰从苏联独立后开始在乌军服役。</p><p>他在2022年俄罗斯入侵初期成功保卫基辅，并在同年晚些时候领导了成功的哈尔科夫解放行动，从而树立了乌克兰最有能力将军之一的声誉。2024年2月，他被泽连斯基总统任命为乌克兰武装部队总司令，接替瓦列里·扎卢日内将军。</p><p>2026年6月30日，瑟尔斯基透露，鉴于有报道称俄罗斯总统普京已下令俄军总参谋部准备进攻基辅的计划，其部队正准备应对来自北部（尤其是切尔尼戈夫地区）的可能新攻势。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/top-ukrainian-commander-says-readying-possible-new-russian-attack-north-2026-06-30/',
+            sourceSnippet: '乌克兰高级指挥官称正为俄罗斯可能从北部发动的新攻势做准备 — 路透社，2026年6月30日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
