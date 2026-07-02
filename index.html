@@ -543,8 +543,6 @@ function renderArticle(countryId, articleId, skipPush) {
   '<div class="text-xs text-blue-500 mt-0.5 truncate">' + item.sourceDomain + '</div>' +
   '<div class="text-xs text-gray-600 mt-1 leading-relaxed">' + item.sourceSnippet + '</div>' +
   '</div>' +
-  '<svg class="w-4 h-4 text-gray-400 group-hover:text-blue-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">' +
-  '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>' +
   '</a>';
       // Tampilkan sumber tambahan jika ada (source2, source3)
       if (item.sourceUrl2) {
@@ -560,8 +558,6 @@ function renderArticle(countryId, articleId, skipPush) {
   '<div class="text-xs text-blue-500 mt-0.5 truncate">' + dom2 + '</div>' +
   '<div class="text-xs text-gray-600 mt-1 leading-relaxed">' + (item.sourceSnippet2 || '') + '</div>' +
   '</div>' +
-  '<svg class="w-4 h-4 text-gray-400 group-hover:text-blue-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">' +
-  '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>' +
   '</a>';
       }
       if (item.sourceUrl3) {
@@ -577,8 +573,6 @@ function renderArticle(countryId, articleId, skipPush) {
   '<div class="text-xs text-blue-500 mt-0.5 truncate">' + dom3 + '</div>' +
   '<div class="text-xs text-gray-600 mt-1 leading-relaxed">' + (item.sourceSnippet3 || '') + '</div>' +
   '</div>' +
-  '<svg class="w-4 h-4 text-gray-400 group-hover:text-blue-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">' +
-  '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>' +
   '</a>';
       }
       return cards;
