@@ -386,6 +386,196 @@
           }
         }
       }
+,
+      {
+        id: 'india-narendra-modi',
+        langs: {
+          id: {
+            title: 'Narendra Modi — PM India Terlama dalam Sejarah & Arsitek Kebangkitan India',
+            desc: 'Narendra Modi adalah Perdana Menteri India yang menjabat sejak 2014. Pada 10 Juni 2026, ia mencatatkan sejarah sebagai PM India yang paling lama menjabat secara berturut-turut, melampaui rekor Jawaharlal Nehru dengan 4.399 hari di kantor.',
+            body: '<p>Narendra Damodardas Modi lahir pada 17 September 1950 di Vadnagar, Gujarat, India. Ia berasal dari keluarga sederhana — ayahnya berjualan teh di stasiun kereta api lokal. Masa mudanya dihabiskan aktif di Rashtriya Swayamsevak Sangh (RSS), organisasi nasionalis Hindu, sebelum bergabung dengan Partai Bharatiya Janata (BJP) dan menanjak menjadi politisi yang paling berpengaruh di India.</p><p>Modi menjabat sebagai Kepala Menteri Gujarat selama tiga periode berturut-turut (2001–2014) sebelum terpilih sebagai Perdana Menteri India pada 2014 dengan kemenangan besar yang mengakhiri dominasi panjang Partai Kongres. Ia kemudian terpilih kembali pada 2019 dengan mayoritas yang bahkan lebih besar, dan kembali memenangkan pemilu untuk ketiga kalinya pada 2024 meskipun harus membentuk pemerintahan koalisi.</p><p>Pada 10 Juni 2026, Modi mencatat rekor bersejarah: ia menjadi Perdana Menteri India yang paling lama menjabat secara berturut-turut, melampaui 4.399 hari masa jabatan Jawaharlal Nehru. Pencapaian ini disambut ucapan selamat dari para pemimpin dunia, termasuk Duta Besar AS untuk India. Dalam 12 tahun kepemimpinannya, lebih dari 250 juta rakyat India berhasil keluar dari kemiskinan absolut.</p><p>Di bidang kebijakan, Modi dikenal dengan program-program ambisius seperti "Make in India," "Digital India," pembangunan infrastruktur masif, serta program jaminan sosial yang menjangkau ratusan juta warga miskin. Di panggung internasional, ia aktif mengangkat profil India melalui keanggotaan G7 sebagai tamu undangan, kunjungan ke Eropa dan Timur Tengah, serta memosisikan India sebagai kekuatan global yang diperhitungkan.</p><p>Modi juga menuai kritik atas isu-isu kebebasan pers, hak-hak minoritas Muslim, dan meningkatnya nasionalisme Hindu di bawah pemerintahannya. Namun, pengaruh dan kepopulerannya di dalam negeri tetap luar biasa kuat, menjadikannya salah satu pemimpin paling berpengaruh di Asia saat ini.</p>',
+            source: 'Britannica',
+            sourceUrl: 'https://www.britannica.com/biography/Narendra-Modi',
+            sourceSnippet: 'Narendra Modi — first elected prime minister of India in 2014, served three consecutive terms as of 2025 — Britannica',
+            source2: 'Arab News',
+            sourceUrl2: 'https://www.arabnews.com/node/2646659/amp',
+            sourceSnippet2: 'Modi becomes India\'s longest-serving elected prime minister — Arab News, Juni 2026',
+            source3: 'The News Mill',
+            sourceUrl3: 'https://thenewsmill.com/2026/06/pm-modi-completes-12-years-as-indias-longest-serving-prime-minister/',
+            sourceSnippet3: 'PM Modi completes 12 years as India\'s longest-serving prime minister — The News Mill, 10 Juni 2026',
+            source4: 'Tribune India',
+            sourceUrl4: 'https://www.tribuneindia.com/news/world/8th-consecutive-presence-reflects-growing-global-profile-pm-modi-ahead-of-participation-in-g7/',
+            sourceSnippet4: '8th consecutive G7 presence reflects Modi\'s growing global profile — Tribune India, Juni 2026'
+          },
+          en: {
+            title: 'Narendra Modi — India\'s Longest-Serving PM & Architect of India\'s Rise',
+            desc: 'Narendra Modi has been India\'s Prime Minister since 2014. On June 10, 2026, he made history as India\'s longest-serving consecutive Prime Minister, surpassing Jawaharlal Nehru\'s record with 4,399 days in office.',
+            body: '<p>Narendra Damodardas Modi was born on September 17, 1950 in Vadnagar, Gujarat, India. He came from a humble family — his father sold tea at a local railway station. His youth was spent actively in the Rashtriya Swayamsevak Sangh (RSS), a Hindu nationalist organization, before joining the Bharatiya Janata Party (BJP) and rising to become India\'s most influential politician.</p><p>Modi served as Chief Minister of Gujarat for three consecutive terms (2001–2014) before being elected Prime Minister of India in 2014 with a landslide victory that ended the Congress Party\'s long dominance. He was re-elected in 2019 with an even larger majority, and won a third term in the 2024 elections, though he had to form a coalition government.</p><p>On June 10, 2026, Modi set a historic record: he became India\'s longest-serving consecutive Prime Minister, surpassing Jawaharlal Nehru\'s 4,399 days in office. This achievement was greeted with congratulations from world leaders, including the US Ambassador to India. In 12 years of his leadership, more than 250 million Indians have been lifted out of absolute poverty.</p><p>On the policy front, Modi is known for ambitious programs such as "Make in India," "Digital India," massive infrastructure development, and social welfare programs reaching hundreds of millions of poor citizens. On the international stage, he has actively raised India\'s profile through G7 membership as an invited guest, visits to Europe and the Middle East, and positioning India as a rising global power.</p><p>Modi has also faced criticism over press freedom issues, the rights of Muslim minorities, and rising Hindu nationalism under his government. However, his domestic influence and popularity remain extraordinarily strong, making him one of Asia\'s most influential leaders today.</p>',
+            source: 'Britannica',
+            sourceUrl: 'https://www.britannica.com/biography/Narendra-Modi',
+            sourceSnippet: 'Narendra Modi — first elected prime minister of India in 2014, served three consecutive terms — Britannica',
+            source2: 'Arab News',
+            sourceUrl2: 'https://www.arabnews.com/node/2646659/amp',
+            sourceSnippet2: 'Modi becomes India\'s longest-serving elected prime minister — Arab News, June 2026',
+            source3: 'The News Mill',
+            sourceUrl3: 'https://thenewsmill.com/2026/06/pm-modi-completes-12-years-as-indias-longest-serving-prime-minister/',
+            sourceSnippet3: 'PM Modi completes 12 years as India\'s longest-serving prime minister — June 10 2026',
+            source4: 'Tribune India',
+            sourceUrl4: 'https://www.tribuneindia.com/news/world/8th-consecutive-presence-reflects-growing-global-profile-pm-modi-ahead-of-participation-in-g7/',
+            sourceSnippet4: '8th consecutive G7 presence reflects Modi\'s growing global profile — Tribune India, June 2026'
+          },
+          ja: {
+            title: 'ナレンドラ・モディ — インド史上最長在任首相・インド躍進の設計者',
+            desc: 'ナレンドラ・モディは2014年からインド首相を務める。2026年6月10日、連続在任日数4,399日でジャワハルラール・ネルーの記録を破り、インド史上最長在任首相となった。',
+            body: '<p>ナレンドラ・ダモダルダス・モディは1950年9月17日、インド・グジャラート州ヴァドナガル生まれ。駅前でチャイを売る父親のもとで育ち、青年時代はヒンドゥー民族主義団体RSS（民族奉仕団）で活動。その後インド人民党（BJP）に入党し、インド最大の政治的影響力を持つ人物へと上り詰めた。</p><p>グジャラート州首相を3期連続で務めた後（2001–2014年）、2014年の総選挙でインド国民会議派の長期政権を打倒し首相に就任。2019年、2024年と3期連続当選を果たした。2026年6月10日、ネルーの4,399日の在任記録を更新し、インド史上最長連続在任首相となった。在任12年で2億5,000万人以上の国民が絶対的貧困から脱出した。</p>',
+            source: 'Britannica',
+            sourceUrl: 'https://www.britannica.com/biography/Narendra-Modi',
+            sourceSnippet: 'ナレンドラ・モディ — 2014年初当選、2025年時点で3期連続在任 — Britannica'
+          },
+          ko: {
+            title: '나렌드라 모디 — 인도 역사상 최장 재임 총리 & 인도 부상의 설계자',
+            desc: '나렌드라 모디는 2014년부터 인도 총리를 맡고 있다. 2026년 6월 10일, 연속 재임 4,399일로 자와할랄 네루의 기록을 경신해 인도 역사상 최장 연속 재임 총리가 됐다.',
+            body: '<p>나렌드라 다모다르다스 모디는 1950년 9월 17일 인도 구자라트주 바드나가르 출생. 기차역에서 차이를 팔던 아버지 밑에서 성장한 그는 청년기에 힌두 민족주의 단체 RSS에서 활동했고, 이후 인도국민당(BJP)에 입당해 인도 최대의 정치적 영향력을 가진 인물로 성장했다.</p><p>2001~2014년 구자라트 주총리를 3선 연임한 뒤, 2014년 총선에서 인도국민회의의 장기 집권을 끝내고 총리에 취임했다. 2019년과 2024년에도 연속 당선됐다. 2026년 6월 10일, 네루의 4,399일 재임 기록을 경신해 인도 역사상 최장 연속 재임 총리로 기록됐다. 12년 재임 기간 동안 2억 5,000만 명 이상의 인도인이 절대 빈곤에서 벗어났다.</p>',
+            source: 'Britannica',
+            sourceUrl: 'https://www.britannica.com/biography/Narendra-Modi',
+            sourceSnippet: '나렌드라 모디 — 2014년 첫 당선, 2025년 기준 3선 연임 — Britannica'
+          },
+          zh: {
+            title: '纳伦德拉·莫迪 — 印度史上最长任期总理与印度崛起的设计师',
+            desc: '纳伦德拉·莫迪自2014年起担任印度总理。2026年6月10日，他以连续在任4,399天打破贾瓦哈拉尔·尼赫鲁的记录，成为印度历史上连续在任时间最长的总理。',
+            body: '<p>纳伦德拉·达摩达尔达斯·莫迪1950年9月17日生于印度古吉拉特邦瓦德纳加尔，出身贫寒——父亲在当地火车站卖茶。青年时期活跃于印度教民族主义组织国民志愿服务团（RSS），后加入印度人民党（BJP），成长为印度最具影响力的政治人物。</p><p>在担任古吉拉特邦首席部长三届（2001-2014年）后，2014年大选中结束了国大党的长期执政，出任总理。2019年和2024年两度连任。2026年6月10日，以连续在任4,399天打破尼赫鲁纪录，成为印度史上连续在任时间最长的总理。12年执政期间，超过2.5亿印度人摆脱绝对贫困。</p>',
+            source: 'Britannica',
+            sourceUrl: 'https://www.britannica.com/biography/Narendra-Modi',
+            sourceSnippet: '纳伦德拉·莫迪 — 2014年首次当选，截至2025年已连任三届 — 大英百科全书'
+          }
+        }
+      },
+      {
+        id: 'india-satya-nadella',
+        langs: {
+          id: {
+            title: 'Satya Nadella — CEO Microsoft, Peringatkan "AI Jangan Sampai Melahap Ekonomi"',
+            desc: 'Satya Nadella adalah CEO dan Chairman Microsoft yang memimpin transformasi perusahaan menjadi raksasa AI. Pada Juni 2026, ia melontarkan kritik tajam terhadap raksasa teknologi lain, menyerukan bahwa perusahaan AI harus "mendapatkan izin sosial" dari masyarakat, meski Microsoft sendiri berencana melakukan PHK ribuan karyawan.',
+            body: '<p>Satya Narayana Nadella lahir pada 19 Agustus 1967 di Hyderabad, India. Ia meraih gelar sarjana teknik elektro dari Manipal Institute of Technology, dilanjutkan dengan gelar master di bidang ilmu komputer dari University of Wisconsin–Milwaukee dan MBA dari University of Chicago. Nadella bergabung dengan Microsoft pada 1992 dan meniti karier selama lebih dari tiga dekade di perusahaan tersebut.</p><p>Pada 2014, Nadella diangkat sebagai CEO ketiga Microsoft, menggantikan Steve Ballmer. Di bawah kepemimpinannya, Microsoft bertransformasi dari perusahaan software tradisional menjadi kekuatan dominan dalam komputasi awan (Azure) dan kecerdasan buatan, terutama melalui kemitraan strategisnya dengan OpenAI. Nilai pasar Microsoft melonjak drastis selama masa jabatannya, menjadikan perusahaan tersebut salah satu yang paling berharga di dunia.</p><p>Pada 10 Juni 2026, dalam acara Hard Fork Live milik New York Times, Nadella menyampaikan pandangan bahwa "semua orang adalah pemangku kepentingan" dalam perkembangan AI, menanggapi kekhawatiran publik yang meningkat terhadap dampak sosial teknologi tersebut. Sepekan kemudian, dalam wawancara eksklusif dengan Wall Street Journal, ia melontarkan kritik tajam bahwa raksasa-raksasa AI "tidak boleh melahap ekonomi" dan menyerukan agar perusahaan teknologi mendapatkan "izin sosial" dari masyarakat sebelum melangkah lebih jauh.</p><p>Ironisnya, pada awal Juli 2026, Microsoft dilaporkan berencana melakukan PHK terhadap ribuan karyawan tambahan sebagai bagian dari efisiensi biaya, memengaruhi kurang dari 2,5% tenaga kerja perusahaan di divisi penjualan, konsultasi, dan Xbox — di tengah investasi besar-besaran perusahaan pada infrastruktur AI. Kontradiksi ini memicu perdebatan tentang konsistensi antara retorika kepemimpinan Nadella dan kebijakan internal Microsoft.</p><p>Di tengah dinamika tersebut, Nadella juga aktif menjalin hubungan diplomatik-bisnis internasional, termasuk kunjungan ke Australia pada akhir Juni 2026 di mana ia bertemu dengan Perdana Menteri Anthony Albanese untuk membahas investasi teknologi Microsoft di negara tersebut.</p>',
+            source: 'WSJ',
+            sourceUrl: 'https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f',
+            sourceSnippet: 'Microsoft\'s Satya Nadella: We Can\'t Let AI Giants Eat the Economy — WSJ, Juni 2026',
+            source2: 'NYT',
+            sourceUrl2: 'https://www.nytimes.com/2026/06/10/technology/microsoft-satya-nadella-artificial-intelligence.html',
+            sourceSnippet2: 'Microsoft CEO Satya Nadella Says \'Everyone Is a Stakeholder\' in AI — NYT, 10 Juni 2026',
+            source3: 'Business Insider',
+            sourceUrl3: 'https://www.businessinsider.com/microsoft-job-cuts-layoffs-sales-consulting-2026-6',
+            sourceSnippet3: 'Microsoft plans thousands of job cuts, impacting less than 2.5% of workforce — Business Insider, Juli 2026',
+            source4: 'Fortune',
+            sourceUrl4: 'https://fortune.com/2026/07/01/microsoft-may-cut-thousands-more-jobs-control-costs/',
+            sourceSnippet4: 'Microsoft may cut thousands more jobs in a bid to control costs — Fortune, 1 Juli 2026'
+          },
+          en: {
+            title: 'Satya Nadella — Microsoft CEO, Warns "AI Giants Can\'t Be Allowed to Eat the Economy"',
+            desc: 'Satya Nadella is Microsoft\'s CEO and Chairman who led the company\'s transformation into an AI powerhouse. In June 2026, he issued sharp criticism of other tech giants, calling for AI companies to "earn social permission" from society, even as Microsoft itself plans to lay off thousands of employees.',
+            body: '<p>Satya Narayana Nadella was born on August 19, 1967 in Hyderabad, India. He earned a bachelor\'s degree in electrical engineering from Manipal Institute of Technology, followed by a master\'s degree in computer science from the University of Wisconsin–Milwaukee and an MBA from the University of Chicago. Nadella joined Microsoft in 1992 and built a career spanning more than three decades at the company.</p><p>In 2014, Nadella was appointed Microsoft\'s third CEO, succeeding Steve Ballmer. Under his leadership, Microsoft transformed from a traditional software company into a dominant force in cloud computing (Azure) and artificial intelligence, especially through its strategic partnership with OpenAI. Microsoft\'s market value soared dramatically during his tenure, making the company one of the world\'s most valuable.</p><p>On June 10, 2026, at The New York Times\'s Hard Fork Live event, Nadella expressed the view that "everyone is a stakeholder" in AI development, responding to growing public concern over the technology\'s social impact. A week later, in an exclusive interview with the Wall Street Journal, he issued sharp criticism that AI giants "can\'t be allowed to eat the economy" and called for tech companies to earn "social permission" from society before advancing further.</p><p>Ironically, in early July 2026, Microsoft was reported to be planning layoffs of thousands of additional employees as part of cost efficiency measures, affecting less than 2.5% of the company\'s workforce in sales, consulting, and Xbox divisions — amid the company\'s massive investment in AI infrastructure. This contradiction sparked debate over the consistency between Nadella\'s leadership rhetoric and Microsoft\'s internal policies.</p><p>Amid these dynamics, Nadella also remains active in international diplomatic-business relations, including a visit to Australia in late June 2026 where he met with Prime Minister Anthony Albanese to discuss Microsoft\'s technology investments in the country.</p>',
+            source: 'WSJ',
+            sourceUrl: 'https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f',
+            sourceSnippet: 'Microsoft\'s Satya Nadella: We Can\'t Let AI Giants Eat the Economy — WSJ, June 2026',
+            source2: 'NYT',
+            sourceUrl2: 'https://www.nytimes.com/2026/06/10/technology/microsoft-satya-nadella-artificial-intelligence.html',
+            sourceSnippet2: 'Microsoft CEO Satya Nadella Says \'Everyone Is a Stakeholder\' in AI — NYT, June 10 2026',
+            source3: 'Business Insider',
+            sourceUrl3: 'https://www.businessinsider.com/microsoft-job-cuts-layoffs-sales-consulting-2026-6',
+            sourceSnippet3: 'Microsoft plans thousands of job cuts, impacting less than 2.5% of workforce — Business Insider, July 2026',
+            source4: 'Fortune',
+            sourceUrl4: 'https://fortune.com/2026/07/01/microsoft-may-cut-thousands-more-jobs-control-costs/',
+            sourceSnippet4: 'Microsoft may cut thousands more jobs in a bid to control costs — Fortune, July 1 2026'
+          },
+          ja: {
+            title: 'サティア・ナデラ — マイクロソフトCEO、「AI巨人は経済を食い尽くしてはならない」と警鐘',
+            desc: 'サティア・ナデラはマイクロソフトをAI大国へと変貌させたCEO兼会長。2026年6月、AI企業は社会から「社会的許可」を得るべきだと他のテック巨人を鋭く批判した一方、自社は数千人規模の追加解雇を計画している。',
+            body: '<p>サティア・ナラヤナ・ナデラは1967年8月19日、インド・ハイデラバード生まれ。マニパル工科大学で電気工学の学士号、ウィスコンシン大学ミルウォーキー校でコンピューターサイエンスの修士号、シカゴ大学でMBAを取得。1992年マイクロソフト入社後、30年以上のキャリアを積んだ。</p><p>2014年、スティーブ・バルマーの後任として第3代CEOに就任。クラウド（Azure）とAIの分野でOpenAIとの戦略提携を通じマイクロソフトを変革し、時価総額を大幅に押し上げた。</p><p>2026年6月10日、ニューヨーク・タイムズのHard Fork Liveイベントで「誰もがAIの利害関係者」と発言。1週間後のウォール・ストリート・ジャーナルの独占インタビューでは、AI巨大企業が「経済を食い尽くしてはならない」と厳しく批判し、社会からの「許可」を得る必要性を訴えた。しかし2026年7月初旬、マイクロソフトは営業・コンサルティング・Xboxなど部門で数千人規模の追加解雇を計画していると報じられ、この矛盾が議論を呼んだ。</p>',
+            source: 'WSJ',
+            sourceUrl: 'https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f',
+            sourceSnippet: 'マイクロソフトのナデラ「AI巨人が経済を食い尽くしてはならない」— WSJ 2026年6月'
+          },
+          ko: {
+            title: '사티아 나델라 — 마이크로소프트 CEO, "AI 거대기업이 경제를 잠식해선 안 된다" 경고',
+            desc: '사티아 나델라는 마이크로소프트를 AI 강자로 변모시킨 CEO 겸 회장. 2026년 6월, AI 기업들이 사회로부터 "사회적 허가"를 받아야 한다며 다른 테크 거대기업들을 신랄하게 비판했지만, 정작 자사는 수천 명 규모의 추가 정리해고를 계획하고 있다.',
+            body: '<p>사티아 나라야나 나델라는 1967년 8월 19일 인도 하이데라바드 출생. 마니팔 공과대학에서 전기공학 학사, 위스콘신-밀워키 대학에서 컴퓨터과학 석사, 시카고 대학에서 MBA를 취득했다. 1992년 마이크로소프트에 입사해 30년 넘게 경력을 쌓았다.</p><p>2014년 스티브 발머의 뒤를 이어 제3대 CEO에 취임했다. 클라우드(애저)와 AI 분야에서 OpenAI와의 전략적 제휴를 통해 마이크로소프트를 변혁시켰고, 재임 기간 동안 시가총액이 급격히 상승했다.</p><p>2026년 6월 10일 뉴욕타임스의 하드포크 라이브 행사에서 "모두가 AI의 이해관계자"라고 발언했다. 일주일 후 월스트리트저널과의 단독 인터뷰에서는 AI 거대기업들이 "경제를 잠식해선 안 된다"고 신랄하게 비판하며 사회로부터 "허가"를 받아야 한다고 촉구했다. 그러나 2026년 7월 초, 마이크로소프트가 영업·컨설팅·Xbox 부문에서 수천 명 규모의 추가 정리해고를 계획 중이라는 보도가 나오며 이러한 모순이 논란이 됐다.</p>',
+            source: 'WSJ',
+            sourceUrl: 'https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f',
+            sourceSnippet: '마이크로소프트 나델라 "AI 거대기업이 경제를 잠식해선 안 된다" — WSJ 2026년 6월'
+          },
+          zh: {
+            title: '萨提亚·纳德拉 — 微软CEO，警告"AI巨头不能吞噬经济"',
+            desc: '萨提亚·纳德拉是带领微软转型为AI强国的CEO兼董事长。2026年6月，他尖锐批评其他科技巨头，呼吁AI公司应从社会获得"社会许可"，尽管微软自身正计划裁减数千名员工。',
+            body: '<p>萨提亚·纳拉亚纳·纳德拉1967年8月19日生于印度海得拉巴。他在马尼帕尔理工学院获电气工程学士学位，后在威斯康星大学密尔沃基分校获计算机科学硕士学位，并在芝加哥大学取得MBA学位。1992年加入微软，在公司工作超过三十年。</p><p>2014年接替史蒂夫·鲍尔默出任第三任CEO。在他的领导下，微软通过与OpenAI的战略合作，从传统软件公司转型为云计算（Azure）和人工智能领域的主导力量，公司市值大幅飙升。</p><p>2026年6月10日，在《纽约时报》Hard Fork Live活动上，纳德拉表示"人人都是AI的利益相关者"。一周后，在接受《华尔街日报》独家采访时，他尖锐批评AI巨头"不能吞噬经济"，并呼吁科技公司应先获得社会的"许可"。然而，2026年7月初，据报道微软计划在销售、咨询和Xbox部门裁减数千名员工，这一矛盾引发了广泛讨论。</p>',
+            source: 'WSJ',
+            sourceUrl: 'https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f',
+            sourceSnippet: '微软纳德拉："AI巨头不能吞噬经济" — 华尔街日报，2026年6月'
+          }
+        }
+      },
+      {
+        id: 'india-sundar-pichai',
+        langs: {
+          id: {
+            title: 'Sundar Pichai — CEO Google & Alphabet, Pimpin Perlombaan AI Senilai $80 Miliar',
+            desc: 'Sundar Pichai adalah CEO Google dan perusahaan induknya Alphabet. Pada 2026, ia memimpin Alphabet menggalang dana $80 miliar untuk mempercepat pengembangan infrastruktur AI, termasuk investasi $10 miliar dari Berkshire Hathaway milik Warren Buffett.',
+            body: '<p>Sundar Pichai lahir dengan nama Pichai Sundararajan pada 12 Juli 1972 di Madurai, Tamil Nadu, India. Ia meraih gelar sarjana teknik metalurgi dari Indian Institute of Technology Kharagpur, dilanjutkan dengan gelar master di bidang teknik material dari Stanford University dan MBA dari Wharton School, University of Pennsylvania.</p><p>Pichai bergabung dengan Google pada 2004 dan berperan penting dalam pengembangan produk-produk kunci seperti Google Chrome, Chrome OS, dan Android. Kepemimpinannya yang tenang namun visioner membawanya diangkat sebagai CEO Google pada 2015, dan kemudian sebagai CEO Alphabet Inc. — perusahaan induk Google — pada 2019, menggantikan pendiri Google Larry Page dan Sergey Brin.</p><p>Pada Juni 2026, di bawah kepemimpinan Pichai, Alphabet mengumumkan rencana penggalangan dana sebesar $80 miliar melalui penjualan saham untuk mendanai pembangunan infrastruktur kecerdasan buatan skala besar. Yang menarik, kesepakatan ini mencakup investasi senilai $10 miliar dari Berkshire Hathaway milik Warren Buffett — sebuah langkah signifikan mengingat Buffett dikenal historis berhati-hati terhadap investasi di sektor teknologi.</p><p>Dalam laporan pendapatan kuartal pertama 2026, Pichai menyampaikan bahwa perusahaan mengalami awal tahun yang sangat kuat, didorong oleh pertumbuhan pesat lini bisnis AI Google. Majalah TIME turut mengakui kontribusinya dengan menobatkan Alphabet dalam daftar "Perusahaan Paling Berpengaruh" tahun 2026, menyoroti bagaimana Pichai berhasil mendorong Google ke garis depan perlombaan kecerdasan buatan global melawan OpenAI dan Microsoft.</p><p>Meski demikian, kepemimpinan Pichai tidak lepas dari kontroversi. Pada Juni 2026, pidato kelulusan optimistisnya di Stanford University memicu aksi walk-out dari sejumlah mahasiswa yang memprotes kehadirannya, terkait sikap dan kebijakan Google atas isu Israel-Gaza. Terlepas dari kontroversi tersebut, Pichai tetap menjadi salah satu eksekutif teknologi paling berpengaruh di dunia.</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html',
+            sourceSnippet: 'Alphabet plans to raise $80 billion from stock sales to fund AI build-out — CNBC, 1 Juni 2026',
+            source2: 'Al Jazeera',
+            sourceUrl2: 'https://www.aljazeera.com/economy/2026/6/2/google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans',
+            sourceSnippet2: 'Google parent Alphabet to sell $80bn in stock to fund AI plans, includes Berkshire deal — Al Jazeera, 2 Juni 2026',
+            source3: 'TIME',
+            sourceUrl3: 'https://time.com/collection/time100-most-influential-companies/2026/alphabet/',
+            sourceSnippet3: 'How Sundar Pichai Pushed Google To the Front of the AI Race — TIME, 30 April 2026',
+            source4: 'Mercury News',
+            sourceUrl4: 'https://www.mercurynews.com/2026/06/14/stanford-google-sundar-pichai-israel-gaza/',
+            sourceSnippet4: 'Google CEO brought optimism to Stanford commencement; some graduates walked out — Mercury News, 14 Juni 2026'
+          },
+          en: {
+            title: 'Sundar Pichai — Google & Alphabet CEO, Leading the $80 Billion AI Race',
+            desc: 'Sundar Pichai is CEO of Google and its parent company Alphabet. In 2026, he led Alphabet in raising $80 billion to accelerate AI infrastructure development, including a $10 billion investment from Warren Buffett\'s Berkshire Hathaway.',
+            body: '<p>Sundar Pichai was born Pichai Sundararajan on July 12, 1972 in Madurai, Tamil Nadu, India. He earned a bachelor\'s degree in metallurgical engineering from the Indian Institute of Technology Kharagpur, followed by a master\'s degree in materials engineering from Stanford University and an MBA from the Wharton School, University of Pennsylvania.</p><p>Pichai joined Google in 2004 and played a key role in developing important products such as Google Chrome, Chrome OS, and Android. His calm yet visionary leadership led to his appointment as Google\'s CEO in 2015, and later as CEO of Alphabet Inc. — Google\'s parent company — in 2019, succeeding Google founders Larry Page and Sergey Brin.</p><p>In June 2026, under Pichai\'s leadership, Alphabet announced plans to raise $80 billion through stock sales to fund large-scale artificial intelligence infrastructure development. Notably, the deal includes a $10 billion investment from Warren Buffett\'s Berkshire Hathaway — a significant move given Buffett\'s historically cautious approach to tech sector investments.</p><p>In the Q1 2026 earnings report, Pichai stated that the company had a very strong start to the year, driven by rapid growth in Google\'s AI business line. TIME magazine recognized his contribution by naming Alphabet in its "Most Influential Companies" list for 2026, highlighting how Pichai successfully pushed Google to the front of the global AI race against OpenAI and Microsoft.</p><p>Nevertheless, Pichai\'s leadership has not been without controversy. In June 2026, his optimistic commencement speech at Stanford University sparked a walkout by several students protesting his presence, related to Google\'s stance and policies on the Israel-Gaza issue. Despite this controversy, Pichai remains one of the world\'s most influential tech executives.</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html',
+            sourceSnippet: 'Alphabet plans to raise $80 billion from stock sales to fund AI build-out — CNBC, June 1 2026',
+            source2: 'Al Jazeera',
+            sourceUrl2: 'https://www.aljazeera.com/economy/2026/6/2/google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans',
+            sourceSnippet2: 'Google parent Alphabet to sell $80bn in stock to fund AI plans, includes Berkshire deal — Al Jazeera, June 2 2026',
+            source3: 'TIME',
+            sourceUrl3: 'https://time.com/collection/time100-most-influential-companies/2026/alphabet/',
+            sourceSnippet3: 'How Sundar Pichai Pushed Google To the Front of the AI Race — TIME, April 30 2026',
+            source4: 'Mercury News',
+            sourceUrl4: 'https://www.mercurynews.com/2026/06/14/stanford-google-sundar-pichai-israel-gaza/',
+            sourceSnippet4: 'Google CEO brought optimism to Stanford commencement; some graduates walked out — Mercury News, June 14 2026'
+          },
+          ja: {
+            title: 'サンダー・ピチャイ — Google・Alphabet CEO、800億ドルのAI競争を主導',
+            desc: 'サンダー・ピチャイはGoogleと親会社AlphabetのCEO。2026年、AIインフラ開発加速のため800億ドルの資金調達をAlphabetに主導させ、ウォーレン・バフェットのバークシャー・ハサウェイから100億ドルの投資を獲得した。',
+            body: '<p>サンダー・ピチャイ（本名ピチャイ・スンダラーラジャン）は1972年7月12日、インド・タミルナードゥ州マドゥライ生まれ。インド工科大学カラグプル校で冶金工学の学士号、スタンフォード大学で材料工学の修士号、ペンシルベニア大学ウォートン校でMBAを取得。</p><p>2004年にGoogleに入社し、Chrome、Chrome OS、Androidなど主要製品開発で重要な役割を果たした。2015年にGoogle CEOに、2019年には親会社AlphabetのCEOに就任し、創業者ラリー・ペイジとセルゲイ・ブリンの後を継いだ。</p><p>2026年6月、ピチャイの指導下でAlphabetは大規模AIインフラ構築資金として800億ドルの株式売却計画を発表。この中にはウォーレン・バフェットのバークシャー・ハサウェイによる100億ドルの投資が含まれており、注目を集めた。TIME誌は2026年の「最も影響力ある企業」リストにAlphabetを選出し、ピチャイがOpenAIやマイクロソフトとのAI競争でGoogleを最前線に押し上げた功績を評価した。</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html',
+            sourceSnippet: 'Alphabet、AIインフラ構築資金として800億ドル調達計画 — CNBC 2026年6月1日'
+          },
+          ko: {
+            title: '순다르 피차이 — 구글·알파벳 CEO, 800억 달러 AI 경쟁 주도',
+            desc: '순다르 피차이는 구글과 모회사 알파벳의 CEO. 2026년, AI 인프라 개발 가속화를 위해 알파벳이 800억 달러를 조달하도록 주도했으며, 워런 버핏의 버크셔 해서웨이로부터 100억 달러 투자를 유치했다.',
+            body: '<p>순다르 피차이(본명 피차이 순다라라잔)는 1972년 7월 12일 인도 타밀나두주 마두라이 출생. 인도공과대학 카라그푸르에서 야금공학 학사, 스탠퍼드 대학에서 재료공학 석사, 펜실베이니아 대학 와튼스쿨에서 MBA를 취득했다.</p><p>2004년 구글에 입사해 크롬, 크롬OS, 안드로이드 등 핵심 제품 개발에 중요한 역할을 했다. 2015년 구글 CEO, 2019년에는 모회사 알파벳 CEO에 취임하며 창업자 래리 페이지와 세르게이 브린의 뒤를 이었다.</p><p>2026년 6월, 피차이의 지휘 아래 알파벳은 대규모 AI 인프라 구축 자금으로 800억 달러 규모의 주식 매각 계획을 발표했다. 이 거래에는 워런 버핏의 버크셔 해서웨이가 참여한 100억 달러 투자가 포함돼 주목받았다. 타임지는 2026년 "가장 영향력 있는 기업" 목록에 알파벳을 선정하며, 피차이가 OpenAI 및 마이크로소프트와의 AI 경쟁에서 구글을 선두로 이끈 공로를 평가했다.</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html',
+            sourceSnippet: '알파벳, AI 인프라 구축 자금으로 800억 달러 조달 계획 — CNBC 2026년 6월 1일'
+          },
+          zh: {
+            title: '桑达尔·皮查伊 — 谷歌与Alphabet CEO，领导800亿美元AI竞赛',
+            desc: '桑达尔·皮查伊是谷歌及其母公司Alphabet的CEO。2026年，他领导Alphabet筹集800亿美元以加速AI基础设施建设，其中包括沃伦·巴菲特旗下伯克希尔哈撒韦100亿美元的投资。',
+            body: '<p>桑达尔·皮查伊（本名皮查伊·孙达拉拉扬）1972年7月12日生于印度泰米尔纳德邦马杜赖。他在印度理工学院卡拉格普尔分校获得冶金工程学士学位，随后在斯坦福大学获得材料工程硕士学位，并在宾夕法尼亚大学沃顿商学院取得MBA学位。</p><p>2004年加入谷歌，在Chrome、Chrome OS和安卓等核心产品开发中发挥了重要作用。2015年出任谷歌CEO，2019年接替创始人拉里·佩奇和谢尔盖·布林出任母公司Alphabet的CEO。</p><p>2026年6月，在皮查伊领导下，Alphabet宣布计划通过股票出售筹集800亿美元，用于大规模人工智能基础设施建设。值得注意的是，此交易包括沃伦·巴菲特旗下伯克希尔哈撒韦100亿美元的投资。《时代》杂志将Alphabet评为2026年"最具影响力公司"之一，肯定了皮查伊带领谷歌在与OpenAI和微软的AI竞赛中占据领先地位的贡献。</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html',
+            sourceSnippet: 'Alphabet计划通过股票出售筹集800亿美元建设AI基础设施 — CNBC，2026年6月1日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
