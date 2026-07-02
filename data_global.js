@@ -1096,6 +1096,133 @@
           }
         }
       }
+      ,
+      {
+        id: 'global-tim-cook',
+        langs: {
+          id: {
+            title: 'Tim Cook — CEO Apple yang Akan Purna Tugas, Hadapi Tantangan Harga & Regulasi Eropa',
+            desc: 'Tim Cook adalah CEO Apple yang telah memimpin perusahaan sejak 2011 dan kini dalam status "outgoing CEO" menjelang masa transisi kepemimpinan. Pada awal Juli 2026, ia mengadakan pembicaraan konstruktif dengan Komisioner Teknologi Uni Eropa terkait ekspansi Siri AI di tengah kenaikan harga produk Apple.',
+            body: '<p>Timothy Donald Cook lahir pada 1 November 1960 di Mobile, Alabama, AS. Ia meraih gelar sarjana teknik industri dari Auburn University dan MBA dari Duke University. Sebelum bergabung dengan Apple, Cook membangun karier panjang di IBM dan Compaq, mengasah keahliannya dalam manajemen rantai pasokan yang kelak menjadi salah satu kekuatan terbesarnya di Apple.</p><p>Cook bergabung dengan Apple pada 1998 di bawah kepemimpinan Steve Jobs, dan pada 2011 ia resmi diangkat sebagai CEO menggantikan Jobs yang mengundurkan diri karena alasan kesehatan. Di bawah kepemimpinannya, Apple menjadi perusahaan publik pertama di dunia yang mencapai valuasi pasar $1 triliun, kemudian $2 triliun, dan $3 triliun — sebuah pencapaian luar biasa yang mengukuhkan warisannya sebagai salah satu CEO paling sukses dalam sejarah bisnis modern.</p><p>Pada Juni 2026, dalam Worldwide Developers Conference (WWDC) terakhirnya sebagai CEO, Apple mengumumkan peluncuran teknologi Siri AI generasi baru beserta pembaruan Apple Intelligence dan kontrol parental yang lebih kuat. Konferensi tersebut menandai akhir era kepemimpinan Cook di panggung pengembang tahunan Apple yang paling dinanti.</p><p>Pada 1 Juli 2026, Cook mengadakan panggilan video "konstruktif" dengan Komisioner Teknologi Uni Eropa, Henna Virkkunen, membahas ekspansi Siri AI di Eropa setelah sebelumnya terjadi ketegangan regulasi antara Apple dan otoritas Uni Eropa. Pembicaraan ini menjadi sorotan penting mengingat pengawasan ketat UE terhadap raksasa teknologi Amerika di bawah Digital Markets Act.</p><p>Di sisi lain, Apple menghadapi tekanan pasar setelah mengumumkan kenaikan harga produk MacBook dan iPad akibat lonjakan biaya chip memori — kebijakan yang membuat saham Apple mengalami hari terburuk dalam lebih dari setahun pada akhir Juni 2026. Meski menghadapi berbagai tantangan menjelang purna tugasnya, Cook tetap dikenang sebagai arsitek salah satu era paling menguntungkan dalam sejarah Apple.</p>',
+            source: 'ABC News',
+            sourceUrl: 'https://abcnews.com/GMA/News/apple-announces-siri-ai-tim-cooks-worldwide-developers/story?id=133694181',
+            sourceSnippet: 'Apple announces Siri AI and more at Tim Cook\'s last Worldwide Developers Conference — ABC News',
+            source2: 'Reuters',
+            sourceUrl2: 'https://www.reuters.com/business/eu-tech-chief-apple-ceo-had-constructive-talk-topics-common-interest-2026-07-01/',
+            sourceSnippet2: 'EU says it held \'constructive\' talks with Apple CEO Cook after Siri AI clash — Reuters, 1 Juli 2026',
+            source3: 'CNBC',
+            sourceUrl3: 'https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html',
+            sourceSnippet3: 'Apple posts worst day in over a year after MacBook and iPad price hikes — CNBC, 25 Juni 2026',
+            source4: 'BBC',
+            sourceUrl4: 'https://www.bbc.com/news/articles/c3wyxvqdx1zo',
+            sourceSnippet4: 'Apple boss Tim Cook says prices to rise due to memory chip costs — BBC'
+          },
+          en: {
+            title: 'Tim Cook — Outgoing Apple CEO Facing Pricing Challenges & EU Regulatory Scrutiny',
+            desc: 'Tim Cook is Apple\'s CEO who has led the company since 2011 and is now the "outgoing CEO" ahead of a leadership transition. In early July 2026, he held constructive talks with the EU\'s Technology Commissioner regarding Siri AI expansion amid Apple product price hikes.',
+            body: '<p>Timothy Donald Cook was born on November 1, 1960 in Mobile, Alabama, USA. He earned a bachelor\'s degree in industrial engineering from Auburn University and an MBA from Duke University. Before joining Apple, Cook built a long career at IBM and Compaq, honing his supply chain management expertise which later became one of his greatest strengths at Apple.</p><p>Cook joined Apple in 1998 under Steve Jobs\' leadership, and in 2011 was officially appointed CEO succeeding Jobs, who resigned due to health reasons. Under his leadership, Apple became the world\'s first public company to reach a $1 trillion market valuation, then $2 trillion, and $3 trillion — an extraordinary achievement cementing his legacy as one of the most successful CEOs in modern business history.</p><p>In June 2026, at his final Worldwide Developers Conference (WWDC) as CEO, Apple announced the launch of new-generation Siri AI technology along with updated Apple Intelligence and stronger parental controls. The conference marked the end of Cook\'s leadership era at Apple\'s most anticipated annual developer stage.</p><p>On July 1, 2026, Cook held a "constructive" video call with EU Technology Commissioner Henna Virkkunen, discussing Siri AI expansion in Europe following prior regulatory tensions between Apple and EU authorities. This discussion drew significant attention given the EU\'s strict oversight of American tech giants under the Digital Markets Act.</p><p>Meanwhile, Apple faced market pressure after announcing price hikes for MacBook and iPad products due to surging memory chip costs — a policy that caused Apple stock its worst day in over a year in late June 2026. Despite various challenges ahead of his retirement, Cook remains remembered as the architect of one of the most profitable eras in Apple\'s history.</p>',
+            source: 'ABC News',
+            sourceUrl: 'https://abcnews.com/GMA/News/apple-announces-siri-ai-tim-cooks-worldwide-developers/story?id=133694181',
+            sourceSnippet: 'Apple announces Siri AI and more at Tim Cook\'s last Worldwide Developers Conference — ABC News',
+            source2: 'Reuters',
+            sourceUrl2: 'https://www.reuters.com/business/eu-tech-chief-apple-ceo-had-constructive-talk-topics-common-interest-2026-07-01/',
+            sourceSnippet2: 'EU says it held \'constructive\' talks with Apple CEO Cook after Siri AI clash — Reuters, July 1 2026',
+            source3: 'CNBC',
+            sourceUrl3: 'https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html',
+            sourceSnippet3: 'Apple posts worst day in over a year after MacBook and iPad price hikes — CNBC, June 25 2026',
+            source4: 'BBC',
+            sourceUrl4: 'https://www.bbc.com/news/articles/c3wyxvqdx1zo',
+            sourceSnippet4: 'Apple boss Tim Cook says prices to rise due to memory chip costs — BBC'
+          },
+          ja: {
+            title: 'ティム・クック — 退任予定のAppleCEO、価格問題とEU規制に直面',
+            desc: 'ティム・クックは2011年からAppleを率いるCEOで、現在は指導部交代を控えた「退任予定CEO」。2026年7月初旬、Siri AI拡大についてEU技術担当委員と建設的な協議を行った。',
+            body: '<p>ティモシー・ドナルド・クックは1960年11月1日、米国アラバマ州モービル生まれ。オーバーン大学で産業工学の学士号、デューク大学でMBAを取得。IBMとコンパックでの長いキャリアを経てAppleに参加した。</p><p>1998年にスティーブ・ジョブズ体制下でAppleに入社、2011年に健康上の理由で退任したジョブズの後を継ぎCEOに就任。時価総額1兆ドル、2兆ドル、3兆ドルを達成した最初の上場企業へと導いた。</p><p>2026年6月、CEOとして最後のWWDCで新世代Siri AIとApple Intelligenceの更新、強化された保護者機能を発表。2026年7月1日には、EU技術担当委員ヘナ・ヴィルクネンとSiri AIの欧州展開について「建設的な」ビデオ通話を実施した。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/business/eu-tech-chief-apple-ceo-had-constructive-talk-topics-common-interest-2026-07-01/',
+            sourceSnippet: 'EU、Siri AI対立後にAppleCEOクックと「建設的」協議 — ロイター 2026年7月1日'
+          },
+          ko: {
+            title: '팀 쿡 — 퇴임 예정 애플 CEO, 가격 문제와 EU 규제 직면',
+            desc: '팀 쿡은 2011년부터 애플을 이끌어온 CEO로 현재는 리더십 전환을 앞둔 "퇴임 예정 CEO". 2026년 7월 초, Siri AI 확장에 대해 EU 기술 담당 위원과 건설적인 협의를 진행했다.',
+            body: '<p>티모시 도널드 쿡은 1960년 11월 1일 미국 앨라배마주 모빌 출생. 오번 대학에서 산업공학 학사, 듀크 대학에서 MBA를 취득했다. IBM과 컴팩에서 오랜 경력을 쌓은 후 애플에 합류했다.</p><p>1998년 스티브 잡스 체제 하에 애플에 입사했고, 2011년 건강상의 이유로 물러난 잡스의 뒤를 이어 CEO에 취임했다. 시가총액 1조 달러, 2조 달러, 3조 달러를 달성한 최초의 상장기업으로 이끌었다.</p><p>2026년 6월, CEO로서 마지막 WWDC에서 차세대 Siri AI와 애플 인텔리전스 업데이트, 강화된 자녀보호 기능을 발표했다. 2026년 7월 1일에는 EU 기술 담당 위원 헤나 비르쿠넨과 Siri AI의 유럽 확장에 대해 "건설적인" 화상 통화를 진행했다.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/business/eu-tech-chief-apple-ceo-had-constructive-talk-topics-common-interest-2026-07-01/',
+            sourceSnippet: 'EU, Siri AI 갈등 후 애플 CEO 쿡과 "건설적인" 협의 — 로이터 2026년 7월 1일'
+          },
+          zh: {
+            title: '蒂姆·库克 — 即将卸任的苹果CEO，面临定价挑战与欧盟监管审查',
+            desc: '蒂姆·库克自2011年起领导苹果公司，目前处于领导层交接前的"即将卸任CEO"状态。2026年7月初，他与欧盟技术专员就Siri AI扩展进行了建设性会谈。',
+            body: '<p>蒂莫西·唐纳德·库克1960年11月1日生于美国阿拉巴马州莫比尔。他在奥本大学获工业工程学士学位，在杜克大学取得MBA学位。此前在IBM和康柏积累了多年经验后加入苹果。</p><p>1998年在史蒂夫·乔布斯领导下加入苹果，2011年接替因健康原因辞职的乔布斯出任CEO。他带领苹果成为全球首家市值达到1万亿、2万亿及3万亿美元的上市公司。</p><p>2026年6月，在其作为CEO的最后一次全球开发者大会（WWDC）上，苹果宣布推出新一代Siri AI技术，并更新苹果智能及加强家长控制功能。2026年7月1日，库克与欧盟技术专员亨娜·维尔库宁就Siri AI在欧洲的扩展进行了"建设性"视频通话。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/business/eu-tech-chief-apple-ceo-had-constructive-talk-topics-common-interest-2026-07-01/',
+            sourceSnippet: '欧盟称与苹果CEO库克就Siri AI冲突进行"建设性"会谈 — 路透社，2026年7月1日'
+          }
+        }
+      },
+      {
+        id: 'global-sam-altman',
+        langs: {
+          id: {
+            title: 'Sam Altman — CEO OpenAI, Kisah Hidupnya Difilmkan Setelah Ditolak Amazon',
+            desc: 'Sam Altman adalah CEO OpenAI, perusahaan di balik ChatGPT yang memicu revolusi kecerdasan buatan global. Pada Juli 2026, film biografi tentang perjalanan hidupnya berjudul "Artificial" ditemukan rumah baru di studio indie Neon setelah Amazon mundur dari proyek tersebut.',
+            body: '<p>Samuel Harris Altman lahir pada 22 April 1985 di Chicago, Illinois, AS. Ia sempat kuliah di Stanford University namun drop out untuk mendirikan startup Loopt. Kariernya kemudian berlanjut sebagai Presiden akselerator startup ternama Y Combinator sebelum ia mengambil alih kepemimpinan OpenAI, laboratorium riset kecerdasan buatan yang awalnya didirikan sebagai organisasi nirlaba pada 2015.</p><p>Di bawah kepemimpinan Altman, OpenAI meluncurkan ChatGPT pada akhir 2022 — produk yang memicu revolusi adopsi kecerdasan buatan generatif secara massal di seluruh dunia. Altman sempat mengalami periode dramatis pada November 2023 ketika ia dipecat secara mendadak oleh dewan direksi OpenAI, sebelum akhirnya direinstatement hanya dalam hitungan hari setelah tekanan besar dari karyawan dan investor perusahaan.</p><p>Kisah dramatis inilah yang kini diangkat ke layar lebar dalam film berjudul "Artificial," disutradarai oleh Luca Guadagnino. Amazon awalnya berencana mendistribusikan film ini, namun mundur setelah perusahaan tersebut melakukan investasi besar di OpenAI — sebuah langkah yang dinilai menciptakan konflik kepentingan mengingat film tersebut digambarkan sebagai potret yang "menghantam" (bruising) terhadap Altman dan OpenAI.</p><p>Pada akhir Juni 2026, studio distribusi independen Neon resmi mengakuisisi hak distribusi film tersebut, memastikan kisah kontroversial perjalanan Altman tetap akan tayang di bioskop meski melalui jalur yang berbeda dari rencana awal. Film ini diperkirakan akan menjadi salah satu produksi paling banyak dibicarakan terkait industri kecerdasan buatan tahun ini.</p><p>Di sisi bisnis, OpenAI di bawah Altman terus memperluas infrastrukturnya, termasuk kemitraan dengan Broadcom untuk mengembangkan chip inferensi khusus LLM bernama "Jalapeño" — langkah strategis untuk mengurangi ketergantungan pada penyedia chip AI dominan seperti Nvidia, sekaligus memperkuat posisi OpenAI dalam perlombaan infrastruktur AI global yang semakin ketat.</p>',
+            source: 'Variety',
+            sourceUrl: 'https://variety.com/2026/film/global/neon-luca-guadagnino-artificial-openai-movie-amazon-1236787919/',
+            sourceSnippet: 'Neon Closes Deal for Luca Guadagnino\'s Sam Altman OpenAI Movie \'Artificial\' After Amazon Drops Film — Variety, 30 Juni 2026',
+            source2: 'NYT',
+            sourceUrl2: 'https://www.nytimes.com/2026/06/30/business/media/openai-movie-artificial-neon-amazon.html',
+            sourceSnippet2: 'Neon Buys \'Artificial,\' a Film About OpenAI, After Amazon Dropped It — NYT, 30 Juni 2026',
+            source3: 'Euronews',
+            sourceUrl3: 'https://www.euronews.com/next/2026/07/01/bruising-film-about-openai-picked-up-by-indie-studio-after-amazon-snub',
+            sourceSnippet3: '\'Bruising\' film on OpenAI picked up by indie studio after Amazon snub — Euronews, 1 Juli 2026',
+            source4: 'OpenAI',
+            sourceUrl4: 'https://openai.com/index/openai-broadcom-jalapeno-inference-chip/',
+            sourceSnippet4: 'OpenAI and Broadcom unveil LLM-optimized inference chip — OpenAI, Juni 2026'
+          },
+          en: {
+            title: 'Sam Altman — OpenAI CEO, Life Story Turned Into Film After Amazon Rejection',
+            desc: 'Sam Altman is CEO of OpenAI, the company behind ChatGPT that sparked a global AI revolution. In July 2026, a biographical film about his journey titled "Artificial" found a new home at indie studio Neon after Amazon dropped the project.',
+            body: '<p>Samuel Harris Altman was born on April 22, 1985 in Chicago, Illinois, USA. He attended Stanford University but dropped out to found the startup Loopt. His career continued as President of the renowned startup accelerator Y Combinator before he took over leadership of OpenAI, an AI research lab originally founded as a nonprofit organization in 2015.</p><p>Under Altman\'s leadership, OpenAI launched ChatGPT in late 2022 — a product that sparked a massive worldwide adoption revolution of generative artificial intelligence. Altman experienced a dramatic period in November 2023 when he was suddenly fired by OpenAI\'s board of directors, before being reinstated within days following massive pressure from employees and company investors.</p><p>This dramatic story is now being brought to the big screen in a film titled "Artificial," directed by Luca Guadagnino. Amazon initially planned to distribute the film but withdrew after the company made a major investment in OpenAI — a move seen as creating a conflict of interest given the film was described as a "bruising" portrait of Altman and OpenAI.</p><p>In late June 2026, independent distribution studio Neon officially acquired the film\'s distribution rights, ensuring the controversial story of Altman\'s journey would still reach theaters via a different path from the original plan. The film is expected to be one of the most talked-about productions related to the AI industry this year.</p><p>On the business side, OpenAI under Altman continues expanding its infrastructure, including a partnership with Broadcom to develop a specialized LLM inference chip called "Jalapeño" — a strategic move to reduce dependence on dominant AI chip providers like Nvidia, while strengthening OpenAI\'s position in the increasingly intense global AI infrastructure race.</p>',
+            source: 'Variety',
+            sourceUrl: 'https://variety.com/2026/film/global/neon-luca-guadagnino-artificial-openai-movie-amazon-1236787919/',
+            sourceSnippet: 'Neon Closes Deal for Luca Guadagnino\'s Sam Altman OpenAI Movie \'Artificial\' After Amazon Drops Film — Variety, June 30 2026',
+            source2: 'NYT',
+            sourceUrl2: 'https://www.nytimes.com/2026/06/30/business/media/openai-movie-artificial-neon-amazon.html',
+            sourceSnippet2: 'Neon Buys \'Artificial,\' a Film About OpenAI, After Amazon Dropped It — NYT, June 30 2026',
+            source3: 'Euronews',
+            sourceUrl3: 'https://www.euronews.com/next/2026/07/01/bruising-film-about-openai-picked-up-by-indie-studio-after-amazon-snub',
+            sourceSnippet3: '\'Bruising\' film on OpenAI picked up by indie studio after Amazon snub — Euronews, July 1 2026',
+            source4: 'OpenAI',
+            sourceUrl4: 'https://openai.com/index/openai-broadcom-jalapeno-inference-chip/',
+            sourceSnippet4: 'OpenAI and Broadcom unveil LLM-optimized inference chip — OpenAI, June 2026'
+          },
+          ja: {
+            title: 'サム・アルトマン — OpenAI CEO、Amazon撤退後に自伝映画が新スタジオへ',
+            desc: 'サム・アルトマンはChatGPTを手がけるOpenAIのCEOで、世界的なAI革命を引き起こした人物。2026年7月、彼の半生を描いた伝記映画「Artificial」がAmazon撤退後インディースタジオNeonに引き取られた。',
+            body: '<p>サミュエル・ハリス・アルトマンは1985年4月22日、米国イリノイ州シカゴ生まれ。スタンフォード大学を中退しスタートアップLooptを創業。その後有名アクセラレーターYコンビネーターの社長を経て、2015年に非営利団体として設立されたAI研究機関OpenAIの指揮を執った。</p><p>アルトマンの指導下、OpenAIは2022年末にChatGPTを発表し世界的な生成AI普及の革命を引き起こした。2023年11月には取締役会から突然解任されるという劇的な出来事があったが、従業員や投資家からの強い圧力を受け数日で復職した。</p><p>この劇的な物語は現在、ルカ・グァダニーノ監督による映画「Artificial」として映画化されている。Amazonは当初配給を予定していたが、OpenAIへの大型投資後に撤退。2026年6月末、インディー配給会社Neonが正式に配給権を獲得した。</p>',
+            source: 'Variety',
+            sourceUrl: 'https://variety.com/2026/film/global/neon-luca-guadagnino-artificial-openai-movie-amazon-1236787919/',
+            sourceSnippet: 'Neon、Amazon撤退後にサム・アルトマン映画「Artificial」の配給権獲得 — Variety 2026年6月30日'
+          },
+          ko: {
+            title: '샘 올트먼 — OpenAI CEO, 아마존 철수 후 전기영화가 새 스튜디오로',
+            desc: '샘 올트먼은 ChatGPT를 만든 OpenAI CEO로 전 세계적인 AI 혁명을 촉발한 인물. 2026년 7월, 그의 인생을 다룬 전기영화 "아티피셜"이 아마존 철수 후 인디 스튜디오 네온에 인수됐다.',
+            body: '<p>새뮤얼 해리스 올트먼은 1985년 4월 22일 미국 일리노이주 시카고 출생. 스탠퍼드 대학을 중퇴하고 스타트업 루프트를 창업했다. 이후 유명 액셀러레이터 와이콤비네이터 사장을 거쳐 2015년 비영리단체로 설립된 AI 연구소 OpenAI의 지휘를 맡았다.</p><p>올트먼의 지도 아래 OpenAI는 2022년 말 ChatGPT를 출시해 전 세계적인 생성AI 보급 혁명을 일으켰다. 2023년 11월에는 이사회로부터 갑작스레 해임되는 극적인 사건이 있었지만, 직원과 투자자들의 강한 압박으로 며칠 만에 복직했다.</p><p>이 극적인 이야기는 현재 루카 구아다니노 감독의 영화 "아티피셜"로 제작되고 있다. 아마존은 당초 배급을 계획했지만 OpenAI에 대규모 투자를 한 후 철수했다. 2026년 6월 말, 인디 배급사 네온이 공식적으로 배급권을 인수했다.</p>',
+            source: 'Variety',
+            sourceUrl: 'https://variety.com/2026/film/global/neon-luca-guadagnino-artificial-openai-movie-amazon-1236787919/',
+            sourceSnippet: '네온, 아마존 철수 후 샘 올트먼 영화 "아티피셜" 배급권 인수 — 버라이어티 2026년 6월 30일'
+          },
+          zh: {
+            title: '萨姆·奥特曼 — OpenAI CEO，亚马逊退出后传记电影转投新公司',
+            desc: '萨姆·奥特曼是打造ChatGPT的OpenAI CEO，引发了全球性的人工智能革命。2026年7月，讲述其人生历程的传记电影《人造》在亚马逊退出后被独立制片公司Neon收购。',
+            body: '<p>塞缪尔·哈里斯·奥特曼1985年4月22日生于美国伊利诺伊州芝加哥。他曾就读斯坦福大学，后辍学创立初创公司Loopt。此后担任知名创业加速器Y Combinator总裁，随后接管了2015年作为非营利组织成立的人工智能研究机构OpenAI。</p><p>在奥特曼领导下，OpenAI于2022年底推出ChatGPT，引发了全球生成式人工智能大规模普及的革命。2023年11月，他曾遭遇董事会突然解雇的戏剧性事件，但在员工和投资者的强大压力下几天内便复职。</p><p>这段戏剧性经历如今被改编成电影《人造》，由卢卡·瓜达尼诺执导。亚马逊最初计划发行该片，但在对OpenAI进行大额投资后退出。2026年6月末，独立发行公司Neon正式收购了该片的发行权。</p>',
+            source: 'Variety',
+            sourceUrl: 'https://variety.com/2026/film/global/neon-luca-guadagnino-artificial-openai-movie-amazon-1236787919/',
+            sourceSnippet: 'Neon在亚马逊退出后收购萨姆·奥特曼电影《人造》发行权 — 综艺，2026年6月30日'
+          }
+        }
+      }
     ]
   };
   if (typeof window.countryDataFiles !== 'undefined') {
