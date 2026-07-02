@@ -67,6 +67,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'rusia-sergei-lavrov',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Sergei Lavrov — Menteri Luar Negeri Rusia Terlama, Diplomat Kunci di Tengah Perang Ukraina',
+            desc: 'Sergei Lavrov adalah Menteri Luar Negeri Rusia yang telah menjabat sejak 2004, menjadikannya salah satu diplomat paling berpengaruh dan lama menjabat di dunia. Pada 2026, ia terus memainkan peran sentral dalam negosiasi terkait perang Ukraina sekaligus menolak berbagai proposal perdamaian dari Barat.',
+            body: '<p>Sergei Viktorovich Lavrov lahir pada 21 Maret 1950 di Moskow, Uni Soviet. Ia meraih gelar di bidang hubungan internasional dari Moscow State Institute of International Relations (MGIMO), salah satu sekolah diplomatik paling elit di Rusia. Kariernya di kementerian luar negeri dimulai pada 1972, mencakup berbagai penugasan diplomatik termasuk sebagai Duta Besar Rusia untuk Perserikatan Bangsa-Bangsa dari 1994 hingga 2004.</p><p>Pada 2004, Lavrov diangkat sebagai Menteri Luar Negeri Rusia oleh Presiden Vladimir Putin, sebuah posisi yang ia pegang tanpa henti selama lebih dari dua dekade — menjadikannya salah satu diplomat paling lama menjabat dalam sejarah diplomasi modern. Gaya diplomasinya yang tegas dan seringkali konfrontatif menjadikannya salah satu tokoh paling dikenal dalam kebijakan luar negeri Rusia di panggung internasional.</p><p>Sepanjang 2026, Lavrov terus menjadi juru bicara utama Rusia dalam isu perang di Ukraina, menolak sejumlah proposal perdamaian yang diajukan Ukraina dan sekutu Eropanya pada awal Juni 2026. Ia juga secara terbuka membantah pernyataan Menteri Luar Negeri AS Marco Rubio yang mengklaim tidak ada kesepakatan yang dicapai dalam pertemuan di Alaska terkait penyelesaian perang tersebut, menyerukan "klarifikasi" atas peran mediasi Amerika Serikat.</p><p>Pada 24 Juni 2026, dalam forum Primakov Readings ke-12 di Moskow, Lavrov menegaskan sikap Rusia terhadap ekspansi BRICS, menekankan bahwa kelompok tersebut menghadapi perbedaan politik dan untuk sementara menunda perluasan keanggotaannya. Ia juga bertemu dengan Presiden Komite Palang Merah Internasional (ICRC) di Moskow pada awal Juli 2026, membahas isu kemanusiaan terkait konflik yang sedang berlangsung.</p><p>Lavrov juga memuji negara-negara Afrika atas perhatian mereka terhadap krisis Rusia-Ukraina, mencerminkan strategi diplomatik Rusia untuk memperluas dukungan internasional dari negara-negara Global South di tengah isolasi diplomatik dari negara-negara Barat akibat invasi Ukraina yang telah berlangsung lebih dari empat tahun.</p>',
+            source: 'Eurasia Review',
+            sourceUrl: 'https://www.eurasiareview.com/30062026-lavrov-praises-africa-for-its-concern-towards-russia-ukraine-crisis-oped/',
+            sourceSnippet: 'Lavrov Praises Africa For Its Concern Towards Russia-Ukraine Crisis — Eurasia Review, 30 Juni 2026',
+            source2: 'US News',
+            sourceUrl2: 'https://www.usnews.com/news/world/articles/2026-06-26/russias-lavrov-contradicts-rubio-calls-for-clarity-on-us-mediation-role',
+            sourceSnippet2: 'Russia\'s Lavrov Contradicts Rubio, Calls for Clarity on US Mediation Role — US News, 26 Juni 2026',
+            source3: 'Modern Diplomacy',
+            sourceUrl3: 'https://moderndiplomacy.eu/2026/06/30/brics-facing-political-divergences-suspends-its-future-expansion/',
+            sourceSnippet3: 'BRICS Facing Political Divergences, Suspends its Future Expansion — Modern Diplomacy, 30 Juni 2026',
+            source4: 'Understanding War',
+            sourceUrl4: 'https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-june-19-2026/',
+            sourceSnippet4: 'Russian Offensive Campaign Assessment, June 19, 2026 — Institute for the Study of War'
+          },
+          en: {
+            title: 'Sergei Lavrov — Russia\'s Longest-Serving Foreign Minister, Key Diplomat Amid Ukraine War',
+            desc: 'Sergei Lavrov is Russia\'s Foreign Minister who has served since 2004, making him one of the world\'s most influential and longest-serving diplomats. In 2026, he continues to play a central role in negotiations related to the Ukraine war while rejecting various Western peace proposals.',
+            body: '<p>Sergei Viktorovich Lavrov was born on March 21, 1950 in Moscow, Soviet Union. He earned a degree in international relations from the Moscow State Institute of International Relations (MGIMO), one of Russia\'s most elite diplomatic schools. His career at the foreign ministry began in 1972, including various diplomatic postings such as Russia\'s Ambassador to the United Nations from 1994 to 2004.</p><p>In 2004, Lavrov was appointed Russia\'s Foreign Minister by President Vladimir Putin, a position he has held continuously for over two decades — making him one of the longest-serving diplomats in modern diplomatic history. His firm and often confrontational diplomatic style has made him one of the most recognized figures in Russian foreign policy on the international stage.</p><p>Throughout 2026, Lavrov has continued to be Russia\'s primary spokesperson on the Ukraine war, rejecting several peace proposals put forward by Ukraine and its European allies in early June 2026. He also openly disputed statements by US Secretary of State Marco Rubio claiming no agreement was reached in the Alaska meeting regarding the war\'s resolution, calling for "clarification" of the United States\' mediation role.</p><p>On June 24, 2026, at the 12th Primakov Readings forum in Moscow, Lavrov affirmed Russia\'s stance on BRICS expansion, emphasizing that the group faces political divergences and is temporarily suspending its membership expansion. He also met with the President of the International Committee of the Red Cross (ICRC) in Moscow in early July 2026, discussing humanitarian issues related to the ongoing conflict.</p><p>Lavrov also praised African nations for their concern regarding the Russia-Ukraine crisis, reflecting Russia\'s diplomatic strategy of expanding international support from Global South nations amid diplomatic isolation from Western countries due to the invasion of Ukraine that has lasted over four years.</p>',
+            source: 'Eurasia Review',
+            sourceUrl: 'https://www.eurasiareview.com/30062026-lavrov-praises-africa-for-its-concern-towards-russia-ukraine-crisis-oped/',
+            sourceSnippet: 'Lavrov Praises Africa For Its Concern Towards Russia-Ukraine Crisis — Eurasia Review, June 30 2026',
+            source2: 'US News',
+            sourceUrl2: 'https://www.usnews.com/news/world/articles/2026-06-26/russias-lavrov-contradicts-rubio-calls-for-clarity-on-us-mediation-role',
+            sourceSnippet2: 'Russia\'s Lavrov Contradicts Rubio, Calls for Clarity on US Mediation Role — US News, June 26 2026',
+            source3: 'Modern Diplomacy',
+            sourceUrl3: 'https://moderndiplomacy.eu/2026/06/30/brics-facing-political-divergences-suspends-its-future-expansion/',
+            sourceSnippet3: 'BRICS Facing Political Divergences, Suspends its Future Expansion — Modern Diplomacy, June 30 2026'
+          },
+          ja: {
+            title: 'セルゲイ・ラブロフ — ロシア史上最長在任外相、ウクライナ戦争の鍵を握る外交官',
+            desc: 'セルゲイ・ラブロフは2004年から務めるロシア外相で、世界で最も影響力があり在任期間の長い外交官の一人。2026年もウクライナ戦争に関する交渉で中心的役割を果たしつつ、西側の様々な和平提案を拒否している。',
+            body: '<p>セルゲイ・ヴィクトロヴィチ・ラブロフは1950年3月21日、ソ連モスクワ生まれ。ロシア屈指のエリート外交学校であるモスクワ国際関係大学（MGIMO）で国際関係学の学位を取得。1972年に外務省でのキャリアを開始し、1994年から2004年まで駐国連ロシア大使を含む様々な外交任務を歴任した。</p><p>2004年、プーチン大統領によりロシア外相に任命され、20年以上にわたりこの地位を保持し続けている。断固とした、しばしば対立的な外交スタイルで知られ、国際舞台でロシア外交政策の最も認知された人物の一人となっている。</p><p>2026年を通じて、ラブロフはウクライナ戦争に関するロシアの主要な代弁者であり続け、2026年6月初旬にウクライナと欧州同盟国が提示した和平案を拒否した。</p>',
+            source: 'Eurasia Review',
+            sourceUrl: 'https://www.eurasiareview.com/30062026-lavrov-praises-africa-for-its-concern-towards-russia-ukraine-crisis-oped/',
+            sourceSnippet: 'ラブロフ、ロシア・ウクライナ危機へのアフリカの関心を称賛 — ユーラシア・レビュー 2026年6月30日'
+          },
+          ko: {
+            title: '세르게이 라브로프 — 러시아 최장수 외무장관, 우크라이나 전쟁의 핵심 외교관',
+            desc: '세르게이 라브로프는 2004년부터 재임 중인 러시아 외무장관으로 세계에서 가장 영향력 있고 오래 재임한 외교관 중 한 명. 2026년에도 우크라이나 전쟁 관련 협상에서 중심 역할을 하며 서방의 여러 평화 제안을 거부하고 있다.',
+            body: '<p>세르게이 빅토로비치 라브로프는 1950년 3월 21일 소련 모스크바 출생. 러시아 최고 엘리트 외교학교인 모스크바국립국제관계대학(MGIMO)에서 국제관계학 학위를 취득했다. 1972년 외무부에서 경력을 시작했으며, 1994년부터 2004년까지 주유엔 러시아 대사를 포함한 다양한 외교 임무를 수행했다.</p><p>2004년 푸틴 대통령에 의해 러시아 외무장관에 임명되어 20년 넘게 이 직위를 유지하고 있다. 단호하고 종종 대립적인 외교 스타일로 국제무대에서 러시아 외교정책의 가장 잘 알려진 인물 중 한 명이 됐다.</p><p>2026년 내내 라브로프는 우크라이나 전쟁에 관한 러시아의 주요 대변인 역할을 계속했으며, 2026년 6월 초 우크라이나와 유럽 동맹국들이 제시한 평화안을 거부했다.</p>',
+            source: 'Eurasia Review',
+            sourceUrl: 'https://www.eurasiareview.com/30062026-lavrov-praises-africa-for-its-concern-towards-russia-ukraine-crisis-oped/',
+            sourceSnippet: '라브로프, 러-우크라이나 위기에 대한 아프리카의 관심 칭찬 — 유라시아 리뷰 2026년 6월 30일'
+          },
+          zh: {
+            title: '谢尔盖·拉夫罗夫 — 俄罗斯任期最长外长，乌克兰战争的关键外交官',
+            desc: '谢尔盖·拉夫罗夫自2004年起担任俄罗斯外长，是世界上最具影响力且任期最长的外交官之一。2026年，他继续在乌克兰战争相关谈判中扮演核心角色，同时拒绝西方提出的多项和平方案。',
+            body: '<p>谢尔盖·维克托罗维奇·拉夫罗夫1950年3月21日生于苏联莫斯科。他在俄罗斯顶尖外交学府莫斯科国际关系学院（MGIMO）获得国际关系学学位。1972年开始在外交部任职，历任多个外交职务，包括1994年至2004年担任俄罗斯常驻联合国代表。</p><p>2004年，他被普京总统任命为俄罗斯外长，此后连续担任该职务超过二十年，成为现代外交史上任期最长的外交官之一。他坚定且常带对抗性的外交风格，使他成为国际舞台上俄罗斯外交政策最具代表性的人物之一。</p><p>2026年全年，拉夫罗夫继续担任俄罗斯就乌克兰战争问题的主要发言人，拒绝了乌克兰及其欧洲盟友在2026年6月初提出的多项和平方案。</p>',
+            source: 'Eurasia Review',
+            sourceUrl: 'https://www.eurasiareview.com/30062026-lavrov-praises-africa-for-its-concern-towards-russia-ukraine-crisis-oped/',
+            sourceSnippet: '拉夫罗夫赞扬非洲对俄乌危机的关注 — 欧亚评论，2026年6月30日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
