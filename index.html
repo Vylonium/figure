@@ -70,7 +70,6 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <!-- Data tokoh publik -->
   <script src="data_indonesia.js"></script>
-  <script src="data_india.js"></script>
   <script src="data_global.js"></script>
   <script>
     tailwind.config = {
@@ -228,6 +227,16 @@ let currentLang = 'id';
 let currentView = 'home'; // 'home' | 'country' | 'article' | 'about'
 let currentCountryId = null;
 let currentArticleId = null;
+let currentCategoryFilter = 'all';
+
+const categoryLabels = {
+  'all':          { id: 'Semua',        en: 'All',          ja: 'すべて',       ko: '전체',       zh: '全部' },
+  'politik':      { id: 'Politik',       en: 'Politics',     ja: '政治',         ko: '정치',       zh: '政治' },
+  'bisnis':       { id: 'Bisnis',        en: 'Business',     ja: 'ビジネス',     ko: '비즈니스',   zh: '商业' },
+  'olahraga':     { id: 'Olahraga',      en: 'Sports',       ja: 'スポーツ',     ko: '스포츠',     zh: '体育' },
+  'seni-hiburan': { id: 'Seni & Hiburan',en: 'Arts & Entertainment', ja: '芸能', ko: '연예',       zh: '娱乐' },
+  'sains-teknologi': { id: 'Sains & Teknologi', en: 'Science & Tech', ja: '科学技術', ko: '과학기술', zh: '科技' }
+};
 
 // =============================================
 // BAHASA
@@ -258,6 +267,7 @@ function getAllArticles() {
         articleId: art.id,
         flag: c.flag,
         countryName: c.names[currentLang] || c.names['id'],
+        category: art.category || null,
         ...langData
       });
     });
@@ -270,7 +280,7 @@ function getCountryArticles(countryId) {
   if (!c) return [];
   return c.articles.map(art => {
     const langData = art.langs[currentLang] || art.langs['id'];
-    return { countryId, articleId: art.id, flag: c.flag, countryName: c.names[currentLang] || c.names['id'], ...langData };
+    return { countryId, articleId: art.id, flag: c.flag, countryName: c.names[currentLang] || c.names['id'], category: art.category || null, ...langData };
   });
 }
 
@@ -387,6 +397,12 @@ function goToAbout() {
   renderAbout();
 }
 
+function setCategoryFilter(key) {
+  currentCategoryFilter = key;
+  const input = document.getElementById('searchInput');
+  renderHome(input ? input.value : '', true);
+}
+
 // =============================================
 // RENDER
 // =============================================
@@ -417,6 +433,20 @@ function renderHome(searchQuery, skipPush) {
     all = all.filter(a => a.title.toLowerCase().includes(q) || a.desc.toLowerCase().includes(q) || a.countryName.toLowerCase().includes(q));
   }
 
+  if (currentCategoryFilter !== 'all') {
+    all = all.filter(a => a.category === currentCategoryFilter);
+  }
+
+  // Chip filter kategori
+  let chipsHtml = '<div class="flex gap-2 overflow-x-auto pb-1 pt-3" style="scrollbar-width:none;">';
+  Object.keys(categoryLabels).forEach(key => {
+    const label = categoryLabels[key][currentLang] || categoryLabels[key]['id'];
+    const active = currentCategoryFilter === key;
+    chipsHtml += '<button onclick="setCategoryFilter(\'' + key + '\')" class="flex-shrink-0 px-4 py-1.5 rounded-full text-sm font-medium border transition-colors ' +
+      (active ? 'bg-gray-900 text-white border-gray-900' : 'bg-white text-gray-600 border-gray-300 hover:border-gray-500') + '">' + label + '</button>';
+  });
+  chipsHtml += '</div>';
+
   let cardsHtml = '';
   if (all.length === 0) {
     cardsHtml = '<div class="text-center py-12 text-gray-500">' + u.noResult + '</div><div class="text-center py-6"><p class="text-sm text-gray-400">Belum ada profil tokoh. Segera hadir!</p><p class="text-xs text-gray-300 mt-1">Coming soon — tokoh publik dunia akan hadir.</p></div>';
@@ -444,6 +474,7 @@ function renderHome(searchQuery, skipPush) {
     '<input type="text" id="searchInput" class="w-full border border-gray-300 rounded-full py-2.5 pl-12 pr-5 text-base outline-none focus:border-gray-900 transition-colors bg-white shadow-sm" placeholder="' + u.searchPh + '" value="' + searchQuery + '" oninput="handleSearch(this)" autocomplete="off" spellcheck="false">' +
     '</div></div>' +
     '<div class="h-px bg-gray-200 w-full mt-4"></div></header>' +
+    chipsHtml +
     '<div class="pt-6 fade-in" id="homeCards">' + cardsHtml + '</div>';
 
   window.scrollTo(0, 0);
