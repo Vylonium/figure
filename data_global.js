@@ -526,6 +526,196 @@
           }
         }
       }
+      ,
+      {
+        id: 'global-jeff-bezos',
+        langs: {
+          id: {
+            title: 'Jeff Bezos — Pendiri Amazon & Visioner Eksplorasi Luar Angkasa Blue Origin',
+            desc: 'Jeff Bezos adalah pendiri Amazon, raksasa e-commerce terbesar dunia, sekaligus pendiri perusahaan luar angkasa Blue Origin. Di 2026, ia terus mendorong pengembangan roket New Glenn meski sempat mengalami ledakan uji coba, dan optimis soal dampak positif AI terhadap tenaga kerja.',
+            body: '<p>Jeffrey Preston Bezos lahir pada 12 Januari 1964 di Albuquerque, New Mexico, AS. Ia lulus dari Universitas Princeton dengan gelar teknik elektro dan ilmu komputer, kemudian berkarier di Wall Street sebelum memutuskan mendirikan perusahaan sendiri. Pada 1994, Bezos mendirikan Amazon dari garasi rumahnya di Seattle sebagai toko buku daring — yang kemudian berkembang menjadi salah satu perusahaan paling berharga di dunia.</p><p>Di bawah kepemimpinan Bezos, Amazon bertransformasi dari toko buku daring menjadi ekosistem raksasa yang mencakup e-commerce, komputasi awan (AWS), streaming, dan kecerdasan buatan. Bezos mengundurkan diri sebagai CEO Amazon pada 2021, namun tetap menjabat sebagai Executive Chairman dan pemegang saham mayoritas, menjadikannya salah satu orang terkaya di dunia secara konsisten.</p><p>Selain Amazon, Bezos mendirikan Blue Origin pada 2000 — perusahaan penerbangan luar angkasa yang bersaing ketat dengan SpaceX milik Elon Musk. Pada Mei 2026, roket New Glenn milik Blue Origin mengalami ledakan saat uji coba pra-peluncuran di Cape Canaveral, sebuah kemunduran besar bagi ambisi luar angkasa Bezos. Namun, CEO Blue Origin Dave Limp menegaskan komitmen untuk kembali terbang sebelum akhir 2026.</p><p>Pada Juni 2026, dalam sebuah forum teknologi VivaTech di Paris, Bezos menyampaikan pandangan optimis bahwa kecerdasan buatan justru akan menyebabkan kelangkaan tenaga kerja, bukan menggantikan manusia sepenuhnya — sebuah perspektif yang berbeda dari kekhawatiran umum tentang AI dan pengangguran massal.</p><p>Bezos juga dikenal karena kepemilikannya atas The Washington Post dan kegiatan filantropinya melalui Bezos Earth Fund yang berfokus pada perubahan iklim. Kehidupan pribadinya turut menjadi sorotan media global, termasuk pernikahannya dengan Lauren Sánchez pada 2025 yang digelar secara mewah di Venesia, Italia.</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/06/30/blue-origin-explosion-launchpad.html',
+            sourceSnippet: 'Blue Origin pivots to redesigned launchpad after explosion in push to fly by end of 2026 — CNBC, 30 Juni 2026',
+            source2: 'Reuters',
+            sourceUrl2: 'https://www.reuters.com/business/world-at-work/ai-will-lead-labour-shortages-jeff-bezos-says-vivatech-2026-06-17/',
+            sourceSnippet2: 'AI will lead to labour shortages, Bezos says in optimistic talk — Reuters, 17 Juni 2026',
+            source3: 'Barron\'s',
+            sourceUrl3: 'https://www.barrons.com/articles/blue-origin-launch-return-ast-spacemobile-stock-amazon-fb5274a6',
+            sourceSnippet3: 'Jeff Bezos Sees Blue Origin Launching Again This Year — Barron\'s, Juni 2026',
+            source4: 'GeekWire',
+            sourceUrl4: 'https://www.geekwire.com/2026/blue-origin-fix-launch-pad-return-flight/',
+            sourceSnippet4: 'Blue Origin CEO pledges to repair ruined launch pad and return to flight by end of year — GeekWire'
+          },
+          en: {
+            title: 'Jeff Bezos — Amazon Founder & Blue Origin Space Exploration Visionary',
+            desc: 'Jeff Bezos is the founder of Amazon, the world\'s largest e-commerce giant, and founder of space company Blue Origin. In 2026, he continues pushing New Glenn rocket development despite a test explosion, and remains optimistic about AI\'s positive impact on the workforce.',
+            body: '<p>Jeffrey Preston Bezos was born on January 12, 1964 in Albuquerque, New Mexico, USA. He graduated from Princeton University with a degree in electrical engineering and computer science, then worked on Wall Street before deciding to start his own company. In 1994, Bezos founded Amazon from his garage in Seattle as an online bookstore — which later grew into one of the world\'s most valuable companies.</p><p>Under Bezos\'s leadership, Amazon transformed from an online bookstore into a giant ecosystem encompassing e-commerce, cloud computing (AWS), streaming, and artificial intelligence. Bezos stepped down as Amazon CEO in 2021 but remains Executive Chairman and majority shareholder, consistently making him one of the world\'s wealthiest people.</p><p>Beyond Amazon, Bezos founded Blue Origin in 2000 — a space company competing fiercely with Elon Musk\'s SpaceX. In May 2026, Blue Origin\'s New Glenn rocket exploded during pre-launch testing at Cape Canaveral, a major setback for Bezos\'s space ambitions. However, Blue Origin CEO Dave Limp affirmed commitment to return to flight before the end of 2026.</p><p>In June 2026, at the VivaTech forum in Paris, Bezos expressed an optimistic view that artificial intelligence would actually lead to labor shortages, not replace humans entirely — a perspective that differs from common concerns about AI and mass unemployment.</p><p>Bezos is also known for owning The Washington Post and his philanthropic activities through the Bezos Earth Fund, which focuses on climate change. His personal life has also drawn global media attention, including his lavish 2025 wedding to Lauren Sánchez held in Venice, Italy.</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/06/30/blue-origin-explosion-launchpad.html',
+            sourceSnippet: 'Blue Origin pivots to redesigned launchpad after explosion in push to fly by end of 2026 — CNBC, June 30 2026',
+            source2: 'Reuters',
+            sourceUrl2: 'https://www.reuters.com/business/world-at-work/ai-will-lead-labour-shortages-jeff-bezos-says-vivatech-2026-06-17/',
+            sourceSnippet2: 'AI will lead to labour shortages, Bezos says in optimistic talk — Reuters, June 17 2026',
+            source3: 'Barron\'s',
+            sourceUrl3: 'https://www.barrons.com/articles/blue-origin-launch-return-ast-spacemobile-stock-amazon-fb5274a6',
+            sourceSnippet3: 'Jeff Bezos Sees Blue Origin Launching Again This Year — Barron\'s, June 2026',
+            source4: 'GeekWire',
+            sourceUrl4: 'https://www.geekwire.com/2026/blue-origin-fix-launch-pad-return-flight/',
+            sourceSnippet4: 'Blue Origin CEO pledges to repair ruined launch pad and return to flight by end of year — GeekWire'
+          },
+          ja: {
+            title: 'ジェフ・ベゾス — アマゾン創業者・ブルーオリジン宇宙開発の先駆者',
+            desc: 'ジェフ・ベゾスは世界最大のEコマース企業アマゾンの創業者であり、宇宙開発企業ブルーオリジンの創業者でもある。2026年、試験中の爆発事故を乗り越えニューグレンロケットの開発を推進し、AIが労働力に与えるプラスの影響に楽観的な見解を示している。',
+            body: '<p>ジェフリー・プレストン・ベゾスは1964年1月12日、米国ニューメキシコ州アルバカーキ生まれ。プリンストン大学で電気工学とコンピューターサイエンスを専攻後、ウォール街での勤務を経て1994年にシアトルの自宅ガレージでアマゾンを創業。オンライン書店として始まった同社は世界有数の企業価値を持つ企業に成長した。</p><p>2021年にCEOを退任したが、会長職と筆頭株主として影響力を維持している。2000年に設立した宇宙企業ブルーオリジンは、イーロン・マスクのスペースXと激しく競合。2026年5月、ニューグレンロケットがケープカナベラルでの発射前試験中に爆発する事故が発生したが、ブルーオリジンのCEOデイブ・リンプは年内の再飛行実現を約束している。</p><p>2026年6月、パリのVivaTechフォーラムで、AIは人間を代替するのではなく労働力不足を招くとの楽観的見解を示した。</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/06/30/blue-origin-explosion-launchpad.html',
+            sourceSnippet: 'ブルーオリジン、爆発事故後に発射台再設計へ、2026年内飛行目指す — CNBC 2026年6月30日'
+          },
+          ko: {
+            title: '제프 베조스 — 아마존 창업자 & 블루오리진 우주탐사 비전가',
+            desc: '제프 베조스는 세계 최대 전자상거래 기업 아마존의 창업자이자 우주기업 블루오리진의 창업자다. 2026년, 시험 중 폭발 사고를 겪었음에도 뉴글렌 로켓 개발을 계속 추진 중이며, AI가 노동력에 미치는 긍정적 영향에 대해 낙관적 견해를 밝히고 있다.',
+            body: '<p>제프리 프레스턴 베조스는 1964년 1월 12일 미국 뉴멕시코주 앨버커키 출생. 프린스턴 대학에서 전기공학과 컴퓨터과학을 전공한 후 월가에서 근무하다 1994년 시애틀 자택 차고에서 아마존을 창업했다. 온라인 서점으로 시작한 이 회사는 세계에서 가장 가치 있는 기업 중 하나로 성장했다.</p><p>2021년 CEO에서 물러났지만 회장직과 대주주 지위를 유지하며 영향력을 이어가고 있다. 2000년 설립한 우주기업 블루오리진은 일론 머스크의 스페이스X와 치열하게 경쟁 중이다. 2026년 5월, 뉴글렌 로켓이 케이프커내버럴에서 발사 전 시험 중 폭발하는 사고가 발생했지만, 블루오리진 CEO 데이브 림프는 연내 재비행을 약속했다.</p><p>2026년 6월 파리 VivaTech 포럼에서 베조스는 AI가 인간을 대체하기보다 노동력 부족을 초래할 것이라는 낙관적 견해를 밝혔다.</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/06/30/blue-origin-explosion-launchpad.html',
+            sourceSnippet: '블루오리진, 폭발 사고 후 발사대 재설계, 2026년 내 비행 목표 — CNBC 2026년 6월 30일'
+          },
+          zh: {
+            title: '杰夫·贝索斯 — 亚马逊创始人与蓝色起源太空探索先驱',
+            desc: '杰夫·贝索斯是全球最大电商巨头亚马逊的创始人，同时也是太空公司蓝色起源的创始人。2026年，尽管遭遇试验爆炸事故，他仍持续推进新格伦火箭的研发，并对人工智能对劳动力的积极影响持乐观态度。',
+            body: '<p>杰弗里·普雷斯顿·贝索斯1964年1月12日生于美国新墨西哥州阿尔伯克基。他毕业于普林斯顿大学电气工程与计算机科学专业，此后在华尔街工作，1994年在西雅图自家车库创立亚马逊，最初是一家网上书店，此后成长为全球市值最高的公司之一。</p><p>2021年卸任CEO，但仍担任执行董事长及大股东，持续保持影响力。2000年创立的太空公司蓝色起源与埃隆·马斯克的SpaceX展开激烈竞争。2026年5月，新格伦火箭在卡纳维拉尔角发射前测试中发生爆炸，但蓝色起源CEO戴夫·林普承诺年内恢复飞行。</p><p>2026年6月，在巴黎VivaTech论坛上，贝索斯乐观地表示人工智能将导致劳动力短缺，而非完全取代人类。</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/06/30/blue-origin-explosion-launchpad.html',
+            sourceSnippet: '蓝色起源爆炸事故后重新设计发射台，力争2026年内飞行 — CNBC，2026年6月30日'
+          }
+        }
+      },
+      {
+        id: 'global-mark-zuckerberg',
+        langs: {
+          id: {
+            title: 'Mark Zuckerberg — Pendiri Meta & Arsitek Ekspansi AI dan Prediction Market',
+            desc: 'Mark Zuckerberg adalah pendiri dan CEO Meta (dahulu Facebook), salah satu perusahaan teknologi paling berpengaruh dunia. Di pertengahan 2026, ia mendorong Meta memasuki bisnis prediction market dan menyatakan tidak khawatir soal ancaman AI terhadap lapangan kerja meski Meta baru saja melakukan PHK ribuan karyawan.',
+            body: '<p>Mark Elliot Zuckerberg lahir pada 14 Mei 1984 di White Plains, New York, AS. Ia menunjukkan bakat pemrograman sejak remaja dan melanjutkan studi di Universitas Harvard, meski akhirnya drop out untuk fokus mengembangkan Facebook, jejaring sosial yang ia dirikan bersama teman-teman sekamarnya pada 2004. Facebook dengan cepat berkembang dari platform kampus menjadi jejaring sosial terbesar di dunia.</p><p>Pada 2021, Zuckerberg mengubah nama perusahaan induknya menjadi Meta Platforms, menandai pergeseran fokus strategis ke arah metaverse dan kecerdasan buatan. Meta kini menaungi Facebook, Instagram, WhatsApp, dan berbagai produk AI generatif yang bersaing ketat dengan OpenAI dan Google.</p><p>Pada akhir Juni 2026, Zuckerberg mendorong jajaran eksekutif Meta untuk menjajaki kerja sama dengan platform prediction market Polymarket dan Kalshi, sebagai bagian dari pengembangan aplikasi baru bernama "Arena" yang menyasar pengguna muda berusia 18-34 tahun. Langkah ini menuai kritik dari sejumlah pihak yang menyebutnya berpotensi mendorong kebiasaan judi daring di kalangan anak muda.</p><p>Di tengah ekspansi ambisius ini, Meta juga mengirimkan email PHK dini hari kepada sekitar 8.000 karyawan pada akhir Juni 2026 — langkah efisiensi yang kontroversial mengingat perusahaan tetap mencatatkan investasi besar-besaran di bidang AI. Menanggapi kekhawatiran publik, Zuckerberg menyatakan tidak setuju dengan anggapan bahwa AI pasti akan menggantikan pekerjaan manusia secara masif, dengan alasan hal tersebut bukan sebuah keniscayaan.</p><p>Zuckerberg tetap menjadi salah satu tokoh paling berpengaruh di industri teknologi global, dengan kekayaan yang terus bertambah seiring nilai saham Meta yang melonjak berkat investasi besar-besaran perusahaan di infrastruktur kecerdasan buatan generatif.</p>',
+            source: 'NYT',
+            sourceUrl: 'https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html',
+            sourceSnippet: 'Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi — NYT, 26 Juni 2026',
+            source2: 'Business Insider',
+            sourceUrl2: 'https://www.businessinsider.com/mark-zuckerberg-ai-job-displacement-2026-6',
+            sourceSnippet2: 'Mark Zuckerberg says he doesn\'t buy the anxiety about AI-related job displacement — Business Insider',
+            source3: 'NPR',
+            sourceUrl3: 'https://www.npr.org/2026/06/30/nx-s1-5875468/meta-kalshi-prediction-market-acquisition-talks',
+            sourceSnippet3: 'Meta considered buying Kalshi before developing its own prediction market app — NPR, 30 Juni 2026',
+            source4: 'Times of India',
+            sourceUrl4: 'https://timesofindia.indiatimes.com/technology/tech-news/days-after-meta-sent-4-am-layoff-emails-to-8000-employees-ceo-mark-zuckerberg-says-that-the-job-situation-will-improve-if-companies-focused-more-on-/articleshow/132109593.cms',
+            sourceSnippet4: 'Days after Meta sent 4 AM layoff emails to 8,000 employees, Zuckerberg says job situation will improve — TOI'
+          },
+          en: {
+            title: 'Mark Zuckerberg — Meta Founder & Architect of AI and Prediction Market Expansion',
+            desc: 'Mark Zuckerberg is the founder and CEO of Meta (formerly Facebook), one of the world\'s most influential tech companies. In mid-2026, he pushed Meta into the prediction market business and stated he\'s not worried about AI threatening jobs, even as Meta just laid off thousands of employees.',
+            body: '<p>Mark Elliot Zuckerberg was born on May 14, 1984 in White Plains, New York, USA. He showed programming talent as a teenager and studied at Harvard University, though he eventually dropped out to focus on developing Facebook, a social network he founded with roommates in 2004. Facebook quickly grew from a campus platform into the world\'s largest social network.</p><p>In 2021, Zuckerberg renamed the parent company Meta Platforms, marking a strategic shift toward the metaverse and artificial intelligence. Meta now oversees Facebook, Instagram, WhatsApp, and various generative AI products competing fiercely with OpenAI and Google.</p><p>In late June 2026, Zuckerberg urged Meta executives to explore partnerships with prediction market platforms Polymarket and Kalshi, as part of developing a new app called "Arena" targeting young users aged 18-34. This move drew criticism from some who said it could potentially encourage online gambling habits among young people.</p><p>Amid this ambitious expansion, Meta also sent early-morning layoff emails to about 8,000 employees in late June 2026 — a controversial efficiency move given the company\'s continued massive AI investments. Responding to public concerns, Zuckerberg stated he doesn\'t agree with the assumption that AI will inevitably displace jobs on a massive scale, arguing it isn\'t an inevitability.</p><p>Zuckerberg remains one of the most influential figures in the global tech industry, with his wealth continuing to grow as Meta\'s stock surges on the company\'s massive investment in generative AI infrastructure.</p>',
+            source: 'NYT',
+            sourceUrl: 'https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html',
+            sourceSnippet: 'Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi — NYT, June 26 2026',
+            source2: 'Business Insider',
+            sourceUrl2: 'https://www.businessinsider.com/mark-zuckerberg-ai-job-displacement-2026-6',
+            sourceSnippet2: 'Mark Zuckerberg says he doesn\'t buy the anxiety about AI-related job displacement — Business Insider',
+            source3: 'NPR',
+            sourceUrl3: 'https://www.npr.org/2026/06/30/nx-s1-5875468/meta-kalshi-prediction-market-acquisition-talks',
+            sourceSnippet3: 'Meta considered buying Kalshi before developing its own prediction market app — NPR, June 30 2026',
+            source4: 'Times of India',
+            sourceUrl4: 'https://timesofindia.indiatimes.com/technology/tech-news/days-after-meta-sent-4-am-layoff-emails-to-8000-employees-ceo-mark-zuckerberg-says-that-the-job-situation-will-improve-if-companies-focused-more-on-/articleshow/132109593.cms',
+            sourceSnippet4: 'Days after Meta sent 4 AM layoff emails to 8,000 employees, Zuckerberg says job situation will improve — TOI'
+          },
+          ja: {
+            title: 'マーク・ザッカーバーグ — Meta創業者・AIと予測市場拡大の設計者',
+            desc: 'マーク・ザッカーバーグはMeta（旧Facebook）の創業者兼CEO。2026年半ば、予測市場ビジネスへの参入を推進し、Metaが数千人規模のレイオフを行った直後にもかかわらずAIによる雇用喪失への懸念を否定した。',
+            body: '<p>マーク・エリオット・ザッカーバーグは1984年5月14日、米国ニューヨーク州ホワイトプレインズ生まれ。ハーバード大学在学中の2004年、ルームメイトとともにFacebookを創業。同大学のキャンパスプラットフォームとして始まった同サービスは世界最大のSNSへと成長した。</p><p>2021年、親会社名をMeta Platformsに変更し、メタバースとAIへの戦略転換を明確化。2026年6月末、予測市場プラットフォームPolymarketとKalshiとの提携検討を経営陣に指示し、18〜34歳向けの新アプリ「Arena」開発の一環とした。同時期、Metaは約8,000人の従業員に早朝解雇メールを送付する一方、ザッカーバーグはAIによる大量失業の懸念に同意しないと表明した。</p>',
+            source: 'NYT',
+            sourceUrl: 'https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html',
+            sourceSnippet: 'ザッカーバーグ、MetaにPolymarketとKalshiとの提携検討を指示 — NYT 2026年6月26日'
+          },
+          ko: {
+            title: '마크 저커버그 — 메타 창업자 & AI·예측시장 확장의 설계자',
+            desc: '마크 저커버그는 메타(구 페이스북)의 창업자 겸 CEO. 2026년 중반, 예측시장 사업 진출을 추진했으며 메타가 수천 명 규모의 정리해고를 단행한 직후에도 AI로 인한 일자리 위협에 대해 낙관적 견해를 밝혔다.',
+            body: '<p>마크 엘리엇 저커버그는 1984년 5월 14일 미국 뉴욕주 화이트플레인스 출생. 하버드대 재학 중이던 2004년 룸메이트들과 함께 페이스북을 창업했고, 캠퍼스 플랫폼으로 시작한 이 서비스는 세계 최대 소셜네트워크로 성장했다.</p><p>2021년 모회사명을 메타 플랫폼스로 변경하며 메타버스와 AI로의 전략적 전환을 명확히 했다. 2026년 6월 말, 예측시장 플랫폼 폴리마켓·칼시와의 협력 검토를 경영진에 지시했고, 이는 18~34세 대상 신규 앱 "아레나" 개발의 일환이었다. 같은 시기 메타가 약 8,000명에게 새벽 해고 이메일을 발송한 가운데, 저커버그는 AI로 인한 대량 실직 우려에 동의하지 않는다고 밝혔다.</p>',
+            source: 'NYT',
+            sourceUrl: 'https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html',
+            sourceSnippet: '저커버그, 메타에 폴리마켓·칼시와의 협력 검토 지시 — NYT 2026년 6월 26일'
+          },
+          zh: {
+            title: '马克·扎克伯格 — Meta创始人与AI及预测市场扩张的设计师',
+            desc: '马克·扎克伯格是Meta（前身Facebook）的创始人兼CEO。2026年年中，他推动Meta进军预测市场业务，并在公司刚裁员数千人后表示并不担心AI对就业的威胁。',
+            body: '<p>马克·埃利奥特·扎克伯格1984年5月14日生于美国纽约州怀特普莱恩斯。在哈佛大学就读期间的2004年，与室友共同创立Facebook，这一最初面向校园的平台迅速发展成为全球最大的社交网络。</p><p>2021年，他将母公司更名为Meta Platforms，标志着战略重心转向元宇宙和人工智能。2026年6月底，扎克伯格推动高管团队探讨与预测市场平台Polymarket和Kalshi的合作，作为面向18-34岁用户的新应用"Arena"开发计划的一部分。与此同时，Meta向约8000名员工发送凌晨裁员邮件，扎克伯格则表示不认同AI将大规模取代人类工作的说法。</p>',
+            source: 'NYT',
+            sourceUrl: 'https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html',
+            sourceSnippet: '扎克伯格敦促Meta探索与Polymarket、Kalshi的合作 — NYT，2026年6月26日'
+          }
+        }
+      },
+      {
+        id: 'global-vladimir-putin',
+        langs: {
+          id: {
+            title: 'Vladimir Putin — Presiden Rusia yang Hadapi Krisis Bahan Bakar di Tengah Perang Ukraina',
+            desc: 'Vladimir Putin adalah Presiden Rusia yang telah berkuasa selama lebih dari dua dekade. Pada akhir Juni 2026, ia mengakui untuk pertama kalinya bahwa serangan drone Ukraina telah menyebabkan krisis bahan bakar serius di Rusia, di tengah perang yang telah menewaskan sekitar 450.000 tentara Rusia.',
+            body: '<p>Vladimir Vladimirovich Putin lahir pada 7 Oktober 1952 di Leningrad (kini Saint Petersburg), Uni Soviet. Sebelum terjun ke politik, ia berkarier selama 16 tahun sebagai perwira intelijen di KGB, badan intelijen Uni Soviet, termasuk penempatan di Jerman Timur. Karier politiknya dimulai di era pasca-Soviet, dan ia pertama kali menjadi Presiden Rusia pada tahun 2000.</p><p>Putin telah memimpin Rusia baik sebagai Presiden maupun Perdana Menteri secara bergantian selama lebih dari 25 tahun, menjadikannya salah satu pemimpin paling lama berkuasa dalam sejarah Rusia modern. Di bawah kepemimpinannya, Rusia mengonsolidasikan kembali kekuatan militer dan pengaruh geopolitiknya, namun juga menghadapi isolasi internasional yang semakin dalam akibat berbagai konflik yang dipicunya.</p><p>Invasi skala penuh Rusia ke Ukraina yang dimulai pada Februari 2022 menjadi keputusan paling menentukan dalam kepemimpinan Putin di dekade terakhir. Menurut analisis CSIS pada Juli 2026, perang tersebut telah menyebabkan sekitar 1,4 juta korban jiwa dan cedera di pihak Rusia, dengan sekitar 450.000 kematian — namun hanya menghasilkan keuntungan teritorial yang marjinal.</p><p>Pada akhir Juni 2026, untuk pertama kalinya Putin secara terbuka mengakui dampak serius dari serangan drone jarak jauh Ukraina terhadap infrastruktur energi Rusia. Kelangkaan bahan bakar melanda berbagai wilayah, memicu antrean panjang di stasiun pengisian bahan bakar dan mendorong pemerintah mempertimbangkan impor bensin serta larangan ekspor solar.</p><p>Di tengah tekanan domestik ini, Putin tetap mempertahankan narasi bahwa kemenangan Rusia dalam perang adalah suatu keniscayaan. Laporan Reuters pada Juli 2026 juga mengungkap bahwa Putin secara pribadi menyetujui pelatihan militer rahasia China terhadap pasukan Rusia — mengindikasikan semakin eratnya kerja sama strategis Moskow-Beijing di tengah tekanan Barat yang berkelanjutan.</p>',
+            source: 'CSIS',
+            sourceUrl: 'https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war',
+            sourceSnippet: 'Russian Blood and Treasure: The Ballooning Costs of Putin\'s War — CSIS, 1 Juli 2026',
+            source2: 'CNBC',
+            sourceUrl2: 'https://www.cnbc.com/2026/06/29/putin-russia-fuel-shortages-ukraine-drone-strikes.html',
+            sourceSnippet2: 'Putin\'s fuel shortage admission signals growing strain on Russia\'s energy infrastructure — CNBC, 29 Juni 2026',
+            source3: 'WSJ',
+            sourceUrl3: 'https://www.wsj.com/world/russia/putin-faces-a-political-crisis-as-fuel-shortages-ripple-through-russia-8991cd9a',
+            sourceSnippet3: 'Putin Faces a Political Crisis as Fuel Shortages Ripple Through Russia — WSJ, Juli 2026',
+            source4: 'Reuters',
+            sourceUrl4: 'https://www.reuters.com/business/aerospace-defense/russia-approved-secret-china-military-training-top-level-sources-say-2026-07-01/',
+            sourceSnippet4: 'Russia approved secret China military training at top level, sources say — Reuters, 1 Juli 2026'
+          },
+          en: {
+            title: 'Vladimir Putin — Russian President Facing Fuel Crisis Amid Ukraine War',
+            desc: 'Vladimir Putin is Russia\'s President who has held power for over two decades. In late June 2026, he admitted for the first time that Ukrainian drone strikes had caused a serious fuel crisis in Russia, amid a war that has killed approximately 450,000 Russian soldiers.',
+            body: '<p>Vladimir Vladimirovich Putin was born on October 7, 1952 in Leningrad (now Saint Petersburg), Soviet Union. Before entering politics, he spent 16 years as an intelligence officer for the KGB, the Soviet Union\'s intelligence agency, including a posting in East Germany. His political career began in the post-Soviet era, and he first became President of Russia in 2000.</p><p>Putin has led Russia alternately as President and Prime Minister for over 25 years, making him one of the longest-ruling leaders in modern Russian history. Under his leadership, Russia has re-consolidated its military power and geopolitical influence, but has also faced deepening international isolation due to various conflicts he has triggered.</p><p>Russia\'s full-scale invasion of Ukraine, which began in February 2022, has been the most defining decision of Putin\'s leadership in the last decade. According to a CSIS analysis in July 2026, the war has caused approximately 1.4 million Russian casualties, with around 450,000 deaths — for only marginal territorial gains.</p><p>In late June 2026, Putin publicly admitted for the first time the serious impact of Ukraine\'s long-range drone strikes on Russia\'s energy infrastructure. Fuel shortages have struck various regions, causing long lines at gas stations and prompting the government to consider gasoline imports and a diesel export ban.</p><p>Amid this domestic pressure, Putin has continued to maintain the narrative that Russian victory in the war is inevitable. A Reuters report in July 2026 also revealed that Putin personally approved secret Chinese military training of Russian forces — indicating an increasingly close Moscow-Beijing strategic partnership amid continued Western pressure.</p>',
+            source: 'CSIS',
+            sourceUrl: 'https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war',
+            sourceSnippet: 'Russian Blood and Treasure: The Ballooning Costs of Putin\'s War — CSIS, July 1 2026',
+            source2: 'CNBC',
+            sourceUrl2: 'https://www.cnbc.com/2026/06/29/putin-russia-fuel-shortages-ukraine-drone-strikes.html',
+            sourceSnippet2: 'Putin\'s fuel shortage admission signals growing strain on Russia\'s energy infrastructure — CNBC, June 29 2026',
+            source3: 'WSJ',
+            sourceUrl3: 'https://www.wsj.com/world/russia/putin-faces-a-political-crisis-as-fuel-shortages-ripple-through-russia-8991cd9a',
+            sourceSnippet3: 'Putin Faces a Political Crisis as Fuel Shortages Ripple Through Russia — WSJ, July 2026',
+            source4: 'Reuters',
+            sourceUrl4: 'https://www.reuters.com/business/aerospace-defense/russia-approved-secret-china-military-training-top-level-sources-say-2026-07-01/',
+            sourceSnippet4: 'Russia approved secret China military training at top level, sources say — Reuters, July 1 2026'
+          },
+          ja: {
+            title: 'ウラジーミル・プーチン — ウクライナ戦争下で燃料危機に直面するロシア大統領',
+            desc: 'ウラジーミル・プーチンは20年以上権力を握るロシア大統領。2026年6月末、ウクライナのドローン攻撃がロシア国内の深刻な燃料危機を引き起こしたことを初めて認めた。戦争ではロシア兵約45万人が死亡している。',
+            body: '<p>ウラジーミル・プーチンは1952年10月7日、ソ連レニングラード（現サンクトペテルブルク）生まれ。政界入り前はKGB情報将校として16年間勤務し、東ドイツにも赴任した。2000年に初めてロシア大統領に就任し、以後25年以上にわたり大統領・首相を交互に務めてきた。</p><p>2022年2月開始のウクライナ全面侵攻は、プーチン政権下最大の決断となった。2026年7月のCSIS分析によれば、戦争によるロシア側の死傷者は約140万人、うち死者は約45万人に達するが、獲得した領土はわずかにとどまる。2026年6月末、プーチンはウクライナの長距離ドローン攻撃がロシアのエネルギーインフラに深刻な打撃を与えたことを初めて公に認めた。</p>',
+            source: 'CSIS',
+            sourceUrl: 'https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war',
+            sourceSnippet: 'プーチンの戦争、膨れ上がる代償 — CSIS 2026年7月1日'
+          },
+          ko: {
+            title: '블라디미르 푸틴 — 우크라이나 전쟁 속 연료 위기에 직면한 러시아 대통령',
+            desc: '블라디미르 푸틴은 20년 넘게 권력을 유지해온 러시아 대통령. 2026년 6월 말, 우크라이나의 드론 공격이 러시아 내 심각한 연료 위기를 초래했음을 처음으로 인정했다. 전쟁으로 러시아군 약 45만 명이 사망했다.',
+            body: '<p>블라디미르 푸틴은 1952년 10월 7일 소련 레닌그라드(현 상트페테르부르크) 출생. 정계 입문 전 KGB 정보장교로 16년간 근무했으며 동독에도 파견됐다. 2000년 처음 러시아 대통령에 취임한 이후 25년 넘게 대통령과 총리직을 번갈아 맡아왔다.</p><p>2022년 2월 시작된 우크라이나 전면 침공은 푸틴 집권 최대의 결정이었다. 2026년 7월 CSIS 분석에 따르면 전쟁으로 인한 러시아 측 사상자는 약 140만 명, 그중 사망자는 약 45만 명에 달하지만 획득한 영토는 미미하다. 2026년 6월 말, 푸틴은 우크라이나의 장거리 드론 공격이 러시아 에너지 인프라에 심각한 타격을 입혔음을 처음으로 공개 인정했다.</p>',
+            source: 'CSIS',
+            sourceUrl: 'https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war',
+            sourceSnippet: '푸틴의 전쟁, 눈덩이처럼 불어나는 대가 — CSIS 2026년 7월 1일'
+          },
+          zh: {
+            title: '弗拉基米尔·普京 — 在乌克兰战争中面临燃料危机的俄罗斯总统',
+            desc: '弗拉基米尔·普京是执政超过二十年的俄罗斯总统。2026年6月末，他首次承认乌克兰无人机袭击已导致俄罗斯国内严重的燃料危机，此战争已造成约45万名俄军士兵死亡。',
+            body: '<p>弗拉基米尔·普京1952年10月7日生于苏联列宁格勒（现圣彼得堡）。从政前曾任克格勃情报官员16年，并曾派驻东德。2000年首次出任俄罗斯总统，此后25年多来交替担任总统和总理职务。</p><p>2022年2月发动的对乌克兰全面入侵，是普京执政以来最具决定性的决策。根据2026年7月战略与国际研究中心（CSIS）的分析，此战争已造成俄方约140万人伤亡，其中约45万人死亡，但仅获得微小的领土收益。2026年6月末，普京首次公开承认乌克兰远程无人机袭击对俄罗斯能源基础设施造成了严重打击。</p>',
+            source: 'CSIS',
+            sourceUrl: 'https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war',
+            sourceSnippet: '普京战争的血与财富代价持续攀升 — CSIS，2026年7月1日'
+          }
+        }
+      }
     ]
   };
   if (typeof window.countryDataFiles !== 'undefined') {
