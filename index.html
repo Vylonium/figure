@@ -534,10 +534,6 @@ function renderArticle(countryId, articleId, skipPush) {
       // Tampilkan sumber utama
       cards += '<a href="' + item.sourceUrl + '" target="_blank" rel="noopener noreferrer" ' +
   'class="flex items-center gap-3 p-3 border border-gray-200 rounded-lg bg-gray-50 hover:bg-blue-50 hover:border-blue-300 transition-colors group">' +
-  '<span style="position:relative;display:inline-block;width:2rem;height:2rem;flex-shrink:0">' +
-  '<img src="https://www.google.com/s2/favicons?domain=' + item.sourceDomain + '&sz=32" style="width:2rem;height:2rem;border-radius:0.25rem;background:#fff;position:absolute;top:0;left:0" onerror="this.style.opacity=\'0\';this.nextElementSibling.style.display=\'flex\'">' +
-  '<span style="display:none;width:2rem;height:2rem;border-radius:0.25rem;background:#dbeafe;color:#2563eb;font-weight:700;font-size:0.75rem;align-items:center;justify-content:center;position:absolute;top:0;left:0">' + (item.sourceDomain).charAt(0).toUpperCase() + '</span>' +
-  '</span>' +
   '<div class="min-w-0 flex-1">' +
   '<div class="font-semibold text-gray-900 text-sm">' + item.source + '</div>' +
   '<div class="text-xs text-gray-500 mt-0.5 truncate">' + item.sourceUrl + '</div>' +
@@ -551,10 +547,6 @@ function renderArticle(countryId, articleId, skipPush) {
         var dom2 = item.sourceUrl2.replace(/https?:\/\//,'').split('/')[0];
         cards += '<a href="' + item.sourceUrl2 + '" target="_blank" rel="noopener noreferrer" ' +
   'class="flex items-center gap-3 p-3 border border-gray-200 rounded-lg bg-gray-50 hover:bg-blue-50 hover:border-blue-300 transition-colors group">' +
-  '<span style="position:relative;display:inline-block;width:2rem;height:2rem;flex-shrink:0">' +
-  '<img src="https://www.google.com/s2/favicons?domain=' + dom2 + '&sz=32" style="width:2rem;height:2rem;border-radius:0.25rem;background:#fff;position:absolute;top:0;left:0" onerror="this.style.opacity=\'0\';this.nextElementSibling.style.display=\'flex\'">' +
-  '<span style="display:none;width:2rem;height:2rem;border-radius:0.25rem;background:#dbeafe;color:#2563eb;font-weight:700;font-size:0.75rem;align-items:center;justify-content:center;position:absolute;top:0;left:0">' + (dom2).charAt(0).toUpperCase() + '</span>' +
-  '</span>' +
   '<div class="min-w-0 flex-1">' +
   '<div class="font-semibold text-gray-900 text-sm">' + (item.source2 || '') + '</div>' +
   '<div class="text-xs text-gray-500 mt-0.5 truncate">' + item.sourceUrl2 + '</div>' +
@@ -568,10 +560,6 @@ function renderArticle(countryId, articleId, skipPush) {
         var dom3 = item.sourceUrl3.replace(/https?:\/\//,'').split('/')[0];
         cards += '<a href="' + item.sourceUrl3 + '" target="_blank" rel="noopener noreferrer" ' +
   'class="flex items-center gap-3 p-3 border border-gray-200 rounded-lg bg-gray-50 hover:bg-blue-50 hover:border-blue-300 transition-colors group">' +
-  '<span style="position:relative;display:inline-block;width:2rem;height:2rem;flex-shrink:0">' +
-  '<img src="https://www.google.com/s2/favicons?domain=' + dom3 + '&sz=32" style="width:2rem;height:2rem;border-radius:0.25rem;background:#fff;position:absolute;top:0;left:0" onerror="this.style.opacity=\'0\';this.nextElementSibling.style.display=\'flex\'">' +
-  '<span style="display:none;width:2rem;height:2rem;border-radius:0.25rem;background:#dbeafe;color:#2563eb;font-weight:700;font-size:0.75rem;align-items:center;justify-content:center;position:absolute;top:0;left:0">' + (dom3).charAt(0).toUpperCase() + '</span>' +
-  '</span>' +
   '<div class="min-w-0 flex-1">' +
   '<div class="font-semibold text-gray-900 text-sm">' + (item.source3 || '') + '</div>' +
   '<div class="text-xs text-gray-500 mt-0.5 truncate">' + item.sourceUrl3 + '</div>' +
