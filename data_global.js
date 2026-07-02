@@ -716,6 +716,196 @@
           }
         }
       }
+      ,
+      {
+        id: 'global-warren-buffett',
+        langs: {
+          id: {
+            title: 'Warren Buffett — "Oracle of Omaha", Investor Legendaris yang Pensiun sebagai CEO Berkshire',
+            desc: 'Warren Buffett adalah investor paling legendaris di dunia dan mantan CEO Berkshire Hathaway yang mengundurkan diri pada 31 Desember 2025 setelah enam dekade memimpin. Di 2026, ia menahan donasi rutin ke Gates Foundation di tengah tinjauan kasus Epstein.',
+            body: '<p>Warren Edward Buffett lahir pada 30 Agustus 1930 di Omaha, Nebraska, AS. Sejak usia muda, ia telah menunjukkan bakat luar biasa dalam berinvestasi dan berbisnis — menjual permen karet dan koran dari pintu ke pintu sebelum akhirnya belajar di bawah bimbingan investor legendaris Benjamin Graham di Universitas Columbia.</p><p>Buffett mengambil alih kendali Berkshire Hathaway, sebuah perusahaan tekstil yang sedang merugi, pada 1965 dan mengubahnya menjadi konglomerat investasi paling sukses dalam sejarah pasar modal modern. Melalui filosofi investasi nilai (value investing) yang disiplin, Buffett membangun kekayaan luar biasa dan reputasi sebagai "Oracle of Omaha" — investor paling dihormati di dunia.</p><p>Setelah memimpin Berkshire Hathaway selama hampir enam dekade, Buffett resmi mengundurkan diri sebagai CEO pada 31 Desember 2025, menyerahkan estafet kepemimpinan kepada penerusnya sambil tetap mempertahankan pengaruh besar sebagai pemegang saham utama. Di bawah kepemimpinannya, Berkshire kini duduk di atas cadangan kas hampir $400 miliar — jumlah yang oleh banyak analis dianggap sebagai sinyal kehati-hatian Buffett terhadap valuasi pasar saham yang tinggi.</p><p>Pada akhir Juni 2026, Wall Street Journal melaporkan bahwa Buffett untuk pertama kalinya menahan donasi rutin miliaran dolar ke Bill & Melinda Gates Foundation, menunggu hasil tinjauan internal terkait skandal Jeffrey Epstein yang melibatkan sejumlah tokoh terkemuka. Langkah ini menandai perubahan signifikan dalam kemitraan filantropi jangka panjang antara Buffett dan yayasan tersebut.</p><p>Terlepas dari pensiunnya sebagai CEO, Buffett tetap menjadi salah satu figur paling berpengaruh dalam dunia investasi global. Portofolio Berkshire Hathaway, yang mencakup saham-saham blue-chip seperti DaVita dan VeriSign, terus menjadi acuan bagi investor di seluruh dunia yang ingin meniru strategi investasi jangka panjangnya yang telah teruji selama puluhan tahun.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/us/warren-buffett-skips-donation-gates-foundation-amid-epstein-review-wsj-reports-2026-06-30/',
+            sourceSnippet: 'Warren Buffett skips donation to Gates Foundation amid Epstein review — Reuters, 30 Juni 2026',
+            source2: 'The Motley Fool',
+            sourceUrl2: 'https://www.fool.com/investing/2026/06/27/warren-buffetts-berkshire-hathaway-is-sitting-on-n/',
+            sourceSnippet2: 'Warren Buffett\'s Berkshire Hathaway Is Sitting on Nearly $400 Billion in Cash — The Motley Fool, 27 Juni 2026',
+            source3: '24/7 Wall St',
+            sourceUrl3: 'https://247wallst.com/investing/2026/06/30/the-5-cheapest-stocks-in-warren-buffetts-berkshire-hathaway-all-pay-big-reliable-dividends/',
+            sourceSnippet3: 'Warren Buffett stepped down as CEO of Berkshire Hathaway on December 31, 2025, after six decades — 24/7 Wall St',
+            source4: 'US News',
+            sourceUrl4: 'https://www.usnews.com/news/world/articles/2026-06-29/warren-buffett-skips-donation-to-gates-foundation-amid-epstein-review-wsj-reports',
+            sourceSnippet4: 'Warren Buffett Skips Donation to Gates Foundation Amid Epstein Review — US News, 29 Juni 2026'
+          },
+          en: {
+            title: 'Warren Buffett — The "Oracle of Omaha", Legendary Investor Who Retired as Berkshire CEO',
+            desc: 'Warren Buffett is the world\'s most legendary investor and former CEO of Berkshire Hathaway, who stepped down on December 31, 2025 after six decades at the helm. In 2026, he withheld his usual donation to the Gates Foundation amid an Epstein case review.',
+            body: '<p>Warren Edward Buffett was born on August 30, 1930 in Omaha, Nebraska, USA. From a young age, he showed extraordinary talent in investing and business — selling gum and newspapers door-to-door before eventually studying under legendary investor Benjamin Graham at Columbia University.</p><p>Buffett took control of Berkshire Hathaway, a struggling textile company, in 1965 and transformed it into the most successful investment conglomerate in modern capital market history. Through disciplined value investing philosophy, Buffett built extraordinary wealth and a reputation as the "Oracle of Omaha" — the world\'s most respected investor.</p><p>After leading Berkshire Hathaway for nearly six decades, Buffett officially retired as CEO on December 31, 2025, passing the leadership baton to his successor while retaining significant influence as the majority shareholder. Under his leadership, Berkshire now sits on nearly $400 billion in cash reserves — an amount many analysts view as a signal of Buffett\'s caution regarding high stock market valuations.</p><p>In late June 2026, the Wall Street Journal reported that Buffett was, for the first time, withholding his usual multibillion-dollar donation to the Bill & Melinda Gates Foundation, awaiting the results of an internal review related to the Jeffrey Epstein scandal involving several prominent figures. This move marks a significant shift in the long-standing philanthropic partnership between Buffett and the foundation.</p><p>Despite retiring as CEO, Buffett remains one of the most influential figures in global investing. Berkshire Hathaway\'s portfolio, which includes blue-chip stocks like DaVita and VeriSign, continues to serve as a benchmark for investors worldwide seeking to emulate his long-term investment strategy, tested over decades.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/us/warren-buffett-skips-donation-gates-foundation-amid-epstein-review-wsj-reports-2026-06-30/',
+            sourceSnippet: 'Warren Buffett skips donation to Gates Foundation amid Epstein review — Reuters, June 30 2026',
+            source2: 'The Motley Fool',
+            sourceUrl2: 'https://www.fool.com/investing/2026/06/27/warren-buffetts-berkshire-hathaway-is-sitting-on-n/',
+            sourceSnippet2: 'Warren Buffett\'s Berkshire Hathaway Is Sitting on Nearly $400 Billion in Cash — The Motley Fool, June 27 2026',
+            source3: '24/7 Wall St',
+            sourceUrl3: 'https://247wallst.com/investing/2026/06/30/the-5-cheapest-stocks-in-warren-buffetts-berkshire-hathaway-all-pay-big-reliable-dividends/',
+            sourceSnippet3: 'Warren Buffett stepped down as CEO of Berkshire Hathaway on December 31, 2025, after six decades — 24/7 Wall St',
+            source4: 'US News',
+            sourceUrl4: 'https://www.usnews.com/news/world/articles/2026-06-29/warren-buffett-skips-donation-to-gates-foundation-amid-epstein-review-wsj-reports',
+            sourceSnippet4: 'Warren Buffett Skips Donation to Gates Foundation Amid Epstein Review — US News, June 29 2026'
+          },
+          ja: {
+            title: 'ウォーレン・バフェット — "オマハの賢人"、バークシャーCEOを退任した伝説の投資家',
+            desc: 'ウォーレン・バフェットは世界最も伝説的な投資家であり、2025年12月31日に60年の指揮を終えバークシャー・ハサウェイCEOを退任。2026年、エプスタイン事案の内部調査を理由にゲイツ財団への定例寄付を見送った。',
+            body: '<p>ウォーレン・エドワード・バフェットは1930年8月30日、米国ネブラスカ州オマハ生まれ。若くして投資と商才を発揮し、コロンビア大学で伝説的投資家ベンジャミン・グレアムに師事した。</p><p>1965年に経営難の繊維会社バークシャー・ハサウェイを買収し、バリュー投資の哲学のもと現代資本市場史上最も成功した投資コングロマリットへと成長させ、「オマハの賢人」と呼ばれるようになった。</p><p>約60年の指揮の後、2025年12月31日にCEOを正式退任。バークシャーは現在約4,000億ドルの現金を保有し、多くのアナリストは株式市場の高評価への警戒シグナルと見ている。2026年6月末、バフェットはエプスタイン事案の内部調査結果を待つとして、ビル&メリンダ・ゲイツ財団への数十億ドル規模の定例寄付を初めて見送ったとウォール・ストリート・ジャーナルが報じた。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/us/warren-buffett-skips-donation-gates-foundation-amid-epstein-review-wsj-reports-2026-06-30/',
+            sourceSnippet: 'バフェット、エプスタイン調査を理由にゲイツ財団への寄付を見送り — ロイター 2026年6月30日'
+          },
+          ko: {
+            title: '워런 버핏 — "오마하의 현인", 버크셔 CEO에서 은퇴한 전설적 투자자',
+            desc: '워런 버핏은 세계에서 가장 전설적인 투자자이자 2025년 12월 31일 60년간의 지휘를 마치고 버크셔 해서웨이 CEO에서 물러난 인물. 2026년, 에프스타인 사건 내부 검토를 이유로 게이츠 재단에 대한 정기 기부를 보류했다.',
+            body: '<p>워런 에드워드 버핏은 1930년 8월 30일 미국 네브래스카주 오마하 출생. 어릴 때부터 투자와 사업에 뛰어난 재능을 보였고, 컬럼비아 대학에서 전설적 투자자 벤저민 그레이엄에게 사사했다.</p><p>1965년 경영난에 처한 섬유회사 버크셔 해서웨이를 인수해 가치투자 철학을 바탕으로 현대 자본시장 역사상 가장 성공한 투자 지주회사로 성장시키며 "오마하의 현인"이라는 별명을 얻었다.</p><p>약 60년의 지휘 끝에 2025년 12월 31일 공식적으로 CEO에서 물러났다. 버크셔는 현재 약 4,000억 달러의 현금을 보유하고 있으며, 많은 애널리스트들은 이를 주식시장의 높은 밸류에이션에 대한 경계 신호로 보고 있다. 2026년 6월 말, 버핏은 에프스타인 사건 내부 검토 결과를 기다리며 빌&멜린다 게이츠 재단에 대한 수십억 달러 규모의 정기 기부를 처음으로 보류했다고 월스트리트저널이 보도했다.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/us/warren-buffett-skips-donation-gates-foundation-amid-epstein-review-wsj-reports-2026-06-30/',
+            sourceSnippet: '버핏, 에프스타인 검토 이유로 게이츠 재단 기부 보류 — 로이터 2026년 6월 30일'
+          },
+          zh: {
+            title: '沃伦·巴菲特 — "奥马哈先知"，卸任伯克希尔CEO的传奇投资者',
+            desc: '沃伦·巴菲特是全球最具传奇色彩的投资者，2025年12月31日在执掌六十年后卸任伯克希尔哈撒韦CEO。2026年，他因爱泼斯坦案内部审查而暂缓向盖茨基金会的例行捐款。',
+            body: '<p>沃伦·爱德华·巴菲特1930年8月30日生于美国内布拉斯加州奥马哈。他自幼展现出非凡的投资与经商天赋，曾在哥伦比亚大学师从传奇投资者本杰明·格雷厄姆。</p><p>1965年，他收购了经营困难的纺织公司伯克希尔哈撒韦，并凭借严谨的价值投资理念，将其打造成现代资本市场史上最成功的投资集团，被誉为"奥马哈先知"。</p><p>在执掌近六十年后，巴菲特于2025年12月31日正式卸任CEO。伯克希尔目前持有近4000亿美元现金储备，许多分析师将此视为巴菲特对当前股市高估值持谨慎态度的信号。2026年6月末，据《华尔街日报》报道，巴菲特因等待有关杰弗里·爱泼斯坦丑闻的内部审查结果，首次暂缓向比尔及梅琳达·盖茨基金会的数十亿美元例行捐款。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/us/warren-buffett-skips-donation-gates-foundation-amid-epstein-review-wsj-reports-2026-06-30/',
+            sourceSnippet: '巴菲特因爱泼斯坦案审查暂缓向盖茨基金会捐款 — 路透社，2026年6月30日'
+          }
+        }
+      },
+      {
+        id: 'global-satya-nadella',
+        langs: {
+          id: {
+            title: 'Satya Nadella — CEO Microsoft, Peringatkan "AI Jangan Sampai Melahap Ekonomi"',
+            desc: 'Satya Nadella adalah CEO dan Chairman Microsoft yang memimpin transformasi perusahaan menjadi raksasa AI. Pada Juni 2026, ia melontarkan kritik tajam terhadap raksasa teknologi lain, menyerukan bahwa perusahaan AI harus "mendapatkan izin sosial" dari masyarakat, meski Microsoft sendiri berencana melakukan PHK ribuan karyawan.',
+            body: '<p>Satya Narayana Nadella lahir pada 19 Agustus 1967 di Hyderabad, India. Ia meraih gelar sarjana teknik elektro dari Manipal Institute of Technology, dilanjutkan dengan gelar master di bidang ilmu komputer dari University of Wisconsin–Milwaukee dan MBA dari University of Chicago. Nadella bergabung dengan Microsoft pada 1992 dan meniti karier selama lebih dari tiga dekade di perusahaan tersebut.</p><p>Pada 2014, Nadella diangkat sebagai CEO ketiga Microsoft, menggantikan Steve Ballmer. Di bawah kepemimpinannya, Microsoft bertransformasi dari perusahaan software tradisional menjadi kekuatan dominan dalam komputasi awan (Azure) dan kecerdasan buatan, terutama melalui kemitraan strategisnya dengan OpenAI. Nilai pasar Microsoft melonjak drastis selama masa jabatannya, menjadikan perusahaan tersebut salah satu yang paling berharga di dunia.</p><p>Pada 10 Juni 2026, dalam acara Hard Fork Live milik New York Times, Nadella menyampaikan pandangan bahwa "semua orang adalah pemangku kepentingan" dalam perkembangan AI, menanggapi kekhawatiran publik yang meningkat terhadap dampak sosial teknologi tersebut. Sepekan kemudian, dalam wawancara eksklusif dengan Wall Street Journal, ia melontarkan kritik tajam bahwa raksasa-raksasa AI "tidak boleh melahap ekonomi" dan menyerukan agar perusahaan teknologi mendapatkan "izin sosial" dari masyarakat sebelum melangkah lebih jauh.</p><p>Ironisnya, pada awal Juli 2026, Microsoft dilaporkan berencana melakukan PHK terhadap ribuan karyawan tambahan sebagai bagian dari efisiensi biaya, memengaruhi kurang dari 2,5% tenaga kerja perusahaan di divisi penjualan, konsultasi, dan Xbox — di tengah investasi besar-besaran perusahaan pada infrastruktur AI. Kontradiksi ini memicu perdebatan tentang konsistensi antara retorika kepemimpinan Nadella dan kebijakan internal Microsoft.</p><p>Di tengah dinamika tersebut, Nadella juga aktif menjalin hubungan diplomatik-bisnis internasional, termasuk kunjungan ke Australia pada akhir Juni 2026 di mana ia bertemu dengan Perdana Menteri Anthony Albanese untuk membahas investasi teknologi Microsoft di negara tersebut.</p>',
+            source: 'WSJ',
+            sourceUrl: 'https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f',
+            sourceSnippet: 'Microsoft\'s Satya Nadella: We Can\'t Let AI Giants Eat the Economy — WSJ, Juni 2026',
+            source2: 'NYT',
+            sourceUrl2: 'https://www.nytimes.com/2026/06/10/technology/microsoft-satya-nadella-artificial-intelligence.html',
+            sourceSnippet2: 'Microsoft CEO Satya Nadella Says \'Everyone Is a Stakeholder\' in AI — NYT, 10 Juni 2026',
+            source3: 'Business Insider',
+            sourceUrl3: 'https://www.businessinsider.com/microsoft-job-cuts-layoffs-sales-consulting-2026-6',
+            sourceSnippet3: 'Microsoft plans thousands of job cuts, impacting less than 2.5% of workforce — Business Insider, Juli 2026',
+            source4: 'Fortune',
+            sourceUrl4: 'https://fortune.com/2026/07/01/microsoft-may-cut-thousands-more-jobs-control-costs/',
+            sourceSnippet4: 'Microsoft may cut thousands more jobs in a bid to control costs — Fortune, 1 Juli 2026'
+          },
+          en: {
+            title: 'Satya Nadella — Microsoft CEO, Warns "AI Giants Can\'t Be Allowed to Eat the Economy"',
+            desc: 'Satya Nadella is Microsoft\'s CEO and Chairman who led the company\'s transformation into an AI powerhouse. In June 2026, he issued sharp criticism of other tech giants, calling for AI companies to "earn social permission" from society, even as Microsoft itself plans to lay off thousands of employees.',
+            body: '<p>Satya Narayana Nadella was born on August 19, 1967 in Hyderabad, India. He earned a bachelor\'s degree in electrical engineering from Manipal Institute of Technology, followed by a master\'s degree in computer science from the University of Wisconsin–Milwaukee and an MBA from the University of Chicago. Nadella joined Microsoft in 1992 and built a career spanning more than three decades at the company.</p><p>In 2014, Nadella was appointed Microsoft\'s third CEO, succeeding Steve Ballmer. Under his leadership, Microsoft transformed from a traditional software company into a dominant force in cloud computing (Azure) and artificial intelligence, especially through its strategic partnership with OpenAI. Microsoft\'s market value soared dramatically during his tenure, making the company one of the world\'s most valuable.</p><p>On June 10, 2026, at The New York Times\'s Hard Fork Live event, Nadella expressed the view that "everyone is a stakeholder" in AI development, responding to growing public concern over the technology\'s social impact. A week later, in an exclusive interview with the Wall Street Journal, he issued sharp criticism that AI giants "can\'t be allowed to eat the economy" and called for tech companies to earn "social permission" from society before advancing further.</p><p>Ironically, in early July 2026, Microsoft was reported to be planning layoffs of thousands of additional employees as part of cost efficiency measures, affecting less than 2.5% of the company\'s workforce in sales, consulting, and Xbox divisions — amid the company\'s massive investment in AI infrastructure. This contradiction sparked debate over the consistency between Nadella\'s leadership rhetoric and Microsoft\'s internal policies.</p><p>Amid these dynamics, Nadella also remains active in international diplomatic-business relations, including a visit to Australia in late June 2026 where he met with Prime Minister Anthony Albanese to discuss Microsoft\'s technology investments in the country.</p>',
+            source: 'WSJ',
+            sourceUrl: 'https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f',
+            sourceSnippet: 'Microsoft\'s Satya Nadella: We Can\'t Let AI Giants Eat the Economy — WSJ, June 2026',
+            source2: 'NYT',
+            sourceUrl2: 'https://www.nytimes.com/2026/06/10/technology/microsoft-satya-nadella-artificial-intelligence.html',
+            sourceSnippet2: 'Microsoft CEO Satya Nadella Says \'Everyone Is a Stakeholder\' in AI — NYT, June 10 2026',
+            source3: 'Business Insider',
+            sourceUrl3: 'https://www.businessinsider.com/microsoft-job-cuts-layoffs-sales-consulting-2026-6',
+            sourceSnippet3: 'Microsoft plans thousands of job cuts, impacting less than 2.5% of workforce — Business Insider, July 2026',
+            source4: 'Fortune',
+            sourceUrl4: 'https://fortune.com/2026/07/01/microsoft-may-cut-thousands-more-jobs-control-costs/',
+            sourceSnippet4: 'Microsoft may cut thousands more jobs in a bid to control costs — Fortune, July 1 2026'
+          },
+          ja: {
+            title: 'サティア・ナデラ — マイクロソフトCEO、「AI巨人は経済を食い尽くしてはならない」と警鐘',
+            desc: 'サティア・ナデラはマイクロソフトをAI大国へと変貌させたCEO兼会長。2026年6月、AI企業は社会から「社会的許可」を得るべきだと他のテック巨人を鋭く批判した一方、自社は数千人規模の追加解雇を計画している。',
+            body: '<p>サティア・ナラヤナ・ナデラは1967年8月19日、インド・ハイデラバード生まれ。マニパル工科大学で電気工学の学士号、ウィスコンシン大学ミルウォーキー校でコンピューターサイエンスの修士号、シカゴ大学でMBAを取得。1992年マイクロソフト入社後、30年以上のキャリアを積んだ。</p><p>2014年、スティーブ・バルマーの後任として第3代CEOに就任。クラウド（Azure）とAIの分野でOpenAIとの戦略提携を通じマイクロソフトを変革し、時価総額を大幅に押し上げた。</p><p>2026年6月10日、ニューヨーク・タイムズのHard Fork Liveイベントで「誰もがAIの利害関係者」と発言。1週間後のウォール・ストリート・ジャーナルの独占インタビューでは、AI巨大企業が「経済を食い尽くしてはならない」と厳しく批判し、社会からの「許可」を得る必要性を訴えた。しかし2026年7月初旬、マイクロソフトは営業・コンサルティング・Xboxなど部門で数千人規模の追加解雇を計画していると報じられ、この矛盾が議論を呼んだ。</p>',
+            source: 'WSJ',
+            sourceUrl: 'https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f',
+            sourceSnippet: 'マイクロソフトのナデラ「AI巨人が経済を食い尽くしてはならない」— WSJ 2026年6月'
+          },
+          ko: {
+            title: '사티아 나델라 — 마이크로소프트 CEO, "AI 거대기업이 경제를 잠식해선 안 된다" 경고',
+            desc: '사티아 나델라는 마이크로소프트를 AI 강자로 변모시킨 CEO 겸 회장. 2026년 6월, AI 기업들이 사회로부터 "사회적 허가"를 받아야 한다며 다른 테크 거대기업들을 신랄하게 비판했지만, 정작 자사는 수천 명 규모의 추가 정리해고를 계획하고 있다.',
+            body: '<p>사티아 나라야나 나델라는 1967년 8월 19일 인도 하이데라바드 출생. 마니팔 공과대학에서 전기공학 학사, 위스콘신-밀워키 대학에서 컴퓨터과학 석사, 시카고 대학에서 MBA를 취득했다. 1992년 마이크로소프트에 입사해 30년 넘게 경력을 쌓았다.</p><p>2014년 스티브 발머의 뒤를 이어 제3대 CEO에 취임했다. 클라우드(애저)와 AI 분야에서 OpenAI와의 전략적 제휴를 통해 마이크로소프트를 변혁시켰고, 재임 기간 동안 시가총액이 급격히 상승했다.</p><p>2026년 6월 10일 뉴욕타임스의 하드포크 라이브 행사에서 "모두가 AI의 이해관계자"라고 발언했다. 일주일 후 월스트리트저널과의 단독 인터뷰에서는 AI 거대기업들이 "경제를 잠식해선 안 된다"고 신랄하게 비판하며 사회로부터 "허가"를 받아야 한다고 촉구했다. 그러나 2026년 7월 초, 마이크로소프트가 영업·컨설팅·Xbox 부문에서 수천 명 규모의 추가 정리해고를 계획 중이라는 보도가 나오며 이러한 모순이 논란이 됐다.</p>',
+            source: 'WSJ',
+            sourceUrl: 'https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f',
+            sourceSnippet: '마이크로소프트 나델라 "AI 거대기업이 경제를 잠식해선 안 된다" — WSJ 2026년 6월'
+          },
+          zh: {
+            title: '萨提亚·纳德拉 — 微软CEO，警告"AI巨头不能吞噬经济"',
+            desc: '萨提亚·纳德拉是带领微软转型为AI强国的CEO兼董事长。2026年6月，他尖锐批评其他科技巨头，呼吁AI公司应从社会获得"社会许可"，尽管微软自身正计划裁减数千名员工。',
+            body: '<p>萨提亚·纳拉亚纳·纳德拉1967年8月19日生于印度海得拉巴。他在马尼帕尔理工学院获电气工程学士学位，后在威斯康星大学密尔沃基分校获计算机科学硕士学位，并在芝加哥大学取得MBA学位。1992年加入微软，在公司工作超过三十年。</p><p>2014年接替史蒂夫·鲍尔默出任第三任CEO。在他的领导下，微软通过与OpenAI的战略合作，从传统软件公司转型为云计算（Azure）和人工智能领域的主导力量，公司市值大幅飙升。</p><p>2026年6月10日，在《纽约时报》Hard Fork Live活动上，纳德拉表示"人人都是AI的利益相关者"。一周后，在接受《华尔街日报》独家采访时，他尖锐批评AI巨头"不能吞噬经济"，并呼吁科技公司应先获得社会的"许可"。然而，2026年7月初，据报道微软计划在销售、咨询和Xbox部门裁减数千名员工，这一矛盾引发了广泛讨论。</p>',
+            source: 'WSJ',
+            sourceUrl: 'https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f',
+            sourceSnippet: '微软纳德拉："AI巨头不能吞噬经济" — 华尔街日报，2026年6月'
+          }
+        }
+      },
+      {
+        id: 'global-sundar-pichai',
+        langs: {
+          id: {
+            title: 'Sundar Pichai — CEO Google & Alphabet, Pimpin Perlombaan AI Senilai $80 Miliar',
+            desc: 'Sundar Pichai adalah CEO Google dan perusahaan induknya Alphabet. Pada 2026, ia memimpin Alphabet menggalang dana $80 miliar untuk mempercepat pengembangan infrastruktur AI, termasuk investasi $10 miliar dari Berkshire Hathaway milik Warren Buffett.',
+            body: '<p>Sundar Pichai lahir dengan nama Pichai Sundararajan pada 12 Juli 1972 di Madurai, Tamil Nadu, India. Ia meraih gelar sarjana teknik metalurgi dari Indian Institute of Technology Kharagpur, dilanjutkan dengan gelar master di bidang teknik material dari Stanford University dan MBA dari Wharton School, University of Pennsylvania.</p><p>Pichai bergabung dengan Google pada 2004 dan berperan penting dalam pengembangan produk-produk kunci seperti Google Chrome, Chrome OS, dan Android. Kepemimpinannya yang tenang namun visioner membawanya diangkat sebagai CEO Google pada 2015, dan kemudian sebagai CEO Alphabet Inc. — perusahaan induk Google — pada 2019, menggantikan pendiri Google Larry Page dan Sergey Brin.</p><p>Pada Juni 2026, di bawah kepemimpinan Pichai, Alphabet mengumumkan rencana penggalangan dana sebesar $80 miliar melalui penjualan saham untuk mendanai pembangunan infrastruktur kecerdasan buatan skala besar. Yang menarik, kesepakatan ini mencakup investasi senilai $10 miliar dari Berkshire Hathaway milik Warren Buffett — sebuah langkah signifikan mengingat Buffett dikenal historis berhati-hati terhadap investasi di sektor teknologi.</p><p>Dalam laporan pendapatan kuartal pertama 2026, Pichai menyampaikan bahwa perusahaan mengalami awal tahun yang sangat kuat, didorong oleh pertumbuhan pesat lini bisnis AI Google. Majalah TIME turut mengakui kontribusinya dengan menobatkan Alphabet dalam daftar "Perusahaan Paling Berpengaruh" tahun 2026, menyoroti bagaimana Pichai berhasil mendorong Google ke garis depan perlombaan kecerdasan buatan global melawan OpenAI dan Microsoft.</p><p>Meski demikian, kepemimpinan Pichai tidak lepas dari kontroversi. Pada Juni 2026, pidato kelulusan optimistisnya di Stanford University memicu aksi walk-out dari sejumlah mahasiswa yang memprotes kehadirannya, terkait sikap dan kebijakan Google atas isu Israel-Gaza. Terlepas dari kontroversi tersebut, Pichai tetap menjadi salah satu eksekutif teknologi paling berpengaruh di dunia.</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html',
+            sourceSnippet: 'Alphabet plans to raise $80 billion from stock sales to fund AI build-out — CNBC, 1 Juni 2026',
+            source2: 'Al Jazeera',
+            sourceUrl2: 'https://www.aljazeera.com/economy/2026/6/2/google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans',
+            sourceSnippet2: 'Google parent Alphabet to sell $80bn in stock to fund AI plans, includes Berkshire deal — Al Jazeera, 2 Juni 2026',
+            source3: 'TIME',
+            sourceUrl3: 'https://time.com/collection/time100-most-influential-companies/2026/alphabet/',
+            sourceSnippet3: 'How Sundar Pichai Pushed Google To the Front of the AI Race — TIME, 30 April 2026',
+            source4: 'Mercury News',
+            sourceUrl4: 'https://www.mercurynews.com/2026/06/14/stanford-google-sundar-pichai-israel-gaza/',
+            sourceSnippet4: 'Google CEO brought optimism to Stanford commencement; some graduates walked out — Mercury News, 14 Juni 2026'
+          },
+          en: {
+            title: 'Sundar Pichai — Google & Alphabet CEO, Leading the $80 Billion AI Race',
+            desc: 'Sundar Pichai is CEO of Google and its parent company Alphabet. In 2026, he led Alphabet in raising $80 billion to accelerate AI infrastructure development, including a $10 billion investment from Warren Buffett\'s Berkshire Hathaway.',
+            body: '<p>Sundar Pichai was born Pichai Sundararajan on July 12, 1972 in Madurai, Tamil Nadu, India. He earned a bachelor\'s degree in metallurgical engineering from the Indian Institute of Technology Kharagpur, followed by a master\'s degree in materials engineering from Stanford University and an MBA from the Wharton School, University of Pennsylvania.</p><p>Pichai joined Google in 2004 and played a key role in developing important products such as Google Chrome, Chrome OS, and Android. His calm yet visionary leadership led to his appointment as Google\'s CEO in 2015, and later as CEO of Alphabet Inc. — Google\'s parent company — in 2019, succeeding Google founders Larry Page and Sergey Brin.</p><p>In June 2026, under Pichai\'s leadership, Alphabet announced plans to raise $80 billion through stock sales to fund large-scale artificial intelligence infrastructure development. Notably, the deal includes a $10 billion investment from Warren Buffett\'s Berkshire Hathaway — a significant move given Buffett\'s historically cautious approach to tech sector investments.</p><p>In the Q1 2026 earnings report, Pichai stated that the company had a very strong start to the year, driven by rapid growth in Google\'s AI business line. TIME magazine recognized his contribution by naming Alphabet in its "Most Influential Companies" list for 2026, highlighting how Pichai successfully pushed Google to the front of the global AI race against OpenAI and Microsoft.</p><p>Nevertheless, Pichai\'s leadership has not been without controversy. In June 2026, his optimistic commencement speech at Stanford University sparked a walkout by several students protesting his presence, related to Google\'s stance and policies on the Israel-Gaza issue. Despite this controversy, Pichai remains one of the world\'s most influential tech executives.</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html',
+            sourceSnippet: 'Alphabet plans to raise $80 billion from stock sales to fund AI build-out — CNBC, June 1 2026',
+            source2: 'Al Jazeera',
+            sourceUrl2: 'https://www.aljazeera.com/economy/2026/6/2/google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans',
+            sourceSnippet2: 'Google parent Alphabet to sell $80bn in stock to fund AI plans, includes Berkshire deal — Al Jazeera, June 2 2026',
+            source3: 'TIME',
+            sourceUrl3: 'https://time.com/collection/time100-most-influential-companies/2026/alphabet/',
+            sourceSnippet3: 'How Sundar Pichai Pushed Google To the Front of the AI Race — TIME, April 30 2026',
+            source4: 'Mercury News',
+            sourceUrl4: 'https://www.mercurynews.com/2026/06/14/stanford-google-sundar-pichai-israel-gaza/',
+            sourceSnippet4: 'Google CEO brought optimism to Stanford commencement; some graduates walked out — Mercury News, June 14 2026'
+          },
+          ja: {
+            title: 'サンダー・ピチャイ — Google・Alphabet CEO、800億ドルのAI競争を主導',
+            desc: 'サンダー・ピチャイはGoogleと親会社AlphabetのCEO。2026年、AIインフラ開発加速のため800億ドルの資金調達をAlphabetに主導させ、ウォーレン・バフェットのバークシャー・ハサウェイから100億ドルの投資を獲得した。',
+            body: '<p>サンダー・ピチャイ（本名ピチャイ・スンダラーラジャン）は1972年7月12日、インド・タミルナードゥ州マドゥライ生まれ。インド工科大学カラグプル校で冶金工学の学士号、スタンフォード大学で材料工学の修士号、ペンシルベニア大学ウォートン校でMBAを取得。</p><p>2004年にGoogleに入社し、Chrome、Chrome OS、Androidなど主要製品開発で重要な役割を果たした。2015年にGoogle CEOに、2019年には親会社AlphabetのCEOに就任し、創業者ラリー・ペイジとセルゲイ・ブリンの後を継いだ。</p><p>2026年6月、ピチャイの指導下でAlphabetは大規模AIインフラ構築資金として800億ドルの株式売却計画を発表。この中にはウォーレン・バフェットのバークシャー・ハサウェイによる100億ドルの投資が含まれており、注目を集めた。TIME誌は2026年の「最も影響力ある企業」リストにAlphabetを選出し、ピチャイがOpenAIやマイクロソフトとのAI競争でGoogleを最前線に押し上げた功績を評価した。</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html',
+            sourceSnippet: 'Alphabet、AIインフラ構築資金として800億ドル調達計画 — CNBC 2026年6月1日'
+          },
+          ko: {
+            title: '순다르 피차이 — 구글·알파벳 CEO, 800억 달러 AI 경쟁 주도',
+            desc: '순다르 피차이는 구글과 모회사 알파벳의 CEO. 2026년, AI 인프라 개발 가속화를 위해 알파벳이 800억 달러를 조달하도록 주도했으며, 워런 버핏의 버크셔 해서웨이로부터 100억 달러 투자를 유치했다.',
+            body: '<p>순다르 피차이(본명 피차이 순다라라잔)는 1972년 7월 12일 인도 타밀나두주 마두라이 출생. 인도공과대학 카라그푸르에서 야금공학 학사, 스탠퍼드 대학에서 재료공학 석사, 펜실베이니아 대학 와튼스쿨에서 MBA를 취득했다.</p><p>2004년 구글에 입사해 크롬, 크롬OS, 안드로이드 등 핵심 제품 개발에 중요한 역할을 했다. 2015년 구글 CEO, 2019년에는 모회사 알파벳 CEO에 취임하며 창업자 래리 페이지와 세르게이 브린의 뒤를 이었다.</p><p>2026년 6월, 피차이의 지휘 아래 알파벳은 대규모 AI 인프라 구축 자금으로 800억 달러 규모의 주식 매각 계획을 발표했다. 이 거래에는 워런 버핏의 버크셔 해서웨이가 참여한 100억 달러 투자가 포함돼 주목받았다. 타임지는 2026년 "가장 영향력 있는 기업" 목록에 알파벳을 선정하며, 피차이가 OpenAI 및 마이크로소프트와의 AI 경쟁에서 구글을 선두로 이끈 공로를 평가했다.</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html',
+            sourceSnippet: '알파벳, AI 인프라 구축 자금으로 800억 달러 조달 계획 — CNBC 2026년 6월 1일'
+          },
+          zh: {
+            title: '桑达尔·皮查伊 — 谷歌与Alphabet CEO，领导800亿美元AI竞赛',
+            desc: '桑达尔·皮查伊是谷歌及其母公司Alphabet的CEO。2026年，他领导Alphabet筹集800亿美元以加速AI基础设施建设，其中包括沃伦·巴菲特旗下伯克希尔哈撒韦100亿美元的投资。',
+            body: '<p>桑达尔·皮查伊（本名皮查伊·孙达拉拉扬）1972年7月12日生于印度泰米尔纳德邦马杜赖。他在印度理工学院卡拉格普尔分校获得冶金工程学士学位，随后在斯坦福大学获得材料工程硕士学位，并在宾夕法尼亚大学沃顿商学院取得MBA学位。</p><p>2004年加入谷歌，在Chrome、Chrome OS和安卓等核心产品开发中发挥了重要作用。2015年出任谷歌CEO，2019年接替创始人拉里·佩奇和谢尔盖·布林出任母公司Alphabet的CEO。</p><p>2026年6月，在皮查伊领导下，Alphabet宣布计划通过股票出售筹集800亿美元，用于大规模人工智能基础设施建设。值得注意的是，此交易包括沃伦·巴菲特旗下伯克希尔哈撒韦100亿美元的投资。《时代》杂志将Alphabet评为2026年"最具影响力公司"之一，肯定了皮查伊带领谷歌在与OpenAI和微软的AI竞赛中占据领先地位的贡献。</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html',
+            sourceSnippet: 'Alphabet计划通过股票出售筹集800亿美元建设AI基础设施 — CNBC，2026年6月1日'
+          }
+        }
+      }
     ]
   };
   if (typeof window.countryDataFiles !== 'undefined') {
