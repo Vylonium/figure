@@ -117,6 +117,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'china-wang-yi',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Wang Yi — Diplomat Utama Tiongkok, Lakukan Tur Diplomatik Nordik dan Peringatkan AS soal Taiwan',
+            desc: 'Wang Yi adalah Menteri Luar Negeri Tiongkok yang juga menjabat Direktur Kantor Komisi Urusan Luar Negeri Partai Komunis Tiongkok, menjadikannya diplomat paling senior negara tersebut. Pada awal Juli 2026, ia memperingatkan AS agar menangani isu Taiwan dengan hati-hati sekaligus memulai tur diplomatik ke empat negara Nordik.',
+            body: '<p>Wang Yi lahir pada 8 Oktober 1953 di Beijing, Tiongkok. Ia meraih gelar di bidang hubungan internasional dari Beijing International Studies University sebelum melanjutkan studi doktoral. Kariernya di Kementerian Luar Negeri Tiongkok dimulai sejak akhir 1980-an, termasuk penugasan sebagai Duta Besar Tiongkok untuk Jepang dari 2004 hingga 2007.</p><p>Wang diangkat sebagai Menteri Luar Negeri Tiongkok pada 2013, dan setelah sempat digantikan sebentar oleh Qin Gang pada 2023, ia kembali menjabat posisi tersebut sekaligus mempertahankan perannya sebagai Direktur Kantor Komisi Urusan Luar Negeri Partai Komunis Tiongkok — menjadikannya arsitek utama seluruh kebijakan luar negeri Tiongkok di bawah kepemimpinan Xi Jinping.</p><p>Pada 1 Juli 2026, dalam panggilan telepon dengan Menteri Luar Negeri AS Marco Rubio, Wang mendesak Amerika Serikat untuk menangani isu-isu terkait Taiwan dengan "kehati-hatian penuh," sekaligus menyerukan perluasan daftar kerja sama dan agenda positif antara kedua negara adidaya tersebut demi hubungan Tiongkok-AS yang lebih stabil.</p><p>Pada hari yang sama, Wang juga mengonfirmasi dukungan Tiongkok terhadap kebebasan navigasi di Selat Hormuz dalam pertemuan dengan Arab Saudi, sebuah pergeseran sikap diplomatik penting mengingat sebelumnya Tiongkok mempertahankan sikap yang lebih hati-hati terkait isu tersebut dengan Iran. Pada 30 Juni-8 Juli 2026, Wang juga melakukan tur diplomatik bersejarah ke empat negara Nordik — Denmark, Swedia, Finlandia, dan Norwegia — menandai dorongan Tiongkok untuk memperkuat hubungan dengan kawasan Eropa Utara.</p><p>Sebagai diplomat top Tiongkok, Wang terus memainkan peran penting dalam menyeimbangkan hubungan Tiongkok dengan kekuatan besar dunia seperti AS dan Rusia, sekaligus memperluas pengaruh diplomatik Tiongkok ke kawasan-kawasan baru seperti Eropa Utara dan Timur Tengah di tengah persaingan geopolitik global yang semakin kompleks.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/asia-pacific/china-urges-us-handle-taiwan-issue-with-utmost-caution-2026-07-01/',
+            sourceSnippet: 'China urges US to handle Taiwan issue \'with utmost caution\' — Reuters, 1 Juli 2026',
+            source2: 'SCMP',
+            sourceUrl2: 'https://www.scmp.com/news/china/diplomacy/article/3359077/chinas-wang-yi-warns-marco-rubio-approach-taiwan-affairs-utmost-caution',
+            sourceSnippet2: 'Wang Yi warns Rubio to approach Taiwan affairs with \'utmost caution\' — SCMP, 1 Juli 2026',
+            source3: 'US News',
+            sourceUrl3: 'https://www.usnews.com/news/world/articles/2026-06-30/chinese-foreign-minister-to-visit-denmark-sweden-finland-norway',
+            sourceSnippet3: 'Chinese Foreign Minister to Visit Denmark, Sweden, Finland, Norway — US News, 30 Juni 2026',
+            source4: 'ANEWZ',
+            sourceUrl4: 'https://anewz.tv/world/world-news/21386/wang-yi-begins-landmark-nordic-diplomatic-tour/news',
+            sourceSnippet4: 'Wang Yi\'s Nordic tour signals China\'s push to strengthen European ties — ANEWZ'
+          },
+          en: {
+            title: 'Wang Yi — China\'s Top Diplomat, Begins Nordic Diplomatic Tour and Warns US on Taiwan',
+            desc: 'Wang Yi is China\'s Foreign Minister who also serves as Director of the Office of the Central Foreign Affairs Commission, making him the country\'s most senior diplomat. In early July 2026, he warned the US to handle the Taiwan issue carefully while beginning a diplomatic tour to four Nordic countries.',
+            body: '<p>Wang Yi was born on October 8, 1953 in Beijing, China. He earned a degree in international relations from Beijing International Studies University before pursuing doctoral studies. His career at China\'s Ministry of Foreign Affairs began in the late 1980s, including serving as China\'s Ambassador to Japan from 2004 to 2007.</p><p>Wang was appointed China\'s Foreign Minister in 2013, and after briefly being succeeded by Qin Gang in 2023, he returned to the position while retaining his role as Director of the Office of the Central Foreign Affairs Commission — making him the chief architect of all Chinese foreign policy under Xi Jinping\'s leadership.</p><p>On July 1, 2026, in a phone call with US Secretary of State Marco Rubio, Wang urged the United States to handle Taiwan-related issues with "utmost caution," while calling for expanding the cooperation list and positive agenda between the two superpowers for more stable China-US relations.</p><p>The same day, Wang also confirmed China\'s support for freedom of navigation in the Strait of Hormuz in a meeting with Saudi Arabia, an important diplomatic shift given China had previously maintained a more cautious stance on the issue with Iran. From June 30 to July 8, 2026, Wang also conducted a historic diplomatic tour to four Nordic countries — Denmark, Sweden, Finland, and Norway — marking China\'s push to strengthen ties with the Northern European region.</p><p>As China\'s top diplomat, Wang continues to play an important role in balancing China\'s relations with world powers like the US and Russia, while expanding Chinese diplomatic influence into new regions such as Northern Europe and the Middle East amid increasingly complex global geopolitical competition.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/asia-pacific/china-urges-us-handle-taiwan-issue-with-utmost-caution-2026-07-01/',
+            sourceSnippet: 'China urges US to handle Taiwan issue \'with utmost caution\' — Reuters, July 1 2026',
+            source2: 'SCMP',
+            sourceUrl2: 'https://www.scmp.com/news/china/diplomacy/article/3359077/chinas-wang-yi-warns-marco-rubio-approach-taiwan-affairs-utmost-caution',
+            sourceSnippet2: 'Wang Yi warns Rubio to approach Taiwan affairs with \'utmost caution\' — SCMP, July 1 2026',
+            source3: 'US News',
+            sourceUrl3: 'https://www.usnews.com/news/world/articles/2026-06-30/chinese-foreign-minister-to-visit-denmark-sweden-finland-norway',
+            sourceSnippet3: 'Chinese Foreign Minister to Visit Denmark, Sweden, Finland, Norway — US News, June 30 2026'
+          },
+          ja: {
+            title: '王毅 — 中国トップ外交官、北欧歴訪開始と台湾問題で米国に警告',
+            desc: '王毅は中国外相であり中央外事工作委員会弁公室主任も務め、同国最高位の外交官。2026年7月初旬、台湾問題を慎重に扱うよう米国に警告する一方、北欧4カ国への外交訪問を開始した。',
+            body: '<p>王毅は1953年10月8日、北京生まれ。北京国際関係学院で国際関係学の学位を取得後、博士課程に進んだ。1980年代後半に中国外交部でのキャリアを開始し、2004年から2007年まで駐日中国大使を務めた。</p><p>2013年に中国外相に任命され、2023年に一時秦剛に交代した後、中央外事工作委員会弁公室主任の役割を維持しながら同職に復帰し、習近平指導下での中国外交政策全体の主要設計者となった。</p><p>2026年7月1日、ルビオ米国務長官との電話会談で、王毅は台湾関連問題を「最大限の慎重さ」で扱うよう米国に求め、中米関係の安定化のため協力リストとポジティブな議題の拡大を呼びかけた。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/asia-pacific/china-urges-us-handle-taiwan-issue-with-utmost-caution-2026-07-01/',
+            sourceSnippet: '中国、台湾問題を「最大限の慎重さ」で扱うよう米国に要求 — ロイター 2026年7月1日'
+          },
+          ko: {
+            title: '왕이 — 중국 최고위 외교관, 북유럽 순방 시작과 대만 문제 미국에 경고',
+            desc: '왕이는 중국 외교부장이자 중앙외사공작위원회 판공실 주임을 겸임하며 중국 최고위 외교관이다. 2026년 7월 초, 대만 문제를 신중히 다루라고 미국에 경고하는 한편 북유럽 4개국 외교 순방을 시작했다.',
+            body: '<p>왕이는 1953년 10월 8일 베이징 출생. 베이징국제관계대학에서 국제관계학 학위를 취득한 후 박사 과정을 밟았다. 1980년대 후반 중국 외교부에서 경력을 시작해 2004년부터 2007년까지 주일 중국대사를 지냈다.</p><p>2013년 중국 외교부장에 임명됐고, 2023년 잠시 친강에게 자리를 넘겨준 후 중앙외사공작위원회 판공실 주임 역할을 유지하며 복귀해 시진핑 지도부 하 중국 외교정책 전체의 핵심 설계자가 됐다.</p><p>2026년 7월 1일, 루비오 미 국무장관과의 전화 통화에서 왕이는 대만 관련 문제를 "최대한의 신중함"으로 다룰 것을 미국에 촉구하며 양국 관계 안정을 위한 협력 목록과 긍정적 의제 확대를 호소했다.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/asia-pacific/china-urges-us-handle-taiwan-issue-with-utmost-caution-2026-07-01/',
+            sourceSnippet: '중국, 대만 문제 "최대한 신중하게" 다룰 것을 미국에 촉구 — 로이터 2026년 7월 1일'
+          },
+          zh: {
+            title: '王毅 — 中国最高外交官，开启北欧外交之旅并就台湾问题警告美国',
+            desc: '王毅是中国外交部长，兼任中央外事工作委员会办公室主任，是中国最高级别的外交官。2026年7月初，他警告美国应谨慎处理台湾问题，同时开始对北欧四国进行外交访问。',
+            body: '<p>王毅1953年10月8日生于北京。他在北京国际关系学院获得国际关系学学位，随后攻读博士学位。他于上世纪80年代末进入中国外交部工作，2004年至2007年间曾任中国驻日本大使。</p><p>2013年，他被任命为中国外交部长，2023年短暂由秦刚接任后，他重新出任该职务，同时保留中央外事工作委员会办公室主任的职务，成为习近平领导下中国全部外交政策的主要设计者。</p><p>2026年7月1日，在与美国国务卿鲁比奥的电话会谈中，王毅敦促美国以"最大限度的谨慎"处理涉台问题，同时呼吁扩大两国合作清单和积极议程，以稳定中美关系。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/asia-pacific/china-urges-us-handle-taiwan-issue-with-utmost-caution-2026-07-01/',
+            sourceSnippet: '中国敦促美国以"最大限度的谨慎"处理台湾问题 — 路透社，2026年7月1日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
