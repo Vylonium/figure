@@ -67,6 +67,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'kanada-chrystia-freeland',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Chrystia Freeland — Mantan Wakil PM Kanada, Kini Penasihat Ekonomi Presiden Ukraina',
+            desc: 'Chrystia Freeland adalah mantan Wakil Perdana Menteri dan Menteri Keuangan Kanada yang kini menjabat sebagai penasihat ekonomi khusus Presiden Ukraina Volodymyr Zelensky. Pada 2026, ia juga menerbitkan memoar politik berjudul "Unreliable Boyfriend" yang mengupas hubungan tegang antara Kanada dan Amerika Serikat.',
+            body: '<p>Chrystia Freeland lahir pada 2 Agustus 1968 di Peace River, Alberta, Kanada. Ia meraih gelar sarjana dari Harvard University dan gelar master dari Oxford University sebagai penerima beasiswa Rhodes. Sebelum terjun ke politik, Freeland membangun karier panjang sebagai jurnalis internasional, termasuk menjabat editor di Financial Times dan Reuters, dengan spesialisasi meliput Eropa Timur dan Rusia pasca-Soviet.</p><p>Freeland memasuki dunia politik Kanada pada 2013 dan dengan cepat menanjak ke posisi-posisi kunci pemerintahan, termasuk Menteri Luar Negeri dan kemudian Wakil Perdana Menteri merangkap Menteri Keuangan di bawah Perdana Menteri Justin Trudeau. Ia dikenal luas sebagai salah satu negosiator utama Kanada dalam renegosiasi perjanjian perdagangan bebas Amerika Utara (USMCA) dengan pemerintahan Trump.</p><p>Pada awal 2026, Presiden Ukraina Volodymyr Zelensky menunjuk Freeland sebagai penasihat ekonomi khusus di tengah reshuffle pemerintahan besar-besaran di Kyiv, memanfaatkan keahliannya yang mendalam dalam kebijakan ekonomi internasional dan hubungannya yang erat dengan pembuat kebijakan Barat untuk mendukung upaya rekonstruksi ekonomi Ukraina di tengah perang yang berkepanjangan.</p><p>Pada Mei 2026, Freeland menjadi pembicara dalam Bell Lecture tahunan di Carleton University, di mana ia secara terbuka menyerukan dukungan yang lebih kuat bagi Ukraina dari sekutu-sekutu Baratnya. Pada Juni 2026, ia mengumumkan penerbitan memoar politiknya berjudul "Unreliable Boyfriend," yang mengangkat tema hubungan yang semakin tegang antara Kanada dan Amerika Serikat di bawah berbagai pemerintahan AS.</p><p>Meski telah meninggalkan jabatan resmi di pemerintahan Kanada, Freeland tetap menjadi salah satu suara paling berpengaruh dalam diskusi kebijakan luar negeri dan ekonomi Kanada, dengan pengaruhnya kini meluas ke panggung internasional melalui perannya membantu Ukraina menavigasi tantangan ekonomi di masa perang.</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/world/2026/jan/05/chrystia-freeland-economic-adviser-ukraine-canada',
+            sourceSnippet: 'Zelenskyy names Canada\'s ex-finance minister as economic adviser in Ukraine — The Guardian, 5 Januari 2026',
+            source2: 'US News',
+            sourceUrl2: 'https://www.usnews.com/news/entertainment/articles/2026-06-10/chrystia-freelands-unreliable-boyfriend-offers-front-row-seat-to-us-canada-tensions',
+            sourceSnippet2: 'Chrystia Freeland\'s \'Unreliable Boyfriend\' Offers Front-Row Seat to US-Canada Tensions — US News, 10 Juni 2026',
+            source3: 'Carleton University',
+            sourceUrl3: 'https://carleton.ca/fpga/2026/bell-lecture-2026-with-chrystia-freeland-advocates-for-a-strong-ukraine/',
+            sourceSnippet3: 'Bell Lecture 2026 with Chrystia Freeland Advocates for a Strong Ukraine — Carleton University',
+            source4: 'CityNews Halifax',
+            sourceUrl4: 'https://halifax.citynews.ca/2026/06/10/chrystia-freeland-to-publish-political-memoir-unreliable-boyfriend/',
+            sourceSnippet4: 'Chrystia Freeland to publish political memoir, \'Unreliable Boyfriend\' — CityNews Halifax, 10 Juni 2026'
+          },
+          en: {
+            title: 'Chrystia Freeland — Former Canadian Deputy PM, Now Economic Advisor to Ukraine\'s President',
+            desc: 'Chrystia Freeland is Canada\'s former Deputy Prime Minister and Finance Minister who now serves as special economic advisor to Ukrainian President Volodymyr Zelensky. In 2026, she also published a political memoir titled "Unreliable Boyfriend" exploring tense relations between Canada and the United States.',
+            body: '<p>Chrystia Freeland was born on August 2, 1968 in Peace River, Alberta, Canada. She earned a bachelor\'s degree from Harvard University and a master\'s degree from Oxford University as a Rhodes Scholar. Before entering politics, Freeland built a long career as an international journalist, including serving as an editor at the Financial Times and Reuters, specializing in covering Eastern Europe and post-Soviet Russia.</p><p>Freeland entered Canadian politics in 2013 and quickly rose to key government positions, including Foreign Minister and later Deputy Prime Minister concurrently Finance Minister under Prime Minister Justin Trudeau. She is widely known as one of Canada\'s chief negotiators in renegotiating the North American free trade agreement (USMCA) with the Trump administration.</p><p>In early 2026, Ukrainian President Volodymyr Zelensky appointed Freeland as special economic advisor amid a major government reshuffle in Kyiv, leveraging her deep expertise in international economic policy and close ties with Western policymakers to support Ukraine\'s economic reconstruction efforts amid the prolonged war.</p><p>In May 2026, Freeland spoke at the annual Bell Lecture at Carleton University, where she openly called for stronger support for Ukraine from its Western allies. In June 2026, she announced the publication of her political memoir titled "Unreliable Boyfriend," addressing the theme of increasingly tense relations between Canada and the United States under various US administrations.</p><p>Despite having left official office in the Canadian government, Freeland remains one of the most influential voices in Canadian foreign policy and economic discussions, with her influence now extending to the international stage through her role helping Ukraine navigate wartime economic challenges.</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/world/2026/jan/05/chrystia-freeland-economic-adviser-ukraine-canada',
+            sourceSnippet: 'Zelenskyy names Canada\'s ex-finance minister as economic adviser in Ukraine — The Guardian, January 5 2026',
+            source2: 'US News',
+            sourceUrl2: 'https://www.usnews.com/news/entertainment/articles/2026-06-10/chrystia-freelands-unreliable-boyfriend-offers-front-row-seat-to-us-canada-tensions',
+            sourceSnippet2: 'Chrystia Freeland\'s \'Unreliable Boyfriend\' Offers Front-Row Seat to US-Canada Tensions — US News, June 10 2026',
+            source3: 'Carleton University',
+            sourceUrl3: 'https://carleton.ca/fpga/2026/bell-lecture-2026-with-chrystia-freeland-advocates-for-a-strong-ukraine/',
+            sourceSnippet3: 'Bell Lecture 2026 with Chrystia Freeland Advocates for a Strong Ukraine — Carleton University'
+          },
+          ja: {
+            title: 'クリスティア・フリーランド — カナダ元副首相、現在はウクライナ大統領の経済顧問',
+            desc: 'クリスティア・フリーランドはカナダの元副首相兼財務相で、現在はウクライナのゼレンスキー大統領の特別経済顧問を務める。2026年、カナダと米国の緊張関係を探る政治回顧録「Unreliable Boyfriend」も出版した。',
+            body: '<p>クリスティア・フリーランドは1968年8月2日、カナダ・アルバータ州ピースリバー生まれ。ハーバード大学で学士号、ローズ奨学生としてオックスフォード大学で修士号を取得。政界入り前は国際ジャーナリストとして長いキャリアを築き、フィナンシャル・タイムズやロイターの編集者を務め、東欧とポストソビエトロシアの報道を専門とした。</p><p>2013年カナダ政界入りし、外相、その後トルドー首相の下で副首相兼財務相を歴任するなど急速に要職へ昇進した。トランプ政権との北米自由貿易協定（USMCA）再交渉におけるカナダの主要交渉者の一人として広く知られている。</p><p>2026年初め、ゼレンスキー大統領はキーウでの大規模な政府改造の中、フリーランドを特別経済顧問に任命した。</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/world/2026/jan/05/chrystia-freeland-economic-adviser-ukraine-canada',
+            sourceSnippet: 'ゼレンスキー、カナダ元財務相をウクライナの経済顧問に任命 — ガーディアン 2026年1月5日'
+          },
+          ko: {
+            title: '크리스티아 프리랜드 — 캐나다 전 부총리, 현재 우크라이나 대통령 경제고문',
+            desc: '크리스티아 프리랜드는 캐나다 전 부총리 겸 재무장관으로 현재 우크라이나 젤렌스키 대통령의 특별 경제고문을 맡고 있다. 2026년, 캐나다와 미국의 긴장 관계를 다룬 정치 회고록 "언리라이어블 보이프렌드"도 출간했다.',
+            body: '<p>크리스티아 프리랜드는 1968년 8월 2일 캐나다 앨버타주 피스리버 출생. 하버드 대학에서 학사, 로즈 장학생으로 옥스퍼드 대학에서 석사 학위를 취득했다. 정계 입문 전 국제 저널리스트로 오랜 경력을 쌓았으며, 파이낸셜타임스와 로이터에서 편집자로 근무하며 동유럽과 탈소비에트 러시아 보도를 전문으로 했다.</p><p>2013년 캐나다 정계에 입문해 외무장관, 이후 트뤼도 총리 아래서 부총리 겸 재무장관을 역임하는 등 빠르게 요직에 올랐다. 트럼프 행정부와의 북미자유무역협정(USMCA) 재협상에서 캐나다의 주요 협상가 중 한 명으로 널리 알려져 있다.</p><p>2026년 초, 젤렌스키 대통령은 키이우에서의 대규모 정부 개편 속에서 프리랜드를 특별 경제고문으로 임명했다.</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/world/2026/jan/05/chrystia-freeland-economic-adviser-ukraine-canada',
+            sourceSnippet: '젤렌스키, 캐나다 전 재무장관을 우크라이나 경제고문으로 임명 — 가디언 2026년 1월 5일'
+          },
+          zh: {
+            title: '克里斯蒂娅·弗里兰 — 加拿大前副总理，现任乌克兰总统经济顾问',
+            desc: '克里斯蒂娅·弗里兰是加拿大前副总理兼财政部长，现任乌克兰总统泽连斯基的特别经济顾问。2026年，她还出版了探讨加拿大与美国紧张关系的政治回忆录《不可靠的男友》。',
+            body: '<p>克里斯蒂娅·弗里兰1968年8月2日生于加拿大艾伯塔省皮斯河。她在哈佛大学获学士学位，作为罗德学者在牛津大学取得硕士学位。从政前，她曾长期担任国际记者，在《金融时报》和路透社担任编辑，专门报道东欧和后苏联时期的俄罗斯。</p><p>2013年步入加拿大政坛，迅速晋升至关键政府职位，包括外交部长，此后在特鲁多总理领导下出任副总理兼财政部长。她被广泛认为是加拿大与特朗普政府重新谈判北美自由贸易协定（USMCA）的主要谈判代表之一。</p><p>2026年初，泽连斯基总统在基辅进行大规模政府改组之际，任命弗里兰为特别经济顾问。</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/world/2026/jan/05/chrystia-freeland-economic-adviser-ukraine-canada',
+            sourceSnippet: '泽连斯基任命加拿大前财长为乌克兰经济顾问 — 卫报，2026年1月5日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
