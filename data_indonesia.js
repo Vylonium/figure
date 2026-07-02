@@ -611,6 +611,67 @@
           }
         }
       }
+      ,
+      {
+        id: 'indonesia-airlangga-hartarto',
+        langs: {
+          id: {
+            title: 'Airlangga Hartarto — Menteri Koordinator Perekonomian & Arsitek Diplomasi Ekonomi Indonesia',
+            desc: 'Airlangga Hartarto adalah Menteri Koordinator Bidang Perekonomian Indonesia yang aktif memperluas kerja sama ekonomi global. Pada 2026, ia memimpin implementasi kebijakan Devisa Hasil Ekspor (DHE) Sumber Daya Alam dan mendorong komitmen Indonesia di forum ekonomi internasional seperti Brussels Economic Security Forum.',
+            body: '<p>Airlangga Hartarto lahir pada 1 Oktober 1962 di Surabaya, Jawa Timur. Ia meraih gelar sarjana teknik mesin dari Universitas Gadjah Mada, dilanjutkan dengan gelar master di bidang manajemen dari Universitas Melbourne dan Master of Business Administration dari Universitas Monash, Australia. Latar belakang pendidikannya yang kuat di bidang teknik dan bisnis membentuk pendekatan teknokratisnya dalam merumuskan kebijakan ekonomi.</p><p>Sebelum menjabat sebagai Menteri Koordinator Bidang Perekonomian, Airlangga menduduki berbagai posisi strategis, termasuk Ketua Umum Partai Golkar dan Menteri Perindustrian Republik Indonesia periode 2016–2019. Pengalamannya yang luas di sektor industri dan politik menjadikannya salah satu tokoh kunci dalam perumusan kebijakan ekonomi makro Indonesia selama bertahun-tahun.</p><p>Pada Juni 2026, Airlangga mengumumkan implementasi aturan baru terkait Devisa Hasil Ekspor Sumber Daya Alam (DHE SDA) yang mulai berlaku efektif 1 Juni 2026. Kebijakan ini mewajibkan eksportir sumber daya alam untuk menyimpan sebagian devisa hasil ekspor mereka di sistem keuangan domestik, dengan pengecualian khusus bagi eksportir yang bertransaksi dengan Amerika Serikat — sebuah kebijakan yang bertujuan memperkuat cadangan devisa dan stabilitas nilai tukar rupiah.</p><p>Di panggung internasional, Airlangga aktif mewakili Indonesia dalam berbagai forum ekonomi global. Dalam Brussels Economic Security Forum yang digelar awal Juni 2026, ia menegaskan komitmen Indonesia untuk terus memperluas kerja sama ekonomi global meski di tengah ketidakpastian geopolitik dan perdagangan dunia yang meningkat, menyoroti ketahanan ekonomi Indonesia di tengah tantangan global tersebut.</p><p>Airlangga juga terlibat dalam pengawasan implementasi ekspor komoditas strategis melalui platform Danantara, badan pengelola investasi negara Indonesia, yang mulai beroperasi penuh pada 1 Juni 2026 sesuai jadwal yang telah ditetapkan. Selain itu, ia turut mengawal peluncuran program stimulus ekonomi semester kedua 2026 yang berfokus pada reskilling tenaga kerja dan program magang nasional untuk 250 ribu peserta, sebagai bagian dari strategi besar pemerintah dalam menghadapi tantangan ketenagakerjaan di era transformasi ekonomi digital dan hijau.</p>',
+            source: 'Tempo',
+            sourceUrl: 'https://www.tempo.co/ekonomi/airlangga-ri-berkomitmen-perluas-kerja-sama-ekonomi-global-2253493',
+            sourceSnippet: 'Airlangga: RI Berkomitmen Perluas Kerja Sama Ekonomi Global — Tempo, Juni 2026',
+            source2: 'DDTC News',
+            sourceUrl2: 'https://news.ddtc.co.id/berita/nasional/1819326/airlangga-aturan-baru-dhe-sda-bakal-berlaku-bulan-depan',
+            sourceSnippet2: 'Airlangga: Aturan Baru DHE SDA Bakal Berlaku Bulan Depan — DDTC News',
+            source3: 'Bisnis.com',
+            sourceUrl3: 'https://ekonomi.bisnis.com/read/20260522/44/1975799/beredar-isu-ekspor-komoditas-via-danantara-ditunda-airlangga-tetap-1-juni-2026',
+            sourceSnippet3: 'Airlangga Tegaskan Ekspor Komoditas via Danantara Tetap 1 Juni 2026 — Bisnis.com, 22 Mei 2026',
+            source4: 'TVRI News',
+            sourceUrl4: 'https://nasional.tvrinews.com/berita/ts0hun1-pemerintah-luncurkan-program-vokasi-250-ribu-peserta',
+            sourceSnippet4: 'Pemerintah Luncurkan Program Vokasi 250 Ribu Peserta — TVRI News, Juni 2026'
+          },
+          en: {
+            title: 'Airlangga Hartarto — Coordinating Minister for Economic Affairs & Architect of Indonesia\'s Economic Diplomacy',
+            desc: 'Airlangga Hartarto is Indonesia\'s Coordinating Minister for Economic Affairs, actively expanding global economic cooperation. In 2026, he led the implementation of the Natural Resource Export Proceeds (DHE) policy and pushed Indonesia\'s commitment at international economic forums like the Brussels Economic Security Forum.',
+            body: '<p>Airlangga Hartarto was born on October 1, 1962 in Surabaya, East Java. He earned a bachelor\'s degree in mechanical engineering from Gadjah Mada University, followed by a master\'s degree in management from the University of Melbourne and an MBA from Monash University, Australia. His strong educational background in engineering and business shaped his technocratic approach to formulating economic policy.</p><p>Before serving as Coordinating Minister for Economic Affairs, Airlangga held various strategic positions, including Chairman of the Golkar Party and Minister of Industry of Indonesia from 2016–2019. His extensive experience in industry and politics has made him one of the key figures in formulating Indonesia\'s macroeconomic policy for years.</p><p>In June 2026, Airlangga announced the implementation of new rules regarding Natural Resource Export Proceeds (DHE SDA), effective June 1, 2026. This policy requires natural resource exporters to retain a portion of their export proceeds in the domestic financial system, with special exemptions for exporters transacting with the United States — a policy aimed at strengthening foreign exchange reserves and rupiah exchange rate stability.</p><p>On the international stage, Airlangga actively represents Indonesia in various global economic forums. At the Brussels Economic Security Forum held in early June 2026, he affirmed Indonesia\'s commitment to continue expanding global economic cooperation despite increasing geopolitical uncertainty and global trade tensions, highlighting Indonesia\'s economic resilience amid these global challenges.</p><p>Airlangga is also involved in overseeing the implementation of strategic commodity exports through the Danantara platform, Indonesia\'s state investment management body, which began full operation on June 1, 2026 as scheduled. He has also overseen the launch of the second-half 2026 economic stimulus program focused on workforce reskilling and a national internship program for 250,000 participants, as part of the government\'s broader strategy to address employment challenges in the era of digital and green economic transformation.</p>',
+            source: 'Tempo',
+            sourceUrl: 'https://www.tempo.co/ekonomi/airlangga-ri-berkomitmen-perluas-kerja-sama-ekonomi-global-2253493',
+            sourceSnippet: 'Airlangga: Indonesia Committed to Expanding Global Economic Cooperation — Tempo, June 2026',
+            source2: 'DDTC News',
+            sourceUrl2: 'https://news.ddtc.co.id/berita/nasional/1819326/airlangga-aturan-baru-dhe-sda-bakal-berlaku-bulan-depan',
+            sourceSnippet2: 'Airlangga: New DHE SDA Rules to Take Effect Next Month — DDTC News',
+            source3: 'Bisnis.com',
+            sourceUrl3: 'https://ekonomi.bisnis.com/read/20260522/44/1975799/beredar-isu-ekspor-komoditas-via-danantara-ditunda-airlangga-tetap-1-juni-2026',
+            sourceSnippet3: 'Airlangga Confirms Commodity Exports via Danantara Remain on Track for June 1, 2026 — Bisnis.com, May 22 2026'
+          },
+          ja: {
+            title: 'アイルランガ・ハルタルト — 経済担当調整相・インドネシア経済外交の設計者',
+            desc: 'アイルランガ・ハルタルトはインドネシアの経済担当調整相として、グローバル経済協力の拡大に積極的に取り組んでいる。2026年、天然資源輸出代金（DHE）政策の実施を主導し、ブリュッセル経済安全保障フォーラムなど国際経済フォーラムでインドネシアのコミットメントを推進した。',
+            body: '<p>アイルランガ・ハルタルトは1962年10月1日、東ジャワ州スラバヤ生まれ。ガジャ・マダ大学で機械工学の学士号、メルボルン大学で経営学の修士号、オーストラリアのモナシュ大学でMBAを取得。</p><p>経済担当調整相就任前は、ゴルカル党党首、2016-2019年にはインドネシア工業相を歴任。長年の産業・政界経験によりインドネシアのマクロ経済政策策定の重要人物となっている。</p><p>2026年6月、アイルランガは天然資源輸出代金（DHE SDA）に関する新規則の実施を発表、2026年6月1日より施行された。この政策は天然資源輸出業者に輸出代金の一部を国内金融システムに保持することを義務付けるもの。</p>',
+            source: 'Tempo',
+            sourceUrl: 'https://www.tempo.co/ekonomi/airlangga-ri-berkomitmen-perluas-kerja-sama-ekonomi-global-2253493',
+            sourceSnippet: 'アイルランガ：インドネシアはグローバル経済協力拡大に尽力 — Tempo 2026年6月'
+          },
+          ko: {
+            title: '아이를랑가 하르타르토 — 경제조정부 장관 & 인도네시아 경제외교의 설계자',
+            desc: '아이를랑가 하르타르토는 인도네시아 경제조정부 장관으로 글로벌 경제협력 확대에 적극 나서고 있다. 2026년, 천연자원 수출대금(DHE) 정책 시행을 주도하고 브뤼셀 경제안보포럼 등 국제 경제포럼에서 인도네시아의 의지를 강조했다.',
+            body: '<p>아이를랑가 하르타르토는 1962년 10월 1일 동자바주 수라바야 출생. 가자마다 대학에서 기계공학 학사, 멜버른 대학에서 경영학 석사, 호주 모나쉬 대학에서 MBA를 취득했다.</p><p>경제조정부 장관 취임 전에는 골카르당 총재, 2016~2019년에는 인도네시아 산업부 장관을 역임했다. 오랜 산업·정계 경험으로 인도네시아 거시경제 정책 수립의 핵심 인물이 됐다.</p><p>2026년 6월, 아이를랑가는 천연자원 수출대금(DHE SDA) 관련 신규 규정 시행을 발표했으며, 2026년 6월 1일부터 시행됐다. 이 정책은 천연자원 수출업체가 수출대금 일부를 국내 금융시스템에 보유하도록 의무화한다.</p>',
+            source: 'Tempo',
+            sourceUrl: 'https://www.tempo.co/ekonomi/airlangga-ri-berkomitmen-perluas-kerja-sama-ekonomi-global-2253493',
+            sourceSnippet: '아이를랑가: 인도네시아, 글로벌 경제협력 확대에 전념 — Tempo 2026년 6월'
+          },
+          zh: {
+            title: '艾尔朗加·哈尔塔尔托 — 经济统筹部长与印尼经济外交的设计师',
+            desc: '艾尔朗加·哈尔塔尔托是印度尼西亚经济统筹部长，积极扩大全球经济合作。2026年，他主导实施天然资源出口所得（DHE）政策，并在布鲁塞尔经济安全论坛等国际经济论坛上推动印尼的承诺。',
+            body: '<p>艾尔朗加·哈尔塔尔托1962年10月1日生于东爪哇省泗水。他在加查马达大学获机械工程学士学位，随后在墨尔本大学获管理学硕士学位，并在澳大利亚莫纳什大学取得MBA学位。</p><p>在出任经济统筹部长之前，他曾任戈尔卡党主席，并于2016-2019年担任印尼工业部长。多年的产业和政界经验使他成为印尼宏观经济政策制定的关键人物。</p><p>2026年6月，艾尔朗加宣布实施有关天然资源出口所得（DHE SDA）的新规定，自2026年6月1日起生效。该政策要求天然资源出口商将部分出口所得留存于国内金融系统。</p>',
+            source: 'Tempo',
+            sourceUrl: 'https://www.tempo.co/ekonomi/airlangga-ri-berkomitmen-perluas-kerja-sama-ekonomi-global-2253493',
+            sourceSnippet: '艾尔朗加：印尼致力于扩大全球经济合作 — Tempo，2026年6月'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
