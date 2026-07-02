@@ -535,6 +535,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'usa-jd-vance',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'JD Vance — Wakil Presiden AS, Rayakan 250 Tahun Amerika di Tengah Negosiasi Damai Iran',
+            desc: 'JD Vance adalah Wakil Presiden Amerika Serikat yang menjabat sejak Januari 2025. Pada awal Juli 2026, ia mengunjungi pangkalan militer AS untuk merayakan 250 tahun kemerdekaan Amerika, sekaligus menyampaikan pandangan kontroversialnya terhadap sikap Vatikan soal imigrasi di tengah negosiasi damai Iran yang sedang berlangsung.',
+            body: '<p>James David Vance lahir pada 2 Agustus 1984 di Middletown, Ohio. Ia menempuh pendidikan di Ohio State University sebelum meraih gelar sarjana hukum dari Yale Law School. Sebelum terjun ke politik, Vance dikenal luas sebagai penulis memoar terlaris "Hillbilly Elegy" yang mengangkat kisah masa kecilnya di komunitas kelas pekerja Appalachia, serta membangun karier di industri modal ventura Silicon Valley.</p><p>Vance memasuki dunia politik dengan terpilih sebagai Senator Ohio pada 2022, dengan cepat menjadi salah satu suara paling menonjol dalam sayap populis Partai Republik. Setelah kemenangan pemilu presiden 2024, Vance dilantik sebagai Wakil Presiden Amerika Serikat pada Januari 2025, menjadi salah satu tokoh kunci dalam pemerintahan yang menekankan kebijakan luar negeri "America First" dan reformasi imigrasi ketat.</p><p>Pada 1 Juli 2026, Vance melakukan kunjungan ke Pangkalan Udara Angkatan Laut (NAS) Oceana di Virginia Beach, menyampaikan pidato patriotik dalam rangka perayaan 250 tahun kemerdekaan Amerika Serikat (America 250). Dalam pidatonya di hadapan pelaut dan marinir, ia menegaskan bahwa para prajurit berhak atas misi yang "jelas terdefinisi" serta alat yang memadai untuk mencapai kesuksesan dalam tugas mereka.</p><p>Sehari sebelumnya, pada 30 Juni 2026, Vance menyampaikan pandangannya bahwa beberapa pandangan Vatikan terkait kebijakan imigrasi "mengkhawatirkan," sebuah pernyataan yang mencerminkan ketegangan berkelanjutan antara kebijakan imigrasi ketat pemerintahannya dengan sikap kemanusiaan yang diusung oleh Gereja Katolik. Kunjungannya ke NAS Oceana juga berlangsung di tengah negosiasi berkelanjutan dengan Iran menuju kesepakatan permanen untuk mengakhiri perang di Timur Tengah.</p><p>Sebagai Wakil Presiden, Vance terus memainkan peran penting sebagai salah satu pembela paling vokal kebijakan pemerintahan saat ini, sekaligus dipandang sebagai calon kuat penerus kepemimpinan sayap populis Partai Republik pada pemilu-pemilu mendatang.</p>',
+            source: 'WHRO',
+            sourceUrl: 'https://www.whro.org/military-veterans/2026-07-01/vice-president-jd-vance-praises-oceana-pilots-ahead-of-4th-of-july-weekend',
+            sourceSnippet: 'Vice President JD Vance praises Oceana pilots ahead of Fourth of July weekend — WHRO, 1 Juli 2026',
+            source2: 'Stars and Stripes',
+            sourceUrl2: 'https://www.stripes.com/theaters/us/2026-07-01/vance-nas-oceana-america-250-22139285.html',
+            sourceSnippet2: 'Vance tells troops they deserve \'clearly defined\' missions during NAS Oceana visit — Stars and Stripes, 1 Juli 2026',
+            source3: 'OSV News',
+            sourceUrl3: 'https://www.osvnews.com/vance-calls-the-vaticans-views-on-immigration-troubling/',
+            sourceSnippet3: 'Vance calls the Vatican\'s views on immigration \'troubling\' — OSV News, 30 Juni 2026',
+            source4: 'WTKR',
+            sourceUrl4: 'https://www.wtkr.com/news/in-the-community/virginia-beach/vice-president-jd-vance-celebrates-americas-250th-with-visit-to-nas-oceana',
+            sourceSnippet4: '\'This celebration belongs to you:\' VP Vance tells service members during America 250 speech at NAS Oceana — WTKR'
+          },
+          en: {
+            title: 'JD Vance — US Vice President, Celebrates America\'s 250th Amid Iran Peace Negotiations',
+            desc: 'JD Vance is Vice President of the United States, serving since January 2025. In early July 2026, he visited a US military base to celebrate America\'s 250th anniversary of independence, while expressing controversial views on the Vatican\'s stance on immigration amid ongoing Iran peace negotiations.',
+            body: '<p>James David Vance was born on August 2, 1984 in Middletown, Ohio. He studied at Ohio State University before earning a law degree from Yale Law School. Before entering politics, Vance was widely known as the author of the bestselling memoir "Hillbilly Elegy," which chronicled his childhood in an Appalachian working-class community, and built a career in Silicon Valley venture capital.</p><p>Vance entered politics by winning election as Senator from Ohio in 2022, quickly becoming one of the most prominent voices in the Republican Party\'s populist wing. Following the 2024 presidential election victory, Vance was inaugurated as US Vice President in January 2025, becoming a key figure in an administration emphasizing "America First" foreign policy and strict immigration reform.</p><p>On July 1, 2026, Vance visited Naval Air Station (NAS) Oceana in Virginia Beach, delivering a patriotic speech marking America\'s 250th anniversary of independence (America 250). In his address to sailors and Marines, he affirmed that service members deserve "clearly defined" missions and adequate tools to succeed in their duties.</p><p>A day earlier, on June 30, 2026, Vance expressed his view that some Vatican positions on immigration policy were "troubling," a statement reflecting ongoing tension between his administration\'s strict immigration policies and the humanitarian stance championed by the Catholic Church. His visit to NAS Oceana also occurred amid continued negotiations with Iran toward a permanent deal to end the Middle East war.</p><p>As Vice President, Vance continues to play an important role as one of the most vocal defenders of the current administration\'s policies, while also being viewed as a strong potential successor to leadership of the Republican Party\'s populist wing in upcoming elections.</p>',
+            source: 'WHRO',
+            sourceUrl: 'https://www.whro.org/military-veterans/2026-07-01/vice-president-jd-vance-praises-oceana-pilots-ahead-of-4th-of-july-weekend',
+            sourceSnippet: 'Vice President JD Vance praises Oceana pilots ahead of Fourth of July weekend — WHRO, July 1 2026',
+            source2: 'Stars and Stripes',
+            sourceUrl2: 'https://www.stripes.com/theaters/us/2026-07-01/vance-nas-oceana-america-250-22139285.html',
+            sourceSnippet2: 'Vance tells troops they deserve \'clearly defined\' missions during NAS Oceana visit — Stars and Stripes, July 1 2026',
+            source3: 'OSV News',
+            sourceUrl3: 'https://www.osvnews.com/vance-calls-the-vaticans-views-on-immigration-troubling/',
+            sourceSnippet3: 'Vance calls the Vatican\'s views on immigration \'troubling\' — OSV News, June 30 2026'
+          },
+          ja: {
+            title: 'JD・ヴァンス — 米副大統領、イラン和平交渉の中でアメリカ建国250周年を祝う',
+            desc: 'JD・ヴァンスは2025年1月から務める米副大統領。2026年7月初旬、米軍基地を訪問しアメリカ建国250周年を祝う一方、進行中のイラン和平交渉の中でバチカンの移民政策への見解について物議を醸す発言をした。',
+            body: '<p>ジェームズ・デイヴィッド・ヴァンスは1984年8月2日、オハイオ州ミドルタウン生まれ。オハイオ州立大学で学び、イェール大学ロースクールで法学位を取得。政界入り前はベストセラー回顧録「ヒルビリー・エレジー」の著者として広く知られ、シリコンバレーのベンチャーキャピタル業界でキャリアを築いた。</p><p>2022年オハイオ州上院議員選挙で当選し政界入り、共和党ポピュリスト派で最も著名な声の一人に急成長した。2024年大統領選挙勝利後、2025年1月に米副大統領に就任し、「アメリカ・ファースト」外交政策と厳格な移民改革を重視する政権の重要人物となった。</p><p>2026年7月1日、ヴァージニアビーチの海軍航空基地オシアナを訪問し、アメリカ建国250周年（America 250）を記念する愛国的な演説を行った。</p>',
+            source: 'WHRO',
+            sourceUrl: 'https://www.whro.org/military-veterans/2026-07-01/vice-president-jd-vance-praises-oceana-pilots-ahead-of-4th-of-july-weekend',
+            sourceSnippet: 'ヴァンス副大統領、独立記念日を前にオシアナのパイロットを称賛 — WHRO 2026年7月1日'
+          },
+          ko: {
+            title: 'JD 밴스 — 미국 부통령, 이란 평화 협상 속 미국 건국 250주년 기념',
+            desc: 'JD 밴스는 2025년 1월부터 재임 중인 미국 부통령. 2026년 7월 초, 미군 기지를 방문해 미국 건국 250주년을 기념하는 한편, 진행 중인 이란 평화 협상 속에서 바티칸의 이민 정책 견해에 대해 논란이 된 발언을 했다.',
+            body: '<p>제임스 데이비드 밴스는 1984년 8월 2일 오하이오주 미들타운 출생. 오하이오 주립대학에서 공부했고 예일 로스쿨에서 법학 학위를 취득했다. 정계 입문 전에는 베스트셀러 회고록 "힐빌리의 노래"의 저자로 널리 알려졌으며, 실리콘밸리 벤처캐피털 업계에서 경력을 쌓았다.</p><p>2022년 오하이오주 상원의원 선거에서 당선되며 정계에 입문해 공화당 포퓰리스트 진영에서 가장 두드러진 목소리 중 하나로 빠르게 성장했다. 2024년 대선 승리 이후 2025년 1월 미국 부통령에 취임하며 "미국 우선" 외교정책과 엄격한 이민 개혁을 강조하는 행정부의 핵심 인물이 됐다.</p><p>2026년 7월 1일, 버지니아비치의 오세아나 해군항공기지를 방문해 미국 건국 250주년(America 250)을 기념하는 애국적인 연설을 했다.</p>',
+            source: 'WHRO',
+            sourceUrl: 'https://www.whro.org/military-veterans/2026-07-01/vice-president-jd-vance-praises-oceana-pilots-ahead-of-4th-of-july-weekend',
+            sourceSnippet: '밴스 부통령, 독립기념일 앞두고 오세아나 조종사들 찬사 — WHRO 2026년 7월 1일'
+          },
+          zh: {
+            title: 'JD·万斯 — 美国副总统，在伊朗和平谈判中庆祝美国建国250周年',
+            desc: 'JD·万斯自2025年1月起担任美国副总统。2026年7月初，他访问美军基地庆祝美国建国250周年，同时在持续进行的伊朗和平谈判中就梵蒂冈的移民立场发表了引发争议的言论。',
+            body: '<p>詹姆斯·戴维·万斯1984年8月2日生于俄亥俄州米德尔顿。他曾就读于俄亥俄州立大学，后在耶鲁法学院获得法学学位。从政前，他因畅销回忆录《乡下人的悲歌》而广为人知，该书讲述了他在阿巴拉契亚工人阶级社区的童年经历，此后在硅谷风险投资行业发展事业。</p><p>2022年，他当选俄亥俄州参议员步入政坛，迅速成为共和党民粹派最突出的声音之一。2024年总统大选获胜后，他于2025年1月就任美国副总统，成为强调"美国优先"外交政策和严格移民改革的政府核心人物。</p><p>2026年7月1日，万斯访问弗吉尼亚海滩的奥西安娜海军航空站，发表了纪念美国建国250周年（America 250）的爱国演说。</p>',
+            source: 'WHRO',
+            sourceUrl: 'https://www.whro.org/military-veterans/2026-07-01/vice-president-jd-vance-praises-oceana-pilots-ahead-of-4th-of-july-weekend',
+            sourceSnippet: '万斯副总统在独立日周末前赞扬奥西安娜飞行员 — WHRO，2026年7月1日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
