@@ -490,6 +490,127 @@
         }
       }
       
+      ,
+      {
+        id: 'indonesia-luhut-binsar-pandjaitan',
+        langs: {
+          id: {
+            title: 'Luhut Binsar Pandjaitan — Teknokrat Senior & Arsitek Transformasi Digital Pemerintah',
+            desc: 'Luhut Binsar Pandjaitan adalah salah satu tokoh paling berpengaruh dalam pemerintahan Indonesia selama lebih dari satu dekade. Kini menjabat Ketua Komite Percepatan Transformasi Digital Pemerintah, ia menargetkan peluncuran GovTech nasional pada Oktober 2026.',
+            body: '<p>Luhut Binsar Pandjaitan lahir pada 28 September 1947 di Silalahi, Sumatera Utara. Ia memulai karier sebagai perwira militer di Komando Pasukan Khusus (Kopassus) TNI Angkatan Darat, mencapai pangkat Jenderal sebelum pensiun. Latar belakang militernya membentuk reputasinya sebagai sosok tegas dan berpengaruh dalam berbagai pemerintahan Indonesia berturut-turut.</p><p>Sepanjang kariernya di pemerintahan, Luhut telah menjabat berbagai posisi strategis — mulai dari Duta Besar RI untuk Singapura, Menteri Perdagangan dan Perindustrian, hingga Menteri Koordinator Bidang Kemaritiman dan Investasi pada era Presiden Joko Widodo. Reputasinya sebagai "menteri segala urusan" melekat kuat karena kemampuannya menangani berbagai isu lintas sektor, dari investasi asing hingga penanganan pandemi COVID-19.</p><p>Di era pemerintahan Presiden Prabowo Subianto, Luhut dipercaya sebagai Ketua Komite Percepatan Transformasi Digital Pemerintah — posisi strategis yang bertanggung jawab mempercepat digitalisasi layanan publik Indonesia. Pada awal Juli 2026, Luhut mengumumkan bahwa Presiden Prabowo dijadwalkan meluncurkan program GovTech nasional pada Oktober 2026, sebuah inisiatif besar untuk mengintegrasikan sistem digital pemerintahan di seluruh Indonesia.</p><p>Sebagai bagian dari inisiatif ini, Luhut juga menargetkan peluncuran sistem digitalisasi bantuan sosial (bansos) nasional melalui Portal Perlindungan Sosial (Perlinsos) pada Oktober 2026, setelah melalui tahap uji coba di 43 kabupaten dan kota di seluruh Indonesia. Program ini bertujuan memastikan penyaluran bantuan sosial lebih tepat sasaran dan transparan.</p><p>Meski usianya sudah melewati 78 tahun, Luhut tetap menjadi salah satu tokoh paling aktif dan berpengaruh dalam merumuskan kebijakan strategis Indonesia — mencerminkan posisinya yang unik sebagai penasihat senior yang dipercaya lintas era kepemimpinan presiden yang berbeda-beda.</p>',
+            source: 'Tempo (English)',
+            sourceUrl: 'https://en.tempo.co/read/2111214/indonesia-to-launch-nationwide-govtech-by-october-2026',
+            sourceSnippet: 'Indonesia to Launch Nationwide GovTech by October 2026 — Tempo, 1 Juli 2026',
+            source2: 'Antara Gorontalo',
+            sourceUrl2: 'https://gorontalo.antaranews.com/berita/411576/luhut-presiden-luncurkan-govtech-nasional-pada-oktober-2026',
+            sourceSnippet2: 'Luhut: Presiden Luncurkan GovTech Nasional pada Oktober 2026 — Antara, 1 Juli 2026',
+            source3: 'Metro TV News',
+            sourceUrl3: 'https://www.metrotvnews.com/read/NnjCWnzM-luhut-targetkan-digitalisasi-bansos-mulai-oktober-2026',
+            sourceSnippet3: 'Luhut Targetkan Digitalisasi Bansos Mulai Oktober 2026 — Metro TV News',
+            source4: 'Kompas TV',
+            sourceUrl4: 'https://www.kompas.tv/amp/nasional/678106/arahan-presiden-luhut-targetkan-digitalisasi-bansos-diluncurkan-nasional-oktober-2026',
+            sourceSnippet4: 'Arahan Presiden! Luhut Targetkan Digitalisasi Bansos Diluncurkan Nasional Oktober 2026 — Kompas TV'
+          },
+          en: {
+            title: 'Luhut Binsar Pandjaitan — Senior Technocrat & Architect of Government Digital Transformation',
+            desc: 'Luhut Binsar Pandjaitan is one of the most influential figures in Indonesian government for over a decade. Now chairing the Government Digital Transformation Acceleration Committee, he is targeting a nationwide GovTech launch in October 2026.',
+            body: '<p>Luhut Binsar Pandjaitan was born on September 28, 1947 in Silalahi, North Sumatra. He began his career as a military officer in the Indonesian Army\'s Special Forces Command (Kopassus), reaching the rank of General before retiring. His military background shaped his reputation as a firm and influential figure across successive Indonesian administrations.</p><p>Throughout his government career, Luhut has held various strategic positions — from Indonesian Ambassador to Singapore, Minister of Trade and Industry, to Coordinating Minister for Maritime Affairs and Investment under President Joko Widodo. His reputation as the "minister of everything" is well established due to his ability to handle various cross-sector issues, from foreign investment to COVID-19 pandemic response.</p><p>Under President Prabowo Subianto\'s administration, Luhut has been entrusted as Chairman of the Government Digital Transformation Acceleration Committee — a strategic position responsible for accelerating the digitalization of Indonesia\'s public services. In early July 2026, Luhut announced that President Prabowo is scheduled to launch the nationwide GovTech program in October 2026, a major initiative to integrate government digital systems across Indonesia.</p><p>As part of this initiative, Luhut is also targeting the launch of a national social assistance (bansos) digitalization system through the Social Protection Portal (Perlinsos) in October 2026, following trial phases in 43 regencies and cities across Indonesia. This program aims to ensure more targeted and transparent distribution of social assistance.</p><p>Despite being over 78 years old, Luhut remains one of the most active and influential figures in formulating Indonesia\'s strategic policies — reflecting his unique position as a trusted senior advisor across different presidential leadership eras.</p>',
+            source: 'Tempo (English)',
+            sourceUrl: 'https://en.tempo.co/read/2111214/indonesia-to-launch-nationwide-govtech-by-october-2026',
+            sourceSnippet: 'Indonesia to Launch Nationwide GovTech by October 2026 — Tempo, July 1 2026',
+            source2: 'Antara Gorontalo',
+            sourceUrl2: 'https://gorontalo.antaranews.com/berita/411576/luhut-presiden-luncurkan-govtech-nasional-pada-oktober-2026',
+            sourceSnippet2: 'Luhut: President to Launch National GovTech in October 2026 — Antara, July 1 2026',
+            source3: 'Metro TV News',
+            sourceUrl3: 'https://www.metrotvnews.com/read/NnjCWnzM-luhut-targetkan-digitalisasi-bansos-mulai-oktober-2026',
+            sourceSnippet3: 'Luhut Targets Social Assistance Digitalization Starting October 2026 — Metro TV News'
+          },
+          ja: {
+            title: 'ルフット・ビンサル・パンジャイタン — 政府デジタル変革の設計者',
+            desc: 'ルフット・ビンサル・パンジャイタンは10年以上インドネシア政府で最も影響力ある人物の一人。現在は政府デジタル変革加速委員会委員長として、2026年10月の全国GovTech開始を目指している。',
+            body: '<p>ルフット・ビンサル・パンジャイタンは1947年9月28日、北スマトラ州シララヒ生まれ。インドネシア陸軍特殊部隊（コパスス）の軍人としてキャリアを開始し、将官まで昇進後退役。シンガポール大使、通商産業相を経て、ジョコ・ウィドド政権下では海事投資担当調整相を務めた。</p><p>プラボウォ・スビアント政権下では政府デジタル変革加速委員会委員長を任され、2026年7月初旬、プラボウォ大統領が2026年10月に全国GovTechプログラムを開始予定と発表。同年10月には社会保障ポータル（Perlinsos）を通じた社会扶助のデジタル化も全国展開を目指している。</p>',
+            source: 'Tempo (English)',
+            sourceUrl: 'https://en.tempo.co/read/2111214/indonesia-to-launch-nationwide-govtech-by-october-2026',
+            sourceSnippet: 'インドネシア、2026年10月までに全国GovTech開始へ — Tempo 2026年7月1日'
+          },
+          ko: {
+            title: '루훗 빈사르 판자이탄 — 정부 디지털 전환의 설계자',
+            desc: '루훗 빈사르 판자이탄은 10년 넘게 인도네시아 정부에서 가장 영향력 있는 인물 중 한 명. 현재 정부 디지털전환 가속화위원회 위원장으로서 2026년 10월 전국 거브테크 출범을 목표로 하고 있다.',
+            body: '<p>루훗 빈사르 판자이탄은 1947년 9월 28일 북수마트라주 실랄라히 출생. 인도네시아 육군 특수부대(코파수스) 군인으로 경력을 시작해 장군까지 진급 후 퇴역했다. 싱가포르 대사, 통상산업부 장관을 거쳐 조코 위도도 정부에서는 해양투자조정부 장관을 지냈다.</p><p>프라보워 수비안토 정부에서는 정부 디지털전환 가속화위원회 위원장을 맡고 있으며, 2026년 7월 초 프라보워 대통령이 2026년 10월 전국 거브테크 프로그램을 출범할 예정이라고 발표했다. 같은 해 10월에는 사회보장포털(Perlinsos)을 통한 사회복지 디지털화도 전국 확대를 목표로 하고 있다.</p>',
+            source: 'Tempo (English)',
+            sourceUrl: 'https://en.tempo.co/read/2111214/indonesia-to-launch-nationwide-govtech-by-october-2026',
+            sourceSnippet: '인도네시아, 2026년 10월까지 전국 거브테크 출범 예정 — Tempo 2026년 7월 1일'
+          },
+          zh: {
+            title: '卢胡特·宾萨尔·潘贾伊坦 — 政府数字化转型的设计师',
+            desc: '卢胡特·宾萨尔·潘贾伊坦十多年来一直是印度尼西亚政府最具影响力的人物之一。现任政府数字化转型加速委员会主席，目标是在2026年10月推出全国性政务科技系统。',
+            body: '<p>卢胡特·宾萨尔·潘贾伊坦1947年9月28日生于北苏门答腊省西拉拉希。他以印尼陆军特种部队（Kopassus）军官身份开启职业生涯，晋升至将军后退役。历任新加坡大使、贸易工业部长，在佐科·维多多政府时期担任海事投资统筹部长。</p><p>在普拉博沃·苏比安托政府中，他担任政府数字化转型加速委员会主席，2026年7月初宣布普拉博沃总统预计于2026年10月启动全国政务科技项目。同年10月，他还计划通过社会保障门户（Perlinsos）在全国范围推广社会救助数字化。</p>',
+            source: 'Tempo (English)',
+            sourceUrl: 'https://en.tempo.co/read/2111214/indonesia-to-launch-nationwide-govtech-by-october-2026',
+            sourceSnippet: '印尼计划于2026年10月前推出全国政务科技系统 — Tempo，2026年7月1日'
+          }
+        }
+      },
+      {
+        id: 'indonesia-sandiaga-uno',
+        langs: {
+          id: {
+            title: 'Sandiaga Uno — Pengusaha, Mantan Menteri, & Penggerak Pemberdayaan Ekonomi Rakyat',
+            desc: 'Sandiaga Salahuddin Uno adalah pengusaha sukses sekaligus mantan Menteri Pariwisata dan Ekonomi Kreatif Indonesia. Melalui Yayasan Indonesia Setara, ia terus aktif mendorong pemberdayaan ekonomi generasi muda dan masyarakat pedesaan di seluruh Indonesia pada 2026.',
+            body: '<p>Sandiaga Salahuddin Uno lahir pada 28 Juni 1969 di Rumbai, Riau, Indonesia. Ia menempuh pendidikan bisnis di Amerika Serikat, meraih gelar MBA dari George Washington University. Karier bisnisnya dimulai di sektor keuangan sebelum ia mendirikan PT Saratoga Investama Sedaya bersama rekan bisnisnya, yang kemudian berkembang menjadi salah satu perusahaan investasi swasta terbesar di Indonesia.</p><p>Sandiaga membangun kekayaannya melalui investasi lintas sektor — mulai dari pertambangan, telekomunikasi, hingga consumer goods. Saratoga Investama Sedaya Tbk (kode saham SRTG), yang ia dirikan, secara konsisten membagikan dividen kepada para pemegang saham, termasuk pembayaran dividen yang dilakukan pada awal Juni 2026.</p><p>Di dunia politik, Sandiaga pernah menjabat Wakil Gubernur DKI Jakarta (2017–2018) mendampingi Anies Baswedan, sebelum kemudian menjadi calon Wakil Presiden pada Pemilu 2019 berpasangan dengan Prabowo Subianto. Ia kemudian menjabat Menteri Pariwisata dan Ekonomi Kreatif Republik Indonesia periode 2020–2024, di mana ia dikenal aktif mempromosikan sektor pariwisata dan ekonomi kreatif Indonesia ke panggung internasional.</p><p>Pasca-jabatan menteri, Sandiaga tetap aktif melalui Yayasan Indonesia Setara (YIS) dan program Sandination Academy. Pada Februari 2026, ia mendorong program "Rocket 2026" untuk menciptakan lapangan kerja bagi generasi muda, serta program "Desa EMAS" (Ekonomi Maju, Adil, Sejahtera) yang berhasil memberdayakan puluhan warga di Kebumen, Jawa Tengah.</p><p>Sandiaga juga sempat menjadi korban penyalahgunaan namanya dalam modus penipuan daring, di mana video hoaks yang mengklaim dirinya membagikan bantuan modal usaha melalui WhatsApp beredar luas pada Juni 2026 — memaksa tim Kompas Cek Fakta turun tangan mengklarifikasi kepada publik. Meski demikian, reputasinya sebagai pengusaha sukses dan tokoh yang peduli pemberdayaan ekonomi rakyat kecil tetap kuat di mata publik Indonesia.</p>',
+            source: 'TradingView Indonesia',
+            sourceUrl: 'https://id.tradingview.com/news/kontan:8b5372c8187ea:0/',
+            sourceSnippet: 'Hari Ini Pembayaran Dividen Saham SRTG, Perusahaan Sandiaga Uno — TradingView, 2 Juni 2026',
+            source2: 'Republika',
+            sourceUrl2: 'https://news.republika.co.id/berita/tarnz7320/sandiaga-uno-rocket-2026-dorong-ciptakan-lapangan-kerja-bagi-generasi-muda',
+            sourceSnippet2: 'Sandiaga Uno: Rocket 2026 Dorong Ciptakan Lapangan Kerja Bagi Generasi Muda — Republika, 20 Februari 2026',
+            source3: 'JPNN',
+            sourceUrl3: 'https://www.jpnn.com/news/sandiaga-uno-sukses-berdayakan-masyarakat-lewat-desa-emas-kebumen-2026',
+            sourceSnippet3: 'Sandiaga Uno Sukses Berdayakan Masyarakat lewat Desa Emas Kebumen 2026 — JPNN',
+            source4: 'Kompas Cek Fakta',
+            sourceUrl4: 'https://www.kompas.com/cekfakta/read/2026/06/06/084700982/-hoaks-sandiaga-uno-beri-bantuan-modal-usaha-melalui-whatsapp',
+            sourceSnippet4: '[HOAKS] Sandiaga Uno Beri Bantuan Modal Usaha Melalui WhatsApp — Kompas Cek Fakta, 6 Juni 2026'
+          },
+          en: {
+            title: 'Sandiaga Uno — Businessman, Former Minister, & Advocate for Grassroots Economic Empowerment',
+            desc: 'Sandiaga Salahuddin Uno is a successful entrepreneur and former Indonesian Minister of Tourism and Creative Economy. Through the Indonesia Setara Foundation, he continues actively promoting economic empowerment for youth and rural communities across Indonesia in 2026.',
+            body: '<p>Sandiaga Salahuddin Uno was born on June 28, 1969 in Rumbai, Riau, Indonesia. He pursued business education in the United States, earning an MBA from George Washington University. His business career began in the finance sector before he co-founded PT Saratoga Investama Sedaya with a business partner, which later grew into one of Indonesia\'s largest private investment companies.</p><p>Sandiaga built his wealth through cross-sector investments — from mining and telecommunications to consumer goods. Saratoga Investama Sedaya Tbk (stock code SRTG), which he founded, has consistently distributed dividends to shareholders, including a dividend payment made in early June 2026.</p><p>In politics, Sandiaga previously served as Deputy Governor of DKI Jakarta (2017–2018) alongside Anies Baswedan, before becoming a Vice-Presidential candidate in the 2019 election paired with Prabowo Subianto. He then served as Indonesia\'s Minister of Tourism and Creative Economy from 2020–2024, where he was known for actively promoting Indonesia\'s tourism and creative economy sectors on the international stage.</p><p>After his ministerial term, Sandiaga remains active through the Indonesia Setara Foundation (YIS) and the Sandination Academy program. In February 2026, he promoted the "Rocket 2026" program to create jobs for the younger generation, as well as the "Desa EMAS" (Advanced, Fair, Prosperous Economy Village) program, which successfully empowered dozens of residents in Kebumen, Central Java.</p><p>Sandiaga also became a victim of identity misuse in an online scam scheme, where a hoax video claiming he was distributing business capital assistance via WhatsApp circulated widely in June 2026 — prompting the Kompas Fact Check team to step in and clarify to the public. Nevertheless, his reputation as a successful entrepreneur and figure caring about grassroots economic empowerment remains strong in the eyes of the Indonesian public.</p>',
+            source: 'TradingView Indonesia',
+            sourceUrl: 'https://id.tradingview.com/news/kontan:8b5372c8187ea:0/',
+            sourceSnippet: 'SRTG Stock Dividend Payment Today, Sandiaga Uno\'s Company — TradingView, June 2 2026',
+            source2: 'Republika',
+            sourceUrl2: 'https://news.republika.co.id/berita/tarnz7320/sandiaga-uno-rocket-2026-dorong-ciptakan-lapangan-kerja-bagi-generasi-muda',
+            sourceSnippet2: 'Sandiaga Uno: Rocket 2026 Drives Job Creation for Young Generation — Republika, Feb 20 2026',
+            source3: 'Kompas Fact Check',
+            sourceUrl3: 'https://www.kompas.com/cekfakta/read/2026/06/06/084700982/-hoaks-sandiaga-uno-beri-bantuan-modal-usaha-melalui-whatsapp',
+            sourceSnippet3: '[HOAX] Sandiaga Uno Distributing Business Capital Assistance via WhatsApp — Kompas Fact Check, June 6 2026'
+          },
+          ja: {
+            title: 'サンディアガ・ウノ — 実業家・元大臣・草の根経済エンパワーメントの推進者',
+            desc: 'サンディアガ・サラフディン・ウノは成功した起業家であり、インドネシア元観光創造経済相。インドネシア・セタラ財団を通じ、2026年も若者と地方コミュニティの経済的エンパワーメントを積極的に推進している。',
+            body: '<p>サンディアガ・サラフディン・ウノは1969年6月28日、インドネシア・リアウ州ルンバイ生まれ。米ジョージ・ワシントン大学でMBAを取得後、金融業界でキャリアを開始。共同創業したPT サラトガ・インベスタマ・スダヤは、インドネシア最大級の民間投資会社に成長した。</p><p>政界ではアニス・バスウェダンとともにジャカルタ特別州副知事（2017-2018年）を務め、2019年大統領選ではプラボウォ・スビアントと組み副大統領候補に。2020-2024年には観光創造経済相を歴任した。退任後もインドネシア・セタラ財団を通じ、2026年2月には若者向け雇用創出プログラム「ロケット2026」を推進している。</p>',
+            source: 'Republika',
+            sourceUrl: 'https://news.republika.co.id/berita/tarnz7320/sandiaga-uno-rocket-2026-dorong-ciptakan-lapangan-kerja-bagi-generasi-muda',
+            sourceSnippet: 'サンディアガ・ウノ：ロケット2026で若者の雇用創出を推進 — Republika 2026年2月20日'
+          },
+          ko: {
+            title: '산디아가 우노 — 사업가·전 장관·풀뿌리 경제 역량강화 추진자',
+            desc: '산디아가 살라후딘 우노는 성공한 기업가이자 인도네시아 전 관광창조경제부 장관. 인도네시아 세타라 재단을 통해 2026년에도 청년과 지방 공동체의 경제적 역량 강화를 적극 추진하고 있다.',
+            body: '<p>산디아가 살라후딘 우노는 1969년 6월 28일 인도네시아 리아우주 룸바이 출생. 미국 조지워싱턴대학에서 MBA를 취득한 후 금융업계에서 경력을 시작했다. 공동 창업한 PT 사라토가 인베스타마 스다야는 인도네시아 최대 민간 투자회사 중 하나로 성장했다.</p><p>정계에서는 아니스 바스웨단과 함께 자카르타 특별주 부지사(2017-2018년)를 지냈고, 2019년 대선에서는 프라보워 수비안토와 짝을 이뤄 부통령 후보로 나섰다. 2020-2024년에는 관광창조경제부 장관을 역임했다. 퇴임 후에도 인도네시아 세타라 재단을 통해 2026년 2월 청년 일자리 창출 프로그램 "로켓 2026"을 추진하고 있다.</p>',
+            source: 'Republika',
+            sourceUrl: 'https://news.republika.co.id/berita/tarnz7320/sandiaga-uno-rocket-2026-dorong-ciptakan-lapangan-kerja-bagi-generasi-muda',
+            sourceSnippet: '산디아가 우노: 로켓 2026으로 청년 일자리 창출 추진 — Republika 2026년 2월 20일'
+          },
+          zh: {
+            title: '桑迪亚加·乌诺 — 企业家、前部长与基层经济赋能推动者',
+            desc: '桑迪亚加·萨拉胡丁·乌诺是成功的企业家，也是印度尼西亚前旅游与创意经济部长。通过印尼平等基金会，他在2026年继续积极推动全国青年及乡村社区的经济赋能。',
+            body: '<p>桑迪亚加·萨拉胡丁·乌诺1969年6月28日生于印度尼西亚廖内省鲁姆拜。他在美国乔治·华盛顿大学取得工商管理硕士学位后，先在金融业开始职业生涯，之后与合伙人共同创立PT萨拉托加投资公司，该公司后来成长为印尼最大的民营投资公司之一。</p><p>从政期间，他曾与阿尼斯·巴斯韦丹搭档担任雅加达特区副省长（2017-2018年），2019年大选中与普拉博沃·苏比安托搭档竞选副总统。2020-2024年担任印尼旅游与创意经济部长。卸任后，他继续通过印尼平等基金会活动，2026年2月推动名为"火箭2026"的青年就业创造计划。</p>',
+            source: 'Republika',
+            sourceUrl: 'https://news.republika.co.id/berita/tarnz7320/sandiaga-uno-rocket-2026-dorong-ciptakan-lapangan-kerja-bagi-generasi-muda',
+            sourceSnippet: '桑迪亚加·乌诺："火箭2026"推动青年就业创造 — Republika，2026年2月20日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
