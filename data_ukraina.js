@@ -129,6 +129,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'ukraina-andriy-yermak',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Andriy Yermak — Mantan Kepala Staf Presiden Ukraina, Terjerat Skandal Pencucian Uang $10,5 Juta',
+            desc: 'Andriy Yermak adalah mantan Kepala Staf Kepresidenan Ukraina yang dulunya dikenal sebagai orang kepercayaan utama Presiden Volodymyr Zelensky. Pada Mei 2026, ia ditahan otoritas anti-korupsi Ukraina atas dugaan keterlibatan dalam skema pencucian uang senilai $10,5 juta terkait proyek pengembangan properti mewah.',
+            body: '<p>Andriy Yermak lahir pada 21 Desember 1971 di Kyiv, Ukraina (saat itu bagian dari Uni Soviet). Ia meraih gelar hukum dan sebelum terjun ke politik membangun karier sebagai pengacara dan produser film, termasuk terlibat dalam sejumlah proyek produksi film dan televisi Ukraina serta internasional.</p><p>Yermak mulai dekat dengan Volodymyr Zelensky sejak sebelum Zelensky terjun ke politik, ketika keduanya sama-sama berkecimpung di industri hiburan Ukraina. Setelah Zelensky terpilih sebagai Presiden Ukraina pada 2019, Yermak diangkat menjadi Kepala Staf Kepresidenan pada 2020, posisi yang menjadikannya salah satu tokoh paling berkuasa dan berpengaruh dalam pemerintahan Ukraina selama perang melawan invasi Rusia.</p><p>Sebagai Kepala Staf, Yermak memainkan peran sentral dalam negosiasi diplomatik internasional Ukraina, termasuk hubungan dengan sekutu-sekutu Barat dan pembahasan bantuan militer. Namun, pengaruh besarnya juga menuai kritik dari sejumlah pihak yang menganggapnya terlalu berkuasa dan kurang transparan dalam pengambilan keputusan strategis negara.</p><p>Pada Mei 2026, skandal besar mengguncang kariernya ketika badan-badan anti-korupsi Ukraina menyebut Yermak sebagai tersangka dalam skema pencucian uang senilai $10,5 juta yang terkait dengan proyek pengembangan properti mewah. Ia ditahan oleh Pengadilan Anti-Korupsi Tinggi Ukraina pada pertengahan Mei 2026, sebuah peristiwa yang mengejutkan publik Ukraina mengingat kedekatannya yang lama dengan Presiden Zelensky.</p><p>Yermak, yang telah mengundurkan diri dari jabatannya setahun sebelum skandal ini terungkap, membantah seluruh tuduhan tersebut. Kasusnya menjadi ujian besar bagi pemerintahan Zelensky dalam menunjukkan komitmennya terhadap pemberantasan korupsi di tengah perang, sekaligus menjadi dilema politik mengingat kedekatan personal panjang antara Yermak dan sang Presiden. Investigasi lebih lanjut mengungkap bahwa Yermak bahkan dilaporkan berkonsultasi dengan seorang peramal terkait penunjukan posisi-posisi penting pemerintahan, menambah kontroversi dalam kasus yang terus menjadi sorotan media internasional.</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/world/2026/may/12/zelenskyy-ex-chief-of-staff-andriy-yermak-accused-ukraine-corruption-investigation',
+            sourceSnippet: 'Zelenskyy\'s ex-chief of staff accused in Ukraine corruption investigation — The Guardian, 12 Mei 2026',
+            source2: 'Reuters',
+            sourceUrl2: 'https://www.reuters.com/world/europe/ukraines-anti-corruption-court-places-zelenskiys-former-chief-staff-yermak-under-2026-05-14/',
+            sourceSnippet2: 'Zelenskiy\'s ex-top aide arrested as Ukraine graft probe widens — Reuters, 14 Mei 2026',
+            source3: 'Al Jazeera',
+            sourceUrl3: 'https://www.aljazeera.com/news/2026/5/13/zelenskyys-ex-chief-of-staff-appears-in-court-in-money-laundering-case',
+            sourceSnippet3: 'Zelenskyy\'s ex-chief of staff appears in court in money-laundering case — Al Jazeera, 13 Mei 2026',
+            source4: 'RFE/RL',
+            sourceUrl4: 'https://www.rferl.org/a/ukraine-zelenskyy-yermak-corruption-fortune-teller/33756160.html',
+            sourceSnippet4: 'Zelenskyy\'s Ex-Chief Of Staff Consulted Fortune-Teller For Top Posts, Prosecutor Says — RFE/RL'
+          },
+          en: {
+            title: 'Andriy Yermak — Ukraine\'s Former Presidential Chief of Staff, Embroiled in $10.5 Million Money-Laundering Scandal',
+            desc: 'Andriy Yermak is Ukraine\'s former Presidential Chief of Staff, once known as President Volodymyr Zelensky\'s closest confidant. In May 2026, he was detained by Ukrainian anti-corruption authorities over alleged involvement in a $10.5 million money-laundering scheme related to a luxury property development project.',
+            body: '<p>Andriy Yermak was born on December 21, 1971 in Kyiv, Ukraine (then part of the Soviet Union). He earned a law degree and, before entering politics, built a career as a lawyer and film producer, including involvement in various Ukrainian and international film and television production projects.</p><p>Yermak became close to Volodymyr Zelensky before Zelensky entered politics, when both were involved in Ukraine\'s entertainment industry. After Zelensky was elected President of Ukraine in 2019, Yermak was appointed Presidential Chief of Staff in 2020, a position that made him one of the most powerful and influential figures in the Ukrainian government during the war against Russia\'s invasion.</p><p>As Chief of Staff, Yermak played a central role in Ukraine\'s international diplomatic negotiations, including relations with Western allies and discussions on military aid. However, his significant influence also drew criticism from those who considered him too powerful and lacking transparency in the country\'s strategic decision-making.</p><p>In May 2026, a major scandal shook his career when Ukrainian anti-corruption agencies named Yermak a suspect in a $10.5 million money-laundering scheme related to a luxury property development project. He was detained by Ukraine\'s High Anti-Corruption Court in mid-May 2026, an event that shocked the Ukrainian public given his long-standing closeness to President Zelensky.</p><p>Yermak, who had resigned from his position a year before this scandal came to light, denied all the allegations. His case became a major test for the Zelensky administration in demonstrating its commitment to anti-corruption efforts amid the war, while also posing a political dilemma given the long personal closeness between Yermak and the President. Further investigation revealed that Yermak had reportedly even consulted a fortune-teller regarding appointments to important government positions, adding to the controversy in a case that continues to draw international media attention.</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/world/2026/may/12/zelenskyy-ex-chief-of-staff-andriy-yermak-accused-ukraine-corruption-investigation',
+            sourceSnippet: 'Zelenskyy\'s ex-chief of staff accused in Ukraine corruption investigation — The Guardian, May 12 2026',
+            source2: 'Reuters',
+            sourceUrl2: 'https://www.reuters.com/world/europe/ukraines-anti-corruption-court-places-zelenskiys-former-chief-staff-yermak-under-2026-05-14/',
+            sourceSnippet2: 'Zelenskiy\'s ex-top aide arrested as Ukraine graft probe widens — Reuters, May 14 2026',
+            source3: 'Al Jazeera',
+            sourceUrl3: 'https://www.aljazeera.com/news/2026/5/13/zelenskyys-ex-chief-of-staff-appears-in-court-in-money-laundering-case',
+            sourceSnippet3: 'Zelenskyy\'s ex-chief of staff appears in court in money-laundering case — Al Jazeera, May 13 2026'
+          },
+          ja: {
+            title: 'アンドリー・イェルマク — ウクライナ元大統領府長官、1,050万ドルの資金洗浄疑惑に巻き込まれる',
+            desc: 'アンドリー・イェルマクはウクライナ元大統領府長官で、かつてゼレンスキー大統領の最側近として知られていた。2026年5月、高級不動産開発プロジェクトに関連する1,050万ドルの資金洗浄疑惑でウクライナ反汚職当局に拘束された。',
+            body: '<p>アンドリー・イェルマクは1971年12月21日、当時ソ連領だったウクライナ・キーウ生まれ。法学位を取得し、政界入り前は弁護士・映画プロデューサーとしてキャリアを築き、ウクライナおよび国際的な映画・テレビ制作プロジェクトに関わった。</p><p>ゼレンスキーが政界入りする前から親密な関係を築き、2019年ゼレンスキーがウクライナ大統領に当選後、2020年に大統領府長官に任命され、ロシアの侵攻に対する戦争中のウクライナ政府で最も強力で影響力のある人物の一人となった。</p><p>2026年5月、ウクライナの反汚職機関が高級不動産開発プロジェクトに関連する1,050万ドルの資金洗浄疑惑でイェルマクを容疑者と認定し、大きなスキャンダルとなった。</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/world/2026/may/12/zelenskyy-ex-chief-of-staff-andriy-yermak-accused-ukraine-corruption-investigation',
+            sourceSnippet: 'ゼレンスキー元大統領府長官、ウクライナ汚職捜査で告発される — ガーディアン 2026年5月12日'
+          },
+          ko: {
+            title: '안드리 예르마크 — 우크라이나 전 대통령 비서실장, 1,050만 달러 자금세탁 스캔들에 연루',
+            desc: '안드리 예르마크는 우크라이나 전 대통령 비서실장으로 한때 젤렌스키 대통령의 최측근으로 알려졌다. 2026년 5월, 고급 부동산 개발 프로젝트와 관련된 1,050만 달러 규모 자금세탁 의혹으로 우크라이나 반부패 당국에 구금됐다.',
+            body: '<p>안드리 예르마크는 1971년 12월 21일 당시 소련 영토였던 우크라이나 키이우 출생. 법학 학위를 취득했고 정계 입문 전 변호사 겸 영화 제작자로 경력을 쌓았으며, 우크라이나 및 국제 영화·TV 제작 프로젝트에 참여했다.</p><p>젤렌스키가 정계에 입문하기 전부터 가까운 관계를 맺었고, 2019년 젤렌스키가 우크라이나 대통령에 당선된 후 2020년 대통령 비서실장에 임명되어 러시아 침공에 맞선 전쟁 중 우크라이나 정부에서 가장 강력하고 영향력 있는 인물 중 한 명이 됐다.</p><p>2026년 5월, 우크라이나 반부패 기관들이 고급 부동산 개발 프로젝트와 관련된 1,050만 달러 규모 자금세탁 의혹으로 예르마크를 용의자로 지목하며 큰 스캔들이 됐다.</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/world/2026/may/12/zelenskyy-ex-chief-of-staff-andriy-yermak-accused-ukraine-corruption-investigation',
+            sourceSnippet: '젤렌스키 전 비서실장, 우크라이나 부패 수사에서 기소돼 — 가디언 2026년 5월 12일'
+          },
+          zh: {
+            title: '安德烈·叶尔马克 — 乌克兰前总统办公室主任，陷入1050万美元洗钱丑闻',
+            desc: '安德烈·叶尔马克是乌克兰前总统办公室主任，曾是泽连斯基总统最亲密的心腹。2026年5月，他因涉嫌参与与豪华房地产开发项目相关的1050万美元洗钱计划而被乌克兰反腐败当局拘留。',
+            body: '<p>安德烈·叶尔马克1971年12月21日生于当时属于苏联的乌克兰基辅。他获得法学学位，从政前曾担任律师和电影制片人，参与了多个乌克兰及国际电影电视制作项目。</p><p>他在泽连斯基从政前就与其关系密切，两人都曾活跃于乌克兰娱乐业。2019年泽连斯基当选乌克兰总统后，叶尔马克于2020年被任命为总统办公室主任，这一职位使他成为抵御俄罗斯入侵战争期间乌克兰政府中最有权势、最具影响力的人物之一。</p><p>2026年5月，一场重大丑闻震撼了他的政治生涯，乌克兰反腐败机构将叶尔马克列为与豪华房地产开发项目相关的1050万美元洗钱计划的嫌疑人。</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/world/2026/may/12/zelenskyy-ex-chief-of-staff-andriy-yermak-accused-ukraine-corruption-investigation',
+            sourceSnippet: '泽连斯基前办公室主任在乌克兰腐败调查中被指控 — 卫报，2026年5月12日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
