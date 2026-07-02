@@ -67,6 +67,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'arab-saudi-amin-nasser',
+        category: 'bisnis',
+        langs: {
+          id: {
+            title: 'Amin H. Nasser — CEO Saudi Aramco, Peringatkan Gangguan Pasar Minyak Global Berlanjut hingga 2027',
+            desc: 'Amin H. Nasser adalah Presiden dan CEO Saudi Aramco, perusahaan minyak negara Arab Saudi dan salah satu produsen energi terbesar dunia. Pada 2026, ia memperingatkan bahwa gangguan di Selat Hormuz dapat menunda pemulihan pasar minyak global hingga 2027, di tengah laba Aramco yang tetap melonjak akibat krisis Timur Tengah.',
+            body: '<p>Amin Hassan Al-Nasser lahir pada 1959 di Al-Qatif, Arab Saudi. Ia meraih gelar sarjana teknik perminyakan dari King Fahd University of Petroleum and Minerals sebelum melanjutkan studi lanjutan di bidang teknik di Amerika Serikat. Kariernya di Saudi Aramco dimulai sejak 1982, membangun keahlian mendalam di seluruh rantai operasi minyak dan gas perusahaan tersebut selama lebih dari empat dekade.</p><p>Nasser diangkat sebagai Presiden dan CEO Saudi Aramco pada 2015, memimpin perusahaan energi milik negara tersebut melalui salah satu periode paling signifikan dalam sejarahnya, termasuk penawaran umum perdana (IPO) Aramco pada 2019 yang menjadikannya salah satu pencatatan saham terbesar dalam sejarah pasar modal global.</p><p>Pada Maret 2026, di tengah eskalasi perang di Timur Tengah, Nasser memperingatkan bahwa konflik tersebut dapat membawa "konsekuensi bencana" bagi pasar minyak dunia. Peringatannya semakin serius pada Mei 2026, ketika ia menyatakan bahwa gangguan pasokan minyak melalui Selat Hormuz dapat menunda pemulihan normal pasar hingga 2027, dengan estimasi hilangnya sekitar 1 miliar barel pasokan minyak global akibat krisis tersebut.</p><p>Meski menghadapi ketidakpastian geopolitik yang tinggi, Saudi Aramco di bawah kepemimpinan Nasser tetap mencatatkan performa keuangan yang kuat, dengan laba kuartal pertama 2026 melonjak lebih dari 25% dibandingkan periode yang sama tahun sebelumnya, mencapai sekitar £26,9 miliar. Nasser menyebut hasil tersebut mencerminkan "ketahanan dan fleksibilitas operasional" perusahaan di tengah lingkungan geopolitik yang kompleks.</p><p>Sebagai salah satu eksekutif energi paling berpengaruh di dunia, Nasser terus memainkan peran penting dalam menavigasi Saudi Aramco melalui volatilitas pasar energi global, sekaligus menjadi suara penting dalam diskusi kebijakan energi internasional di tengah ketegangan geopolitik Timur Tengah yang berkepanjangan.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/business/energy/strait-hormuz-disruption-could-push-oil-market-recovery-into-2027-aramco-ceo-2026-05-11/',
+            sourceSnippet: 'Strait of Hormuz disruption could push oil market recovery into 2027, Aramco CEO says — Reuters, 11 Mei 2026',
+            source2: 'Fox Business',
+            sourceUrl2: 'https://www.foxbusiness.com/economy/saudi-aramco-ceo-warns-oil-markets-may-not-recover-until-2027-due-hormuz-disruptions',
+            sourceSnippet2: 'Saudi Aramco CEO warns oil markets may not recover until 2027 due to Hormuz disruptions — Fox Business',
+            source3: 'CNBC',
+            sourceUrl3: 'https://www.cnbc.com/2026/03/10/saudi-aramco-2025-earnings-q4-profit-beat-oil-war.html',
+            sourceSnippet3: 'Iran war threatens catastrophic consequences for the oil market, Aramco CEO says — CNBC, 10 Maret 2026',
+            source4: 'The Guardian',
+            sourceUrl4: 'https://www.theguardian.com/business/2026/may/10/saudi-aramco-profits-jump-despite-conflict-middle-east',
+            sourceSnippet4: 'Saudi Aramco profits jump despite conflict in Middle East — The Guardian, 10 Mei 2026'
+          },
+          en: {
+            title: 'Amin H. Nasser — Saudi Aramco CEO, Warns of Continued Global Oil Market Disruption Until 2027',
+            desc: 'Amin H. Nasser is President and CEO of Saudi Aramco, Saudi Arabia\'s state oil company and one of the world\'s largest energy producers. In 2026, he warned that disruptions in the Strait of Hormuz could delay global oil market recovery until 2027, amid Aramco profits that continued to surge due to the Middle East crisis.',
+            body: '<p>Amin Hassan Al-Nasser was born in 1959 in Al-Qatif, Saudi Arabia. He earned a bachelor\'s degree in petroleum engineering from King Fahd University of Petroleum and Minerals before pursuing advanced engineering studies in the United States. His career at Saudi Aramco began in 1982, building deep expertise across the company\'s oil and gas operations chain over more than four decades.</p><p>Nasser was appointed President and CEO of Saudi Aramco in 2015, leading the state-owned energy company through one of the most significant periods in its history, including Aramco\'s 2019 initial public offering (IPO), which became one of the largest stock listings in global capital market history.</p><p>In March 2026, amid escalating war in the Middle East, Nasser warned that the conflict could bring "catastrophic consequences" for the world oil market. His warning grew more serious in May 2026, when he stated that oil supply disruptions through the Strait of Hormuz could delay the market\'s normal recovery until 2027, with an estimated loss of about 1 billion barrels of global oil supply due to the crisis.</p><p>Despite facing high geopolitical uncertainty, Saudi Aramco under Nasser\'s leadership continued to record strong financial performance, with first-quarter 2026 profit surging over 25% compared to the same period the previous year, reaching approximately £26.9 billion. Nasser said the results reflected the company\'s "resilience and operational flexibility" amid a complex geopolitical environment.</p><p>As one of the world\'s most influential energy executives, Nasser continues to play a critical role in navigating Saudi Aramco through global energy market volatility, while also being an important voice in international energy policy discussions amid prolonged Middle East geopolitical tensions.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/business/energy/strait-hormuz-disruption-could-push-oil-market-recovery-into-2027-aramco-ceo-2026-05-11/',
+            sourceSnippet: 'Strait of Hormuz disruption could push oil market recovery into 2027, Aramco CEO says — Reuters, May 11 2026',
+            source2: 'Fox Business',
+            sourceUrl2: 'https://www.foxbusiness.com/economy/saudi-aramco-ceo-warns-oil-markets-may-not-recover-until-2027-due-hormuz-disruptions',
+            sourceSnippet2: 'Saudi Aramco CEO warns oil markets may not recover until 2027 due to Hormuz disruptions — Fox Business',
+            source3: 'CNBC',
+            sourceUrl3: 'https://www.cnbc.com/2026/03/10/saudi-aramco-2025-earnings-q4-profit-beat-oil-war.html',
+            sourceSnippet3: 'Iran war threatens catastrophic consequences for the oil market, Aramco CEO says — CNBC, March 10 2026'
+          },
+          ja: {
+            title: 'アミン・H・ナセル — サウジアラムコCEO、世界石油市場の混乱が2027年まで続くと警告',
+            desc: 'アミン・H・ナセルはサウジアラビア国営石油会社サウジアラムコの社長兼CEOで、世界最大級のエネルギー生産者。2026年、ホルムズ海峡での混乱が世界石油市場の回復を2027年まで遅らせる可能性があると警告した。',
+            body: '<p>アミン・ハッサン・アル・ナセルは1959年、サウジアラビア・カティーフ生まれ。キング・ファハド石油鉱物大学で石油工学の学士号を取得後、米国で工学の高度な研究を行った。1982年にサウジアラムコでのキャリアを開始し、40年以上にわたり石油・ガス事業全般で深い専門知識を築いた。</p><p>2015年、サウジアラムコの社長兼CEOに任命され、2019年のアラムコ新規株式公開（IPO）を含む同社史上最も重要な時期を主導した。このIPOは世界資本市場史上最大級の上場となった。</p><p>2026年3月、中東での戦争激化の中、ナセルはこの紛争が世界石油市場に「壊滅的な結果」をもたらす可能性があると警告した。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/business/energy/strait-hormuz-disruption-could-push-oil-market-recovery-into-2027-aramco-ceo-2026-05-11/',
+            sourceSnippet: 'ホルムズ海峡の混乱で石油市場回復が2027年まで遅れる可能性、アラムコCEO — ロイター 2026年5月11日'
+          },
+          ko: {
+            title: '아민 H. 나세르 — 사우디 아람코 CEO, 세계 석유시장 혼란 2027년까지 지속 경고',
+            desc: '아민 H. 나세르는 사우디아라비아 국영 석유회사 사우디 아람코 사장 겸 CEO로 세계 최대 에너지 생산업체 중 하나. 2026년, 호르무즈 해협 혼란이 세계 석유시장 회복을 2027년까지 지연시킬 수 있다고 경고했다.',
+            body: '<p>아민 하산 알나세르는 1959년 사우디아라비아 카티프 출생. 킹 파드 석유광물대학에서 석유공학 학사 학위를 취득한 후 미국에서 고급 공학 연구를 진행했다. 1982년 사우디 아람코에서 경력을 시작해 40년 넘게 석유·가스 사업 전반에 걸쳐 깊은 전문성을 쌓았다.</p><p>2015년 사우디 아람코 사장 겸 CEO에 임명되어 2019년 아람코 기업공개(IPO)를 포함한 회사 역사상 가장 중요한 시기를 이끌었다. 이 IPO는 세계 자본시장 역사상 최대 규모의 상장 중 하나가 됐다.</p><p>2026년 3월, 중동에서 전쟁이 격화되는 가운데 나세르는 이 분쟁이 세계 석유시장에 "재앙적 결과"를 가져올 수 있다고 경고했다.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/business/energy/strait-hormuz-disruption-could-push-oil-market-recovery-into-2027-aramco-ceo-2026-05-11/',
+            sourceSnippet: '호르무즈 해협 혼란으로 석유시장 회복 2027년까지 지연 가능, 아람코 CEO — 로이터 2026년 5월 11일'
+          },
+          zh: {
+            title: '阿明·H·纳赛尔 — 沙特阿美CEO，警告全球石油市场混乱将持续至2027年',
+            desc: '阿明·H·纳赛尔是沙特阿拉伯国家石油公司沙特阿美的总裁兼CEO，也是全球最大能源生产商之一。2026年，他警告称霍尔木兹海峡的干扰可能使全球石油市场复苏推迟至2027年。',
+            body: '<p>阿明·哈桑·纳赛尔1959年生于沙特阿拉伯卡提夫。他在法赫德国王石油矿产大学获石油工程学士学位，随后在美国进修高级工程学。1982年加入沙特阿美，40多年来在公司石油天然气业务各环节积累了深厚专业知识。</p><p>2015年，他被任命为沙特阿美总裁兼CEO，带领这家国有能源公司经历了历史上最重要的时期之一，包括2019年阿美石油首次公开募股（IPO），成为全球资本市场历史上规模最大的上市之一。</p><p>2026年3月，在中东战争升级之际，纳赛尔警告称这场冲突可能给全球石油市场带来"灾难性后果"。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/business/energy/strait-hormuz-disruption-could-push-oil-market-recovery-into-2027-aramco-ceo-2026-05-11/',
+            sourceSnippet: '霍尔木兹海峡干扰可能使石油市场复苏推迟至2027年，阿美CEO表示 — 路透社，2026年5月11日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
