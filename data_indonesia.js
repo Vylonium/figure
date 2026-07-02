@@ -672,6 +672,127 @@
           }
         }
       }
+      ,
+      {
+        id: 'indonesia-erick-thohir',
+        langs: {
+          id: {
+            title: 'Erick Thohir — Menteri Pemuda dan Olahraga, Pengusaha di Balik Transformasi Sepak Bola Indonesia',
+            desc: 'Erick Thohir adalah Menteri Pemuda dan Olahraga Republik Indonesia dan pengusaha sukses yang sebelumnya memimpin Kementerian BUMN. Pada Juli 2026, ia menargetkan empat medali emas di Asian Games 2026 sekaligus memastikan PON 2028 digelar tanpa pembangunan venue baru.',
+            body: '<p>Erick Thohir lahir pada 30 Mei 1970 di Jakarta, Indonesia. Ia meraih gelar sarjana ekonomi dari Universitas Glendale, California, dan gelar master administrasi bisnis dari National University, California. Kariernya sebagai pengusaha dimulai di sektor media, di mana ia membangun Mahaka Media Group yang menaungi berbagai lini bisnis media dan penyiaran di Indonesia.</p><p>Sebagai pengusaha, Erick juga dikenal luas atas kepemilikannya di klub sepak bola Inter Milan, Italia, serta berbagai investasi olahraga internasional lainnya. Reputasinya sebagai eksekutif yang piawai membangun bisnis mengantarkannya ke berbagai posisi strategis di pemerintahan, termasuk sebagai Ketua Umum Kadin Indonesia dan kemudian Menteri BUMN periode 2019–2024, di mana ia dikenal karena upaya transformasi dan konsolidasi perusahaan-perusahaan pelat merah.</p><p>Pada reshuffle kabinet September 2025, Erick resmi dilantik sebagai Menteri Pemuda dan Olahraga Republik Indonesia. Di posisi barunya ini, ia langsung fokus pada persiapan kontingen Indonesia menghadapi Asian Games 2026, menegaskan komitmen penuh pemerintah dengan target empat medali emas sebagai fokus utama.</p><p>Pada awal Juli 2026, Erick memastikan bahwa Pekan Olahraga Nasional (PON) XXII/2028 akan digelar di tiga wilayah — Nusa Tenggara Barat (NTB), Nusa Tenggara Timur (NTT), dan DKI Jakarta — tanpa pembangunan arena baru, dengan mengoptimalkan fasilitas olahraga yang sudah ada. Kebijakan ini mencerminkan pendekatan efisiensi anggaran yang menjadi ciri khas kepemimpinannya di berbagai posisi pemerintahan.</p><p>Erick juga menekankan pentingnya pembinaan atlet melalui program pelatnas multiyears serta penggunaan anggaran olahraga secara bijak. Di sisi lain, ia juga sempat menghadapi sorotan publik terkait suspensi dua sahamnya di Bursa Efek Indonesia — PT Mahaka Media Tbk dan PT Mahaka Radio Integra Tbk — yang mulai berlaku Juli 2026, mengingatkan publik akan latar belakang bisnisnya yang tetap aktif di tengah kesibukannya sebagai menteri.</p>',
+            source: 'Kemenpora',
+            sourceUrl: 'https://www.kemenpora.go.id/detail/6854/menpora-erick-pastikan-dukungan-penuh-untuk-asian-games-2026-tar',
+            sourceSnippet: 'Menpora Erick Pastikan Dukungan Penuh untuk Asian Games 2026, Target Empat Emas Jadi Fokus — Kemenpora, 1 Juli 2026',
+            source2: 'TIMES Indonesia',
+            sourceUrl2: 'https://timesindonesia.co.id/read/news/597066/menpora-erick-thohir-pastikan-pon-2028-digelar-di-ntt-ntb-dan-jakarta',
+            sourceSnippet2: 'Menpora Erick Thohir Pastikan PON 2028 Digelar di NTT, NTB, dan Jakarta — TIMES Indonesia, 1 Juli 2026',
+            source3: 'Antara Jogja',
+            sourceUrl3: 'https://jogja.antaranews.com/berita/838960/menpora-erick-thohir-sebut-pentingnya-pembinaan-atlet-multiyears',
+            sourceSnippet3: 'Menpora Erick Thohir sebut pentingnya pembinaan atlet multiyears — Antara Jogja, 1 Juli 2026',
+            source4: 'Kontan',
+            sourceUrl4: 'https://investasi.kontan.co.id/news/bei-suspensi-puluhan-saham-ini-mulai-juli-2026-dua-milik-menteri-erick-thohir',
+            sourceSnippet4: 'BEI Suspensi Puluhan Saham Ini Mulai Juli 2026, Dua Milik Menteri Erick Thohir — Kontan, 1 Juli 2026'
+          },
+          en: {
+            title: 'Erick Thohir — Minister of Youth and Sports, Businessman Behind Indonesian Football Transformation',
+            desc: 'Erick Thohir is Indonesia\'s Minister of Youth and Sports and a successful businessman who previously led the State-Owned Enterprises Ministry. In July 2026, he targeted four gold medals at the 2026 Asian Games while ensuring the 2028 National Games would be held without new venue construction.',
+            body: '<p>Erick Thohir was born on May 30, 1970 in Jakarta, Indonesia. He earned a bachelor\'s degree in economics from Glendale University, California, and an MBA from National University, California. His business career began in the media sector, where he built Mahaka Media Group, overseeing various media and broadcasting business lines in Indonesia.</p><p>As a businessman, Erick is also widely known for his ownership stake in Italian football club Inter Milan, along with various other international sports investments. His reputation as a skilled business-building executive led him to various strategic government positions, including Chairman of the Indonesian Chamber of Commerce (Kadin) and later Minister of State-Owned Enterprises from 2019–2024, where he was known for efforts to transform and consolidate state-owned companies.</p><p>In the September 2025 cabinet reshuffle, Erick was officially inaugurated as Indonesia\'s Minister of Youth and Sports. In this new role, he immediately focused on preparing Indonesia\'s contingent for the 2026 Asian Games, affirming the government\'s full commitment with a target of four gold medals as the main focus.</p><p>In early July 2026, Erick confirmed that the National Sports Week (PON) XXII/2028 would be held across three regions — West Nusa Tenggara (NTB), East Nusa Tenggara (NTT), and Jakarta — without new venue construction, by optimizing existing sports facilities. This policy reflects the budget-efficiency approach that characterizes his leadership across various government positions.</p><p>Erick also emphasized the importance of athlete development through multiyear training programs and prudent use of sports budgets. Meanwhile, he also faced public scrutiny over the suspension of two of his stocks on the Indonesia Stock Exchange — PT Mahaka Media Tbk and PT Mahaka Radio Integra Tbk — effective July 2026, reminding the public of his business background remaining active amid his busy ministerial duties.</p>',
+            source: 'Kemenpora',
+            sourceUrl: 'https://www.kemenpora.go.id/detail/6854/menpora-erick-pastikan-dukungan-penuh-untuk-asian-games-2026-tar',
+            sourceSnippet: 'Minister Erick Ensures Full Support for 2026 Asian Games, Four Gold Medals Target — Kemenpora, July 1 2026',
+            source2: 'TIMES Indonesia',
+            sourceUrl2: 'https://timesindonesia.co.id/read/news/597066/menpora-erick-thohir-pastikan-pon-2028-digelar-di-ntt-ntb-dan-jakarta',
+            sourceSnippet2: 'Minister Erick Thohir Confirms 2028 National Games in NTT, NTB, and Jakarta — TIMES Indonesia, July 1 2026',
+            source3: 'Kontan',
+            sourceUrl3: 'https://investasi.kontan.co.id/news/bei-suspensi-puluhan-saham-ini-mulai-juli-2026-dua-milik-menteri-erick-thohir',
+            sourceSnippet3: 'Indonesia Stock Exchange Suspends Dozens of Stocks From July 2026, Two Owned by Minister Erick Thohir — Kontan, July 1 2026'
+          },
+          ja: {
+            title: 'エリック・トヒル — 青年スポーツ相、インドネシアサッカー変革の立役者たる実業家',
+            desc: 'エリック・トヒルはインドネシア青年スポーツ相であり、以前は国営企業省を率いた成功した実業家。2026年7月、アジア大会2026で金メダル4個を目標とする一方、PON2028を新規会場建設なしで開催することを確定させた。',
+            body: '<p>エリック・トヒルは1970年5月30日、インドネシア・ジャカルタ生まれ。カリフォルニア州グレンデール大学で経済学の学士号、ナショナル大学でMBAを取得。メディア分野でキャリアを開始し、マハカ・メディア・グループを構築した。</p><p>実業家として、イタリアのインテル・ミラノの株式保有でも広く知られる。インドネシア商工会議所（カディン）会頭、2019-2024年には国営企業相を歴任し、国営企業の変革・統合に取り組んだ。</p><p>2025年9月の内閣改造で正式に青年スポーツ相に就任。2026年アジア大会に向けたインドネシア選手団の準備に注力し、金メダル4個を主要目標とする政府の全面支援を明言した。2026年7月初旬には、PON XXII/2028が新規会場建設なしで西ヌサトゥンガラ、東ヌサトゥンガラ、ジャカルタの3地域で開催されることを確定した。</p>',
+            source: 'Kemenpora',
+            sourceUrl: 'https://www.kemenpora.go.id/detail/6854/menpora-erick-pastikan-dukungan-penuh-untuk-asian-games-2026-tar',
+            sourceSnippet: 'エリック・トヒル、アジア大会2026への全面支援を確約、金メダル4個が目標 — Kemenpora 2026年7月1日'
+          },
+          ko: {
+            title: '에릭 토히르 — 청년체육부 장관, 인도네시아 축구 변혁의 주역인 사업가',
+            desc: '에릭 토히르는 인도네시아 청년체육부 장관이자 이전에 국영기업부를 이끈 성공한 사업가. 2026년 7월, 아시안게임 2026에서 금메달 4개를 목표로 하는 동시에 PON2028을 신규 경기장 건설 없이 개최하기로 확정했다.',
+            body: '<p>에릭 토히르는 1970년 5월 30일 인도네시아 자카르타 출생. 캘리포니아주 글렌데일 대학에서 경제학 학사, 내셔널 대학에서 MBA를 취득했다. 미디어 분야에서 경력을 시작해 마하카 미디어 그룹을 구축했다.</p><p>사업가로서 이탈리아 인터 밀란 지분 보유로도 널리 알려져 있다. 인도네시아 상공회의소(카딘) 회장, 2019~2024년에는 국영기업부 장관을 역임하며 국영기업 변혁·통합에 힘썼다.</p><p>2025년 9월 개각에서 정식으로 청년체육부 장관에 취임했다. 2026 아시안게임을 위한 인도네시아 대표팀 준비에 즉각 집중하며 금메달 4개를 주요 목표로 하는 정부의 전폭적 지원을 확언했다. 2026년 7월 초에는 PON XXII/2028이 신규 경기장 건설 없이 서누사틍가라, 동누사틍가라, 자카르타 3개 지역에서 개최될 것을 확정했다.</p>',
+            source: 'Kemenpora',
+            sourceUrl: 'https://www.kemenpora.go.id/detail/6854/menpora-erick-pastikan-dukungan-penuh-untuk-asian-games-2026-tar',
+            sourceSnippet: '에릭 토히르, 아시안게임 2026 전폭 지원 확언, 금메달 4개 목표 — Kemenpora 2026년 7월 1일'
+          },
+          zh: {
+            title: '埃里克·托希尔 — 青年体育部长，印尼足球变革背后的企业家',
+            desc: '埃里克·托希尔是印度尼西亚青年体育部长，也是曾领导国有企业部的成功企业家。2026年7月，他将2026年亚运会金牌目标定为4枚，同时确定2028年全国运动会将在不新建场馆的情况下举行。',
+            body: '<p>埃里克·托希尔1970年5月30日生于印度尼西亚雅加达。他在加州格伦代尔大学获经济学学士学位，在国立大学取得MBA学位。他的商业生涯始于媒体行业，创立了玛哈卡媒体集团。</p><p>作为企业家，他也因持有意大利国际米兰俱乐部股份而广为人知。他曾任印尼工商会（Kadin）主席，2019-2024年担任国有企业部长，致力于国企的转型与整合。</p><p>2025年9月内阁改组中，他正式就任印尼青年体育部长。在新职位上，他立即专注于备战2026年亚运会的印尼代表团，确认政府将全力支持并以4枚金牌为主要目标。2026年7月初，他确定第22届全国运动会（PON）将在西努沙登加拉、东努沙登加拉和雅加达三个地区举行，且不新建场馆。</p>',
+            source: 'Kemenpora',
+            sourceUrl: 'https://www.kemenpora.go.id/detail/6854/menpora-erick-pastikan-dukungan-penuh-untuk-asian-games-2026-tar',
+            sourceSnippet: '埃里克确认全力支持2026年亚运会，目标4枚金牌 — Kemenpora，2026年7月1日'
+          }
+        }
+      },
+      {
+        id: 'indonesia-rosan-roeslani',
+        langs: {
+          id: {
+            title: 'Rosan Roeslani — Menteri Investasi & CEO Danantara, Arsitek Kepercayaan Investor Global',
+            desc: 'Rosan Perkasa Roeslani adalah Menteri Investasi dan Hilirisasi sekaligus CEO Badan Pengelolaan Investasi Danantara. Pada Juli 2026, ia menegaskan kepercayaan investor asing terhadap Indonesia tetap terjaga di tengah lonjakan laba BUMN yang mencerminkan efektivitas kepemimpinan Danantara.',
+            body: '<p>Rosan Perkasa Roeslani lahir pada 31 Oktober 1968 di Jakarta, Indonesia. Ia meraih gelar sarjana administrasi bisnis dari George Washington University, AS. Sebelum menjabat di pemerintahan, Rosan membangun karier panjang di sektor keuangan dan investasi, serta sempat menjabat Ketua Umum Kamar Dagang dan Industri Indonesia (Kadin) periode 2021–2024.</p><p>Karier politik Rosan dimulai ketika ia diangkat sebagai Duta Besar Indonesia untuk Amerika Serikat pada 2024, sebelum kemudian dipercaya menjabat Menteri Investasi dan Hilirisasi merangkap Kepala Badan Koordinasi Penanaman Modal (BKPM) di era pemerintahan Presiden Prabowo Subianto. Posisi strategis ini menjadikannya salah satu tokoh kunci dalam menarik investasi asing ke Indonesia.</p><p>Selain jabatan menteri, Rosan juga dipercaya sebagai CEO Badan Pengelolaan Investasi Daya Anagata Nusantara (BPI Danantara) — lembaga pengelola investasi negara Indonesia yang baru dibentuk dan mulai beroperasi penuh pada Juni 2026. Di bawah kepemimpinannya, Danantara mencatatkan lonjakan laba BUMN yang signifikan, sebuah pencapaian yang oleh media dianggap sebagai bukti efektivitas transformasi ekonomi nasional yang dijalankan lembaga tersebut.</p><p>Pada akhir Juni 2026, BKPM di bawah Rosan menegaskan bahwa kepercayaan investor asing terhadap Indonesia tetap terjaga meski di tengah ketidakpastian ekonomi global. Rosan juga aktif mendorong kolaborasi antara dunia akademik dan industri untuk memacu program hilirisasi sumber daya alam Indonesia, menekankan bahwa perguruan tinggi memegang posisi krusial sebagai motor penggerak ekonomi nasional.</p><p>Presiden Prabowo Subianto secara khusus memanggil Rosan ke kediamannya di Kertanegara, Jakarta, untuk membahas penguatan sektor pariwisata guna menarik investasi lebih besar, serta menginstruksikan Rosan memaparkan fakta-fakta terkini terkait meningkatnya kepercayaan investor global terhadap Indonesia kepada publik dan anggota Kabinet Merah Putih lainnya.</p>',
+            source: 'Tempo Bisnis',
+            sourceUrl: 'https://bisnis.tempo.co/read/2111329/bkpm-klaim-kepercayaan-investor-asing-ke-ri-tetap-terjaga?utm_source=Digital%20Marketing&utm_medium=Babe',
+            sourceSnippet: 'BKPM Klaim Kepercayaan Investor Asing ke RI Tetap Terjaga — Tempo Bisnis, 1 Juli 2026',
+            source2: 'Media Indonesia',
+            sourceUrl2: 'https://mediaindonesia.com/ekonomi/905710/lonjakan-laba-bumn-bukti-transformasi-ekonomi-nasional-dan-kepemimpinan-danantara-berjalan-efektif',
+            sourceSnippet2: 'Lonjakan Laba BUMN Bukti Transformasi Ekonomi Nasional dan Kepemimpinan Danantara Berjalan Efektif — Media Indonesia, 30 Juni 2026',
+            source3: 'Detik News',
+            sourceUrl3: 'https://news.detik.com/berita/d-8541479/prabowo-panggil-rosan-ke-kertanegara-bahas-penguatan-pariwisata-tarik-investasi',
+            sourceSnippet3: 'Prabowo Panggil Rosan ke Kertanegara, Bahas Penguatan Pariwisata Tarik Investasi — Detik News, 24 Juni 2026',
+            source4: 'Presiden RI',
+            sourceUrl4: 'https://presidenri.go.id/siaran-pers/presiden-prabowo-instruksikan-menteri-rosan-paparkan-fakta-meningkatnya-kepercayaan-global-terhadap-indonesia/',
+            sourceSnippet4: 'Presiden Prabowo Instruksikan Menteri Rosan Paparkan Fakta Meningkatnya Kepercayaan Global — Presidenri.go.id'
+          },
+          en: {
+            title: 'Rosan Roeslani — Investment Minister & Danantara CEO, Architect of Global Investor Confidence',
+            desc: 'Rosan Perkasa Roeslani is Indonesia\'s Minister of Investment and Downstream Development as well as CEO of the Danantara Investment Management Agency. In July 2026, he affirmed foreign investor confidence in Indonesia remains strong amid a surge in state-owned enterprise profits reflecting Danantara\'s effective leadership.',
+            body: '<p>Rosan Perkasa Roeslani was born on October 31, 1968 in Jakarta, Indonesia. He earned a bachelor\'s degree in business administration from George Washington University, USA. Before serving in government, Rosan built a long career in finance and investment, and previously served as Chairman of the Indonesian Chamber of Commerce and Industry (Kadin) from 2021–2024.</p><p>Rosan\'s political career began when he was appointed Indonesian Ambassador to the United States in 2024, before being entrusted with the role of Minister of Investment and Downstream Development, concurrently Head of the Investment Coordinating Board (BKPM), under President Prabowo Subianto\'s administration. This strategic position made him one of the key figures in attracting foreign investment to Indonesia.</p><p>Beyond his ministerial role, Rosan is also entrusted as CEO of the Daya Anagata Nusantara Investment Management Agency (BPI Danantara) — Indonesia\'s newly formed state investment management body that began full operation in June 2026. Under his leadership, Danantara recorded a significant surge in state-owned enterprise profits, an achievement widely regarded by media as proof of the effectiveness of the national economic transformation carried out by the institution.</p><p>In late June 2026, BKPM under Rosan affirmed that foreign investor confidence in Indonesia remains strong despite global economic uncertainty. Rosan has also been active in promoting collaboration between academia and industry to accelerate Indonesia\'s natural resource downstreaming program, emphasizing that universities hold a crucial position as drivers of the national economy.</p><p>President Prabowo Subianto specifically summoned Rosan to his residence in Kertanegara, Jakarta, to discuss strengthening the tourism sector to attract greater investment, and instructed Rosan to present up-to-date facts regarding increasing global investor confidence in Indonesia to the public and other Red-White Cabinet members.</p>',
+            source: 'Tempo Bisnis',
+            sourceUrl: 'https://bisnis.tempo.co/read/2111329/bkpm-klaim-kepercayaan-investor-asing-ke-ri-tetap-terjaga?utm_source=Digital%20Marketing&utm_medium=Babe',
+            sourceSnippet: 'BKPM Claims Foreign Investor Confidence in Indonesia Remains Strong — Tempo Bisnis, July 1 2026',
+            source2: 'Media Indonesia',
+            sourceUrl2: 'https://mediaindonesia.com/ekonomi/905710/lonjakan-laba-bumn-bukti-transformasi-ekonomi-nasional-dan-kepemimpinan-danantara-berjalan-efektif',
+            sourceSnippet2: 'Surge in State-Owned Enterprise Profits Proves Effective National Economic Transformation Under Danantara — Media Indonesia, June 30 2026',
+            source3: 'Detik News',
+            sourceUrl3: 'https://news.detik.com/berita/d-8541479/prabowo-panggil-rosan-ke-kertanegara-bahas-penguatan-pariwisata-tarik-investasi',
+            sourceSnippet3: 'Prabowo Summons Rosan to Kertanegara to Discuss Strengthening Tourism to Attract Investment — Detik News, June 24 2026'
+          },
+          ja: {
+            title: 'ロサン・ルスラニ — 投資相・ダナンタラCEO、世界投資家の信頼の設計者',
+            desc: 'ロサン・プルカサ・ルスラニはインドネシア投資・川下開発相であり、ダナンタラ投資管理機関CEO。2026年7月、国営企業利益の急増がダナンタラの効果的な指導力を反映する中、外国投資家の信頼が引き続き堅調であると確認した。',
+            body: '<p>ロサン・プルカサ・ルスラニは1968年10月31日、インドネシア・ジャカルタ生まれ。米ジョージ・ワシントン大学で経営学の学士号を取得。政府就任前は金融・投資分野で長いキャリアを築き、2021-2024年にはインドネシア商工会議所（カディン）会頭を務めた。</p><p>2024年に駐米インドネシア大使に任命され政界入り。その後プラボウォ・スビアント政権下で投資・川下開発相兼投資調整庁（BKPM）長官に就任した。</p><p>閣僚職に加え、2026年6月に本格稼働を開始したインドネシア国家投資管理機関ダナンタラのCEOも兼任。その指導下でダナンタラは国営企業利益の大幅な増加を記録し、国家経済変革の有効性の証と評価されている。</p>',
+            source: 'Tempo Bisnis',
+            sourceUrl: 'https://bisnis.tempo.co/read/2111329/bkpm-klaim-kepercayaan-investor-asing-ke-ri-tetap-terjaga?utm_source=Digital%20Marketing&utm_medium=Babe',
+            sourceSnippet: 'BKPM、インドネシアへの外国投資家の信頼は堅調と主張 — Tempo Bisnis 2026年7月1日'
+          },
+          ko: {
+            title: '로산 루슬라니 — 투자부 장관 & 다난타라 CEO, 글로벌 투자자 신뢰의 설계자',
+            desc: '로산 페르카사 루슬라니는 인도네시아 투자·다운스트림개발부 장관이자 다난타라 투자관리기관 CEO. 2026년 7월, 국영기업 이익 급증이 다난타라의 효과적인 리더십을 반영하는 가운데 외국인 투자자 신뢰가 견고하다고 확인했다.',
+            body: '<p>로산 페르카사 루슬라니는 1968년 10월 31일 인도네시아 자카르타 출생. 미국 조지워싱턴 대학에서 경영학 학사를 취득했다. 정부 취임 전 금융·투자 분야에서 오랜 경력을 쌓았으며, 2021~2024년에는 인도네시아 상공회의소(카딘) 회장을 역임했다.</p><p>2024년 주미 인도네시아 대사로 임명되며 정계에 입문했다. 이후 프라보워 수비안토 정부에서 투자·다운스트림개발부 장관 겸 투자조정청(BKPM) 청장에 취임했다.</p><p>장관직 외에도 2026년 6월 본격 가동을 시작한 인도네시아 국가투자관리기관 다난타라의 CEO도 겸임하고 있다. 그의 지도 아래 다난타라는 국영기업 이익의 상당한 증가를 기록했으며, 이는 국가 경제 변혁의 효과성을 입증하는 사례로 평가받고 있다.</p>',
+            source: 'Tempo Bisnis',
+            sourceUrl: 'https://bisnis.tempo.co/read/2111329/bkpm-klaim-kepercayaan-investor-asing-ke-ri-tetap-terjaga?utm_source=Digital%20Marketing&utm_medium=Babe',
+            sourceSnippet: 'BKPM, 인도네시아에 대한 외국인 투자자 신뢰 견고하다고 주장 — Tempo Bisnis 2026년 7월 1일'
+          },
+          zh: {
+            title: '罗桑·罗斯拉尼 — 投资部长兼达南塔拉CEO，全球投资者信心的设计师',
+            desc: '罗桑·佩尔卡萨·罗斯拉尼是印度尼西亚投资与下游产业发展部长，同时兼任达南塔拉投资管理机构CEO。2026年7月，他确认外国投资者对印尼的信心依然强劲，国有企业利润激增反映了达南塔拉的有效领导。',
+            body: '<p>罗桑·佩尔卡萨·罗斯拉尼1968年10月31日生于印度尼西亚雅加达。他在美国乔治·华盛顿大学获工商管理学士学位。在进入政府任职前，他在金融投资领域积累了长期经验，并于2021-2024年担任印度尼西亚工商会（Kadin）主席。</p><p>2024年，他被任命为印尼驻美大使，从而步入政坛。此后在普拉博沃·苏比安托政府中出任投资与下游产业发展部长兼投资协调委员会（BKPM）主席。</p><p>除部长职务外，他还兼任2026年6月起全面运营的印尼国家投资管理机构达南塔拉的CEO。在他的领导下，达南塔拉的国有企业利润大幅增长，这一成就被媒体广泛视为国家经济转型有效性的证明。</p>',
+            source: 'Tempo Bisnis',
+            sourceUrl: 'https://bisnis.tempo.co/read/2111329/bkpm-klaim-kepercayaan-investor-asing-ke-ri-tetap-terjaga?utm_source=Digital%20Marketing&utm_medium=Babe',
+            sourceSnippet: 'BKPM称印尼外国投资者信心依然强劲 — Tempo Bisnis，2026年7月1日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
