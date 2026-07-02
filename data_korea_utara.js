@@ -67,6 +67,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'korea-utara-kim-yo-jong',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Kim Yo-jong — Adik Perempuan Kim Jong-un, Kini Direktur Departemen Urusan Umum Korea Utara',
+            desc: 'Kim Yo-jong adalah adik perempuan pemimpin Korea Utara Kim Jong-un dan salah satu tokoh paling berpengaruh dalam rezim tersebut. Pada Juni 2026, ia diangkat sebagai Direktur Departemen Urusan Umum dan secara terbuka mengecam seruan G7 terkait denuklirisasi Korea Utara.',
+            body: '<p>Kim Yo-jong lahir pada 26 September 1987 di Pyongyang, Korea Utara, sebagai putri bungsu pemimpin Korea Utara Kim Jong-il. Ia dididik secara pribadi di Swiss bersama kakaknya Kim Jong-un sebelum kembali ke Korea Utara untuk mempersiapkan diri memasuki lingkaran kekuasaan keluarga Kim.</p><p>Selama bertahun-tahun, Kim Yo-jong menjabat berbagai posisi strategis dalam Partai Buruh Korea, termasuk Wakil Direktur Departemen Propaganda dan Agitasi. Ia dikenal luas sebagai juru bicara paling vokal dan agresif rezim Korea Utara dalam isu-isu diplomatik sensitif, sering mengeluarkan pernyataan tajam yang mencerminkan sikap resmi negara terhadap Korea Selatan, AS, dan sekutu-sekutu Barat.</p><p>Pada Kongres Partai ke-9 Korea Utara yang digelar pertengahan 2026, Kim Yo-jong diangkat sebagai Direktur Departemen Urusan Umum, sebuah promosi signifikan yang semakin mengukuhkan posisinya sebagai salah satu figur paling berkuasa kedua setelah kakaknya di dalam struktur kekuasaan Korea Utara.</p><p>Pada 18 Juni 2026, Kim Yo-jong secara terbuka mengecam seruan G7 untuk denuklirisasi lengkap Korea Utara, menyebutnya sebagai pelanggaran kedaulatan negara. Ia menegaskan bahwa status nuklir Korea Utara bersifat "tidak dapat dinegosiasikan" dan tidak dapat diubah, menandaskan bahwa program senjata nuklir negara tersebut bersifat permanen sebagai bagian dari keamanan strategis nasional.</p><p>Kim Yo-jong juga mengeluarkan peringatan tegas kepada Amerika Serikat dan Korea Selatan terkait latihan militer gabungan tahunan "Freedom Shield," menyebutnya sebagai provokasi yang dapat "mengundang bencana." Peran ganda Kim Yo-jong sebagai adik pemimpin sekaligus arsitek kebijakan luar negeri paling agresif Korea Utara menjadikannya salah satu tokoh perempuan paling berpengaruh dan ditakuti dalam politik global saat ini.</p>',
+            source: 'NK News',
+            sourceUrl: 'https://www.nknews.org/?p=973248',
+            sourceSnippet: 'Kim Yo Jong warns G7 \'inviting disaster\' by calling for DPRK\'s denuclearization — NK News',
+            source2: 'Reuters',
+            sourceUrl2: 'https://www.reuters.com/world/asia-pacific/north-koreas-kim-yo-jong-condemns-g7-call-denuclearisation-violation-sovereignty-2026-06-18/',
+            sourceSnippet2: 'North Korea\'s Kim Yo Jong condemns G7 call for denuclearisation as violation of sovereignty — Reuters, 18 Juni 2026',
+            source3: '38 North',
+            sourceUrl3: 'https://www.38north.org/2026/06/on-a-mission-from-general-affairs-department/',
+            sourceSnippet3: 'On a Mission From General Affairs Department — 38 North, Juni 2026',
+            source4: 'Korea Herald',
+            sourceUrl4: 'https://www.koreaherald.com/article/10777141',
+            sourceSnippet4: 'Kim Yo-jong slams G7\'s denuclearization call, says North Korea\'s nuclear status is irreversible — Korea Herald'
+          },
+          en: {
+            title: 'Kim Yo-jong — Kim Jong-un\'s Sister, Now Director of North Korea\'s General Affairs Department',
+            desc: 'Kim Yo-jong is the sister of North Korean leader Kim Jong-un and one of the most influential figures in the regime. In June 2026, she was appointed Director of the General Affairs Department and publicly condemned G7 calls for North Korea\'s denuclearization.',
+            body: '<p>Kim Yo-jong was born on September 26, 1987 in Pyongyang, North Korea, as the youngest daughter of North Korean leader Kim Jong-il. She was privately educated in Switzerland alongside her brother Kim Jong-un before returning to North Korea to prepare for entry into the Kim family\'s power circle.</p><p>Over the years, Kim Yo-jong has held various strategic positions within the Workers\' Party of Korea, including Vice Director of the Propaganda and Agitation Department. She is widely known as the regime\'s most vocal and aggressive spokesperson on sensitive diplomatic issues, frequently issuing sharp statements reflecting the state\'s official stance toward South Korea, the US, and Western allies.</p><p>At North Korea\'s 9th Party Congress held in mid-2026, Kim Yo-jong was appointed Director of the General Affairs Department, a significant promotion further cementing her position as one of the most powerful figures second only to her brother within North Korea\'s power structure.</p><p>On June 18, 2026, Kim Yo-jong openly condemned the G7\'s call for North Korea\'s complete denuclearization, calling it a violation of national sovereignty. She affirmed that North Korea\'s nuclear status is "non-negotiable" and unchangeable, asserting that the country\'s nuclear weapons program is permanent as part of national strategic security.</p><p>Kim Yo-jong also issued a stern warning to the United States and South Korea regarding the annual joint military exercise "Freedom Shield," calling it a provocation that could "invite disaster." Kim Yo-jong\'s dual role as the leader\'s sister and North Korea\'s most aggressive foreign policy architect makes her one of the most influential and feared female figures in global politics today.</p>',
+            source: 'NK News',
+            sourceUrl: 'https://www.nknews.org/?p=973248',
+            sourceSnippet: 'Kim Yo Jong warns G7 \'inviting disaster\' by calling for DPRK\'s denuclearization — NK News',
+            source2: 'Reuters',
+            sourceUrl2: 'https://www.reuters.com/world/asia-pacific/north-koreas-kim-yo-jong-condemns-g7-call-denuclearisation-violation-sovereignty-2026-06-18/',
+            sourceSnippet2: 'North Korea\'s Kim Yo Jong condemns G7 call for denuclearisation as violation of sovereignty — Reuters, June 18 2026',
+            source3: '38 North',
+            sourceUrl3: 'https://www.38north.org/2026/06/on-a-mission-from-general-affairs-department/',
+            sourceSnippet3: 'On a Mission From General Affairs Department — 38 North, June 2026'
+          },
+          ja: {
+            title: '金与正 — 金正恩の妹、現在は北朝鮮総務局長',
+            desc: '金与正は北朝鮮の指導者金正恩の妹であり、体制内で最も影響力のある人物の一人。2026年6月、総務局長に任命され、北朝鮮の非核化を求めるG7の呼びかけを公然と非難した。',
+            body: '<p>金与正は1987年9月26日、平壌生まれ。金正日の末娘で、兄金正恩とともにスイスで個人教育を受けた後、金一族の権力圏に入るため北朝鮮に帰国した。</p><p>長年、朝鮮労働党で宣伝扇動部副部長など様々な戦略的地位を歴任。韓国、米国、西側同盟国に対する国家の公式姿勢を反映した鋭い声明をしばしば発表し、体制で最も声高で攻撃的なスポークスパーソンとして広く知られている。</p><p>2026年中頃に開催された第9回党大会で総務局長に任命され、兄に次ぐ最も強力な人物の一人としての地位をさらに固めた。2026年6月18日、北朝鮮の完全非核化を求めるG7の呼びかけを主権侵害だとして公然と非難した。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/asia-pacific/north-koreas-kim-yo-jong-condemns-g7-call-denuclearisation-violation-sovereignty-2026-06-18/',
+            sourceSnippet: '北朝鮮の金与正、G7の非核化要求は主権侵害と非難 — ロイター 2026年6月18日'
+          },
+          ko: {
+            title: '김여정 — 김정은의 여동생, 현재 북한 총무국장',
+            desc: '김여정은 북한 지도자 김정은의 여동생이자 체제 내 가장 영향력 있는 인물 중 한 명. 2026년 6월, 총무국장에 임명되었고 북한의 비핵화를 요구하는 G7의 촉구를 공개적으로 비난했다.',
+            body: '<p>김여정은 1987년 9월 26일 평양 출생. 김정일의 막내딸로, 오빠 김정은과 함께 스위스에서 개인 교육을 받은 후 김씨 일가의 권력 핵심에 진입하기 위해 북한으로 돌아왔다.</p><p>수년간 조선노동당에서 선전선동부 부부장 등 다양한 전략적 직책을 역임했다. 한국, 미국, 서방 동맹국에 대한 국가의 공식 입장을 반영하는 날카로운 성명을 자주 발표하며 체제에서 가장 목소리가 크고 공격적인 대변인으로 널리 알려져 있다.</p><p>2026년 중반 열린 제9차 당대회에서 총무국장에 임명되어 오빠 다음가는 가장 강력한 인물 중 한 명으로서의 위치를 한층 공고히 했다. 2026년 6월 18일, 북한의 완전한 비핵화를 요구하는 G7의 촉구를 주권 침해라며 공개적으로 비난했다.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/asia-pacific/north-koreas-kim-yo-jong-condemns-g7-call-denuclearisation-violation-sovereignty-2026-06-18/',
+            sourceSnippet: '북한 김여정, G7의 비핵화 요구는 주권 침해라고 비난 — 로이터 2026년 6월 18일'
+          },
+          zh: {
+            title: '金与正 — 金正恩的妹妹，现任朝鲜总务局局长',
+            desc: '金与正是朝鲜领导人金正恩的妹妹，也是该政权最具影响力的人物之一。2026年6月，她被任命为总务局局长，并公开谴责七国集团要求朝鲜实现无核化的呼吁。',
+            body: '<p>金与正1987年9月26日生于平壤，是金正日的幼女。她与哥哥金正恩一同在瑞士接受私人教育，此后返回朝鲜，为进入金氏家族权力核心做准备。</p><p>多年来，她在朝鲜劳动党内担任多个战略职位，包括宣传鼓动部副部长。她被广泛认为是该政权在敏感外交问题上最直言不讳、最强硬的发言人，经常发表反映国家对韩国、美国及西方盟友官方立场的尖锐声明。</p><p>在2026年年中举行的朝鲜第九次党代会上，她被任命为总务局局长，这一重要晋升进一步巩固了她作为仅次于哥哥的朝鲜权力结构中最有权势人物之一的地位。2026年6月18日，她公开谴责七国集团要求朝鲜完全无核化的呼吁，称其侵犯了国家主权。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/asia-pacific/north-koreas-kim-yo-jong-condemns-g7-call-denuclearisation-violation-sovereignty-2026-06-18/',
+            sourceSnippet: '朝鲜金与正谴责七国集团的无核化呼吁侵犯主权 — 路透社，2026年6月18日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
