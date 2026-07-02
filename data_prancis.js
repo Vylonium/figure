@@ -67,6 +67,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'prancis-bernard-arnault',
+        category: 'bisnis',
+        langs: {
+          id: {
+            title: 'Bernard Arnault — Chairman LVMH, Orang Terkaya Prancis Peringatkan Krisis Timur Tengah',
+            desc: 'Bernard Arnault adalah Chairman dan CEO LVMH, konglomerat barang mewah terbesar dunia yang menaungi Louis Vuitton, Dior, dan Tiffany. Pada 2026, ia memperingatkan potensi "bencana dunia" akibat konflik Timur Tengah yang belum terselesaikan, sekaligus menghadapi sorotan atas ekspansi kepemilikan medianya di Prancis.',
+            body: '<p>Bernard Jean Étienne Arnault lahir pada 5 Maret 1949 di Roubaix, Prancis. Ia meraih gelar insinyur dari École Polytechnique, salah satu institusi pendidikan teknik paling elit di Prancis. Kariernya dimulai di perusahaan konstruksi keluarganya sebelum ia beralih fokus ke industri barang mewah pada 1984 dengan mengakuisisi Boussac Saint-Frères, perusahaan induk Christian Dior yang saat itu bangkrut.</p><p>Dari akuisisi awal tersebut, Arnault membangun LVMH (Moët Hennessy Louis Vuitton) menjadi konglomerat barang mewah terbesar di dunia, menaungi lebih dari 75 merek prestisius termasuk Louis Vuitton, Dior, Moët & Chandon, Bulgari, dan Tiffany & Co. Reputasinya sebagai negosiator akuisisi yang piawai dan tanpa kompromi menjadikannya salah satu pengusaha paling ditakuti sekaligus dihormati di industri global.</p><p>Pada April 2026, di tengah eskalasi konflik di Timur Tengah, Arnault memperingatkan bahwa dunia sedang menghadapi "krisis serius" yang dapat berujung pada "bencana dunia" jika tidak segera diselesaikan, menyatakan kekhawatirannya kepada para pemegang saham LVMH dalam rapat tahunan perusahaan. Ia menegaskan bahwa pemulihan pertumbuhan LVMH sangat bergantung pada penyelesaian krisis geopolitik tersebut.</p><p>Pada Mei 2026, laporan keuangan LVMH menunjukkan Arnault masih menghindari pembahasan terbuka mengenai rencana suksesi kepemimpinan perusahaan, meski usianya telah melewati 75 tahun — sebuah isu yang terus menjadi sorotan analis pasar mengingat besarnya ketergantungan LVMH pada visi strategis pribadinya.</p><p>Pada Juni 2026, Arnault juga menghadapi kritik publik terkait ekspansi kepemilikan medianya di Prancis, setelah menambahkan sebuah mingguan berita terkemuka ke dalam portofolio penerbitannya — langkah yang memicu kekhawatiran mengenai konsentrasi kepemilikan media di tangan segelintir taipan bisnis Prancis. Terlepas dari kontroversi ini, Arnault tetap dikenal sebagai salah satu figur bisnis paling berpengaruh di Eropa dan berulang kali menempati posisi orang terkaya di Prancis.</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/04/23/lvmh-ceo-arnault-iran-war-middle-east-stock-luxury.html',
+            sourceSnippet: 'LVMH CEO Arnault warns of \'world catastrophe\' if Middle East conflict is not resolved — CNBC, 23 April 2026',
+            source2: 'The Guardian',
+            sourceUrl2: 'https://www.theguardian.com/business/2026/jun/17/fashion-tycoon-bernard-arnault-accused-of-stranglehold-over-french-business-press',
+            sourceSnippet2: 'Fashion tycoon Bernard Arnault accused of stranglehold over French business press — The Guardian, 17 Juni 2026',
+            source3: 'Fashion Network',
+            sourceUrl3: 'https://us.fashionnetwork.com/news/At-lvmh-s-results-presentation-bernard-arnault-puts-the-spotlight-on-the-group-s-flagship-brands-sidesteps-succession-issue,1802809.html',
+            sourceSnippet3: 'At LVMH\'s results presentation, Bernard Arnault puts the spotlight on the group\'s flagship brands, sidesteps succession issue — Fashion Network, 29 Januari 2026',
+            source4: 'Reuters',
+            sourceUrl4: 'https://www.reuters.com/business/retail-consumer/lvmhs-ceo-arnault-says-return-growth-hinges-outcome-middle-east-crisis-2026-04-23/',
+            sourceSnippet4: 'LVMH\'s CEO Arnault says return to growth hinges on outcome of Middle East crisis — Reuters, 23 April 2026'
+          },
+          en: {
+            title: 'Bernard Arnault — LVMH Chairman, France\'s Richest Man Warns of Middle East Crisis',
+            desc: 'Bernard Arnault is Chairman and CEO of LVMH, the world\'s largest luxury goods conglomerate overseeing Louis Vuitton, Dior, and Tiffany. In 2026, he warned of a potential "world catastrophe" from the unresolved Middle East conflict, while facing scrutiny over his expanding media ownership in France.',
+            body: '<p>Bernard Jean Étienne Arnault was born on March 5, 1949 in Roubaix, France. He earned an engineering degree from École Polytechnique, one of France\'s most elite technical education institutions. His career began at his family\'s construction company before he shifted focus to the luxury goods industry in 1984 by acquiring Boussac Saint-Frères, then-bankrupt parent company of Christian Dior.</p><p>From that initial acquisition, Arnault built LVMH (Moët Hennessy Louis Vuitton) into the world\'s largest luxury conglomerate, overseeing more than 75 prestigious brands including Louis Vuitton, Dior, Moët & Chandon, Bulgari, and Tiffany & Co. His reputation as a skilled and uncompromising acquisition negotiator has made him one of the most feared yet respected businessmen in the global industry.</p><p>In April 2026, amid escalating conflict in the Middle East, Arnault warned that the world was facing a "serious crisis" that could lead to "world catastrophe" if not swiftly resolved, expressing his concerns to LVMH shareholders at the company\'s annual meeting. He affirmed that LVMH\'s growth recovery heavily depends on the resolution of this geopolitical crisis.</p><p>In May 2026, LVMH\'s financial report showed Arnault still avoiding open discussion of the company\'s leadership succession plan, despite being past age 75 — an issue that continues to draw market analyst attention given LVMH\'s heavy dependence on his personal strategic vision.</p><p>In June 2026, Arnault also faced public criticism over his expanding media ownership in France, after adding a leading news weekly to his publishing portfolio — a move that sparked concerns over media ownership concentration in the hands of a few French business tycoons. Despite this controversy, Arnault remains known as one of Europe\'s most influential business figures and repeatedly ranks as France\'s richest person.</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/04/23/lvmh-ceo-arnault-iran-war-middle-east-stock-luxury.html',
+            sourceSnippet: 'LVMH CEO Arnault warns of \'world catastrophe\' if Middle East conflict is not resolved — CNBC, April 23 2026',
+            source2: 'The Guardian',
+            sourceUrl2: 'https://www.theguardian.com/business/2026/jun/17/fashion-tycoon-bernard-arnault-accused-of-stranglehold-over-french-business-press',
+            sourceSnippet2: 'Fashion tycoon Bernard Arnault accused of stranglehold over French business press — The Guardian, June 17 2026',
+            source3: 'Fashion Network',
+            sourceUrl3: 'https://us.fashionnetwork.com/news/At-lvmh-s-results-presentation-bernard-arnault-puts-the-spotlight-on-the-group-s-flagship-brands-sidesteps-succession-issue,1802809.html',
+            sourceSnippet3: 'At LVMH\'s results presentation, Bernard Arnault puts the spotlight on the group\'s flagship brands, sidesteps succession issue — Fashion Network, January 29 2026'
+          },
+          ja: {
+            title: 'ベルナール・アルノー — LVMH会長、フランス富豪番付首位、中東危機を警告',
+            desc: 'ベルナール・アルノーはルイ・ヴィトン、ディオール、ティファニーを傘下に持つ世界最大の高級品複合企業LVMHの会長兼CEO。2026年、未解決の中東紛争による「世界的破局」の可能性を警告する一方、フランスでのメディア所有拡大に関する監視に直面している。',
+            body: '<p>ベルナール・ジャン・エティエンヌ・アルノーは1949年3月5日、フランス・ルーベ生まれ。フランス屈指のエリート工学教育機関エコール・ポリテクニークで工学の学位を取得。1984年、当時破産していたクリスチャン・ディオールの親会社ブサック・サン=フレールを買収し高級品業界に転じた。</p><p>この買収からLVMH（モエ・ヘネシー・ルイ・ヴィトン）を世界最大の高級品複合企業に築き上げ、ルイ・ヴィトン、ディオール、モエ・エ・シャンドン、ブルガリ、ティファニーなど75以上の名門ブランドを傘下に収めている。</p><p>2026年4月、中東紛争の激化の中、アルノーは早期解決されなければ「世界的破局」につながりかねない「深刻な危機」に世界が直面していると警告し、LVMH年次株主総会で懸念を表明した。</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/04/23/lvmh-ceo-arnault-iran-war-middle-east-stock-luxury.html',
+            sourceSnippet: 'LVMH CEOアルノー氏、中東紛争が解決しなければ「世界的破局」を警告 — CNBC 2026年4月23日'
+          },
+          ko: {
+            title: '베르나르 아르노 — LVMH 회장, 프랑스 최고 부호, 중동 위기 경고',
+            desc: '베르나르 아르노는 루이비통, 디올, 티파니를 계열사로 둔 세계 최대 명품 대기업 LVMH 회장 겸 CEO. 2026년, 미해결 중동 분쟁으로 인한 "세계적 재앙" 가능성을 경고하는 한편, 프랑스에서의 미디어 소유 확대에 대한 감시에 직면해 있다.',
+            body: '<p>베르나르 장 에티엔 아르노는 1949년 3월 5일 프랑스 루베 출생. 프랑스 최고 명문 공학교육기관인 에콜 폴리테크니크에서 공학 학위를 취득했다. 1984년 당시 파산 상태였던 크리스찬 디올의 모기업 부사크 생프레르를 인수하며 명품업계로 전환했다.</p><p>이 인수를 시작으로 LVMH(모엣 헤네시 루이비통)를 세계 최대 명품 대기업으로 키워냈으며, 루이비통, 디올, 모엣샹동, 불가리, 티파니 등 75개 이상의 명품 브랜드를 계열사로 두고 있다.</p><p>2026년 4월, 중동 분쟁 격화 속에서 아르노는 신속히 해결되지 않으면 "세계적 재앙"으로 이어질 수 있는 "심각한 위기"에 세계가 직면해 있다고 경고하며 LVMH 연례 주주총회에서 우려를 표했다.</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/04/23/lvmh-ceo-arnault-iran-war-middle-east-stock-luxury.html',
+            sourceSnippet: 'LVMH CEO 아르노, 중동 분쟁 미해결 시 "세계적 재앙" 경고 — CNBC 2026년 4월 23일'
+          },
+          zh: {
+            title: '伯纳德·阿尔诺 — LVMH集团董事长，法国首富警告中东危机',
+            desc: '伯纳德·阿尔诺是旗下拥有路易威登、迪奥和蒂芙尼的全球最大奢侈品集团LVMH董事长兼CEO。2026年，他警告未解决的中东冲突可能引发"世界性灾难"，同时因在法国扩大媒体持股而受到关注。',
+            body: '<p>伯纳德·让·艾蒂安·阿尔诺1949年3月5日生于法国鲁贝。他在法国顶尖工程教育机构巴黎综合理工学院获工程学学位。1984年，他收购了当时已破产的克里斯汀·迪奥母公司布萨克·圣弗雷雷公司，从而转向奢侈品行业。</p><p>从这次收购开始，他将LVMH（酩悦轩尼诗-路易威登集团）打造成全球最大的奢侈品集团，旗下拥有路易威登、迪奥、酩悦香槟、宝格丽和蒂芙尼等75个以上知名品牌。</p><p>2026年4月，在中东冲突加剧之际，阿尔诺警告称，世界正面临一场"严重危机"，若不迅速解决可能导致"世界性灾难"，他在LVMH年度股东大会上表达了这一担忧。</p>',
+            source: 'CNBC',
+            sourceUrl: 'https://www.cnbc.com/2026/04/23/lvmh-ceo-arnault-iran-war-middle-east-stock-luxury.html',
+            sourceSnippet: 'LVMH CEO阿尔诺警告，若中东冲突不解决将导致"世界性灾难" — CNBC，2026年4月23日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
