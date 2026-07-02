@@ -129,6 +129,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'korea-utara-choe-son-hui',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Choe Son-hui — Menteri Luar Negeri Korea Utara, Perkuat Aliansi Strategis dengan Rusia',
+            desc: 'Choe Son-hui adalah Menteri Luar Negeri Korea Utara yang aktif membangun jaringan diplomatik negaranya, termasuk dengan Tiongkok, Rusia, Vietnam, dan Singapura. Pada 2026, ia menegaskan bahwa Korea Utara dan Rusia berbagi "posisi strategis setingkat aliansi" di tengah meningkatnya kerja sama kedua negara.',
+            body: '<p>Choe Son-hui lahir pada 1969 di Korea Utara, berasal dari keluarga diplomat berpengaruh — ayahnya adalah pejabat senior kementerian luar negeri Korea Utara. Ia dididik di sekolah elit Pyongyang dan menguasai bahasa Inggris dengan fasih, keterampilan yang menjadi aset penting dalam kariernya di dunia diplomasi internasional.</p><p>Choe membangun reputasinya sebagai salah satu negosiator paling berpengalaman Korea Utara melalui keterlibatannya dalam perundingan denuklirisasi dengan Amerika Serikat selama bertahun-tahun, termasuk berperan sebagai penerjemah dan negosiator kunci dalam sejumlah pertemuan tingkat tinggi. Pada 2022, ia diangkat sebagai Menteri Luar Negeri Korea Utara, menjadi salah satu perempuan paling berpengaruh dalam pemerintahan Kim Jong-un.</p><p>Pada 10 April 2026, Choe bertemu dengan Menteri Luar Negeri Tiongkok Wang Yi di Pyongyang, di mana kedua negara sepakat memperkuat hubungan bilateral dan meningkatkan pertukaran diplomatik. Pada 26 Mei 2026, ia menerima kunjungan langka Menteri Luar Negeri Singapura Vivian Balakrishnan, mendorong spekulasi mengenai kemungkinan pembukaan kembali "jalur Singapura" sebagai saluran diplomatik antara Korea Utara dan negara-negara Barat.</p><p>Pada 31 Mei 2026, dalam sebuah upacara peringatan untuk mendiang Duta Besar Rusia, Choe menegaskan bahwa Korea Utara dan Rusia berbagi "posisi strategis setingkat aliansi," pernyataan yang mencerminkan semakin dalamnya kerja sama militer dan diplomatik kedua negara sejak penandatanganan perjanjian kemitraan strategis komprehensif pada 2024. Ia juga menjalin komunikasi dengan Vietnam, dengan kedua negara berjanji meningkatkan pertukaran dan kerja sama di berbagai sektor.</p><p>Sebagai Menteri Luar Negeri, Choe terus memainkan peran kunci dalam strategi diplomatik Korea Utara yang berfokus pada penguatan aliansi dengan Tiongkok dan Rusia, sekaligus menjaga saluran komunikasi terbatas dengan negara-negara netral seperti Singapura di tengah isolasi diplomatik Korea Utara dari sebagian besar negara Barat.</p>',
+            source: 'Korea Herald',
+            sourceUrl: 'https://www.koreaherald.com/article/10757076',
+            sourceSnippet: 'North Korea, Singapore ministers hold talks amid renewed \'Singapore channel\' speculation — Korea Herald',
+            source2: 'Chosun',
+            sourceUrl2: 'https://www.chosun.com/english/north-korea-en/2026/05/31/LDHG6GSHXFBBVECH2HAXNGCA4Y/',
+            sourceSnippet2: 'North Korean Foreign Minister Choe: North Korea, Russia Share Alliance-Level Strategic Position — Chosun, 31 Mei 2026',
+            source3: 'Kyodo News',
+            sourceUrl3: 'https://english.kyodonews.net/articles/-/73938',
+            sourceSnippet3: 'China, North Korea agree to strengthen ties during top diplomat Wang\'s visit — Kyodo News, 10 April 2026',
+            source4: 'NK News',
+            sourceUrl4: 'https://www.nknews.org/?p=971692',
+            sourceSnippet4: 'Top diplomats of North Korea and Vietnam vow to boost exchanges and cooperation — NK News'
+          },
+          en: {
+            title: 'Choe Son-hui — North Korea\'s Foreign Minister, Strengthens Strategic Alliance with Russia',
+            desc: 'Choe Son-hui is North Korea\'s Foreign Minister actively building the country\'s diplomatic network, including with China, Russia, Vietnam, and Singapore. In 2026, she affirmed that North Korea and Russia share an "alliance-level strategic position" amid increasing cooperation between the two countries.',
+            body: '<p>Choe Son-hui was born in 1969 in North Korea, from an influential diplomatic family — her father was a senior official at North Korea\'s foreign ministry. She was educated at elite Pyongyang schools and is fluent in English, a skill that became an important asset in her international diplomacy career.</p><p>Choe built her reputation as one of North Korea\'s most experienced negotiators through her involvement in denuclearization talks with the United States over the years, including serving as an interpreter and key negotiator in several high-level meetings. In 2022, she was appointed North Korea\'s Foreign Minister, becoming one of the most influential women in Kim Jong-un\'s government.</p><p>On April 10, 2026, Choe met with Chinese Foreign Minister Wang Yi in Pyongyang, where both countries agreed to strengthen bilateral relations and increase diplomatic exchanges. On May 26, 2026, she received a rare visit from Singaporean Foreign Minister Vivian Balakrishnan, sparking speculation about a possible reopening of the "Singapore channel" as a diplomatic conduit between North Korea and Western countries.</p><p>On May 31, 2026, at a memorial ceremony for the late Russian ambassador, Choe affirmed that North Korea and Russia share an "alliance-level strategic position," a statement reflecting the deepening military and diplomatic cooperation between the two countries since signing a comprehensive strategic partnership treaty in 2024. She also engaged in communication with Vietnam, with both countries pledging to boost exchanges and cooperation across various sectors.</p><p>As Foreign Minister, Choe continues to play a key role in North Korea\'s diplomatic strategy focused on strengthening alliances with China and Russia, while maintaining limited communication channels with neutral countries like Singapore amid North Korea\'s diplomatic isolation from most Western nations.</p>',
+            source: 'Korea Herald',
+            sourceUrl: 'https://www.koreaherald.com/article/10757076',
+            sourceSnippet: 'North Korea, Singapore ministers hold talks amid renewed \'Singapore channel\' speculation — Korea Herald',
+            source2: 'Chosun',
+            sourceUrl2: 'https://www.chosun.com/english/north-korea-en/2026/05/31/LDHG6GSHXFBBVECH2HAXNGCA4Y/',
+            sourceSnippet2: 'North Korean Foreign Minister Choe: North Korea, Russia Share Alliance-Level Strategic Position — Chosun, May 31 2026',
+            source3: 'Kyodo News',
+            sourceUrl3: 'https://english.kyodonews.net/articles/-/73938',
+            sourceSnippet3: 'China, North Korea agree to strengthen ties during top diplomat Wang\'s visit — Kyodo News, April 10 2026'
+          },
+          ja: {
+            title: '崔善姫 — 北朝鮮外相、ロシアとの戦略的同盟関係を強化',
+            desc: '崔善姫は中国、ロシア、ベトナム、シンガポールなど自国の外交ネットワークを積極的に構築する北朝鮮外相。2026年、両国の協力が深まる中、北朝鮮とロシアは「同盟レベルの戦略的地位」を共有していると明言した。',
+            body: '<p>崔善姫は1969年北朝鮮生まれ、影響力のある外交官一家の出身で、父は北朝鮮外務省の高官だった。平壌のエリート校で教育を受け、英語を流暢に操り、これが国際外交でのキャリアにおいて重要な資産となった。</p><p>長年にわたる米国との非核化交渉への関与を通じ、通訳や複数の高官級会談での重要交渉者としての役割を含め、北朝鮮で最も経験豊富な交渉者の一人としての評価を確立した。2022年に北朝鮮外相に任命され、金正恩政権で最も影響力のある女性の一人となった。</p><p>2026年4月10日、平壌で中国の王毅外相と会談し、両国は二国間関係の強化と外交交流の拡大で合意した。</p>',
+            source: 'Chosun',
+            sourceUrl: 'https://www.chosun.com/english/north-korea-en/2026/05/31/LDHG6GSHXFBBVECH2HAXNGCA4Y/',
+            sourceSnippet: '北朝鮮外相崔氏、北朝鮮とロシアは同盟レベルの戦略的地位を共有と発言 — 朝鮮日報 2026年5月31日'
+          },
+          ko: {
+            title: '최선희 — 북한 외무상, 러시아와의 전략적 동맹 관계 강화',
+            desc: '최선희는 중국, 러시아, 베트남, 싱가포르 등 자국의 외교 네트워크를 적극적으로 구축하는 북한 외무상. 2026년, 양국 협력이 깊어지는 가운데 북한과 러시아는 "동맹 수준의 전략적 지위"를 공유한다고 밝혔다.',
+            body: '<p>최선희는 1969년 북한 출생으로 영향력 있는 외교관 가문 출신이며, 아버지는 북한 외무성 고위 관료였다. 평양의 엘리트 학교에서 교육받았고 영어에 능통해, 이는 국제 외교 경력에서 중요한 자산이 됐다.</p><p>수년간 미국과의 비핵화 협상 참여를 통해 통역사이자 여러 고위급 회담의 핵심 협상가 역할을 포함, 북한에서 가장 경험 많은 협상가 중 한 명으로서의 명성을 쌓았다. 2022년 북한 외무상에 임명되어 김정은 정권에서 가장 영향력 있는 여성 중 한 명이 됐다.</p><p>2026년 4월 10일, 평양에서 중국의 왕이 외교부장과 회담해 양국은 양자 관계 강화와 외교 교류 확대에 합의했다.</p>',
+            source: 'Chosun',
+            sourceUrl: 'https://www.chosun.com/english/north-korea-en/2026/05/31/LDHG6GSHXFBBVECH2HAXNGCA4Y/',
+            sourceSnippet: '북한 외무상 최선희, 북한과 러시아는 동맹 수준의 전략적 지위 공유한다 발언 — 조선일보 2026년 5월 31일'
+          },
+          zh: {
+            title: '崔善姬 — 朝鲜外务相，加强与俄罗斯的战略同盟关系',
+            desc: '崔善姬是朝鲜外务相，积极构建包括中国、俄罗斯、越南和新加坡在内的本国外交网络。2026年，随着两国合作加深，她表示朝鲜和俄罗斯共享"同盟级别的战略地位"。',
+            body: '<p>崔善姬1969年生于朝鲜，出身于有影响力的外交官家庭——其父曾是朝鲜外务省高级官员。她在平壤精英学校接受教育，精通英语，这项技能成为她国际外交生涯中的重要资产。</p><p>多年来通过参与与美国的无核化谈判，包括在多次高层会晤中担任翻译和关键谈判代表，她树立了朝鲜最有经验的谈判代表之一的声誉。2022年，她被任命为朝鲜外务相，成为金正恩政府中最具影响力的女性之一。</p><p>2026年4月10日，她在平壤会见中国外交部长王毅，两国同意加强双边关系并增加外交交流。</p>',
+            source: 'Chosun',
+            sourceUrl: 'https://www.chosun.com/english/north-korea-en/2026/05/31/LDHG6GSHXFBBVECH2HAXNGCA4Y/',
+            sourceSnippet: '朝鲜外务相崔善姬表示朝俄共享同盟级别战略地位 — 朝鲜日报，2026年5月31日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
