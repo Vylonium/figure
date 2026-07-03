@@ -178,6 +178,64 @@
             sourceSnippet: '中国敦促美国以"最大限度的谨慎"处理台湾问题 — 路透社，2026年7月1日'
           }
         }
+      },
+      {
+        id: 'china-zhang-yiming',
+        category: 'bisnis',
+        langs: {
+          id: {
+            title: 'Zhang Yiming — Pendiri ByteDance, Orang Terkaya China 2026',
+            desc: 'Zhang Yiming, pendiri ByteDance (perusahaan induk TikTok), menempati peringkat #26 dalam daftar Miliarder Forbes 2026 dengan kekayaan bersih mencapai sekitar 92,8 miliar dolar AS menurut Bloomberg.',
+            body: '<p>Zhang Yiming lahir di Longyan, Provinsi Fujian, China, pada 1 April 1983. Ia meraih gelar di bidang teknik perangkat lunak dari Nankai University sebelum memulai kariernya di berbagai perusahaan teknologi rintisan di China.</p><p>Pada 2012, Zhang mendirikan ByteDance, perusahaan teknologi yang kemudian menciptakan aplikasi berbagi video pendek Douyin (versi China) dan TikTok (versi internasional). Aplikasi ini berkembang menjadi salah satu platform media sosial paling berpengaruh di dunia, digunakan oleh miliaran pengguna secara global.</p><p>Menurut data Forbes, Zhang menempati peringkat #26 dalam daftar Miliarder Forbes 2026 global. Menurut laporan Bloomberg yang dikutip berbagai media pada Juni 2026, kekayaan bersih Zhang mencapai sekitar 92,8 miliar dolar AS, menjadikannya orang terkaya di Asia melampaui taipan India Mukesh Ambani, sekaligus mengukuhkan posisinya sebagai orang terkaya di China.</p><p>Menurut laporan Forbes Maret 2026, kenaikan kekayaan Zhang turut dipengaruhi oleh perubahan valuasi ByteDance, dengan estimasi kenaikan kekayaan lebih dari 24 miliar dolar AS akibat selisih valuasi sebesar 15% pada awal 2026. Posisinya sebagai pendiri salah satu perusahaan teknologi paling berpengaruh di dunia menjadikannya figur sentral dalam lanskap bisnis teknologi global.</p>',
+            source: 'Forbes',
+            sourceUrl: 'https://www.forbes.com/profile/zhang-yiming/',
+            sourceSnippet: 'Zhang Yiming — #26 Forbes 2026 Billionaires List',
+            source2: 'Wikipedia',
+            sourceUrl2: 'https://en.wikipedia.org/wiki/Zhang_Yiming',
+            sourceSnippet2: 'Zhang Yiming — estimated net worth of $92.8 billion as of June 2026, according to Bloomberg',
+            source3: '36Kr',
+            sourceUrl3: 'https://eu.36kr.com/en/p/3837312915141760',
+            sourceSnippet3: 'Zhang Yiming Reclaims Title as Richest Person in China — 36Kr'
+          },
+          en: {
+            title: 'Zhang Yiming — ByteDance Founder, China\'s Richest Person in 2026',
+            desc: 'Zhang Yiming, founder of ByteDance (TikTok\'s parent company), ranks #26 on the Forbes 2026 Billionaires List with a net worth of approximately $92.8 billion according to Bloomberg.',
+            body: '<p>Zhang Yiming was born in Longyan, Fujian Province, China, on April 1, 1983. He earned a degree in software engineering from Nankai University before starting his career at various tech startups in China.</p><p>In 2012, Zhang founded ByteDance, a technology company that later created the short-video sharing apps Douyin (China version) and TikTok (international version). The app grew into one of the world\'s most influential social media platforms, used by billions of users globally.</p><p>According to Forbes data, Zhang ranks #26 on the global Forbes 2026 Billionaires List. According to a Bloomberg report cited by various media in June 2026, Zhang\'s net worth reached approximately $92.8 billion, making him Asia\'s richest person, surpassing Indian tycoon Mukesh Ambani, while also cementing his position as China\'s richest person.</p><p>According to a March 2026 Forbes report, Zhang\'s wealth increase was also influenced by changes in ByteDance\'s valuation, with an estimated wealth increase of more than $24 billion resulting from a 15% valuation difference in early 2026. His position as founder of one of the world\'s most influential technology companies makes him a central figure in the global tech business landscape.</p>',
+            source: 'Forbes',
+            sourceUrl: 'https://www.forbes.com/profile/zhang-yiming/',
+            sourceSnippet: 'Zhang Yiming — #26 Forbes 2026 Billionaires List',
+            source2: 'Wikipedia',
+            sourceUrl2: 'https://en.wikipedia.org/wiki/Zhang_Yiming',
+            sourceSnippet2: 'Zhang Yiming — estimated net worth of $92.8 billion as of June 2026, according to Bloomberg',
+            source3: '36Kr',
+            sourceUrl3: 'https://eu.36kr.com/en/p/3837312915141760',
+            sourceSnippet3: 'Zhang Yiming Reclaims Title as Richest Person in China — 36Kr'
+          },
+          ja: {
+            title: '張一鳴（ジャン・イーミン） — バイトダンス創業者、2026年中国長者番付首位',
+            desc: 'バイトダンス（TikTok親会社）創業者の張一鳴は2026年フォーブス長者番付で世界26位、ブルームバーグによると純資産は約928億ドルに達している。',
+            body: '<p>張一鳴は1983年4月1日、中国福建省龍岩市に生まれた。南開大学でソフトウェア工学の学位を取得後、中国の複数のテック系スタートアップでキャリアを開始した。</p><p>2012年、張はバイトダンスを設立し、後に短編動画共有アプリ「抖音（Douyin）」と国際版「TikTok」を生み出した。</p><p>フォーブスのデータによると、張は2026年世界長者番付で26位。ブルームバーグの報道によると、2026年6月時点で純資産は約928億ドルに達し、インドの富豪ムケシュ・アンバニを抜いてアジア一の富豪となった。</p>',
+            source: 'Forbes',
+            sourceUrl: 'https://www.forbes.com/profile/zhang-yiming/',
+            sourceSnippet: '張一鳴 — フォーブス2026年長者番付26位'
+          },
+          ko: {
+            title: '장이밍 — 바이트댄스 창업자, 2026년 중국 최고 부자',
+            desc: '바이트댄스(틱톡 모회사) 창업자 장이밍은 2026년 포브스 억만장자 명단에서 세계 26위에 올랐으며, 블룸버그에 따르면 순자산은 약 928억 달러에 달한다.',
+            body: '<p>장이밍은 1983년 4월 1일 중국 푸젠성 룽옌에서 태어났다. 난카이대학교에서 소프트웨어공학 학위를 취득한 후 중국의 여러 기술 스타트업에서 경력을 시작했다.</p><p>2012년 장이밍은 바이트댄스를 설립했으며, 이후 단편 동영상 공유 앱 더우인(중국판)과 국제판 틱톡을 만들었다.</p><p>포브스 데이터에 따르면 장이밍은 2026년 세계 억만장자 명단 26위에 올랐다. 블룸버그 보도에 따르면 2026년 6월 기준 순자산은 약 928억 달러에 달해 인도 재벌 무케시 암바니를 제치고 아시아 최고 부자가 되었다.</p>',
+            source: 'Forbes',
+            sourceUrl: 'https://www.forbes.com/profile/zhang-yiming/',
+            sourceSnippet: '장이밍 — 포브스 2026 억만장자 명단 26위'
+          },
+          zh: {
+            title: '张一鸣 — 字节跳动创始人，2026年中国首富',
+            desc: '字节跳动（TikTok母公司）创始人张一鸣在2026年福布斯亿万富豪榜中位列全球第26位，据彭博社数据其净资产约达928亿美元。',
+            body: '<p>张一鸣1983年4月1日出生于中国福建省龙岩市。他在南开大学获得软件工程学位后，在中国多家科技初创公司开始职业生涯。</p><p>2012年，张一鸣创立字节跳动，后来推出短视频分享应用抖音（中国版）和国际版TikTok。该应用已发展成为全球最具影响力的社交媒体平台之一，全球拥有数十亿用户。</p><p>据福布斯数据，张一鸣在2026年全球富豪榜中位列第26位。据彭博社2026年6月报道，张一鸣净资产达约928亿美元，超过印度富豪穆克什·安巴尼，成为亚洲首富。</p>',
+            source: 'Forbes',
+            sourceUrl: 'https://www.forbes.com/profile/zhang-yiming/',
+            sourceSnippet: '张一鸣 — 福布斯2026亿万富豪榜第26位'
+          }
+        }
       }
     ]
   };
