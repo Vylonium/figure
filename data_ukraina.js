@@ -191,6 +191,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'ukraina-yuliia-svyrydenko',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Yuliia Svyrydenko — Perdana Menteri Ukraina, Amankan €10 Miliar Investasi Rekonstruksi di Gdansk',
+            desc: 'Yuliia Svyrydenko adalah Perdana Menteri Ukraina yang memimpin upaya rekonstruksi ekonomi negara di tengah perang melawan Rusia. Pada akhir Juni 2026, ia mengumumkan keberhasilan konferensi Gdansk yang mengamankan lebih dari €10 miliar dalam 160 kesepakatan investasi untuk Ukraina.',
+            body: '<p>Yuliia Svyrydenko lahir pada 25 Desember 1985 di Chernihiv, Ukraina. Ia meraih gelar di bidang ekonomi dan hukum dari universitas-universitas Ukraina sebelum membangun karier di sektor pemerintahan daerah dan nasional, dengan spesialisasi dalam kebijakan investasi dan pembangunan ekonomi regional.</p><p>Svyrydenko menjabat berbagai posisi kunci dalam pemerintahan Ukraina, termasuk Menteri Ekonomi, sebelum akhirnya diangkat sebagai Perdana Menteri Ukraina pada pertengahan 2026 menggantikan Denys Shmyhal, sebagai bagian dari reshuffle pemerintahan besar-besaran di Kyiv yang bertujuan memperkuat fokus pada rekonstruksi ekonomi di tengah perang yang berkepanjangan.</p><p>Pada 25 Juni 2026, Menteri Energi Ukraina mengumumkan bahwa perusahaan-perusahaan publik dan swasta di sektor energi negara tersebut akan menandatangani kesepakatan senilai lebih dari €1 miliar dalam rangka menarik pembiayaan lebih lanjut untuk rekonstruksi infrastruktur energi yang rusak akibat serangan Rusia. Svyrydenko memainkan peran sentral dalam mengoordinasikan upaya investasi ini.</p><p>Pada 26 Juni 2026, dalam konferensi rekonstruksi di Gdansk, Polandia, Svyrydenko mengumumkan pencapaian signifikan: total 160 kesepakatan investasi senilai lebih dari €10 miliar berhasil ditandatangani untuk mendukung pemulihan ekonomi Ukraina — salah satu hasil konferensi investasi terbesar sejak dimulainya invasi Rusia. Ukraina juga membahas kerja sama dengan Azerbaijan terkait proyek rekonstruksi infrastruktur energi yang rusak akibat perang.</p><p>Sebagai Perdana Menteri, Svyrydenko terus memimpin strategi ekonomi Ukraina yang berfokus pada menarik investasi internasional untuk rekonstruksi, memperkuat kemandirian energi negara, dan menjaga stabilitas ekonomi domestik di tengah tantangan perang yang terus berlanjut, menjadikannya salah satu tokoh kunci dalam upaya pemulihan jangka panjang Ukraina.</p>',
+            source: 'Rubryka',
+            sourceUrl: 'https://rubryka.com/en/2026/06/26/ponad-10-mlrd-yevro-ta-160-ugod-svyrydenko-nazvala-golovni-rezultaty-konferentsiyi-u-gdansku/',
+            sourceSnippet: 'Gdańsk recovery conference secures over €10 bln in 160 deals for Ukraine — Rubryka, 26 Juni 2026',
+            source2: 'Pravda Ukraine',
+            sourceUrl2: 'https://www.pravda.com.ua/eng/news/2026/06/25/8041092/',
+            sourceSnippet2: 'Energy deals worth over €1bn to be signed in Gdańsk, Ukraine\'s energy minister says — Pravda Ukraine, 25 Juni 2026',
+            source3: 'Report.az',
+            sourceUrl3: 'https://report.az/en/amp/other-countries/ukraine-azerbaijan-discuss-energy-infrastructure-recovery-projects',
+            sourceSnippet3: 'Ukraine, Azerbaijan discuss energy infrastructure recovery projects — Report.az',
+            source4: 'Ukrinform',
+            sourceUrl4: 'https://www.ukrinform.net/rubric-economy/4127926-ukraine-to-back-up-to-1gw-of-new-renewable-energy-projects-in-2026.html',
+            sourceSnippet4: 'Ukraine to back up to 1GW of new renewable energy projects in 2026 — Ukrinform'
+          },
+          en: {
+            title: 'Yuliia Svyrydenko — Ukraine\'s Prime Minister, Secures €10 Billion Reconstruction Investment in Gdansk',
+            desc: 'Yuliia Svyrydenko is Ukraine\'s Prime Minister leading the country\'s economic reconstruction efforts amid the war against Russia. In late June 2026, she announced the success of the Gdansk conference which secured over €10 billion in 160 investment deals for Ukraine.',
+            body: '<p>Yuliia Svyrydenko was born on December 25, 1985 in Chernihiv, Ukraine. She earned degrees in economics and law from Ukrainian universities before building a career in local and national government, specializing in investment policy and regional economic development.</p><p>Svyrydenko held various key positions in the Ukrainian government, including Economy Minister, before finally being appointed Ukraine\'s Prime Minister in mid-2026, succeeding Denys Shmyhal, as part of a major government reshuffle in Kyiv aimed at strengthening focus on economic reconstruction amid the prolonged war.</p><p>On June 25, 2026, Ukraine\'s Energy Minister announced that public and private companies in the country\'s energy sector would sign agreements worth over €1 billion to attract further financing for reconstructing energy infrastructure damaged by Russian attacks. Svyrydenko played a central role in coordinating these investment efforts.</p><p>On June 26, 2026, at a reconstruction conference in Gdansk, Poland, Svyrydenko announced a significant achievement: a total of 160 investment deals worth over €10 billion were successfully signed to support Ukraine\'s economic recovery — one of the largest investment conference outcomes since the start of Russia\'s invasion. Ukraine also discussed cooperation with Azerbaijan on reconstructing energy infrastructure damaged by the war.</p><p>As Prime Minister, Svyrydenko continues to lead Ukraine\'s economic strategy focused on attracting international investment for reconstruction, strengthening the country\'s energy independence, and maintaining domestic economic stability amid ongoing war challenges, making her a key figure in Ukraine\'s long-term recovery efforts.</p>',
+            source: 'Rubryka',
+            sourceUrl: 'https://rubryka.com/en/2026/06/26/ponad-10-mlrd-yevro-ta-160-ugod-svyrydenko-nazvala-golovni-rezultaty-konferentsiyi-u-gdansku/',
+            sourceSnippet: 'Gdańsk recovery conference secures over €10 bln in 160 deals for Ukraine — Rubryka, June 26 2026',
+            source2: 'Pravda Ukraine',
+            sourceUrl2: 'https://www.pravda.com.ua/eng/news/2026/06/25/8041092/',
+            sourceSnippet2: 'Energy deals worth over €1bn to be signed in Gdańsk, Ukraine\'s energy minister says — Pravda Ukraine, June 25 2026',
+            source3: 'Report.az',
+            sourceUrl3: 'https://report.az/en/amp/other-countries/ukraine-azerbaijan-discuss-energy-infrastructure-recovery-projects',
+            sourceSnippet3: 'Ukraine, Azerbaijan discuss energy infrastructure recovery projects — Report.az'
+          },
+          ja: {
+            title: 'ユリア・スヴィリデンコ — ウクライナ首相、グダニスクで100億ユーロの復興投資を確保',
+            desc: 'ユリア・スヴィリデンコはロシアとの戦争の中でウクライナの経済復興努力を主導する首相。2026年6月末、グダニスク会議の成功を発表し、ウクライナ向けに160件、100億ユーロ超の投資取引を確保した。',
+            body: '<p>ユリア・スヴィリデンコは1985年12月25日、ウクライナ・チェルニーヒウ生まれ。ウクライナの大学で経済学と法学の学位を取得し、地方・国政府でのキャリアを築き、投資政策と地域経済開発を専門とした。</p><p>経済相を含むウクライナ政府の様々な要職を歴任し、2026年中頃、戦争長期化の中で経済復興への注力強化を目指すキーウでの大規模な政府改造の一環として、デニス・シュミハリの後任としてウクライナ首相に任命された。</p><p>2026年6月26日、ポーランド・グダニスクでの復興会議で、スヴィリデンコは重要な成果を発表した：ウクライナの経済回復を支援するため、100億ユーロ超の160件の投資取引が成立した。</p>',
+            source: 'Rubryka',
+            sourceUrl: 'https://rubryka.com/en/2026/06/26/ponad-10-mlrd-yevro-ta-160-ugod-svyrydenko-nazvala-golovni-rezultaty-konferentsiyi-u-gdansku/',
+            sourceSnippet: 'グダニスク復興会議、ウクライナ向け160件・100億ユーロ超の取引を確保 — ルブリカ 2026年6月26日'
+          },
+          ko: {
+            title: '율리아 스비리덴코 — 우크라이나 총리, 그단스크에서 100억 유로 재건 투자 확보',
+            desc: '율리아 스비리덴코는 러시아와의 전쟁 속에서 우크라이나 경제 재건 노력을 이끄는 총리. 2026년 6월 말, 그단스크 회의 성공을 발표하며 우크라이나에 160건, 100억 유로 이상의 투자 거래를 확보했다.',
+            body: '<p>율리아 스비리덴코는 1985년 12월 25일 우크라이나 체르니히우 출생. 우크라이나 대학에서 경제학과 법학 학위를 취득했으며, 지방 및 중앙 정부에서 경력을 쌓아 투자 정책과 지역 경제 개발을 전문으로 했다.</p><p>경제부 장관을 포함한 우크라이나 정부의 다양한 요직을 역임했으며, 2026년 중반 전쟁 장기화 속 경제 재건에 대한 집중을 강화하기 위한 키이우의 대규모 정부 개편의 일환으로 데니스 슈미할의 후임으로 우크라이나 총리에 임명됐다.</p><p>2026년 6월 26일, 폴란드 그단스크에서 열린 재건 회의에서 스비리덴코는 중요한 성과를 발표했다: 우크라이나의 경제 회복을 지원하기 위해 160건, 100억 유로 이상의 투자 거래가 성사됐다.</p>',
+            source: 'Rubryka',
+            sourceUrl: 'https://rubryka.com/en/2026/06/26/ponad-10-mlrd-yevro-ta-160-ugod-svyrydenko-nazvala-golovni-rezultaty-konferentsiyi-u-gdansku/',
+            sourceSnippet: '그단스크 재건 회의, 우크라이나 향 160건·100억 유로 이상 거래 확보 — 루브리카 2026년 6월 26일'
+          },
+          zh: {
+            title: '尤利娅·斯维里坚科 — 乌克兰总理，在格但斯克确保100亿欧元重建投资',
+            desc: '尤利娅·斯维里坚科是乌克兰总理，在对俄战争中领导国家经济重建工作。2026年6月末，她宣布格但斯克会议取得成功，为乌克兰确保了160项、超过100亿欧元的投资协议。',
+            body: '<p>尤利娅·斯维里坚科1985年12月25日生于乌克兰切尔尼戈夫。她在乌克兰各大学获得经济学和法学学位，此后在地方及国家政府部门发展事业，专注于投资政策与区域经济发展。</p><p>她曾在乌克兰政府担任多个关键职位，包括经济部长，最终于2026年年中被任命为乌克兰总理，接替丹尼斯·什米加尔，这是基辅大规模政府改组的一部分，旨在加强对战争持续期间经济重建的关注。</p><p>2026年6月26日，在波兰格但斯克举行的重建会议上，斯维里坚科宣布了一项重大成果：共有160项、总值超过100亿欧元的投资协议成功签署，以支持乌克兰的经济复苏。</p>',
+            source: 'Rubryka',
+            sourceUrl: 'https://rubryka.com/en/2026/06/26/ponad-10-mlrd-yevro-ta-160-ugod-svyrydenko-nazvala-golovni-rezultaty-konferentsiyi-u-gdansku/',
+            sourceSnippet: '格但斯克重建会议为乌克兰确保160项、超100亿欧元交易 — Rubryka，2026年6月26日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
