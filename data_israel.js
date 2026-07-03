@@ -190,6 +190,64 @@
             sourceSnippet: '人工智能将是以色列下一个国家安全战场，贝内特称全球地位正在下滑 — 耶路撒冷邮报，2026年7月2日'
           }
         }
+      },
+      {
+        id: 'israel-gal-gadot',
+        category: 'seni-hiburan',
+        langs: {
+          id: {
+            title: 'Gal Gadot — Aktris Israel Ternama, Padati Proyek Film Besar 2026',
+            desc: 'Gal Gadot terus aktif membintangi berbagai proyek film besar sepanjang 2026, mulai dari "Wonder Woman 3" hingga film thriller Perang Dunia II dan produksi Netflix terbaru.',
+            body: '<p>Gal Gadot lahir di Petah Tikva, Israel, pada 30 April 1985. Sebelum menjadi aktris, ia sempat menjadi model dan memenangkan gelar Miss Israel 2004, serta menjalani wajib militer di Angkatan Bersenjata Israel sebelum memulai kariernya di dunia akting.</p><p>Gadot menembus popularitas global lewat perannya sebagai Wonder Woman dalam waralaba DC Extended Universe, dimulai dari "Batman v Superman: Dawn of Justice" (2016) hingga film solo "Wonder Woman" (2017) yang sukses besar secara komersial dan kritis.</p><p>Menurut laporan komunitas penggemar dan IMDb, Gadot dijadwalkan melanjutkan perannya dalam "Wonder Woman 3: Legacy of Gods" pada 2026, melanjutkan kisah karakter Diana Prince. Menurut IMDb, ia juga akan membintangi film thriller Perang Dunia II berjudul "Ruin" bersama aktor Matthias Schweighöfer, dengan proses syuting dimulai awal 2026.</p><p>Menurut Instagram resmi terkait proyek film, Gadot turut membintangi film "In The Hand of Dante" yang tayang di Netflix pada 24 Juni 2026, memerankan dua karakter berbeda: Gemma dan Giulietta. Ia juga dilaporkan akan memproduksi sekaligus membintangi serial "The Recovery Agent" berdasarkan novel petualangan populer, menegaskan perannya yang semakin luas sebagai produser di industri film selain sebagai aktris.</p>',
+            source: 'IMDb',
+            sourceUrl: 'https://www.imdb.com/news/ni65262270/',
+            sourceSnippet: "Gal Gadot to Star in WWII Thriller 'Ruin' with Matthias Schweighöfer — IMDb",
+            source2: 'Facebook — Pengumuman Proyek Film',
+            sourceUrl2: 'https://www.facebook.com/groups/1193752389029507/posts/1465186541886089/',
+            sourceSnippet2: "Gal Gadot's upcoming projects in 2026 — Wonder Woman 3: Legacy of Gods",
+            source3: 'Filmibiat',
+            sourceUrl3: 'https://www.filmibeat.com/celebs/gal-gadot/upcoming-movies.html',
+            sourceSnippet3: 'New and Upcoming Movies Of Gal Gadot (2026, 2027) — Filmibeat'
+          },
+          en: {
+            title: 'Gal Gadot — Renowned Israeli Actress, Packed with Major Film Projects in 2026',
+            desc: 'Gal Gadot continues to be active in major film projects throughout 2026, from "Wonder Woman 3" to a World War II thriller and a new Netflix production.',
+            body: '<p>Gal Gadot was born in Petah Tikva, Israel, on April 30, 1985. Before becoming an actress, she worked as a model and won the Miss Israel title in 2004, and served in the Israel Defense Forces before starting her acting career.</p><p>Gadot rose to global fame through her role as Wonder Woman in the DC Extended Universe franchise, starting from "Batman v Superman: Dawn of Justice" (2016) to the solo film "Wonder Woman" (2017), which was a major commercial and critical success.</p><p>According to fan community reports and IMDb, Gadot is set to continue her role in "Wonder Woman 3: Legacy of Gods" in 2026, continuing the story of Diana Prince. According to IMDb, she will also star in a World War II thriller titled "Ruin" alongside actor Matthias Schweighöfer, with filming beginning in early 2026.</p><p>According to official Instagram posts about the film project, Gadot also stars in "In The Hand of Dante," which premiered on Netflix on June 24, 2026, playing two different characters: Gemma and Giulietta. She is also reported to be producing and starring in the series "The Recovery Agent" based on a popular adventure novel, cementing her expanding role as a producer in the film industry in addition to being an actress.</p>',
+            source: 'IMDb',
+            sourceUrl: 'https://www.imdb.com/news/ni65262270/',
+            sourceSnippet: "Gal Gadot to Star in WWII Thriller 'Ruin' with Matthias Schweighöfer — IMDb",
+            source2: 'Facebook — Film Project Announcement',
+            sourceUrl2: 'https://www.facebook.com/groups/1193752389029507/posts/1465186541886089/',
+            sourceSnippet2: "Gal Gadot's upcoming projects in 2026 — Wonder Woman 3: Legacy of Gods",
+            source3: 'Filmibeat',
+            sourceUrl3: 'https://www.filmibeat.com/celebs/gal-gadot/upcoming-movies.html',
+            sourceSnippet3: 'New and Upcoming Movies Of Gal Gadot (2026, 2027) — Filmibeat'
+          },
+          ja: {
+            title: 'ガル・ガドット — イスラエルの著名女優、2026年大型映画プロジェクトが目白押し',
+            desc: 'ガル・ガドットは2026年を通じて「ワンダーウーマン3」から第二次世界大戦スリラー、Netflix新作まで、大型映画プロジェクトで活躍を続けている。',
+            body: '<p>ガル・ガドットは1985年4月30日、イスラエル・ペタク・ティクヴァに生まれた。女優になる前はモデルとして活動し、2004年ミス・イスラエルのタイトルを獲得、その後イスラエル国防軍に従軍してから演技のキャリアを開始した。</p><p>ガドットはDCエクステンデッド・ユニバースのワンダーウーマン役で世界的な人気を獲得した。</p><p>IMDbによると、ガドットは2026年「ワンダーウーマン3：レガシー・オブ・ゴッズ」で役を続投する予定。また、マティアス・シュヴァイクホーファーと共演する第二次世界大戦スリラー「Ruin」にも出演し、2026年初頭に撮影が開始された。</p>',
+            source: 'IMDb',
+            sourceUrl: 'https://www.imdb.com/news/ni65262270/',
+            sourceSnippet: 'ガル・ガドット、「Ruin」でマティアス・シュヴァイクホーファーと共演 — IMDb'
+          },
+          ko: {
+            title: '갈 가돗 — 이스라엘의 유명 여배우, 2026년 대형 영화 프로젝트 다수',
+            desc: '갈 가돗은 2026년 내내 "원더우먼 3"부터 2차 세계대전 스릴러, 넷플릭스 신작까지 대형 영화 프로젝트에서 활발히 활동하고 있다.',
+            body: '<p>갈 가돗은 1985년 4월 30일 이스라엘 페타티크바에서 태어났다. 배우가 되기 전 모델로 활동했으며 2004년 미스 이스라엘 타이틀을 획득했고, 이스라엘 방위군에서 복무한 후 연기 경력을 시작했다.</p><p>가돗은 DC 확장 유니버스의 원더우먼 역으로 세계적인 인기를 얻었다.</p><p>IMDb에 따르면 가돗은 2026년 "원더우먼 3: 레거시 오브 갓즈"에서 역할을 이어갈 예정이다. 또한 마티아스 슈바이크회퍼와 함께 출연하는 2차 세계대전 스릴러 "Ruin"에도 출연하며, 2026년 초 촬영이 시작되었다.</p>',
+            source: 'IMDb',
+            sourceUrl: 'https://www.imdb.com/news/ni65262270/',
+            sourceSnippet: '갈 가돗, "Ruin"에서 마티아스 슈바이크회퍼와 공연 — IMDb'
+          },
+          zh: {
+            title: '盖尔·加朵 — 以色列知名女演员，2026年多部重量级电影项目',
+            desc: '盖尔·加朵在2026年持续活跃于多部重量级电影项目中，从《神奇女侠3》到二战题材惊悚片以及Netflix新作。',
+            body: '<p>盖尔·加朵1985年4月30日出生于以色列佩塔提克瓦。成为演员前她曾担任模特，并于2004年获得以色列小姐称号，随后在以色列国防军服役，之后开始演艺生涯。</p><p>加朵凭借在DC扩展宇宙中饰演神奇女侠一角获得全球知名度。</p><p>据IMDb报道，加朵将在2026年的《神奇女侠3：诸神遗产》中续演该角色。她还将与演员马蒂亚斯·施维赫费尔共同出演二战惊悚片《Ruin》，该片已于2026年初开拍。</p>',
+            source: 'IMDb',
+            sourceUrl: 'https://www.imdb.com/news/ni65262270/',
+            sourceSnippet: '盖尔·加朵将与马蒂亚斯·施维赫费尔合作出演《Ruin》 — IMDb'
+          }
+        }
       }
     ]
   };
