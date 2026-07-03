@@ -129,6 +129,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'kanada-pierre-poilievre',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Pierre Poilievre — Pemimpin Oposisi Kanada, Rombak Kabinet Bayangan Konservatif',
+            desc: 'Pierre Poilievre adalah pemimpin Partai Konservatif Kanada dan pemimpin oposisi resmi yang terus berupaya membangun kembali momentum politiknya. Pada akhir Juni 2026, ia merombak peran-peran kritikus dalam kaukus Konservatif sekaligus menghadapi sorotan atas absennya dari perayaan Pride di Toronto.',
+            body: '<p>Pierre Poilievre lahir pada 3 Juni 1979 di Calgary, Alberta, Kanada. Ia meraih gelar di bidang hubungan internasional dan ekonomi dari University of Calgary sebelum memulai kariernya di dunia politik pada usia muda, terpilih sebagai Anggota Parlemen Kanada pada 2004 saat berusia 25 tahun, menjadikannya salah satu politisi termuda yang pernah duduk di House of Commons.</p><p>Poilievre membangun reputasinya sebagai salah satu politisi paling vokal dan tajam dalam gaya retorikanya, dengan fokus pada isu-isu ekonomi seperti inflasi, biaya hidup, dan kebijakan pajak. Ia terpilih sebagai pemimpin Partai Konservatif Kanada pada 2022 dengan kemenangan telak, sebelum memimpin partainya dalam pemilu federal yang berujung pada kekalahan sempit dari Partai Liberal pimpinan Mark Carney.</p><p>Pada 29 Juni 2026, saat Perdana Menteri Mark Carney turut serta dalam perayaan Pride di Toronto, Poilievre kembali memilih untuk tidak menghadiri perayaan tersebut — sebuah pola yang telah berulang kali menjadi sorotan media dan kritik dari lawan-lawan politiknya mengenai sikapnya terhadap isu-isu sosial progresif.</p><p>Pada akhir Juni 2026, Poilievre mengumumkan perombakan peran-peran kritikus dalam kaukus Konservatif serta perubahan komposisi barisan depan partainya, sebuah langkah strategis untuk memperkuat tim bayangannya menjelang tantangan politik berikutnya. Ia juga menghadapi kritik dari sejumlah komentator terkait responsnya yang dianggap kurang tegas terhadap referendum separatisme Alberta yang tengah bergulir.</p><p>Sebagai pemimpin oposisi, Poilievre terus berupaya menantang pemerintahan Carney terkait isu-isu ekonomi domestik dan hubungan dagang dengan Amerika Serikat, sekaligus berupaya memperbaiki citranya di kalangan pemilih perkotaan Kanada yang lebih progresif menjelang kemungkinan pemilu berikutnya.</p>',
+            source: 'CBC News',
+            sourceUrl: 'https://www.cbc.ca/news/politics/poilievre-critic-roles-9.7253132',
+            sourceSnippet: 'Poilievre set to shuffle Conservative Opposition critics: sources — CBC News, 30 Juni 2026',
+            source2: 'ChatNewsToday',
+            sourceUrl2: 'https://chatnewstoday.ca/2026/06/30/brief-poilievre-shuffles-shadow-cabinet/',
+            sourceSnippet2: 'Brief: Poilievre shuffles shadow cabinet — ChatNewsToday, 30 Juni 2026',
+            source3: 'CityNews Montreal',
+            sourceUrl3: 'https://montreal.citynews.ca/video/2026/06/29/carney-marches-in-toronto-pride-poilievre-skips-celebrations/',
+            sourceSnippet3: 'Carney marches in Toronto Pride, Poilievre skips celebrations — CityNews Montreal, 29 Juni 2026',
+            source4: 'National Observer',
+            sourceUrl4: 'https://www.nationalobserver.com/2026/06/09/opinion/pierre-poilievre-alberta-separatism',
+            sourceSnippet4: 'Pierre Poilievre won\'t rise to the moment — National Observer, 9 Juni 2026'
+          },
+          en: {
+            title: 'Pierre Poilievre — Canada\'s Opposition Leader, Reshuffles Conservative Shadow Cabinet',
+            desc: 'Pierre Poilievre is leader of Canada\'s Conservative Party and official opposition leader continuing to work on rebuilding political momentum. In late June 2026, he reshuffled critic roles within the Conservative caucus while facing scrutiny over his absence from Toronto Pride celebrations.',
+            body: '<p>Pierre Poilievre was born on June 3, 1979 in Calgary, Alberta, Canada. He earned a degree in international relations and economics from the University of Calgary before beginning his political career at a young age, elected as a Canadian Member of Parliament in 2004 at age 25, making him one of the youngest politicians ever to sit in the House of Commons.</p><p>Poilievre built his reputation as one of the most vocal and sharp politicians in his rhetorical style, focusing on economic issues such as inflation, cost of living, and tax policy. He was elected leader of Canada\'s Conservative Party in 2022 with a decisive victory, before leading his party in the federal election that resulted in a narrow defeat to Mark Carney\'s Liberal Party.</p><p>On June 29, 2026, as Prime Minister Mark Carney participated in Toronto Pride celebrations, Poilievre again chose not to attend the celebrations — a pattern that has repeatedly drawn media attention and criticism from his political opponents regarding his stance on progressive social issues.</p><p>In late June 2026, Poilievre announced a reshuffle of critic roles within the Conservative caucus and changes to his party\'s front bench composition, a strategic move to strengthen his shadow team ahead of upcoming political challenges. He also faced criticism from several commentators regarding his response deemed insufficiently firm toward the ongoing Alberta separatism referendum.</p><p>As opposition leader, Poilievre continues working to challenge the Carney government on domestic economic issues and trade relations with the United States, while working to improve his image among Canada\'s more progressive urban voters ahead of a possible next election.</p>',
+            source: 'CBC News',
+            sourceUrl: 'https://www.cbc.ca/news/politics/poilievre-critic-roles-9.7253132',
+            sourceSnippet: 'Poilievre set to shuffle Conservative Opposition critics: sources — CBC News, June 30 2026',
+            source2: 'ChatNewsToday',
+            sourceUrl2: 'https://chatnewstoday.ca/2026/06/30/brief-poilievre-shuffles-shadow-cabinet/',
+            sourceSnippet2: 'Brief: Poilievre shuffles shadow cabinet — ChatNewsToday, June 30 2026',
+            source3: 'CityNews Montreal',
+            sourceUrl3: 'https://montreal.citynews.ca/video/2026/06/29/carney-marches-in-toronto-pride-poilievre-skips-celebrations/',
+            sourceSnippet3: 'Carney marches in Toronto Pride, Poilievre skips celebrations — CityNews Montreal, June 29 2026'
+          },
+          ja: {
+            title: 'ピエール・ポワリエーヴル — カナダ野党指導者、保守党シャドー内閣を改造',
+            desc: 'ピエール・ポワリエーヴルはカナダ保守党党首兼野党第一党指導者で、政治的勢いの立て直しに取り組み続けている。2026年6月末、保守党会派内の批評家役割を改造する一方、トロント・プライド祭典への欠席で注目を浴びた。',
+            body: '<p>ピエール・ポワリエーヴルは1979年6月3日、カナダ・アルバータ州カルガリー生まれ。カルガリー大学で国際関係学と経済学の学位を取得し、若くして政界入り、2004年25歳でカナダ下院議員に当選し、下院史上最年少政治家の一人となった。</p><p>インフレ、生活費、税制などの経済問題に焦点を当てた、鋭く率直な政治家としての評判を確立した。2022年圧倒的勝利でカナダ保守党党首に選出され、その後マーク・カーニー率いる自由党に僅差で敗れた連邦選挙で党を率いた。</p><p>2026年6月29日、カーニー首相がトロント・プライド祭典に参加する中、ポワリエーヴルは再び参加しないことを選択した。</p>',
+            source: 'CBC News',
+            sourceUrl: 'https://www.cbc.ca/news/politics/poilievre-critic-roles-9.7253132',
+            sourceSnippet: 'ポワリエーヴル、保守党野党批評家の入れ替えへ — CBC News 2026年6月30日'
+          },
+          ko: {
+            title: '피에르 푸알리에브르 — 캐나다 야당 지도자, 보수당 그림자 내각 개편',
+            desc: '피에르 푸알리에브르는 캐나다 보수당 대표이자 공식 야당 지도자로 정치적 동력 회복을 위해 계속 노력하고 있다. 2026년 6월 말, 보수당 코커스 내 비평가 역할을 개편하는 한편 토론토 프라이드 축제 불참으로 주목받았다.',
+            body: '<p>피에르 푸알리에브르는 1979년 6월 3일 캐나다 앨버타주 캘거리 출생. 캘거리 대학에서 국제관계학과 경제학 학위를 취득했으며 젊은 나이에 정계에 입문해 2004년 25세에 캐나다 하원의원에 당선, 하원 역사상 최연소 정치인 중 한 명이 됐다.</p><p>인플레이션, 생활비, 세금 정책 등 경제 문제에 초점을 맞춘 날카롭고 직설적인 정치인으로서의 명성을 쌓았다. 2022년 압도적 승리로 캐나다 보수당 대표로 선출됐으며, 이후 마크 카니가 이끄는 자유당에 근소한 차이로 패배한 연방 선거에서 당을 이끌었다.</p><p>2026년 6월 29일, 카니 총리가 토론토 프라이드 축제에 참여하는 가운데 푸알리에브르는 다시 한번 불참을 선택했다.</p>',
+            source: 'CBC News',
+            sourceUrl: 'https://www.cbc.ca/news/politics/poilievre-critic-roles-9.7253132',
+            sourceSnippet: '푸알리에브르, 보수당 야당 비평가진 개편 예정 — CBC 뉴스 2026년 6월 30일'
+          },
+          zh: {
+            title: '皮埃尔·波利耶夫 — 加拿大反对党领袖，改组保守党影子内阁',
+            desc: '皮埃尔·波利耶夫是加拿大保守党党首兼官方反对党领袖，持续努力重建政治势头。2026年6月末，他改组了保守党党团内的批评者角色，同时因缺席多伦多骄傲节庆祝活动而受到关注。',
+            body: '<p>皮埃尔·波利耶夫1979年6月3日生于加拿大艾伯塔省卡尔加里。他在卡尔加里大学获得国际关系与经济学学位，年轻时便投身政坛，2004年25岁当选加拿大国会议员，成为下议院历史上最年轻的政治家之一。</p><p>他以专注通胀、生活成本和税收政策等经济议题、言辞犀利直率的政治家形象树立了声誉。2022年，他以压倒性优势当选加拿大保守党党首，此后带领该党参加联邦大选，惜败于马克·卡尼领导的自由党。</p><p>2026年6月29日，在卡尼总理参加多伦多骄傲节庆祝活动之际，波利耶夫再次选择不出席——这一模式屡次引发媒体关注和政治对手的批评。</p>',
+            source: 'CBC News',
+            sourceUrl: 'https://www.cbc.ca/news/politics/poilievre-critic-roles-9.7253132',
+            sourceSnippet: '波利耶夫将改组保守党反对派批评者阵容 — CBC新闻，2026年6月30日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
