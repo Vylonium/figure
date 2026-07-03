@@ -129,6 +129,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'inggris-kemi-badenoch',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Kemi Badenoch — Pemimpin Partai Konservatif Inggris, Tolak Pakta dengan Reform UK',
+            desc: 'Kemi Badenoch adalah pemimpin Partai Konservatif Inggris yang berupaya membangkitkan kembali partainya setelah kekalahan besar dalam pemilu. Pada akhir Juni 2026, ia menegaskan penolakan tegas terhadap kemungkinan pakta dengan Reform UK pimpinan Nigel Farage, sekaligus merayakan kemenangan bersejarah dalam pemilihan sela di Skotlandia.',
+            body: '<p>Olukemi Olufunto Badenoch lahir pada 2 Januari 1980 di Wimbledon, London, dari orang tua asal Nigeria. Ia menghabiskan sebagian masa kecilnya di Nigeria dan Amerika Serikat sebelum kembali ke Inggris untuk menempuh pendidikan tinggi di bidang teknik komputer di University of Sussex. Sebelum terjun ke politik, Badenoch membangun karier di sektor teknologi dan perbankan.</p><p>Badenoch memasuki dunia politik dengan terpilih sebagai Anggota Parlemen pada 2017, dengan cepat menanjak melalui berbagai posisi kabinet termasuk Menteri Bisnis dan Perdagangan di bawah pemerintahan Konservatif sebelumnya. Setelah kekalahan besar Partai Konservatif dalam pemilu 2024, Badenoch terpilih sebagai pemimpin partai pada akhir 2024, menjadi perempuan kulit hitam pertama yang memimpin sebuah partai politik besar Inggris.</p><p>Pada 21 Juni 2026, Badenoch secara terbuka menyerang Nigel Farage terkait hadiah senilai £5 juta yang diterima Reform UK, sekaligus menegaskan bahwa kemungkinan pakta antara Partai Konservatif dan Reform UK kini "benar-benar mati" menyusul performa buruk Reform UK dalam pemilihan sela minggu itu.</p><p>Dua minggu sebelumnya, Badenoch merayakan kemenangan bersejarah ketika Partai Konservatif Skotlandia memenangkan kursi Aberdeen South dari SNP — kemenangan pemilihan sela pertama partai tersebut di Skotlandia sejak 1973, sebuah tonda kebangkitan yang ia sebut sebagai bukti bahwa para pemilih mulai melihat perubahan dalam partainya. Ia juga secara konsisten menyerang kebijakan Perdana Menteri Keir Starmer, termasuk menuntutnya mengambil tanggung jawab atas berbagai kontroversi pemerintahannya dalam sesi Pertanyaan Perdana Menteri (PMQs).</p><p>Sebagai pemimpin oposisi, Badenoch terus berupaya memposisikan Partai Konservatif sebagai alternatif kredibel di tengah persaingan ketat dengan Reform UK dan pemerintahan Partai Buruh pimpinan Starmer, dengan fokus pada isu-isu ekonomi dan reformasi birokrasi pelayanan publik.</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/politics/2026/jun/21/kemi-badenoch-nigel-farage-5m-gift-conservatives-reform-uk',
+            sourceSnippet: 'Badenoch attacks Farage over £5m gift and rules out Tory-Reform pact — The Guardian, 21 Juni 2026',
+            source2: 'BBC News',
+            sourceUrl2: 'https://www.bbc.com/news/articles/cn8q4p34qg4o',
+            sourceSnippet2: 'Historic by-election win sends message to Labour and SNP - Badenoch — BBC News',
+            source3: 'The Telegraph',
+            sourceUrl3: 'https://www.telegraph.co.uk/news/2026/06/19/could-this-be-the-start-of-a-tory-kemi-naissance/',
+            sourceSnippet3: 'Could this be the start of a Tory Kemi-naissance? — The Telegraph, 19 Juni 2026',
+            source4: 'BBC News',
+            sourceUrl4: 'https://www.bbc.com/news/articles/cy5vyqykpx5o',
+            sourceSnippet4: 'Scrap legal equality duty for public services, says Badenoch — BBC News'
+          },
+          en: {
+            title: 'Kemi Badenoch — UK Conservative Party Leader, Rules Out Pact with Reform UK',
+            desc: 'Kemi Badenoch is leader of the UK Conservative Party working to revive her party after a major election defeat. In late June 2026, she firmly ruled out a potential pact with Nigel Farage\'s Reform UK, while celebrating a historic by-election victory in Scotland.',
+            body: '<p>Olukemi Olufunto Badenoch was born on January 2, 1980 in Wimbledon, London, to Nigerian parents. She spent part of her childhood in Nigeria and the United States before returning to the UK for higher education in computer engineering at the University of Sussex. Before entering politics, Badenoch built a career in the technology and banking sectors.</p><p>Badenoch entered politics by being elected as a Member of Parliament in 2017, quickly rising through various cabinet positions including Business and Trade Secretary under the previous Conservative government. Following the Conservative Party\'s major defeat in the 2024 election, Badenoch was elected party leader in late 2024, becoming the first Black woman to lead a major British political party.</p><p>On June 21, 2026, Badenoch publicly attacked Nigel Farage over a £5 million gift received by Reform UK, while affirming that a potential pact between the Conservative Party and Reform UK was now "stone-dead" following Reform UK\'s poor performance in that week\'s by-elections.</p><p>Two weeks earlier, Badenoch celebrated a historic victory when the Scottish Conservatives won the Aberdeen South seat from the SNP — the party\'s first by-election win in Scotland since 1973, a sign of revival she cited as evidence voters were starting to see change in her party. She also consistently attacked Prime Minister Keir Starmer\'s policies, including demanding he take responsibility for various government controversies during Prime Minister\'s Questions (PMQs) sessions.</p><p>As opposition leader, Badenoch continues working to position the Conservative Party as a credible alternative amid tight competition with Reform UK and Starmer\'s Labour government, focusing on economic issues and public service bureaucracy reform.</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/politics/2026/jun/21/kemi-badenoch-nigel-farage-5m-gift-conservatives-reform-uk',
+            sourceSnippet: 'Badenoch attacks Farage over £5m gift and rules out Tory-Reform pact — The Guardian, June 21 2026',
+            source2: 'BBC News',
+            sourceUrl2: 'https://www.bbc.com/news/articles/cn8q4p34qg4o',
+            sourceSnippet2: 'Historic by-election win sends message to Labour and SNP - Badenoch — BBC News',
+            source3: 'The Telegraph',
+            sourceUrl3: 'https://www.telegraph.co.uk/news/2026/06/19/could-this-be-the-start-of-a-tory-kemi-naissance/',
+            sourceSnippet3: 'Could this be the start of a Tory Kemi-naissance? — The Telegraph, June 19 2026'
+          },
+          ja: {
+            title: 'ケミ・バデノック — 英保守党党首、Reform UKとの協定を否定',
+            desc: 'ケミ・バデノックは選挙での大敗後、党の再生に取り組む英保守党党首。2026年6月末、ナイジェル・ファラージ率いるReform UKとの協定の可能性を断固否定する一方、スコットランドでの歴史的な補欠選挙勝利を祝った。',
+            body: '<p>オルケミ・オルフント・バデノックは1980年1月2日、ロンドン・ウィンブルドンでナイジェリア人の両親のもとに生まれた。幼少期の一部をナイジェリアと米国で過ごし、その後英国に戻りサセックス大学でコンピュータ工学の高等教育を受けた。政界入り前はテクノロジーと銀行業界でキャリアを築いた。</p><p>2017年に下院議員に当選し政界入り、前保守党政権下でビジネス・貿易相を含む様々な内閣職を急速に歴任した。2024年選挙での保守党の大敗後、2024年末に党首に選出され、英国の主要政党を率いる初の黒人女性となった。</p><p>2026年6月21日、バデノックはReform UKが受け取った500万ポンドの贈与を巡りナイジェル・ファラージを公然と攻撃する一方、その週の補欠選挙でのReform UKの不振な結果を受け、保守党とReform UKの協定の可能性は今や「完全に消滅した」と断言した。</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/politics/2026/jun/21/kemi-badenoch-nigel-farage-5m-gift-conservatives-reform-uk',
+            sourceSnippet: 'バデノック、500万ポンド贈与を巡りファラージを攻撃、保守党・Reform協定を否定 — ガーディアン 2026年6月21日'
+          },
+          ko: {
+            title: '케미 배드녹 — 영국 보수당 대표, 리폼 UK와의 협약 배제',
+            desc: '케미 배드녹은 선거 대패 후 당을 재건하려는 영국 보수당 대표. 2026년 6월 말, 나이절 파라지가 이끄는 리폼 UK와의 협약 가능성을 단호히 배제하는 한편, 스코틀랜드에서의 역사적인 보궐선거 승리를 축하했다.',
+            body: '<p>올루케미 올루푼토 배드녹은 1980년 1월 2일 런던 윔블던에서 나이지리아 출신 부모 사이에서 출생. 어린 시절 일부를 나이지리아와 미국에서 보낸 후 영국으로 돌아와 서식스 대학에서 컴퓨터 공학 고등교육을 받았다. 정계 입문 전 기술 및 은행 업계에서 경력을 쌓았다.</p><p>2017년 하원의원에 당선되며 정계에 입문해 이전 보수당 정부에서 통상산업부 장관을 포함한 다양한 내각 직위를 빠르게 역임했다. 2024년 선거에서 보수당이 대패한 후 2024년 말 당대표로 선출되어 영국 주요 정당을 이끄는 최초의 흑인 여성이 됐다.</p><p>2026년 6월 21일, 배드녹은 리폼 UK가 받은 500만 파운드 기부를 두고 나이절 파라지를 공개적으로 공격하며, 그 주 보궐선거에서 리폼 UK의 부진한 성적을 근거로 보수당과 리폼 UK 간 협약 가능성이 이제 "완전히 죽었다"고 단언했다.</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/politics/2026/jun/21/kemi-badenoch-nigel-farage-5m-gift-conservatives-reform-uk',
+            sourceSnippet: '배드녹, 500만 파운드 기부 두고 파라지 공격하며 보수당-리폼 협약 배제 — 가디언 2026년 6월 21일'
+          },
+          zh: {
+            title: '凯米·巴德诺赫 — 英国保守党领袖，排除与英国改革党结盟的可能',
+            desc: '凯米·巴德诺赫是英国保守党领袖，在选举惨败后努力重振该党。2026年6月末，她坚决排除与法拉奇领导的英国改革党结盟的可能性，同时庆祝在苏格兰取得历史性补选胜利。',
+            body: '<p>奥卢凯米·奥卢丰托·巴德诺赫1980年1月2日生于伦敦温布尔登，父母为尼日利亚人。她童年时期部分在尼日利亚和美国度过，后返回英国在萨塞克斯大学接受计算机工程高等教育。从政前，她曾在科技和银行业发展事业。</p><p>2017年当选下议院议员步入政坛，在此前的保守党政府中迅速历任包括商业贸易大臣在内的多个内阁职位。2024年保守党在大选中惨败后，她于2024年底当选党首，成为首位领导英国主要政党的黑人女性。</p><p>2026年6月21日，巴德诺赫就英国改革党收到的500万英镑捐款公开抨击法拉奇，同时确认鉴于改革党在当周补选中表现不佳，保守党与改革党结盟的可能性现已"彻底终结"。</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/politics/2026/jun/21/kemi-badenoch-nigel-farage-5m-gift-conservatives-reform-uk',
+            sourceSnippet: '巴德诺赫就500万英镑捐款抨击法拉奇，排除保守党与改革党结盟 — 卫报，2026年6月21日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
