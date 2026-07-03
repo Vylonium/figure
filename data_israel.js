@@ -129,6 +129,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'israel-naftali-bennett',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Naftali Bennett — Mantan PM Israel, Kini Kandidat Oposisi Terdepan Tantang Netanyahu',
+            desc: 'Naftali Bennett adalah mantan Perdana Menteri Israel yang kini menjadi salah satu kandidat oposisi terdepan menjelang pemilu mendatang. Pada awal Juli 2026, ia menegaskan bahwa Israel harus menjadi kekuatan teknologi yang tak tergantikan sekaligus menyatakan penggulingan rezim Iran sebagai tujuan strategis pemerintahannya jika terpilih.',
+            body: '<p>Naftali Bennett lahir pada 25 Maret 1972 di Haifa, Israel, dari orang tua imigran Amerika. Sebelum terjun ke politik, Bennett membangun karier sukses sebagai pengusaha teknologi, mendirikan dan menjual perusahaan perangkat lunak keamanan siber Cyota senilai jutaan dolar, menjadikannya salah satu politisi Israel dengan latar belakang bisnis teknologi paling menonjol.</p><p>Bennett memasuki dunia politik dengan mendirikan partai Yamina, membangun basis dukungan dari kalangan pemukim dan nasionalis religius. Pada 2021, dalam sebuah manuver politik yang mengejutkan, ia berhasil membentuk koalisi pemerintahan yang menggulingkan Benjamin Netanyahu setelah bertahun-tahun berkuasa, menjabat sebagai Perdana Menteri Israel dari 2021 hingga 2022 sebagai bagian dari kesepakatan rotasi kepemimpinan dengan Yair Lapid.</p><p>Pada akhir Juni 2026, Bennett menegaskan komitmennya terhadap aneksasi Tepi Barat sebagai bagian dari visi politiknya jika kembali berkuasa, sebuah pernyataan yang mencerminkan sikapnya yang konsisten mendukung ekspansi wilayah Israel sejak awal kariernya. Ia juga mengungkapkan bahwa Israel membantu menyelundupkan perangkat Starlink ke Iran untuk mendukung para demonstran anti-rezim, dengan tujuan akhir menggulingkan pemerintahan Iran.</p><p>Pada 1 Juli 2026, Bennett menyatakan bahwa kecerdasan buatan (AI) akan menjadi medan pertempuran keamanan nasional berikutnya bagi Israel, menegaskan negara tersebut harus menjadi kekuatan teknologi yang tak tergantikan di tengah menurunnya reputasi global Israel. Ia juga mengkritik Netanyahu karena dianggap meninggalkan strategi menyeluruh terhadap Iran, sekaligus menegaskan bahwa penggulingan rezim Iran akan menjadi tujuan strategis utama pemerintahannya jika terpilih kembali.</p><p>Survei terbaru menunjukkan Bennett menjadi salah satu kandidat oposisi terdepan yang berpotensi menantang cengkeraman kekuasaan Netanyahu, bersama tokoh-tokoh oposisi lain seperti mantan Kepala Staf Militer Gadi Eisenkot, menjadikannya salah satu figur paling dipantau dalam lanskap politik Israel menjelang pemilu berikutnya.</p>',
+            source: 'Jerusalem Post',
+            sourceUrl: 'https://www.jpost.com/israel-news/politics-and-diplomacy/article-901230',
+            sourceSnippet: 'AI is Israel\'s next national-security battlefield as global standing sinks, Bennett says — Jerusalem Post, 2 Juli 2026',
+            source2: 'i24NEWS',
+            sourceUrl2: 'https://www.i24news.tv/en/news/israel/politics/artc-bennett-says-toppling-iran-s-regime-would-be-strategic-goal-of-his-future-government',
+            sourceSnippet2: 'Bennett Says Toppling Iran\'s Regime Would Be Strategic Goal Of His Future Government — i24NEWS, 1 Juli 2026',
+            source3: 'Haaretz',
+            sourceUrl3: 'https://www.haaretz.com/israel-news/israel-politics/2026-06-30/ty-article-magazine/.premium/in-his-own-words-naftali-bennett-is-committed-to-annexing-the-west-bank/0000019f-1896-d222-a9ff-9e9779530000',
+            sourceSnippet3: 'In his own words: Naftali Bennett is committed to annexing the West Bank — Haaretz, 30 Juni 2026',
+            source4: 'The Arab Weekly',
+            sourceUrl4: 'https://thearabweekly.com/bennett-says-israel-smuggled-starlink-devices-iran-aid-protesters',
+            sourceSnippet4: 'Bennett says Israel smuggled Starlink devices into Iran to aid protesters — The Arab Weekly, 23 Juni 2026'
+          },
+          en: {
+            title: 'Naftali Bennett — Israel\'s Former PM, Now Leading Opposition Candidate Challenging Netanyahu',
+            desc: 'Naftali Bennett is Israel\'s former Prime Minister now one of the leading opposition candidates ahead of the upcoming election. In early July 2026, he affirmed that Israel must become a technologically indispensable power while stating that toppling Iran\'s regime would be his government\'s strategic goal if elected.',
+            body: '<p>Naftali Bennett was born on March 25, 1972 in Haifa, Israel, to American immigrant parents. Before entering politics, Bennett built a successful career as a tech entrepreneur, founding and selling the cybersecurity software company Cyota for millions of dollars, making him one of Israel\'s most prominent politicians with a technology business background.</p><p>Bennett entered politics by founding the Yamina party, building a support base among settlers and religious nationalists. In 2021, in a surprising political maneuver, he successfully formed a governing coalition that ousted Benjamin Netanyahu after years in power, serving as Israel\'s Prime Minister from 2021 to 2022 as part of a leadership rotation agreement with Yair Lapid.</p><p>In late June 2026, Bennett affirmed his commitment to annexing the West Bank as part of his political vision if he returns to power, a statement reflecting his consistent stance supporting Israeli territorial expansion since early in his career. He also revealed that Israel helped smuggle Starlink devices into Iran to support anti-regime protesters, with the ultimate goal of toppling the Iranian government.</p><p>On July 1, 2026, Bennett stated that artificial intelligence (AI) would be Israel\'s next national security battlefield, affirming the country must become a technologically indispensable power amid Israel\'s declining global standing. He also criticized Netanyahu for allegedly abandoning a comprehensive Iran strategy, while affirming that toppling Iran\'s regime would be his government\'s main strategic goal if re-elected.</p><p>Recent polls show Bennett as one of the leading opposition candidates potentially challenging Netanyahu\'s grip on power, alongside other opposition figures such as former Military Chief of Staff Gadi Eisenkot, making him one of the most closely watched figures in the Israeli political landscape ahead of the next election.</p>',
+            source: 'Jerusalem Post',
+            sourceUrl: 'https://www.jpost.com/israel-news/politics-and-diplomacy/article-901230',
+            sourceSnippet: 'AI is Israel\'s next national-security battlefield as global standing sinks, Bennett says — Jerusalem Post, July 2 2026',
+            source2: 'i24NEWS',
+            sourceUrl2: 'https://www.i24news.tv/en/news/israel/politics/artc-bennett-says-toppling-iran-s-regime-would-be-strategic-goal-of-his-future-government',
+            sourceSnippet2: 'Bennett Says Toppling Iran\'s Regime Would Be Strategic Goal Of His Future Government — i24NEWS, July 1 2026',
+            source3: 'Haaretz',
+            sourceUrl3: 'https://www.haaretz.com/israel-news/israel-politics/2026-06-30/ty-article-magazine/.premium/in-his-own-words-naftali-bennett-is-committed-to-annexing-the-west-bank/0000019f-1896-d222-a9ff-9e9779530000',
+            sourceSnippet3: 'In his own words: Naftali Bennett is committed to annexing the West Bank — Haaretz, June 30 2026'
+          },
+          ja: {
+            title: 'ナフタリ・ベネット — イスラエル元首相、ネタニヤフに挑む野党最有力候補',
+            desc: 'ナフタリ・ベネットはイスラエル元首相で、現在は次期選挙を控えた野党最有力候補の一人。2026年7月初旬、イスラエルは技術的に不可欠な強国にならねばならないと明言し、当選すればイラン体制打倒を政権の戦略目標にすると述べた。',
+            body: '<p>ナフタリ・ベネットは1972年3月25日、イスラエル・ハイファ生まれ、アメリカ移民の両親を持つ。政界入り前はテクノロジー起業家として成功を収め、サイバーセキュリティソフトウェア企業Cyotaを設立し数百万ドルで売却、テクノロジービジネスの経歴を持つイスラエルで最も著名な政治家の一人となった。</p><p>ヤミナ党を設立し政界入り、入植者や宗教的民族主義者からの支持基盤を築いた。2021年、驚くべき政治手腕で、長年権力を握ったベンヤミン・ネタニヤフを追放する連立政権樹立に成功し、ヤイル・ラピドとの指導者ローテーション合意の一環として2021年から2022年までイスラエル首相を務めた。</p><p>2026年6月末、ベネットは政権復帰した場合の政治ビジョンの一環としてヨルダン川西岸併合への決意を表明した。</p>',
+            source: 'Jerusalem Post',
+            sourceUrl: 'https://www.jpost.com/israel-news/politics-and-diplomacy/article-901230',
+            sourceSnippet: 'AIはイスラエルの次の国家安全保障戦場、世界的地位低下の中でベネット氏述べる — エルサレム・ポスト 2026年7月2日'
+          },
+          ko: {
+            title: '나프탈리 베네트 — 이스라엘 전 총리, 네타냐후에 도전하는 야당 선두 후보',
+            desc: '나프탈리 베네트는 이스라엘 전 총리로 현재 차기 선거를 앞두고 야당 선두 후보 중 한 명이다. 2026년 7월 초, 이스라엘이 기술적으로 대체 불가능한 강국이 돼야 한다고 밝히며 당선 시 이란 정권 타도를 정부의 전략 목표로 삼겠다고 말했다.',
+            body: '<p>나프탈리 베네트는 1972년 3월 25일 이스라엘 하이파 출생, 미국 이민자 부모 사이에서 태어났다. 정계 입문 전 기술 기업가로 성공적인 경력을 쌓았으며, 사이버보안 소프트웨어 기업 사이오타를 설립해 수백만 달러에 매각, 기술 사업 배경을 가진 이스라엘의 가장 유명한 정치인 중 한 명이 됐다.</p><p>야미나당을 창당하며 정계에 입문해 정착민과 종교적 민족주의자들의 지지 기반을 구축했다. 2021년, 놀라운 정치적 수완으로 수년간 집권한 베냐민 네타냐후를 축출하는 연립정부 구성에 성공, 야이르 라피드와의 지도부 순환 합의의 일환으로 2021년부터 2022년까지 이스라엘 총리를 지냈다.</p><p>2026년 6월 말, 베네트는 정권 복귀 시 정치 비전의 일환으로 요르단강 서안 병합에 대한 의지를 표명했다.</p>',
+            source: 'Jerusalem Post',
+            sourceUrl: 'https://www.jpost.com/israel-news/politics-and-diplomacy/article-901230',
+            sourceSnippet: 'AI는 이스라엘의 다음 국가안보 전장, 세계적 위상 하락 속 베네트 발언 — 예루살렘포스트 2026년 7월 2일'
+          },
+          zh: {
+            title: '纳夫塔利·贝内特 — 以色列前总理，现为挑战内塔尼亚胡的反对派领先候选人',
+            desc: '纳夫塔利·贝内特是以色列前总理，现为即将举行的选举中反对派的领先候选人之一。2026年7月初，他表示以色列必须成为技术上不可或缺的强国，并称如当选，推翻伊朗政权将成为其政府的战略目标。',
+            body: '<p>纳夫塔利·贝内特1972年3月25日生于以色列海法，父母为美国移民。从政前，他作为科技创业者取得成功，创立了网络安全软件公司Cyota并以数百万美元出售，成为以色列最著名的具有科技商业背景的政治家之一。</p><p>他创立亚米纳党步入政坛，在定居者和宗教民族主义者中建立了支持基础。2021年，他以出人意料的政治手腕成功组建执政联盟，推翻了执政多年的本雅明·内塔尼亚胡，作为与亚伊尔·拉皮德领导权轮换协议的一部分，于2021年至2022年出任以色列总理。</p><p>2026年6月末，贝内特重申如重新掌权，吞并约旦河西岸将是其政治愿景的一部分。</p>',
+            source: 'Jerusalem Post',
+            sourceUrl: 'https://www.jpost.com/israel-news/politics-and-diplomacy/article-901230',
+            sourceSnippet: '人工智能将是以色列下一个国家安全战场，贝内特称全球地位正在下滑 — 耶路撒冷邮报，2026年7月2日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
