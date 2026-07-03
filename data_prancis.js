@@ -129,6 +129,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'prancis-sebastien-lecornu',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Sébastien Lecornu — Perdana Menteri Prancis, Kelola Krisis Gelombang Panas dan Anggaran 2026',
+            desc: 'Sébastien Lecornu adalah Perdana Menteri Prancis yang dilantik September 2025 oleh Presiden Emmanuel Macron di tengah krisis politik berkepanjangan. Pada Juni 2026, ia memimpin pertemuan krisis nasional menghadapi gelombang panas ekstrem yang melanda Eropa sekaligus mengamankan anggaran 2026 yang sempat mandek berbulan-bulan.',
+            body: '<p>Sébastien Lecornu lahir pada 21 Juni 1986 di Vernon, Prancis. Ia menempuh pendidikan di Institut d\'Études Politiques de Paris (Sciences Po) sebelum memulai kariernya di politik lokal, menjabat sebagai Presiden Dewan Departemen Eure pada usia yang relatif muda dan dikenal sebagai salah satu politisi generasi baru Partai Renaissance pimpinan Macron.</p><p>Sebelum menjadi Perdana Menteri, Lecornu menjabat sebagai Menteri Pertahanan Prancis, di mana ia mengelola kebijakan militer negara di tengah meningkatnya ketegangan keamanan Eropa akibat perang Rusia-Ukraina. Pada September 2025, di tengah krisis politik yang melihat Prancis berganti Perdana Menteri berkali-kali, Presiden Macron menunjuk Lecornu sebagai Perdana Menteri keenam sejak awal masa jabatannya.</p><p>Pemerintahan Lecornu menghadapi tantangan besar dalam mengesahkan anggaran 2026, yang sempat terhenti berbulan-bulan akibat kebuntuan parlemen. Pada Januari 2026, Lecornu terpaksa menggunakan kekuatan konstitusional khusus (Pasal 49.3) untuk memaksa pengesahan anggaran melalui parlemen tanpa pemungutan suara langsung, sebuah langkah kontroversial namun berhasil menghindari mosi tidak percaya lebih lanjut. Anggaran akhirnya disahkan pada Februari 2026 setelah berbulan-bulan kekacauan politik.</p><p>Pada 23 Juni 2026, di tengah gelombang panas ekstrem yang melanda Eropa, Lecornu memimpin rapat krisis nasional setelah Météo France melaporkan suhu rata-rata negara mencapai rekor tertinggi, mengoordinasikan respons pemerintah terhadap dampak kesehatan dan infrastruktur akibat cuaca ekstrem tersebut.</p><p>Meski pemerintahannya terus menghadapi kritik atas stabilitas politik yang rapuh, dengan sejumlah pakar hukum konstitusi mempertanyakan kemampuan pemerintahan Prancis mencapai hasil signifikan dalam setahun mendatang, Lecornu tetap bertahan sebagai salah satu Perdana Menteri Prancis dengan masa jabatan terpanjang di tengah instabilitas politik yang melanda negara tersebut sejak 2024.</p>',
+            source: 'RFI',
+            sourceUrl: 'https://www.rfi.fr/en/international/20260623-june-heat-grips-europe-as-france-scrambles-to-respond',
+            sourceSnippet: 'France scrambles to respond, as June heatwave grips Europe — RFI, 23 Juni 2026',
+            source2: 'New York Times',
+            sourceUrl2: 'https://www.nytimes.com/2026/02/02/world/europe/france-budget-lecornu.html',
+            sourceSnippet2: 'After Months of Turmoil, French Prime Minister Clears Hurdle to Pass a Budget — New York Times, 2 Februari 2026',
+            source3: 'Reuters',
+            sourceUrl3: 'https://www.reuters.com/world/europe/france-edges-towards-budget-deal-with-socialists-welcoming-pms-concessions-2026-01-19/',
+            sourceSnippet3: 'French PM to force budget through parliament without vote — Reuters, 19 Januari 2026',
+            source4: 'Le Monde',
+            sourceUrl4: 'https://www.lemonde.fr/en/politics/article/2026/04/29/it-is-difficult-to-see-what-the-french-government-could-achieve-in-the-coming-year_6752984_5.html',
+            sourceSnippet4: '\'It is difficult to see what the French government can achieve in the coming year\' — Le Monde, 29 April 2026'
+          },
+          en: {
+            title: 'Sébastien Lecornu — France\'s Prime Minister, Manages Heatwave Crisis and 2026 Budget',
+            desc: 'Sébastien Lecornu is France\'s Prime Minister appointed in September 2025 by President Emmanuel Macron amid prolonged political crisis. In June 2026, he led a national crisis meeting facing an extreme heatwave sweeping Europe while securing the 2026 budget that had stalled for months.',
+            body: '<p>Sébastien Lecornu was born on June 21, 1986 in Vernon, France. He was educated at the Paris Institute of Political Studies (Sciences Po) before beginning his career in local politics, serving as President of the Eure Departmental Council at a relatively young age and known as one of the new generation politicians of Macron\'s Renaissance Party.</p><p>Before becoming Prime Minister, Lecornu served as France\'s Defense Minister, where he managed the country\'s military policy amid rising European security tensions from the Russia-Ukraine war. In September 2025, amid a political crisis that saw France change Prime Ministers repeatedly, President Macron appointed Lecornu as the sixth Prime Minister since the start of his term.</p><p>Lecornu\'s government faced major challenges passing the 2026 budget, which had stalled for months due to parliamentary deadlock. In January 2026, Lecornu was forced to use special constitutional powers (Article 49.3) to force the budget through parliament without a direct vote, a controversial move that nevertheless avoided further no-confidence motions. The budget was finally passed in February 2026 after months of political chaos.</p><p>On June 23, 2026, amid an extreme heatwave sweeping Europe, Lecornu led a national crisis meeting after Météo France reported the country\'s average temperature reached a record high, coordinating government response to health and infrastructure impacts from the extreme weather.</p><p>Despite his government continuing to face criticism over fragile political stability, with several constitutional law experts questioning France\'s government\'s ability to achieve significant results in the coming year, Lecornu remains one of France\'s longest-serving Prime Ministers amid the political instability that has gripped the country since 2024.</p>',
+            source: 'RFI',
+            sourceUrl: 'https://www.rfi.fr/en/international/20260623-june-heat-grips-europe-as-france-scrambles-to-respond',
+            sourceSnippet: 'France scrambles to respond, as June heatwave grips Europe — RFI, June 23 2026',
+            source2: 'New York Times',
+            sourceUrl2: 'https://www.nytimes.com/2026/02/02/world/europe/france-budget-lecornu.html',
+            sourceSnippet2: 'After Months of Turmoil, French Prime Minister Clears Hurdle to Pass a Budget — New York Times, February 2 2026',
+            source3: 'Reuters',
+            sourceUrl3: 'https://www.reuters.com/world/europe/france-edges-towards-budget-deal-with-socialists-welcoming-pms-concessions-2026-01-19/',
+            sourceSnippet3: 'French PM to force budget through parliament without vote — Reuters, January 19 2026'
+          },
+          ja: {
+            title: 'セバスチャン・ルコルニュ — フランス首相、熱波危機と2026年予算を管理',
+            desc: 'セバスチャン・ルコルニュは2025年9月にマクロン大統領により任命されたフランス首相。2026年6月、欧州を襲う異常熱波に対する国家危機会議を主導し、数ヶ月停滞していた2026年予算を確保した。',
+            body: '<p>セバスチャン・ルコルニュは1986年6月21日、フランス・ヴェルノン生まれ。パリ政治学院（シアンスポ）で教育を受け、地方政治でキャリアを開始し、比較的若い年齢でウール県議会議長を務め、マクロン率いるルネッサンス党の新世代政治家の一人として知られる。</p><p>首相就任前はフランス国防相を務め、ロシア・ウクライナ戦争による欧州の安全保障緊張の高まりの中で国の軍事政策を管理した。2025年9月、フランスが首相を繰り返し交代させる政治危機の中、マクロン大統領は就任以来6人目の首相としてルコルニュを任命した。</p><p>2026年6月23日、欧州を襲う異常熱波の中、フランス気象庁が国の平均気温が記録的高さに達したと報告した後、ルコルニュは国家危機会議を主導した。</p>',
+            source: 'RFI',
+            sourceUrl: 'https://www.rfi.fr/en/international/20260623-june-heat-grips-europe-as-france-scrambles-to-respond',
+            sourceSnippet: '6月の熱波が欧州を襲い、フランスが対応に奔走 — RFI 2026年6月23日'
+          },
+          ko: {
+            title: '세바스티앵 르코르뉘 — 프랑스 총리, 폭염 위기와 2026년 예산 관리',
+            desc: '세바스티앵 르코르뉘는 2025년 9월 마크롱 대통령에 의해 임명된 프랑스 총리. 2026년 6월, 유럽을 강타한 극심한 폭염에 대한 국가 위기 회의를 주재하며 수개월간 정체됐던 2026년 예산을 확보했다.',
+            body: '<p>세바스티앵 르코르뉘는 1986년 6월 21일 프랑스 베르농 출생. 파리정치대학(시앙스포)에서 교육받았으며 지방 정치에서 경력을 시작해 비교적 젊은 나이에 외르현 의회 의장을 지냈고, 마크롱이 이끄는 르네상스당의 신세대 정치인 중 한 명으로 알려져 있다.</p><p>총리 취임 전 프랑스 국방장관을 지내며 러시아-우크라이나 전쟁으로 인한 유럽 안보 긴장 고조 속에서 국가 군사 정책을 관리했다. 2025년 9월, 프랑스가 총리를 반복적으로 교체하는 정치적 위기 속에서 마크롱 대통령은 취임 이후 6번째 총리로 르코르뉘를 임명했다.</p><p>2026년 6월 23일, 유럽을 강타한 극심한 폭염 속에서 프랑스 기상청이 국가 평균 기온이 기록적으로 높았다고 보고한 후, 르코르뉘는 국가 위기 회의를 주재했다.</p>',
+            source: 'RFI',
+            sourceUrl: 'https://www.rfi.fr/en/international/20260623-june-heat-grips-europe-as-france-scrambles-to-respond',
+            sourceSnippet: '6월 폭염이 유럽을 강타, 프랑스는 대응에 총력 — RFI 2026년 6월 23일'
+          },
+          zh: {
+            title: '塞巴斯蒂安·勒科尔尼 — 法国总理，应对热浪危机与2026年预算',
+            desc: '塞巴斯蒂安·勒科尔尼是2025年9月由马克龙总统任命的法国总理。2026年6月，他主持了应对席卷欧洲的极端热浪的国家危机会议，同时确保了停滞数月的2026年预算得以通过。',
+            body: '<p>塞巴斯蒂安·勒科尔尼1986年6月21日生于法国韦尔农。他在巴黎政治学院接受教育，此后在地方政治中开启职业生涯，年纪轻轻便出任厄尔省议会主席，是马克龙领导的复兴党新一代政治家之一。</p><p>在出任总理前，他曾担任法国国防部长，在俄乌战争导致欧洲安全紧张局势加剧之际管理国家军事政策。2025年9月，在法国总理频繁更迭的政治危机中，马克龙总统任命勒科尔尼为其任期内第六位总理。</p><p>2026年6月23日，在席卷欧洲的极端热浪中，法国气象局报告全国平均气温创下历史新高后，勒科尔尼主持了国家危机会议。</p>',
+            source: 'RFI',
+            sourceUrl: 'https://www.rfi.fr/en/international/20260623-june-heat-grips-europe-as-france-scrambles-to-respond',
+            sourceSnippet: '6月热浪席卷欧洲，法国全力应对 — 法国国际广播电台，2026年6月23日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
