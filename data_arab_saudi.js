@@ -190,6 +190,64 @@
             sourceSnippet: '沙特外长在特朗普与穆罕默德·本·萨勒曼关系摩擦中结束访华 — 中东在线，2026年7月2日'
           }
         }
+      },
+      {
+        id: 'arab-saudi-yasir-al-rumayyan',
+        category: 'bisnis',
+        langs: {
+          id: {
+            title: 'Yasir Al-Rumayyan — Gubernur PIF, Mundur dari LIV Golf di Tengah Reformasi Investasi',
+            desc: 'Yasir Al-Rumayyan, Gubernur Public Investment Fund (PIF) Arab Saudi dan arsitek LIV Golf, mengumumkan mundur dari jabatan ketua LIV Golf pada 2026 seiring PIF menghentikan pendanaan liga golf tersebut.',
+            body: '<p>Yasir Al-Rumayyan lahir di Arab Saudi pada 1970 dan meraih gelar sarjana keuangan dari King Fahd University of Petroleum and Minerals. Ia membangun kariernya di sektor keuangan sebelum ditunjuk memimpin Public Investment Fund (PIF), dana kekayaan negara Arab Saudi yang menjadi motor utama Visi 2030.</p><p>Sebagai Gubernur PIF, Al-Rumayyan menjadi arsitek utama sejumlah investasi besar Arab Saudi di sektor olahraga global, termasuk pendirian liga golf LIV Golf pada 2021 yang mengguncang dunia golf profesional, serta berbagai investasi di sepak bola Eropa dan Amerika.</p><p>Menurut laporan Golf Digest dan Golfweek akhir April 2026, Al-Rumayyan mengumumkan akan mundur dari posisi ketua LIV Golf, seiring PIF memutuskan untuk menghentikan pendanaan liga tersebut setelah musim 2026. Menurut The Athletic (New York Times), keputusan ini mencerminkan pergeseran strategi investasi PIF di sektor olahraga global.</p><p>Menurut laporan Fox44 News, langkah ini menjadi bagian dari evaluasi ulang PIF terhadap sejumlah aset olahraga yang telah diinvestasikan, bukan hanya LIV Golf semata, mengindikasikan babak baru dalam pendekatan investasi olahraga Arab Saudi ke depan.</p>',
+            source: 'Golf Digest',
+            sourceUrl: 'https://www.golfdigest.com/story/liv-golf-yasir-al-rumayyan-steps-down-2026',
+            sourceSnippet: 'Head of LIV Golf Yasir Al-Rumayyan is stepping down — Golf Digest, April 2026',
+            source2: 'The Athletic / NY Times',
+            sourceUrl2: 'https://www.nytimes.com/athletic/7242283/2026/04/29/liv-golf-founder-yasir-al-rumayyan-pif/',
+            sourceSnippet2: 'PIF to cut LIV Golf funding after 2026, league announces — The Athletic',
+            source3: 'Golfweek',
+            sourceUrl3: 'https://golfweek.usatoday.com/story/sports/golf/liv/2026/04/29/yasir-al-rumayyan-steps-down-liv-golf-chairman/89866213007/',
+            sourceSnippet3: 'Report: Yasir Al-Rumayyan steps down as chairman of LIV Golf — Golfweek'
+          },
+          en: {
+            title: 'Yasir Al-Rumayyan — PIF Governor, Steps Down from LIV Golf Amid Investment Reforms',
+            desc: 'Yasir Al-Rumayyan, Governor of Saudi Arabia\'s Public Investment Fund (PIF) and the architect of LIV Golf, announced he is stepping down as LIV Golf chairman in 2026 as PIF ends funding for the golf league.',
+            body: '<p>Yasir Al-Rumayyan was born in Saudi Arabia in 1970 and earned a finance degree from King Fahd University of Petroleum and Minerals. He built his career in finance before being appointed to lead the Public Investment Fund (PIF), Saudi Arabia\'s sovereign wealth fund and a key driver of Vision 2030.</p><p>As PIF Governor, Al-Rumayyan became the chief architect behind several of Saudi Arabia\'s major global sports investments, including the founding of the LIV Golf league in 2021 that shook up professional golf, as well as various investments in European and American football.</p><p>According to Golf Digest and Golfweek reports from late April 2026, Al-Rumayyan announced he would step down as LIV Golf chairman, as PIF decided to discontinue funding for the league after the 2026 season. According to The Athletic (New York Times), this decision reflects a shift in PIF\'s global sports investment strategy.</p><p>According to a Fox44 News report, this move is part of a broader PIF reassessment of several sports assets it has invested in, not just LIV Golf alone, signaling a new chapter in Saudi Arabia\'s approach to sports investment going forward.</p>',
+            source: 'Golf Digest',
+            sourceUrl: 'https://www.golfdigest.com/story/liv-golf-yasir-al-rumayyan-steps-down-2026',
+            sourceSnippet: 'Head of LIV Golf Yasir Al-Rumayyan is stepping down — Golf Digest, April 2026',
+            source2: 'The Athletic / NY Times',
+            sourceUrl2: 'https://www.nytimes.com/athletic/7242283/2026/04/29/liv-golf-founder-yasir-al-rumayyan-pif/',
+            sourceSnippet2: 'PIF to cut LIV Golf funding after 2026, league announces — The Athletic',
+            source3: 'Golfweek',
+            sourceUrl3: 'https://golfweek.usatoday.com/story/sports/golf/liv/2026/04/29/yasir-al-rumayyan-steps-down-liv-golf-chairman/89866213007/',
+            sourceSnippet3: 'Report: Yasir Al-Rumayyan steps down as chairman of LIV Golf — Golfweek'
+          },
+          ja: {
+            title: 'ヤシル・アル=ルマイヤン — PIF総裁、投資改革の中でLIVゴルフ会長を退任',
+            desc: 'サウジアラビア公共投資基金（PIF）総裁でLIVゴルフの生みの親であるヤシル・アル=ルマイヤンは、2026年にPIFがゴルフリーグへの資金提供を終了する中、LIVゴルフ会長を退任すると発表した。',
+            body: '<p>ヤシル・アル=ルマイヤンは1970年サウジアラビアに生まれ、キング・ファハド石油鉱物大学で金融学位を取得した。金融分野でキャリアを築いた後、ビジョン2030の主要な推進力であるサウジアラビアの政府系ファンド、公共投資基金（PIF）の総裁に就任した。</p><p>2026年4月末のゴルフダイジェストとゴルフウィークの報道によると、アル=ルマイヤンはLIVゴルフ会長を退任すると発表し、PIFは2026年シーズン後にリーグへの資金提供を終了することを決定した。</p>',
+            source: 'Golf Digest',
+            sourceUrl: 'https://www.golfdigest.com/story/liv-golf-yasir-al-rumayyan-steps-down-2026',
+            sourceSnippet: 'ヤシル・アル=ルマイヤン、LIVゴルフ会長を退任 — ゴルフダイジェスト、2026年4月'
+          },
+          ko: {
+            title: '야시르 알루마이얀 — PIF 총재, 투자 개혁 속 LIV 골프 회장직 사임',
+            desc: '사우디아라비아 국부펀드(PIF) 총재이자 LIV 골프의 창시자인 야시르 알루마이얀은 PIF가 2026년 골프 리그 자금 지원을 종료하는 가운데 LIV 골프 회장직에서 물러난다고 발표했다.',
+            body: '<p>야시르 알루마이얀은 1970년 사우디아라비아에서 태어나 킹파드 석유광물대학교에서 금융학 학위를 취득했다. 금융 분야에서 경력을 쌓은 후 사우디아라비아 비전 2030의 핵심 동력인 국부펀드(PIF) 총재로 임명되었다.</p><p>2026년 4월 말 골프 다이제스트와 골프위크 보도에 따르면 알루마이얀은 LIV 골프 회장직에서 물러난다고 발표했으며, PIF는 2026 시즌 이후 리그 자금 지원을 중단하기로 결정했다.</p>',
+            source: 'Golf Digest',
+            sourceUrl: 'https://www.golfdigest.com/story/liv-golf-yasir-al-rumayyan-steps-down-2026',
+            sourceSnippet: '야시르 알루마이얀, LIV 골프 회장직 사임 — 골프 다이제스트, 2026년 4월'
+          },
+          zh: {
+            title: '亚西尔·鲁马扬 — 公共投资基金总裁，在投资改革中辞去LIV高尔夫职务',
+            desc: '沙特阿拉伯公共投资基金（PIF）总裁、LIV高尔夫创始人亚西尔·鲁马扬宣布将辞去LIV高尔夫主席一职，此前PIF决定终止对该高尔夫联赛的资助。',
+            body: '<p>亚西尔·鲁马扬1970年出生于沙特阿拉伯，毕业于法赫德国王石油矿产大学，获金融学位。他在金融领域积累经验后，被任命为沙特"2030愿景"核心推动力——公共投资基金（PIF）总裁。</p><p>据《高尔夫文摘》和《高尔夫周刊》2026年4月底报道，鲁马扬宣布将辞去LIV高尔夫主席职务，PIF决定在2026赛季后终止对该联赛的资助。</p>',
+            source: 'Golf Digest',
+            sourceUrl: 'https://www.golfdigest.com/story/liv-golf-yasir-al-rumayyan-steps-down-2026',
+            sourceSnippet: '亚西尔·鲁马扬辞去LIV高尔夫主席职务 — 高尔夫文摘，2026年4月'
+          }
+        }
       }
     ]
   };
