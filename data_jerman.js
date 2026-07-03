@@ -129,6 +129,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'jerman-boris-pistorius',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Boris Pistorius — Menteri Pertahanan Jerman, Tolak Tuntutan Loyalitas NATO dari Trump',
+            desc: 'Boris Pistorius adalah Menteri Pertahanan Jerman yang memimpin modernisasi militer negaranya di tengah ancaman keamanan Eropa. Pada awal Juli 2026, ia menolak tuntutan Presiden AS Donald Trump agar sekutu NATO Eropa tunduk pada loyalitas penuh terhadap Washington, sekaligus mengumumkan paket dukungan €40 miliar untuk Ukraina.',
+            body: '<p>Boris Pistorius lahir pada 14 Oktober 1960 di Osnabrück, Jerman Barat. Ia meraih gelar hukum dari Universitas Hannover sebelum membangun karier panjang di politik lokal, termasuk menjabat sebagai Wali Kota Osnabrück selama lebih dari satu dekade dan kemudian Menteri Dalam Negeri negara bagian Lower Saxony.</p><p>Pistorius diangkat sebagai Menteri Pertahanan Jerman pada Januari 2023, di tengah tekanan besar bagi Jerman untuk memodernisasi militernya menyusul invasi Rusia ke Ukraina. Ia dengan cepat menjadi salah satu menteri paling populer dalam pemerintahan Jerman berkat gaya kepemimpinannya yang dianggap tegas dan pragmatis dalam menangani isu-isu pertahanan nasional.</p><p>Pada 2 Juli 2026, Pistorius secara terbuka menolak tuntutan Presiden AS Donald Trump yang menyerukan sekutu-sekutu Eropa dalam NATO untuk menunjukkan loyalitas penuh terhadap Washington, menegaskan bahwa keanggotaan NATO bukan berarti "ketaatan mutlak" terhadap Amerika Serikat — sebuah pernyataan yang mencerminkan keinginan Jerman untuk mempertahankan otonomi strategis Eropa di tengah tekanan geopolitik yang meningkat.</p><p>Pada hari yang sama, Pistorius mengungkapkan bahwa perang di Ukraina telah memasuki "fase yang berpotensi menentukan," mengonfirmasi bahwa NATO tengah menyiapkan paket dukungan senilai €40 miliar untuk Ukraina. Ia juga menyatakan keinginan Jerman untuk memproduksi persenjataan buatan AS di dalam negeri guna memperkuat kemandirian industri pertahanan Eropa, sekaligus mempertimbangkan menarik pulang dua kapal perang Jerman yang dikerahkan ke Laut Merah setelah misi di Selat Hormuz dinilai tidak lagi mungkin dilaksanakan.</p><p>Sebagai Menteri Pertahanan, Pistorius terus memainkan peran sentral dalam menyeimbangkan hubungan aliansi Jerman dengan Amerika Serikat sekaligus mendorong kemandirian pertahanan Eropa yang lebih besar, menjadikannya salah satu tokoh paling berpengaruh dalam kebijakan keamanan Eropa di tengah perang Rusia-Ukraina yang terus berlanjut.</p>',
+            source: 'Bloomberg',
+            sourceUrl: 'https://www.bloomberg.com/news/articles/2026-07-02/germany-rejects-trump-s-demands-for-nato-loyalty-to-washington',
+            sourceSnippet: 'Germany Rejects Trump\'s Demands For NATO Loyalty to Washington — Bloomberg, 2 Juli 2026',
+            source2: 'Kyiv Post',
+            sourceUrl2: 'https://www.kyivpost.com/post/79458',
+            sourceSnippet2: 'Pistorius Says Ukraine War Nears Turning Point as NATO Prepares €40B Support Package — Kyiv Post, 2 Juli 2026',
+            source3: 'ANEWS',
+            sourceUrl3: 'https://www.anews.com.tr/world/2026/07/02/nato-not-about-absolute-obedience-to-us-german-defense-minister-says',
+            sourceSnippet3: 'NATO not about \'absolute obedience\' to US, German defense minister says — ANEWS, 2 Juli 2026',
+            source4: 'Middle East Monitor',
+            sourceUrl4: 'https://www.middleeastmonitor.com/20260701-germany-weighs-bringing-navy-ships-home-as-hormuz-mission-looks-unlikely/',
+            sourceSnippet4: 'Germany weighs bringing navy ships home as Hormuz mission looks unlikely — Middle East Monitor, 1 Juli 2026'
+          },
+          en: {
+            title: 'Boris Pistorius — Germany\'s Defense Minister, Rejects Trump\'s NATO Loyalty Demands',
+            desc: 'Boris Pistorius is Germany\'s Defense Minister leading his country\'s military modernization amid European security threats. In early July 2026, he rejected US President Donald Trump\'s demands for European NATO allies to show full loyalty to Washington, while announcing a €40 billion support package for Ukraine.',
+            body: '<p>Boris Pistorius was born on October 14, 1960 in Osnabrück, West Germany. He earned a law degree from the University of Hannover before building a long career in local politics, including serving as Mayor of Osnabrück for over a decade and later as Interior Minister of the state of Lower Saxony.</p><p>Pistorius was appointed Germany\'s Defense Minister in January 2023, amid major pressure for Germany to modernize its military following Russia\'s invasion of Ukraine. He quickly became one of the most popular ministers in the German government due to his leadership style considered firm and pragmatic in handling national defense issues.</p><p>On July 2, 2026, Pistorius publicly rejected US President Donald Trump\'s demands calling for European NATO allies to show full loyalty to Washington, affirming that NATO membership does not mean "absolute obedience" to the United States — a statement reflecting Germany\'s desire to maintain European strategic autonomy amid rising geopolitical pressure.</p><p>The same day, Pistorius revealed that the war in Ukraine had entered a "potentially decisive phase," confirming that NATO was preparing a €40 billion support package for Ukraine. He also stated Germany\'s desire to produce US-designed weaponry domestically to strengthen European defense industry independence, while considering recalling two German navy ships deployed to the Red Sea after the Strait of Hormuz mission was deemed no longer feasible.</p><p>As Defense Minister, Pistorius continues to play a central role in balancing Germany\'s alliance relations with the United States while pushing for greater European defense independence, making him one of the most influential figures in European security policy amid the ongoing Russia-Ukraine war.</p>',
+            source: 'Bloomberg',
+            sourceUrl: 'https://www.bloomberg.com/news/articles/2026-07-02/germany-rejects-trump-s-demands-for-nato-loyalty-to-washington',
+            sourceSnippet: 'Germany Rejects Trump\'s Demands For NATO Loyalty to Washington — Bloomberg, July 2 2026',
+            source2: 'Kyiv Post',
+            sourceUrl2: 'https://www.kyivpost.com/post/79458',
+            sourceSnippet2: 'Pistorius Says Ukraine War Nears Turning Point as NATO Prepares €40B Support Package — Kyiv Post, July 2 2026',
+            source3: 'ANEWS',
+            sourceUrl3: 'https://www.anews.com.tr/world/2026/07/02/nato-not-about-absolute-obedience-to-us-german-defense-minister-says',
+            sourceSnippet3: 'NATO not about \'absolute obedience\' to US, German defense minister says — ANEWS, July 2 2026'
+          },
+          ja: {
+            title: 'ボリス・ピストリウス — ドイツ国防相、トランプのNATO忠誠要求を拒否',
+            desc: 'ボリス・ピストリウスは欧州の安全保障脅威の中でドイツの軍事近代化を主導する国防相。2026年7月初旬、トランプ米大統領による欧州NATO同盟国へのワシントンへの完全忠誠要求を拒否する一方、ウクライナへの400億ユーロ支援パッケージを発表した。',
+            body: '<p>ボリス・ピストリウスは1960年10月14日、西ドイツ・オスナブリュック生まれ。ハノーバー大学で法学位を取得し、10年以上オスナブリュック市長を務め、その後ニーダーザクセン州内相を歴任するなど地方政治で長いキャリアを築いた。</p><p>2023年1月、ロシアのウクライナ侵攻を受けドイツの軍事近代化への大きな圧力の中、国防相に任命された。国防問題への断固としたプラグマティックなリーダーシップスタイルにより、ドイツ政府内で最も人気のある閣僚の一人に急速になった。</p><p>2026年7月2日、ピストリウスはトランプ米大統領による欧州NATO同盟国へのワシントンへの完全忠誠表明要求を公然と拒否し、NATO加盟は米国への「絶対服従」を意味しないと明言した。</p>',
+            source: 'Bloomberg',
+            sourceUrl: 'https://www.bloomberg.com/news/articles/2026-07-02/germany-rejects-trump-s-demands-for-nato-loyalty-to-washington',
+            sourceSnippet: 'ドイツ、トランプのワシントンへのNATO忠誠要求を拒否 — ブルームバーグ 2026年7月2日'
+          },
+          ko: {
+            title: '보리스 피스토리우스 — 독일 국방장관, 트럼프의 나토 충성 요구 거부',
+            desc: '보리스 피스토리우스는 유럽 안보 위협 속에서 독일의 군사 현대화를 이끄는 국방장관. 2026년 7월 초, 트럼프 미국 대통령의 유럽 나토 동맹국에 대한 워싱턴 완전 충성 요구를 거부하는 한편, 우크라이나에 400억 유로 지원 패키지를 발표했다.',
+            body: '<p>보리스 피스토리우스는 1960년 10월 14일 서독 오스나브뤼크 출생. 하노버 대학에서 법학 학위를 취득했으며 10년 넘게 오스나브뤼크 시장을 지내고 이후 니더작센주 내무장관을 역임하는 등 지방 정치에서 오랜 경력을 쌓았다.</p><p>2023년 1월, 러시아의 우크라이나 침공 이후 독일의 군사 현대화에 대한 큰 압박 속에서 국방장관에 임명됐다. 국방 문제 처리에서 단호하고 실용적인 리더십 스타일로 독일 정부 내에서 가장 인기 있는 장관 중 한 명으로 빠르게 자리 잡았다.</p><p>2026년 7월 2일, 피스토리우스는 트럼프 미국 대통령의 유럽 나토 동맹국에 대한 워싱턴 완전 충성 요구를 공개적으로 거부하며, 나토 회원국 지위가 미국에 대한 "절대적 복종"을 의미하지 않는다고 밝혔다.</p>',
+            source: 'Bloomberg',
+            sourceUrl: 'https://www.bloomberg.com/news/articles/2026-07-02/germany-rejects-trump-s-demands-for-nato-loyalty-to-washington',
+            sourceSnippet: '독일, 트럼프의 워싱턴에 대한 나토 충성 요구 거부 — 블룸버그 2026년 7월 2일'
+          },
+          zh: {
+            title: '鲍里斯·皮斯托里乌斯 — 德国国防部长，拒绝特朗普关于北约效忠的要求',
+            desc: '鲍里斯·皮斯托里乌斯是德国国防部长，在欧洲安全威胁中领导本国军事现代化。2026年7月初，他拒绝了美国总统特朗普要求欧洲北约盟国对华盛顿表现完全效忠的要求，同时宣布向乌克兰提供400亿欧元支持方案。',
+            body: '<p>鲍里斯·皮斯托里乌斯1960年10月14日生于西德奥斯纳布吕克。他在汉诺威大学获得法学学位，此后在地方政治领域发展了长期职业生涯，曾任奥斯纳布吕克市长逾十年，后出任下萨克森州内政部长。</p><p>2023年1月，在俄罗斯入侵乌克兰后德国面临军事现代化巨大压力之际，他被任命为国防部长。凭借在处理国防事务上果断务实的领导风格，他迅速成为德国政府中最受欢迎的部长之一。</p><p>2026年7月2日，皮斯托里乌斯公开拒绝美国总统特朗普要求欧洲北约盟国对华盛顿表现完全效忠的要求，重申北约成员国身份并不意味着对美国"绝对服从"。</p>',
+            source: 'Bloomberg',
+            sourceUrl: 'https://www.bloomberg.com/news/articles/2026-07-02/germany-rejects-trump-s-demands-for-nato-loyalty-to-washington',
+            sourceSnippet: '德国拒绝特朗普关于对华盛顿北约效忠的要求 — 彭博社，2026年7月2日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
