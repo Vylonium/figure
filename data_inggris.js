@@ -190,6 +190,64 @@
             sourceSnippet: '巴德诺赫就500万英镑捐款抨击法拉奇，排除保守党与改革党结盟 — 卫报，2026年6月21日'
           }
         }
+      },
+      {
+        id: 'inggris-jude-bellingham',
+        category: 'olahraga',
+        langs: {
+          id: {
+            title: 'Jude Bellingham — Gelandang Real Madrid, Pahlawan Inggris di Piala Dunia 2026',
+            desc: 'Jude Bellingham tampil sebagai andalan Timnas Inggris di Piala Dunia 2026, mencetak gol penentu kemenangan melawan Kroasia sekaligus meraih gelar Man of the Match dalam kemenangan atas Panama.',
+            body: '<p>Jude Bellingham lahir di Stourbridge, Inggris, pada 29 Juni 2003. Ia memulai karier profesionalnya di Birmingham City sebelum pindah ke Borussia Dortmund di Jerman pada 2020, dan kemudian bergabung dengan Real Madrid pada 2023 dengan biaya transfer besar.</p><p>Sejak bergabung dengan Real Madrid, Bellingham dengan cepat menjadi salah satu gelandang paling berpengaruh di Eropa, memenangkan berbagai trofi bersama klub tersebut termasuk gelar La Liga dan Liga Champions UEFA.</p><p>Menurut Olympics.com, Bellingham tampil sebagai pahlawan penentu bagi Inggris di Piala Dunia 2026, mencetak gol kemenangan pada menit-menit akhir saat skor imbang 2-2 melawan Kroasia. Menurut Managing Madrid, gol tersebut turut membungkam kritik yang sempat dialamatkan kepadanya usai performa musim 2025-2026 yang kurang stabil bersama Real Madrid.</p><p>Menurut Yahoo Sports, Bellingham juga meraih gelar Man of the Match ketiganya dalam turnamen usai memimpin Inggris meraih kemenangan meyakinkan atas Panama. Dalam wawancara pers, Bellingham menjelaskan bahwa perannya di Real Madrid cenderung bermain lebih dalam dibanding perannya bersama Timnas Inggris, memberi wawasan tentang fleksibilitas taktisnya di dua level berbeda.</p>',
+            source: 'Olympics.com',
+            sourceUrl: 'https://www.olympics.com/en/news/jude-bellingham-clutch-moments-world-cup-england-real-madrid',
+            sourceSnippet: "From El Clásico to the FIFA World Cup 2026: England's Jude Bellingham — Olympics.com",
+            source2: 'Managing Madrid',
+            sourceUrl2: 'https://www.managingmadrid.com/latest-news/109153/jude-bellingham-responds-to-criticism-after-englands-world-cup-win-over-croatia',
+            sourceSnippet2: "Jude Bellingham Responds To Criticism After England's World Cup Win Over Croatia — Managing Madrid",
+            source3: 'Yahoo Sports',
+            sourceUrl3: 'https://sports.yahoo.com/articles/bellingham-real-madrid-play-little-085910309.html',
+            sourceSnippet3: 'Bellingham: "At Real Madrid I play a little deeper" — Yahoo Sports'
+          },
+          en: {
+            title: 'Jude Bellingham — Real Madrid Midfielder, England\'s Hero at the 2026 World Cup',
+            desc: 'Jude Bellingham has been England\'s key man at the 2026 World Cup, scoring the winning goal against Croatia and earning Man of the Match honors in a win over Panama.',
+            body: '<p>Jude Bellingham was born in Stourbridge, England, on June 29, 2003. He began his professional career at Birmingham City before moving to Borussia Dortmund in Germany in 2020, and later joining Real Madrid in 2023 for a big transfer fee.</p><p>Since joining Real Madrid, Bellingham quickly became one of the most influential midfielders in Europe, winning multiple trophies with the club including La Liga and the UEFA Champions League titles.</p><p>According to Olympics.com, Bellingham has been a decisive hero for England at the 2026 World Cup, scoring a late winning goal with the match tied 2-2 against Croatia. According to Managing Madrid, the goal helped silence criticism he faced after an inconsistent 2025-2026 season with Real Madrid.</p><p>According to Yahoo Sports, Bellingham also earned his third Man of the Match award of the tournament after leading England to a convincing win over Panama. In a press interview, Bellingham explained that his role at Real Madrid tends to be deeper compared to his role with the England national team, offering insight into his tactical flexibility across the two levels.</p>',
+            source: 'Olympics.com',
+            sourceUrl: 'https://www.olympics.com/en/news/jude-bellingham-clutch-moments-world-cup-england-real-madrid',
+            sourceSnippet: "From El Clásico to the FIFA World Cup 2026: England's Jude Bellingham — Olympics.com",
+            source2: 'Managing Madrid',
+            sourceUrl2: 'https://www.managingmadrid.com/latest-news/109153/jude-bellingham-responds-to-criticism-after-englands-world-cup-win-over-croatia',
+            sourceSnippet2: "Jude Bellingham Responds To Criticism After England's World Cup Win Over Croatia — Managing Madrid",
+            source3: 'Yahoo Sports',
+            sourceUrl3: 'https://sports.yahoo.com/articles/bellingham-real-madrid-play-little-085910309.html',
+            sourceSnippet3: 'Bellingham: "At Real Madrid I play a little deeper" — Yahoo Sports'
+          },
+          ja: {
+            title: 'ジュード・ベリンガム — レアル・マドリードMF、2026年ワールドカップのイングランドの英雄',
+            desc: 'ジュード・ベリンガムは2026年ワールドカップでイングランドの中心選手として活躍し、クロアチア戦で決勝点を決め、パナマ戦の勝利ではマン・オブ・ザ・マッチを獲得した。',
+            body: '<p>ジュード・ベリンガムは2003年6月29日、イングランド・ストゥアーブリッジに生まれた。バーミンガム・シティでプロキャリアを開始し、2020年にドイツのボルシア・ドルトムントへ移籍、2023年には高額移籍金でレアル・マドリードへ加入した。</p><p>オリンピックス・ドットコムによると、ベリンガムはクロアチア戦で2-2の同点の終盤に決勝点を決め、イングランドの決定的な英雄となった。</p><p>ヤフー・スポーツによると、ベリンガムはパナマ戦の勝利後、大会3度目のマン・オブ・ザ・マッチを獲得した。</p>',
+            source: 'Olympics.com',
+            sourceUrl: 'https://www.olympics.com/en/news/jude-bellingham-clutch-moments-world-cup-england-real-madrid',
+            sourceSnippet: 'ジュード・ベリンガム、2026年ワールドカップでクラッチな活躍 — オリンピックス・ドットコム'
+          },
+          ko: {
+            title: '주드 벨링엄 — 레알 마드리드 미드필더, 2026 월드컵 잉글랜드의 영웅',
+            desc: '주드 벨링엄은 2026 월드컵에서 잉글랜드의 핵심 선수로 활약하며 크로아티아전에서 결승골을 넣고 파나마전 승리에서 맨 오브 더 매치를 수상했다.',
+            body: '<p>주드 벨링엄은 2003년 6월 29일 잉글랜드 스타워브리지에서 태어났다. 버밍엄 시티에서 프로 경력을 시작한 후 2020년 독일 보루시아 도르트문트로 이적했고, 2023년 거액의 이적료로 레알 마드리드에 합류했다.</p><p>올림픽스닷컴에 따르면 벨링엄은 크로아티아와의 경기에서 2-2 동점 상황 후반에 결승골을 넣으며 잉글랜드의 결정적 영웅이 되었다.</p><p>야후 스포츠에 따르면 벨링엄은 파나마전 승리 후 대회 3번째 맨 오브 더 매치를 수상했다.</p>',
+            source: 'Olympics.com',
+            sourceUrl: 'https://www.olympics.com/en/news/jude-bellingham-clutch-moments-world-cup-england-real-madrid',
+            sourceSnippet: '주드 벨링엄, 2026 월드컵서 클러치 활약 — 올림픽스닷컴'
+          },
+          zh: {
+            title: '裘德·贝林厄姆 — 皇家马德里中场，2026世界杯英格兰英雄',
+            desc: '裘德·贝林厄姆在2026世界杯上成为英格兰的核心球员，在对阵克罗地亚的比赛中打入制胜球，并在战胜巴拿马的比赛中荣膺最佳球员。',
+            body: '<p>裘德·贝林厄姆2003年6月29日出生于英格兰斯陶尔布里奇。他在伯明翰城开始职业生涯，2020年转会德国多特蒙德，2023年以高额转会费加盟皇家马德里。</p><p>据奥林匹克官网报道，贝林厄姆在与克罗地亚2-2战平的比赛尾声打入制胜球，成为英格兰的关键英雄。</p><p>据雅虎体育报道，贝林厄姆在战胜巴拿马后获得本届赛事第三次最佳球员奖。</p>',
+            source: 'Olympics.com',
+            sourceUrl: 'https://www.olympics.com/en/news/jude-bellingham-clutch-moments-world-cup-england-real-madrid',
+            sourceSnippet: '贝林厄姆在2026世界杯上的高光时刻 — 奥林匹克官网'
+          }
+        }
       }
     ]
   };
