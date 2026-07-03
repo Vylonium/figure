@@ -190,6 +190,64 @@
             sourceSnippet: '朝鲜外务相崔善姬表示朝俄共享同盟级别战略地位 — 朝鲜日报，2026年5月31日'
           }
         }
+      },
+      {
+        id: 'korea-utara-pak-jong-chon',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Pak Jong-chon — Marsekal Korea Utara, Naik-Turun dalam Reshuffle Kepemimpinan 2026',
+            desc: 'Pak Jong-chon, salah satu pejabat militer paling berpengaruh di Korea Utara, mengalami pergeseran posisi signifikan pada 2026 — dari isu pemecatan hingga perannya di Sekretariat Pribadi Kim Jong-un.',
+            body: '<p>Pak Jong-chon adalah seorang Marsekal Korea Utara yang menjabat sebagai Wakil Ketua Komisi Militer Pusat Partai Buruh Korea (WPK). Ia dikenal luas sebagai salah satu tokoh militer paling berpengaruh dalam struktur kekuasaan Korea Utara di bawah kepemimpinan Kim Jong-un.</p><p>Menurut NK News, Pak Jong-chon bersama Ri Pyong-chol dikenal sebagai dua tokoh yang naik pesat dalam hierarki kekuasaan Korea Utara, menjadi bawahan langsung Kim Jong-un dalam struktur komando militer dan keamanan negara tersebut.</p><p>Menurut laporan CNN dan SCMP, Pak Jong-chon sempat dilaporkan dipecat dari posisinya sebagai pejabat militer kedua paling berkuasa di Korea Utara setelah Kim Jong-un, menurut laporan media pemerintah Korea Utara pada periode tersebut. Namun menurut NK Leadership Watch, pada April 2026 Pak Jong-chon dilaporkan berpindah ke Sekretariat Pribadi, menjadi penasihat utama Kim Jong-un untuk perencanaan militer dan kebijakan pertahanan secara keseluruhan.</p><p>Menurut Korea Times, perubahan posisi ini terjadi di tengah perombakan besar-besaran lingkaran dalam kepemimpinan Korea Utara pada Kongres Partai ke-9, di mana sejumlah pejabat senior "generasi lama" digantikan. Dinamika naik-turun posisi Pak Jong-chon mencerminkan kompleksitas dan persaingan internal dalam struktur kekuasaan tertutup Korea Utara.</p>',
+            source: 'NK News',
+            sourceUrl: 'https://www.nknews.org/pro/sitting-above-rank-the-rise-of-ri-pyong-chol-pak-jong-chon-and-the-military/',
+            sourceSnippet: 'Sitting above rank: the rise of Ri Pyong Chol, Pak Jong Chon and the military — NK News',
+            source2: 'NK Leadership Watch',
+            sourceUrl2: 'https://www.nkleadershipwatch.org/2026/04/26/pak-jong-chon-goes-personal-secretariat/',
+            sourceSnippet2: 'Pak Jong Chon goes Personal Secretariat — NK Leadership Watch, April 2026',
+            source3: 'Korea Times',
+            sourceUrl3: 'https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260220/n-korea-overhauls-inner-circle-removing-old-guard',
+            sourceSnippet3: 'N. Korea overhauls inner circle, removing old guard — Korea Times, Februari 2026'
+          },
+          en: {
+            title: 'Pak Jong-chon — North Korean Marshal, Rise and Fall in the 2026 Leadership Reshuffle',
+            desc: 'Pak Jong-chon, one of North Korea\'s most influential military officials, experienced significant position shifts in 2026 — from reports of dismissal to a new role in Kim Jong-un\'s Personal Secretariat.',
+            body: '<p>Pak Jong-chon is a North Korean Marshal who serves as vice chairman of the Central Military Commission of the Workers\' Party of Korea (WPK). He is widely known as one of the most influential military figures in North Korea\'s power structure under Kim Jong-un\'s leadership.</p><p>According to NK News, Pak Jong-chon along with Ri Pyong-chol are known as two figures who rose rapidly within North Korea\'s power hierarchy, becoming immediate subordinates to Kim Jong-un in the country\'s military and security command structure.</p><p>According to CNN and SCMP reports, Pak Jong-chon was previously reported to have been fired from his position as the second most powerful military official in North Korea after Kim Jong-un, according to North Korean state media reports at the time. However, according to NK Leadership Watch, in April 2026 Pak Jong-chon was reported to have moved to the Personal Secretariat, becoming a leading adviser to Kim Jong-un on military planning and overall defense policy.</p><p>According to Korea Times, this position change occurred amid a major overhaul of North Korea\'s inner leadership circle at the 9th Party Congress, where several senior "old guard" officials were replaced. The rise-and-fall dynamics of Pak Jong-chon\'s position reflect the complexity and internal competition within North Korea\'s closed power structure.</p>',
+            source: 'NK News',
+            sourceUrl: 'https://www.nknews.org/pro/sitting-above-rank-the-rise-of-ri-pyong-chol-pak-jong-chon-and-the-military/',
+            sourceSnippet: 'Sitting above rank: the rise of Ri Pyong Chol, Pak Jong Chon and the military — NK News',
+            source2: 'NK Leadership Watch',
+            sourceUrl2: 'https://www.nkleadershipwatch.org/2026/04/26/pak-jong-chon-goes-personal-secretariat/',
+            sourceSnippet2: 'Pak Jong Chon goes Personal Secretariat — NK Leadership Watch, April 2026',
+            source3: 'Korea Times',
+            sourceUrl3: 'https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260220/n-korea-overhauls-inner-circle-removing-old-guard',
+            sourceSnippet3: 'N. Korea overhauls inner circle, removing old guard — Korea Times, February 2026'
+          },
+          ja: {
+            title: '朴正天（パク・ジョンチョン） — 北朝鮮の元帥、2026年指導部改編での浮沈',
+            desc: '北朝鮮で最も影響力のある軍高官の一人である朴正天は、2026年に大きな地位の変動を経験した — 解任報道から金正恩の個人秘書局での新たな役割まで。',
+            body: '<p>朴正天は北朝鮮の元帥であり、朝鮮労働党中央軍事委員会副委員長を務める。金正恩指導下の北朝鮮権力構造において最も影響力のある軍事人物の一人として広く知られている。</p><p>NKニュースによると、朴正天は李昞哲とともに北朝鮮の権力階層で急速に台頭した二人の人物として知られ、金正恩の直属の部下となった。</p><p>CNNとSCMPの報道によると、朴正天は北朝鮮国営メディアの報道によれば、金正恩に次ぐ北朝鮮第2位の軍高官の地位から解任されたと報じられた。しかしNKリーダーシップ・ウォッチによると、2026年4月に朴正天は個人秘書局に異動し、軍事計画と防衛政策全般における金正恩の主要顧問となったと報じられた。</p>',
+            source: 'NK News',
+            sourceUrl: 'https://www.nknews.org/pro/sitting-above-rank-the-rise-of-ri-pyong-chol-pak-jong-chon-and-the-military/',
+            sourceSnippet: '李昞哲、朴正天と軍部の台頭 — NKニュース'
+          },
+          ko: {
+            title: '박정천 — 북한 원수, 2026년 지도부 개편 속 부침',
+            desc: '북한에서 가장 영향력 있는 군 고위 인사 중 한 명인 박정천은 2026년 해임설부터 김정은 개인비서국에서의 새로운 역할까지 큰 지위 변동을 겪었다.',
+            body: '<p>박정천은 북한의 원수로 조선노동당 중앙군사위원회 부위원장을 맡고 있다. 김정은 지도체제 하 북한 권력구조에서 가장 영향력 있는 군사 인물 중 한 명으로 널리 알려져 있다.</p><p>NK뉴스에 따르면 박정천은 리병철과 함께 북한 권력 서열에서 급부상한 두 인물로 알려져 있으며, 김정은의 직속 부하가 되었다.</p><p>CNN과 SCMP 보도에 따르면 박정천은 북한 국영매체 보도에 따라 김정은 다음으로 북한 제2의 군 실세 자리에서 해임되었다고 보도되었다. 하지만 NK 리더십 워치에 따르면 2026년 4월 박정천은 개인비서국으로 이동해 군사 계획 및 전반적인 국방정책에 대한 김정은의 주요 고문이 되었다고 보도되었다.</p>',
+            source: 'NK News',
+            sourceUrl: 'https://www.nknews.org/pro/sitting-above-rank-the-rise-of-ri-pyong-chol-pak-jong-chon-and-the-military/',
+            sourceSnippet: '리병철, 박정천과 군부의 부상 — NK뉴스'
+          },
+          zh: {
+            title: '朴正天 — 朝鲜元帅，2026年领导层改组中的沉浮',
+            desc: '朴正天是朝鲜最具影响力的军事官员之一，2026年经历了重大职位变动——从被解职的报道到出任金正恩个人秘书局要职。',
+            body: '<p>朴正天是朝鲜元帅，担任朝鲜劳动党中央军事委员会副委员长。他被广泛认为是金正恩领导体制下朝鲜权力结构中最具影响力的军事人物之一。</p><p>据NK News报道，朴正天与李炳哲一同被视为在朝鲜权力等级中迅速崛起的两位人物，成为金正恩的直属部下。</p><p>据CNN和南华早报报道，据朝鲜官方媒体当时的报道，朴正天曾被报道从朝鲜仅次于金正恩的第二号军事实权人物职位上被解职。但据NK Leadership Watch报道，2026年4月朴正天被报道调任个人秘书局，成为金正恩在军事规划和整体国防政策方面的主要顾问。</p>',
+            source: 'NK News',
+            sourceUrl: 'https://www.nknews.org/pro/sitting-above-rank-the-rise-of-ri-pyong-chol-pak-jong-chon-and-the-military/',
+            sourceSnippet: '李炳哲、朴正天与军方的崛起 — NK News'
+          }
+        }
       }
     ]
   };
