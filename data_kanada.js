@@ -190,6 +190,64 @@
             sourceSnippet: '波利耶夫将改组保守党反对派批评者阵容 — CBC新闻，2026年6月30日'
           }
         }
+      },
+      {
+        id: 'kanada-drake',
+        category: 'seni-hiburan',
+        langs: {
+          id: {
+            title: 'Drake — Rapper Kanada, Rilis Album "Iceman" pada 2026',
+            desc: 'Drake merilis album studio terbarunya "Iceman" pada 15 Mei 2026 lewat label OVO Sound dan Republic Records, memicu spekulasi luas soal kemungkinan tur dunia mendatang.',
+            body: '<p>Aubrey Drake Graham lahir di Toronto, Kanada, pada 24 Oktober 1986. Ia memulai kariernya sebagai aktor dalam serial televisi "Degrassi: The Next Generation" sebelum beralih ke dunia musik dan menjadi salah satu rapper paling sukses secara komersial dalam sejarah musik modern.</p><p>Sepanjang kariernya, Drake telah merilis banyak album yang meraih kesuksesan besar secara global, dikenal atas gaya musik yang memadukan hip-hop, R&B, dan pop, serta memiliki basis penggemar yang sangat besar di seluruh dunia.</p><p>Menurut Wikipedia, Drake merilis "Iceman" pada 15 Mei 2026 melalui label OVO Sound dan Republic Records, menjadikannya salah satu dari tiga album studio yang ia rilis. Menurut Rap TV, peluncuran album ini turut disertai kampanye promosi kreatif berupa reveal patung es bertajuk "Freeze The World", yang memicu spekulasi luas terkait kemungkinan tur pendukung album tersebut.</p><p>Menurut USA Today, hingga pertengahan 2026 belum ada pengumuman resmi terkait tur dunia untuk mendukung "Iceman", meski rumor dan antisipasi penggemar terus bermunculan di berbagai platform media sosial. Album ini telah tersedia di platform streaming musik utama termasuk Spotify, memperkuat posisi Drake sebagai salah satu musisi Kanada paling berpengaruh di kancah musik global saat ini.</p>',
+            source: 'Wikipedia',
+            sourceUrl: 'https://en.wikipedia.org/wiki/Iceman_(album)',
+            sourceSnippet: 'Iceman (album) — Drake, released May 15, 2026 through OVO Sound and Republic Records',
+            source2: 'Rap TV',
+            sourceUrl2: 'https://raptv.com/article/drake-iceman-release-date-revealed-ice-sculpture-tour-hints/',
+            sourceSnippet2: "Drake 'Iceman' Release Date Revealed: Ice Sculpture, Freeze The World hints — Rap TV",
+            source3: 'USA Today',
+            sourceUrl3: 'https://www.usatoday.com/story/shopping/entertainment/concert-tickets/2026/05/15/new-drake-albums-tour-rumors/90096988007/',
+            sourceSnippet3: "Here's what we know about a possible Drake tour in 2026 — USA Today"
+          },
+          en: {
+            title: 'Drake — Canadian Rapper, Releases "Iceman" Album in 2026',
+            desc: 'Drake released his latest studio album "Iceman" on May 15, 2026 through OVO Sound and Republic Records, sparking widespread speculation about a possible upcoming world tour.',
+            body: '<p>Aubrey Drake Graham was born in Toronto, Canada, on October 24, 1986. He began his career as an actor in the television series "Degrassi: The Next Generation" before transitioning into music and becoming one of the most commercially successful rappers in modern music history.</p><p>Throughout his career, Drake has released numerous globally successful albums, known for his musical style blending hip-hop, R&B, and pop, with an enormous fanbase worldwide.</p><p>According to Wikipedia, Drake released "Iceman" on May 15, 2026 through OVO Sound and Republic Records, making it one of three studio albums he released. According to Rap TV, the album launch was accompanied by a creative promotional campaign featuring an ice sculpture reveal titled "Freeze The World," which sparked widespread speculation about a possible tour supporting the album.</p><p>According to USA Today, as of mid-2026 there has been no official announcement regarding a world tour to support "Iceman," though rumors and fan anticipation continue to circulate across various social media platforms. The album is available on major music streaming platforms including Spotify, further cementing Drake\'s position as one of Canada\'s most influential musicians on the global music scene today.</p>',
+            source: 'Wikipedia',
+            sourceUrl: 'https://en.wikipedia.org/wiki/Iceman_(album)',
+            sourceSnippet: 'Iceman (album) — Drake, released May 15, 2026 through OVO Sound and Republic Records',
+            source2: 'Rap TV',
+            sourceUrl2: 'https://raptv.com/article/drake-iceman-release-date-revealed-ice-sculpture-tour-hints/',
+            sourceSnippet2: "Drake 'Iceman' Release Date Revealed: Ice Sculpture, Freeze The World hints — Rap TV",
+            source3: 'USA Today',
+            sourceUrl3: 'https://www.usatoday.com/story/shopping/entertainment/concert-tickets/2026/05/15/new-drake-albums-tour-rumors/90096988007/',
+            sourceSnippet3: "Here's what we know about a possible Drake tour in 2026 — USA Today"
+          },
+          ja: {
+            title: 'ドレイク — カナダのラッパー、2026年アルバム「アイスマン」をリリース',
+            desc: 'ドレイクは2026年5月15日、OVOサウンドとリパブリック・レコードから最新スタジオアルバム「アイスマン」をリリースし、今後のワールドツアーの可能性について広範な憶測を呼んでいる。',
+            body: '<p>オーブリー・ドレイク・グラハムは1986年10月24日、カナダ・トロントに生まれた。テレビシリーズ「デグラッシ：ネクスト・ジェネレーション」で俳優としてキャリアを開始した後、音楽の世界に転身し、現代音楽史上最も商業的に成功したラッパーの一人となった。</p><p>ウィキペディアによると、ドレイクは2026年5月15日、OVOサウンドとリパブリック・レコードから「アイスマン」をリリースした。ラップTVによると、アルバム発売は「フリーズ・ザ・ワールド」と題した氷の彫刻お披露目という創造的なプロモーションキャンペーンを伴い、ツアーの可能性について広範な憶測を呼んだ。</p>',
+            source: 'Wikipedia',
+            sourceUrl: 'https://en.wikipedia.org/wiki/Iceman_(album)',
+            sourceSnippet: 'アイスマン（アルバム） — ドレイク、2026年5月15日リリース'
+          },
+          ko: {
+            title: '드레이크 — 캐나다 래퍼, 2026년 앨범 "아이스맨" 발매',
+            desc: '드레이크는 2026년 5월 15일 OVO 사운드와 리퍼블릭 레코드를 통해 최신 스튜디오 앨범 "아이스맨"을 발매하며 향후 월드투어 가능성에 대한 광범위한 추측을 불러일으켰다.',
+            body: '<p>오브리 드레이크 그레이엄은 1986년 10월 24일 캐나다 토론토에서 태어났다. TV 시리즈 "디그라시: 넥스트 제너레이션"에서 배우로 경력을 시작한 후 음악으로 전향해 현대 음악사에서 상업적으로 가장 성공한 래퍼 중 한 명이 되었다.</p><p>위키피디아에 따르면 드레이크는 2026년 5월 15일 OVO 사운드와 리퍼블릭 레코드를 통해 "아이스맨"을 발매했다. 랩TV에 따르면 앨범 발매는 "프리즈 더 월드"라는 얼음 조각 공개 행사를 동반한 창의적인 홍보 캠페인과 함께 진행되어 투어 가능성에 대한 광범위한 추측을 불러일으켰다.</p>',
+            source: 'Wikipedia',
+            sourceUrl: 'https://en.wikipedia.org/wiki/Iceman_(album)',
+            sourceSnippet: '아이스맨(앨범) — 드레이크, 2026년 5월 15일 발매'
+          },
+          zh: {
+            title: '德雷克 — 加拿大说唱歌手，2026年发行专辑《Iceman》',
+            desc: '德雷克于2026年5月15日通过OVO Sound和共和唱片发行了最新录音室专辑《Iceman》，引发外界对其可能举行世界巡演的广泛猜测。',
+            body: '<p>奥布里·德雷克·格雷厄姆1986年10月24日出生于加拿大多伦多。他最初在电视剧《明星伙伴》中担任演员，后转型音乐界，成为现代音乐史上商业最成功的说唱歌手之一。</p><p>据维基百科，德雷克于2026年5月15日通过OVO Sound和共和唱片发行了《Iceman》。据Rap TV报道，专辑发行伴随着一场以"冰封世界"为主题的冰雕揭幕创意宣传活动，引发了外界对其巡演可能性的广泛猜测。</p>',
+            source: 'Wikipedia',
+            sourceUrl: 'https://en.wikipedia.org/wiki/Iceman_(album)',
+            sourceSnippet: '《Iceman》（专辑）— 德雷克，2026年5月15日发行'
+          }
+        }
       }
     ]
   };
