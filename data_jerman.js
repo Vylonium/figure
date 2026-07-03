@@ -190,6 +190,64 @@
             sourceSnippet: '德国拒绝特朗普关于对华盛顿北约效忠的要求 — 彭博社，2026年7月2日'
           }
         }
+      },
+      {
+        id: 'jerman-jamal-musiala',
+        category: 'olahraga',
+        langs: {
+          id: {
+            title: 'Jamal Musiala — Playmaker Bayern Munich, Pulih Tepat Waktu untuk Piala Dunia 2026',
+            desc: 'Jamal Musiala kembali fit dan tampil membela Jerman di Piala Dunia 2026, turnamen besar keempatnya di usia 23 tahun, setelah sempat berjuang melawan cedera hamstring parah.',
+            body: '<p>Jamal Musiala lahir di Stuttgart, Jerman, pada 26 Februari 2003. Ia sempat menghabiskan masa muda di akademi Chelsea di Inggris sebelum kembali ke Jerman dan bergabung dengan akademi Bayern Munich pada 2019, memilih membela Timnas Jerman meski memenuhi syarat memperkuat Inggris.</p><p>Sejak debut di tim utama Bayern Munich, Musiala dengan cepat berkembang menjadi salah satu gelandang serang paling berbakat di dunia, dikenal atas kemampuan dribel dan kreativitasnya dalam menciptakan peluang.</p><p>Menurut laporan Bavarian Football Works dan Facebook grup Fabrizio Romano, Musiala sempat mengalami robekan otot hamstring kiri yang berisiko membuatnya absen 6-8 minggu, memunculkan kekhawatiran soal kesiapannya menjelang Piala Dunia 2026. Namun menurut Olympics.com, Musiala berhasil pulih tepat waktu dan tampil dalam turnamen besar keempatnya di usia 23 tahun.</p><p>Menurut Yahoo Sports, Musiala bahkan berhasil memecahkan rekor Piala Dunia dalam penampilannya bersama Jerman di edisi 2026. Menurut Bundesliga.com, dalam wawancara jelang turnamen, Musiala berbicara tentang perjalanannya bersama Bayern Munich di bawah pelatih Vincent Kompany serta perannya bersama Harry Kane, sekaligus antusiasmenya menghadapi Piala Dunia di Amerika Utara.</p>',
+            source: 'Olympics.com',
+            sourceUrl: 'https://www.olympics.com/en/news/jamal-musiala-fifa-world-cup-2026-stats-form-how-watch-germany-star',
+            sourceSnippet: 'Jamal Musiala at FIFA World Cup 2026: Stats, form and how to watch — Olympics.com',
+            source2: 'Bavarian Football Works',
+            sourceUrl2: 'https://www.bavarianfootballworks.com/fifa-world-cup/216096/fifa-cracks-down-on-bayern-munichs-jamal-musiala',
+            sourceSnippet2: 'FIFA cracks down on Bayern Munich\'s Jamal Musiala — Bavarian Football Works',
+            source3: 'Bundesliga.com',
+            sourceUrl3: 'https://www.bundesliga.com/en/bundesliga/news/jamal-musiala-interview-bayern-munich-kompany-kane-world-cup-37400',
+            sourceSnippet3: 'Jamal Musiala talks Bayern Munich, Germany, the FIFA World Cup — Bundesliga.com'
+          },
+          en: {
+            title: 'Jamal Musiala — Bayern Munich Playmaker, Recovers Just in Time for the 2026 World Cup',
+            desc: 'Jamal Musiala has returned to fitness and is representing Germany at the 2026 World Cup, his fourth major tournament at age 23, after battling a severe hamstring injury.',
+            body: '<p>Jamal Musiala was born in Stuttgart, Germany, on February 26, 2003. He spent his youth at Chelsea\'s academy in England before returning to Germany and joining Bayern Munich\'s academy in 2019, choosing to represent the German national team despite being eligible to play for England.</p><p>Since his debut with Bayern Munich\'s first team, Musiala quickly developed into one of the most talented attacking midfielders in the world, known for his dribbling ability and creativity in creating chances.</p><p>According to Bavarian Football Works and a Fabrizio Romano Facebook group report, Musiala suffered a left hamstring muscle tear that risked sidelining him for 6-8 weeks, raising concerns about his readiness ahead of the 2026 World Cup. However, according to Olympics.com, Musiala managed to recover in time and is featuring in his fourth major tournament at age 23.</p><p>According to Yahoo Sports, Musiala even broke a World Cup record during his performance with Germany at the 2026 edition. According to Bundesliga.com, in a pre-tournament interview, Musiala spoke about his journey with Bayern Munich under coach Vincent Kompany and his role alongside Harry Kane, as well as his excitement for the World Cup in North America.</p>',
+            source: 'Olympics.com',
+            sourceUrl: 'https://www.olympics.com/en/news/jamal-musiala-fifa-world-cup-2026-stats-form-how-watch-germany-star',
+            sourceSnippet: 'Jamal Musiala at FIFA World Cup 2026: Stats, form and how to watch — Olympics.com',
+            source2: 'Bavarian Football Works',
+            sourceUrl2: 'https://www.bavarianfootballworks.com/fifa-world-cup/216096/fifa-cracks-down-on-bayern-munichs-jamal-musiala',
+            sourceSnippet2: 'FIFA cracks down on Bayern Munich\'s Jamal Musiala — Bavarian Football Works',
+            source3: 'Bundesliga.com',
+            sourceUrl3: 'https://www.bundesliga.com/en/bundesliga/news/jamal-musiala-interview-bayern-munich-kompany-kane-world-cup-37400',
+            sourceSnippet3: 'Jamal Musiala talks Bayern Munich, Germany, the FIFA World Cup — Bundesliga.com'
+          },
+          ja: {
+            title: 'ジャマル・ムシアラ — バイエルン・ミュンヘンのプレーメーカー、2026年ワールドカップに間に合い復帰',
+            desc: 'ジャマル・ムシアラは重度のハムストリング負傷と戦った末に回復し、23歳にして自身4度目の大舞台となる2026年ワールドカップでドイツ代表として出場している。',
+            body: '<p>ジャマル・ムシアラは2003年2月26日、ドイツ・シュトゥットガルトに生まれた。イングランドのチェルシーのアカデミーで育ったが、2019年にドイツに戻りバイエルン・ミュンヘンのアカデミーに加入し、イングランド代表資格があったにもかかわらずドイツ代表を選んだ。</p><p>バイエルン・ミュンヘンのトップチームデビュー以来、ムシアラは急速に世界屈指の攻撃的MFへと成長した。</p><p>バイエルン・フットボール・ワークスとファブリツィオ・ロマーノのフェイスブック投稿によると、ムシアラは左ハムストリングの肉離れで6〜8週間の離脱リスクがあった。しかしオリンピックス・ドットコムによると、ムシアラは間に合って回復し、23歳で自身4度目の大舞台に出場している。</p>',
+            source: 'Olympics.com',
+            sourceUrl: 'https://www.olympics.com/en/news/jamal-musiala-fifa-world-cup-2026-stats-form-how-watch-germany-star',
+            sourceSnippet: 'ジャマル・ムシアラ、2026年ワールドカップでの状態 — オリンピックス・ドットコム'
+          },
+          ko: {
+            title: '자말 무시알라 — 바이에른 뮌헨 플레이메이커, 2026 월드컵에 맞춰 회복',
+            desc: '자말 무시알라는 심각한 햄스트링 부상과 싸운 끝에 회복해, 23세에 자신의 4번째 메이저 대회인 2026 월드컵에서 독일 대표로 출전하고 있다.',
+            body: '<p>자말 무시알라는 2003년 2월 26일 독일 슈투트가르트에서 태어났다. 잉글랜드 첼시 아카데미에서 유년기를 보냈지만 2019년 독일로 돌아와 바이에른 뮌헨 아카데미에 합류했고, 잉글랜드 대표팀 자격이 있었음에도 독일 대표팀을 선택했다.</p><p>바이에른 뮌헨 1군 데뷔 이후 무시알라는 빠르게 세계 최고의 공격형 미드필더 중 한 명으로 성장했다.</p><p>바바리안 풋볼 웍스와 파브리치오 로마노의 페이스북 게시물에 따르면 무시알라는 왼쪽 햄스트링 근육 파열로 6~8주 결장 위험이 있었다. 하지만 올림픽스닷컴에 따르면 무시알라는 제때 회복해 23세에 자신의 4번째 메이저 대회에 출전하고 있다.</p>',
+            source: 'Olympics.com',
+            sourceUrl: 'https://www.olympics.com/en/news/jamal-musiala-fifa-world-cup-2026-stats-form-how-watch-germany-star',
+            sourceSnippet: '자말 무시알라, 2026 월드컵 컨디션 — 올림픽스닷컴'
+          },
+          zh: {
+            title: '贾马尔·穆西亚拉 — 拜仁慕尼黑组织核心，及时伤愈备战2026世界杯',
+            desc: '贾马尔·穆西亚拉在与严重腘绳肌伤势抗争后恢复健康，以23岁之龄代表德国出战个人第四届世界杯。',
+            body: '<p>贾马尔·穆西亚拉2003年2月26日出生于德国斯图加特。他曾在英格兰切尔西青训营效力，2019年回到德国加入拜仁慕尼黑青训营，尽管符合代表英格兰的资格，他仍选择代表德国国家队。</p><p>自拜仁慕尼黑一线队处子秀以来，穆西亚拉迅速成长为世界上最具天赋的进攻型中场之一。</p><p>据Bavarian Football Works和法布里齐奥·罗马诺的Facebook帖子报道，穆西亚拉左腘绳肌撕裂，有缺席6-8周的风险。但据奥林匹克官网报道，穆西亚拉及时恢复，以23岁之龄出战个人第四届大赛。</p>',
+            source: 'Olympics.com',
+            sourceUrl: 'https://www.olympics.com/en/news/jamal-musiala-fifa-world-cup-2026-stats-form-how-watch-germany-star',
+            sourceSnippet: '贾马尔·穆西亚拉在2026世界杯的状态 — 奥林匹克官网'
+          }
+        }
       }
     ]
   };
