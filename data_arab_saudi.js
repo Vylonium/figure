@@ -249,6 +249,62 @@
           }
         }
       }
+    ,
+      {
+        id: 'arab-saudi-khalid-bin-salman',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Pangeran Khalid bin Salman — Menteri Pertahanan Arab Saudi Ingatkan Iran Soal Salah Perhitungan',
+            desc: 'Menteri Pertahanan Arab Saudi Pangeran Khalid bin Salman memperingatkan Iran agar menghindari salah perhitungan menyusul serangkaian serangan rudal dan drone di kawasan, sembari memimpin modernisasi besar-besaran militer Kerajaan pada 2026.',
+            body: '<p>Pangeran Khalid bin Salman bin Abdulaziz Al Saud lahir pada 24 Maret 1988, merupakan putra Raja Salman dan adik kandung Putra Mahkota Mohammed bin Salman. Ia memiliki latar belakang militer sebagai mantan pilot jet tempur F-15 Angkatan Udara Kerajaan Saudi sebelum menjabat sebagai Duta Besar Arab Saudi untuk Amerika Serikat pada 2017-2019.</p><p>Khalid kemudian ditunjuk sebagai Wakil Menteri Pertahanan dan akhirnya Menteri Pertahanan penuh pada 2022, menjadikannya salah satu figur paling berpengaruh dalam kebijakan keamanan dan pertahanan Kerajaan Arab Saudi di tengah dinamika geopolitik Timur Tengah yang terus memanas.</p><p>Menurut laporan AMU TV pertengahan 2026, Pangeran Khalid memperingatkan Iran untuk “menghindari salah perhitungan” setelah serangkaian serangan rudal dan drone di kawasan, menegaskan sikap tegas Arab Saudi dalam menjaga stabilitas keamanan regional di tengah ketegangan Iran-Israel yang berlanjut.</p><p>Menurut laporan Axios, dalam pertemuan tertutup dengan pejabat AS awal 2026, Khalid bin Salman menyampaikan pandangan bahwa tanpa tindakan tegas dari Amerika Serikat terhadap Iran, rezim Teheran justru akan semakin percaya diri — sebuah sinyal penting tentang posisi strategis Riyadh dalam isu keamanan kawasan.</p><p>Menurut Al Arabiya, Pangeran Khalid turut memimpin penandatanganan sejumlah kesepakatan pertahanan strategis dalam ajang World Defense Show 2026 di Riyadh, menandai babak baru modernisasi persenjataan dan kemandirian industri pertahanan Arab Saudi sejalan dengan agenda Visi 2030.</p><p>Sebagai figur kunci di balik transformasi militer Kerajaan, Khalid bin Salman terus memainkan peran ganda: diplomat berpengalaman yang menjaga hubungan strategis dengan Washington, sekaligus arsitek modernisasi pertahanan yang mempersiapkan Arab Saudi menghadapi tantangan keamanan kawasan yang semakin kompleks.</p>',
+            source: 'AMU TV',
+            sourceUrl: 'https://amu.tv/229765/',
+            sourceSnippet: 'Saudi defense minister warns Iran against \'miscalculations\' — AMU TV, 2026',
+            source2: 'Al Arabiya English',
+            sourceUrl2: 'https://www.facebook.com/alarabiya.english/posts/saudi-defense-minister-prince-khalid-bin-salman-has-overseen-the-signing-of-seve/1337418341756516/',
+            sourceSnippet2: 'Saudi Defense Minister oversees signing of defense agreements at World Defense Show 2026 — Al Arabiya, 2026',
+            source3: 'Asharq Al-Awsat',
+            sourceUrl3: 'https://english.aawsat.com/gulf/5253399-saudi-minister-defense-relays-leadership%E2%80%99s-praise-armed-forces%E2%80%99-heroic-role',
+            sourceSnippet3: 'Saudi Minister of Defense Relays Leadership\'s Praise for Armed Forces — Asharq Al-Awsat, 2026'
+          },
+          en: {
+            title: 'Prince Khalid bin Salman — Saudi Defense Minister Warns Iran on Miscalculation',
+            desc: 'Saudi Defense Minister Prince Khalid bin Salman warned Iran to avoid miscalculation following a series of regional missile and drone attacks, while leading a massive modernization of the Kingdom\'s military in 2026.',
+            body: '<p>Prince Khalid bin Salman bin Abdulaziz Al Saud was born on March 24, 1988, the son of King Salman and full brother of Crown Prince Mohammed bin Salman. He has a military background as a former F-15 fighter jet pilot in the Royal Saudi Air Force before serving as Saudi Arabia\'s Ambassador to the United States from 2017-2019.</p><p>Khalid was later appointed Deputy Defense Minister and eventually full Defense Minister in 2022, making him one of the most influential figures in Saudi Arabia\'s security and defense policy amid the increasingly heated dynamics of Middle East geopolitics.</p><p>According to AMU TV in mid-2026, Prince Khalid warned Iran to “avoid miscalculations” following a series of missile and drone attacks in the region, underscoring Saudi Arabia\'s firm stance in maintaining regional security stability amid ongoing Iran-Israel tensions.</p><p>According to Axios, in a closed-door meeting with US officials in early 2026, Khalid bin Salman conveyed the view that without decisive US action against Iran, the Tehran regime would only grow more emboldened — a significant signal of Riyadh\'s strategic position on regional security issues.</p><p>According to Al Arabiya, Prince Khalid also led the signing of several strategic defense agreements at the World Defense Show 2026 in Riyadh, marking a new chapter in Saudi Arabia\'s weapons modernization and defense industry self-sufficiency in line with the Vision 2030 agenda.</p><p>As a key figure behind the Kingdom\'s military transformation, Khalid bin Salman continues to play a dual role: an experienced diplomat maintaining strategic ties with Washington, and an architect of defense modernization preparing Saudi Arabia to face increasingly complex regional security challenges.</p>',
+            source: 'AMU TV',
+            sourceUrl: 'https://amu.tv/229765/',
+            sourceSnippet: 'Saudi defense minister warns Iran against \'miscalculations\' — AMU TV, 2026',
+            source2: 'Al Arabiya English',
+            sourceUrl2: 'https://www.facebook.com/alarabiya.english/posts/saudi-defense-minister-prince-khalid-bin-salman-has-overseen-the-signing-of-seve/1337418341756516/',
+            sourceSnippet2: 'Saudi Defense Minister oversees signing of defense agreements at World Defense Show 2026 — Al Arabiya, 2026',
+            source3: 'Asharq Al-Awsat',
+            sourceUrl3: 'https://english.aawsat.com/gulf/5253399-saudi-minister-defense-relays-leadership%E2%80%99s-praise-armed-forces%E2%80%99-heroic-role',
+            sourceSnippet3: 'Saudi Minister of Defense Relays Leadership\'s Praise for Armed Forces — Asharq Al-Awsat, 2026'
+          },
+          ja: {
+            title: 'ハーリド・ビン・サルマーン王子 — イランに誤算を警告するサウジ国防相',
+            desc: 'サウジアラビア国防相ハーリド・ビン・サルマーン王子は、地域でのミサイル・ドローン攻撃を受けイランに誤算を避けるよう警告した。',
+            body: '<p>王子はリヤドで開催されたワールド・ディフェンス・ショー2026で複数の戦略的防衛協定の調印を主導した。</p>',
+            source: 'AMU TV', sourceUrl: 'https://amu.tv/229765/',
+            sourceSnippet: 'イランに警告 — AMU TV, 2026年'
+          },
+          ko: {
+            title: '칼리드 빈 살만 왕자 — 이란에 오판 경고하는 사우디 국방장관',
+            desc: '사우디아라비아 국방장관 칼리드 빈 살만 왕자는 지역 내 미사일·드론 공격에 대응해 이란에 오판을 피하라고 경고했다.',
+            body: '<p>왕자는 리야드에서 열린 월드 디펜스 쇼 2026에서 여러 전략적 방위 협정 서명을 주도했다.</p>',
+            source: 'AMU TV', sourceUrl: 'https://amu.tv/229765/',
+            sourceSnippet: '이란에 경고 — AMU TV, 2026년'
+          },
+          zh: {
+            title: '哈立德·本·萨勒曼王子 — 警告伊朗勿误判的沙特国防大臣',
+            desc: '沙特国防大臣哈立德·本·萨勒曼王子针对该地区一系列导弹和无人机袭击警告伊朗切勿误判。',
+            body: '<p>王子在利雅得举行的2026年世界防务展上主持了多项战略防务协议的签署。</p>',
+            source: 'AMU TV', sourceUrl: 'https://amu.tv/229765/',
+            sourceSnippet: '警告伊朗 — AMU电视台，2026年'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
