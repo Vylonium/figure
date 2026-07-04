@@ -237,6 +237,62 @@
           }
         }
       }
+    ,
+      {
+        id: 'china-wang-huning',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Wang Huning — Penasihat Politik Top China Dorong Pasar Domestik dan Integrasi Lintas Selat',
+            desc: 'Wang Huning, Ketua Konferensi Konsultatif Politik Rakyat China (CPPCC) dan anggota Komite Tetap Politbiro, mendesak dukungan kebijakan untuk membangun pasar domestik yang kuat serta mendorong integrasi lintas Selat Taiwan pada 2026.',
+            body: '<p>Wang Huning lahir pada 6 Oktober 1955 di Shanghai, China. Ia dikenal sebagai salah satu ahli teori politik paling berpengaruh di China modern, pernah menjabat sebagai profesor hukum internasional di Universitas Fudan sebelum direkrut ke dalam birokrasi Partai Komunis China pada 1990-an.</p><p>Wang unik karena telah menjadi penasihat ideologis bagi tiga pemimpin tertinggi China berturut-turut — Jiang Zemin, Hu Jintao, dan Xi Jinping — sebuah rekor yang jarang ditemui dalam sejarah politik China kontemporer. Ia dianggap sebagai arsitek intelektual di balik berbagai konsep ideologis utama termasuk “Tiongkok Bermimpi” (China Dream).</p><p>Menurut CGTN akhir Juni 2026, Wang Huning, dalam kapasitasnya sebagai Ketua CPPCC, menyerukan peningkatan riset kebijakan dan proposal-proposal praktis untuk mendukung pembangunan pasar domestik yang kuat, sejalan dengan strategi “sirkulasi ganda” China di tengah ketegangan dagang dengan Barat.</p><p>Menurut laporan CGTN sebelumnya pada Juni 2026, Wang juga mendesak kemajuan solid dalam pembangunan zona percontohan integrasi lintas-Selat, menegaskan perannya sebagai pejabat senior yang menangani isu Taiwan bagi kepemimpinan Beijing.</p><p>Menurut South China Morning Post, dalam pertemuannya dengan Wakil Ketua KMT Chang Rong-kung, Wang menegaskan bahwa hubungan lintas-Selat “bukan hubungan negara-ke-negara” — pernyataan yang mencerminkan garis kebijakan resmi Beijing terhadap status Taiwan.</p><p>Sebagai anggota Komite Tetap Politbiro dan Ketua CPPCC, Wang Huning tetap menjadi figur kunci yang menjembatani teori ideologis dengan kebijakan praktis, memainkan peran penting dalam merumuskan arah strategis China baik untuk urusan domestik maupun sensitivitas lintas-Selat.</p>',
+            source: 'CGTN',
+            sourceUrl: 'https://news.cgtn.com/news/2026-06-30/Wang-Huning-urges-policy-support-for-building-robust-domestic-market-1OortypwsXS/p.html',
+            sourceSnippet: 'China\'s top political advisor stresses policy support for building robust domestic market — CGTN, 30 Juni 2026',
+            source2: 'CGTN',
+            sourceUrl2: 'https://news.cgtn.com/news/2026-06-14/Wang-Huning-urges-progress-in-cross-Strait-integrated-development-1NY9V6CvYYw/p.html',
+            sourceSnippet2: 'China\'s top political advisor urges solid progress in cross-Strait integrated development — CGTN, 14 Juni 2026',
+            source3: 'South China Morning Post',
+            sourceUrl3: 'https://www.scmp.com/news/china/politics/article/3353165/cross-strait-ties-are-not-state-state-kmt-vice-chair-tells-senior-beijing-official',
+            sourceSnippet3: 'Cross-strait ties are not state-to-state, KMT vice-chair tells senior Beijing official — SCMP, 2026'
+          },
+          en: {
+            title: 'Wang Huning — China\'s Top Political Advisor Pushes Domestic Market and Cross-Strait Integration',
+            desc: 'Wang Huning, Chairman of China\'s CPPCC and Politburo Standing Committee member, called for policy support to build a robust domestic market and pushed cross-Strait integration in 2026.',
+            body: '<p>Wang Huning was born on October 6, 1955, in Shanghai, China. He is known as one of the most influential political theorists in modern China, having served as a professor of international law at Fudan University before being recruited into the Chinese Communist Party bureaucracy in the 1990s.</p><p>Wang is unique for having served as ideological advisor to three consecutive top Chinese leaders — Jiang Zemin, Hu Jintao, and Xi Jinping — a rare feat in contemporary Chinese political history. He is considered the intellectual architect behind several key ideological concepts including the “China Dream.”</p><p>According to CGTN in late June 2026, Wang Huning, in his capacity as CPPCC Chairman, called for improved policy research and practical proposals to support building a robust domestic market, in line with China\'s “dual circulation” strategy amid trade tensions with the West.</p><p>According to an earlier CGTN report in June 2026, Wang also urged solid progress in building the cross-Strait integrated development demonstration zone, underscoring his role as the senior official handling Taiwan affairs for Beijing\'s leadership.</p><p>According to the South China Morning Post, in his meeting with KMT vice-chair Chang Rong-kung, Wang emphasized that cross-Strait ties are “not state-to-state” — a statement reflecting Beijing\'s official policy line on Taiwan\'s status.</p><p>As a Politburo Standing Committee member and CPPCC Chairman, Wang Huning remains a key figure bridging ideological theory with practical policy, playing an important role in shaping China\'s strategic direction for both domestic affairs and cross-Strait sensitivities.</p>',
+            source: 'CGTN',
+            sourceUrl: 'https://news.cgtn.com/news/2026-06-30/Wang-Huning-urges-policy-support-for-building-robust-domestic-market-1OortypwsXS/p.html',
+            sourceSnippet: 'China\'s top political advisor stresses policy support for building robust domestic market — CGTN, June 30, 2026',
+            source2: 'CGTN',
+            sourceUrl2: 'https://news.cgtn.com/news/2026-06-14/Wang-Huning-urges-progress-in-cross-Strait-integrated-development-1NY9V6CvYYw/p.html',
+            sourceSnippet2: 'China\'s top political advisor urges solid progress in cross-Strait integrated development — CGTN, June 14, 2026',
+            source3: 'South China Morning Post',
+            sourceUrl3: 'https://www.scmp.com/news/china/politics/article/3353165/cross-strait-ties-are-not-state-state-kmt-vice-chair-tells-senior-beijing-official',
+            sourceSnippet3: 'Cross-strait ties are not state-to-state, KMT vice-chair tells senior Beijing official — SCMP, 2026'
+          },
+          ja: {
+            title: '王滬寧 — 国内市場と両岸統合を推進する中国トップ政治顧問',
+            desc: '中国人民政治協商会議（CPPCC）主席の王滬寧は、強固な国内市場構築への政策支援と両岸統合の推進を呼びかけた。',
+            body: '<p>王滬寧は江沢民、胡錦濤、習近平という3代の最高指導者に仕えたイデオロギー顧問として知られる。</p>',
+            source: 'CGTN', sourceUrl: 'https://news.cgtn.com/news/2026-06-30/Wang-Huning-urges-policy-support-for-building-robust-domestic-market-1OortypwsXS/p.html',
+            sourceSnippet: '国内市場構築を強調 — CGTN, 2026年6月'
+          },
+          ko: {
+            title: '왕후닝 — 내수 시장과 양안 통합을 추진하는 중국 최고위 정치 고문',
+            desc: '중국인민정치협상회의(CPPCC) 주석 왕후닝은 견고한 내수 시장 구축을 위한 정책 지원과 양안 통합 추진을 촉구했다.',
+            body: '<p>왕후닝은 장쩌민, 후진타오, 시진핑 등 3대 최고지도자를 연이어 보좌한 이념 고문으로 알려져 있다.</p>',
+            source: 'CGTN', sourceUrl: 'https://news.cgtn.com/news/2026-06-30/Wang-Huning-urges-policy-support-for-building-robust-domestic-market-1OortypwsXS/p.html',
+            sourceSnippet: '내수 시장 구축 강조 — CGTN, 2026년 6월'
+          },
+          zh: {
+            title: '王沪宁 — 推动国内市场建设与两岸融合的中国高层政治顾问',
+            desc: '全国政协主席王沪宁呼吁加强政策支持以建设强大国内市场，并推动两岸融合发展。',
+            body: '<p>王沪宁历经江泽民、胡锦涛、习近平三代最高领导人，是中国政坛罕见的意识形态顾问。</p>',
+            source: 'CGTN', sourceUrl: 'https://news.cgtn.com/news/2026-06-30/Wang-Huning-urges-policy-support-for-building-robust-domestic-market-1OortypwsXS/p.html',
+            sourceSnippet: '强调建设国内市场 — 中国国际电视台，2026年6月'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
