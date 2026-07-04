@@ -191,6 +191,117 @@
           }
         }
       }
+    ,
+      {
+        id: 'prancis-marine-le-pen',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Marine Le Pen — Pemimpin Sayap Kanan Prancis Hadapi Putusan Banding Krusial',
+            desc: 'Marine Le Pen, pemimpin Rassemblement National (RN), menghadapi putusan pengadilan banding pada 7 Juli 2026 yang akan menentukan apakah ia bisa mencalonkan diri dalam Pilpres Prancis 2027 setelah kasus penyalahgunaan dana Parlemen Eropa.',
+            body: '<p>Marine Le Pen lahir pada 5 Agustus 1968 di Neuilly-sur-Seine, Prancis, sebagai putri bungsu pendiri Front National, Jean-Marie Le Pen. Ia mengambil alih kepemimpinan partai pada 2011 dan mengubah namanya menjadi Rassemblement National (RN) sembari berupaya melunakkan citra partai dari warisan ekstremisnya.</p><p>Le Pen telah tiga kali maju dalam pemilihan presiden Prancis — 2012, 2017, dan 2022 — dengan perolehan suara yang terus meningkat, khususnya pada putaran kedua 2022 saat ia meraih lebih dari 41% suara melawan Emmanuel Macron. Kekuatan elektoralnya menjadikannya kandidat terkuat sayap kanan untuk Pilpres 2027.</p><p>Namun pada Maret 2026, pengadilan Prancis memutuskan Le Pen bersalah atas penggelapan dana Parlemen Eropa untuk membiayai staf partainya, menjatuhkan hukuman larangan mencalonkan diri selama lima tahun dengan pelaksanaan segera. Menurut laporan Reuters awal Juli 2026, putusan banding yang menentukan nasib pencalonannya dijadwalkan keluar pada 7 Juli 2026.</p><p>Le Pen menyatakan kepada media bahwa jika pengadilan banding memerintahkannya memakai gelang elektronik sebagai syarat pembebasan sambil menunggu proses hukum lebih lanjut, ia tidak akan maju dalam Pilpres 2027 dan akan menyerahkan pencalonan kepada penerusnya. Pernyataan ini memicu partainya mulai mempersiapkan skenario suksesi kepemimpinan.</p><p>Presiden RN saat ini, Jordan Bardella, disebut sebagai kandidat pengganti paling mungkin jika Le Pen benar-benar tersingkir dari kontestasi. Menurut Politico, kasus ini juga bersinggungan dengan pengawasan Parlemen Eropa yang menambah tekanan hukum terhadap masa depan politik Le Pen.</p><p>Terlepas dari hasil banding, Marine Le Pen telah mengukir jejak signifikan dalam mengarusutamakan sayap kanan Prancis selama lebih dari satu dekade, mengubah lanskap politik Prancis modern secara permanen.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/french-far-right-ponders-life-beyond-le-pen-appeal-ruling-looms-2026-07-02/',
+            sourceSnippet: 'French far right ponders life beyond Le Pen as appeal ruling looms — Reuters, 2 Juli 2026',
+            source2: 'Politico Europe',
+            sourceUrl2: 'https://www.politico.eu/article/brussels-comes-back-to-bite-le-pen/',
+            sourceSnippet2: 'Brussels comes back to bite Le Pen — Politico, Juli 2026',
+            source3: 'EU Today',
+            sourceUrl3: 'https://eutoday.net/marine-le-pen-appeal-bardella-succession/',
+            sourceSnippet3: 'Le Pen Appeal Ruling Forces French Far Right to Confront Succession — EU Today, Juli 2026'
+          },
+          en: {
+            title: 'Marine Le Pen — French Far-Right Leader Faces Crucial Appeal Ruling',
+            desc: 'Marine Le Pen, leader of the Rassemblement National (RN), faces a court appeal ruling on July 7, 2026, that will determine whether she can run in the 2027 French presidential election following an EU funds embezzlement case.',
+            body: '<p>Marine Le Pen was born on August 5, 1968, in Neuilly-sur-Seine, France, the youngest daughter of Front National founder Jean-Marie Le Pen. She took over party leadership in 2011 and rebranded it as Rassemblement National (RN) while trying to soften its extremist legacy.</p><p>Le Pen has run for president three times — 2012, 2017, and 2022 — with steadily increasing vote shares, notably surpassing 41% in the 2022 runoff against Emmanuel Macron. Her electoral strength makes her the strongest far-right candidate for the 2027 election.</p><p>However, in March 2026, a French court found Le Pen guilty of embezzling European Parliament funds to pay party staff, imposing an immediate five-year ban from running for office. According to Reuters in early July 2026, the appeal ruling that will decide her candidacy\'s fate is scheduled for July 7, 2026.</p><p>Le Pen told media that if the appeals court orders her to wear an electronic bracelet as a condition of release pending further legal proceedings, she will not run in 2027 and will hand the candidacy to a successor. This statement prompted her party to begin preparing leadership succession scenarios.</p><p>Current RN president Jordan Bardella is seen as the most likely replacement candidate should Le Pen be barred from the race. According to Politico, the case also intersects with European Parliament oversight, adding further legal pressure on Le Pen\'s political future.</p><p>Regardless of the appeal\'s outcome, Marine Le Pen has left a significant mark on mainstreaming France\'s far-right over more than a decade, permanently reshaping the landscape of modern French politics.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/french-far-right-ponders-life-beyond-le-pen-appeal-ruling-looms-2026-07-02/',
+            sourceSnippet: 'French far right ponders life beyond Le Pen as appeal ruling looms — Reuters, July 2, 2026',
+            source2: 'Politico Europe',
+            sourceUrl2: 'https://www.politico.eu/article/brussels-comes-back-to-bite-le-pen/',
+            sourceSnippet2: 'Brussels comes back to bite Le Pen — Politico, July 2026',
+            source3: 'EU Today',
+            sourceUrl3: 'https://eutoday.net/marine-le-pen-appeal-bardella-succession/',
+            sourceSnippet3: 'Le Pen Appeal Ruling Forces French Far Right to Confront Succession — EU Today, July 2026'
+          },
+          ja: {
+            title: 'マリーヌ・ル・ペン — 控訴審判決を待つフランス極右指導者',
+            desc: '国民連合（RN）党首マリーヌ・ル・ペンは、2026年7月7日の控訴審判決を待っており、これが2027年大統領選への出馬可否を左右する。',
+            body: '<p>マリーヌ・ル・ペンは欧州議会資金の不正流用事件で有罪判決を受け、5年間の出馬禁止処分を受けた。控訴審の結果次第で2027年大統領選の行方が大きく変わる可能性がある。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/world/french-far-right-ponders-life-beyond-le-pen-appeal-ruling-looms-2026-07-02/',
+            sourceSnippet: '控訴審判決を待つフランス極右 — ロイター, 2026年7月'
+          },
+          ko: {
+            title: '마린 르펜 — 항소심 판결 앞둔 프랑스 극우 지도자',
+            desc: '국민연합(RN) 대표 마린 르펜은 2026년 7월 7일 항소심 판결을 앞두고 있으며, 이는 2027년 대선 출마 가능 여부를 결정짓는다.',
+            body: '<p>마린 르펜은 유럽의회 자금 횡령 혐의로 유죄 판결을 받아 5년간 공직 출마 금지 처분을 받았다. 항소심 결과에 따라 2027년 프랑스 대선의 판도가 크게 바뀔 수 있다.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/world/french-far-right-ponders-life-beyond-le-pen-appeal-ruling-looms-2026-07-02/',
+            sourceSnippet: '항소심 판결 앞둔 프랑스 극우 — 로이터, 2026년 7월'
+          },
+          zh: {
+            title: '玛丽娜·勒庞 — 面临关键上诉判决的法国极右翼领袖',
+            desc: '国民联盟（RN）领袖玛丽娜·勒庞将于2026年7月7日迎来上诉判决，这将决定她能否参加2027年法国总统大选。',
+            body: '<p>玛丽娜·勒庞因挪用欧洲议会资金被判有罪，被处以五年禁止参选的处罚。上诉结果将极大影响2027年法国大选的走向。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/world/french-far-right-ponders-life-beyond-le-pen-appeal-ruling-looms-2026-07-02/',
+            sourceSnippet: '面临关键上诉判决的法国极右翼 — 路透社，2026年7月'
+          }
+        }
+      },
+      {
+        id: 'prancis-kylian-mbappe',
+        category: 'olahraga',
+        langs: {
+          id: {
+            title: 'Kylian Mbappé — Bintang Timnas Prancis Samai Rekor Gol Piala Dunia Messi',
+            desc: 'Kylian Mbappé mencetak dua gol saat Prancis membantai Swedia 3-0 di babak 16 besar Piala Dunia 2026, menyamai jumlah 6 gol Lionel Messi di turnamen dan memimpin perburuan Sepatu Emas.',
+            body: '<p>Kylian Mbappé lahir pada 20 Desember 1998 di Paris, Prancis, dan memulai karier profesionalnya di AS Monaco sebelum pindah ke Paris Saint-Germain pada 2018 dengan rekor transfer termahal kedua sepanjang sejarah sepak bola. Ia kemudian bergabung dengan Real Madrid pada musim 2024/2025.</p><p>Mbappé memenangkan Piala Dunia 2018 bersama Prancis sebagai pemain termuda kedua yang mencetak gol di final sejak Pele. Pada Piala Dunia 2022, ia mencetak hat-trick di final melawan Argentina meski akhirnya kalah adu penalti, mengukuhkan dirinya sebagai salah satu penyerang terbaik generasinya.</p><p>Menurut laporan Al Jazeera awal Juli 2026, dalam Piala Dunia 2026 yang digelar di Amerika Utara, Mbappé mencetak dua gol saat Prancis mengalahkan Swedia 3-0 di babak 16 besar, memecahkan rekor jumlah gol terbanyak dalam fase gugur turnamen dan menyamai raihan 6 gol Lionel Messi di turnamen yang sama.</p><p>Menurut ESPN, statistik Mbappé di turnamen ini menempatkannya di jajaran elite bersama para legenda seperti Pele dan Ronaldo, dengan performanya di fase grup dan gugur yang konsisten membawa Prancis melaju ke babak 32 besar melawan Paraguay di tengah gelombang panas ekstrem di Philadelphia.</p><p>Dalam wawancara dengan Reuters, Mbappé menyatakan optimismenya menghadapi persaingan sengit dengan Messi dalam perburuan Sepatu Emas, sembari menegaskan bahwa fokus utamanya bukan gelar individu melainkan membawa Prancis meraih trofi Piala Dunia ketiga.</p><p>Dengan performa gemilang ini, Mbappé memperkuat posisinya sebagai kapten dan pemimpin serangan Prancis, sekaligus menjadi salah satu tokoh sentral dalam narasi Piala Dunia 2026 yang mempertemukan generasi emas Messi dengan generasi baru yang dipimpinnya.</p>',
+            source: 'Al Jazeera',
+            sourceUrl: 'https://www.aljazeera.com/sports/2026/7/1/mbappe-deschamps-break-world-cup-records-in-sweden-thrashing',
+            sourceSnippet: 'Mbappe, Deschamps break World Cup records in Sweden thrashing — Al Jazeera, 1 Juli 2026',
+            source2: 'ESPN',
+            sourceUrl2: 'https://www.espn.com/soccer/story/_/id/49230559/fifa-world-cup-2026-stats-kylian-mbappe-tops-lionel-messi-beats-ronaldo-record-michael-olise-pele-erling-haaland-25-mora',
+            sourceSnippet2: 'FIFA World Cup 2026 stats: Mbappe tops Messi, beats Ronaldo record — ESPN, Juli 2026',
+            source3: 'Reuters',
+            sourceUrl3: 'https://www.reuters.com/sports/soccer/messi-will-score-more-i-want-trophy-mbappe-says-2026-07-01/',
+            sourceSnippet3: 'Messi will score more but I want the trophy, Mbappe says — Reuters, 1 Juli 2026'
+          },
+          en: {
+            title: 'Kylian Mbappé — French Star Matches Messi\'s World Cup Goal Record',
+            desc: 'Kylian Mbappé scored twice as France thrashed Sweden 3-0 in the 2026 World Cup round of 16, matching Lionel Messi\'s 6 goals in the tournament and leading the race for the Golden Boot.',
+            body: '<p>Kylian Mbappé was born on December 20, 1998, in Paris, France, and began his professional career at AS Monaco before moving to Paris Saint-Germain in 2018 in the second-most expensive transfer in football history. He later joined Real Madrid for the 2024/2025 season.</p><p>Mbappé won the 2018 World Cup with France as the second-youngest player to score in a final since Pele. At the 2022 World Cup, he scored a hat-trick in the final against Argentina despite ultimately losing on penalties, cementing his status as one of the best strikers of his generation.</p><p>According to Al Jazeera in early July 2026, at the 2026 World Cup hosted in North America, Mbappé scored twice as France beat Sweden 3-0 in the round of 16, breaking the record for most goals in a tournament\'s knockout stage and matching Lionel Messi\'s 6 goals in the same tournament.</p><p>According to ESPN, Mbappé\'s tournament statistics place him among elite company alongside legends like Pele and Ronaldo, with consistent performances across group and knockout stages carrying France into the round of 32 against Paraguay amid an extreme heatwave in Philadelphia.</p><p>In an interview with Reuters, Mbappé expressed confidence facing fierce competition with Messi for the Golden Boot, while emphasizing that his main focus is not individual accolades but leading France to a third World Cup title.</p><p>With this stellar form, Mbappé strengthens his position as captain and attacking leader for France, becoming one of the central figures in the 2026 World Cup narrative bridging Messi\'s golden generation with the new generation he now leads.</p>',
+            source: 'Al Jazeera',
+            sourceUrl: 'https://www.aljazeera.com/sports/2026/7/1/mbappe-deschamps-break-world-cup-records-in-sweden-thrashing',
+            sourceSnippet: 'Mbappe, Deschamps break World Cup records in Sweden thrashing — Al Jazeera, July 1, 2026',
+            source2: 'ESPN',
+            sourceUrl2: 'https://www.espn.com/soccer/story/_/id/49230559/fifa-world-cup-2026-stats-kylian-mbappe-tops-lionel-messi-beats-ronaldo-record-michael-olise-pele-erling-haaland-25-mora',
+            sourceSnippet2: 'FIFA World Cup 2026 stats: Mbappe tops Messi, beats Ronaldo record — ESPN, July 2026',
+            source3: 'Reuters',
+            sourceUrl3: 'https://www.reuters.com/sports/soccer/messi-will-score-more-i-want-trophy-mbappe-says-2026-07-01/',
+            sourceSnippet3: 'Messi will score more but I want the trophy, Mbappe says — Reuters, July 1, 2026'
+          },
+          ja: {
+            title: 'キリアン・ムバッペ — メッシのW杯得点記録に並ぶフランスの英雄',
+            desc: 'キリアン・ムバッペはスウェーデン戦で2得点し、フランスを3-0の勝利に導き、今大会でリオネル・メッシと並ぶ6得点目を記録した。',
+            body: '<p>ムバッペはノックアウトステージ最多得点記録を更新し、決勝トーナメント1回戦でパラグアイと対戦するフランスの攻撃を牽引している。</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/sports/2026/7/1/mbappe-deschamps-break-world-cup-records-in-sweden-thrashing',
+            sourceSnippet: 'スウェーデン戦で記録更新 — アルジャジーラ, 2026年7月'
+          },
+          ko: {
+            title: '킬리안 음바페 — 메시의 월드컵 득점 기록과 동률 이룬 프랑스 스타',
+            desc: '킬리안 음바페는 스웨덴전에서 두 골을 넣어 프랑스를 3-0 승리로 이끌었고, 이번 대회 리오넬 메시와 동률인 6골을 기록했다.',
+            body: '<p>음바페는 토너먼트 녹아웃 단계 최다 득점 기록을 경신했으며, 파라과이와의 32강전을 앞둔 프랑스 공격을 이끌고 있다.</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/sports/2026/7/1/mbappe-deschamps-break-world-cup-records-in-sweden-thrashing',
+            sourceSnippet: '스웨덴전 기록 경신 — 알자지라, 2026년 7월'
+          },
+          zh: {
+            title: '基利安·姆巴佩 — 追平梅西世界杯进球纪录的法国球星',
+            desc: '基利安·姆巴佩在对阵瑞典的比赛中打入两球，帮助法国队3-0获胜，追平梅西本届赛事6球的纪录。',
+            body: '<p>姆巴佩打破了世界杯淘汰赛阶段单届最多进球纪录，带领法国队晋级对阵巴拉圭的32强赛。</p>',
+            source: 'Al Jazeera', sourceUrl: 'https://www.aljazeera.com/sports/2026/7/1/mbappe-deschamps-break-world-cup-records-in-sweden-thrashing',
+            sourceSnippet: '对阵瑞典创纪录 — 半岛电视台，2026年7月'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
