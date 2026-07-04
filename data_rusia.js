@@ -191,6 +191,117 @@
           }
         }
       }
+    ,
+      {
+        id: 'rusia-elvira-nabiullina',
+        category: 'bisnis',
+        langs: {
+          id: {
+            title: 'Elvira Nabiullina — Gubernur Bank Sentral Rusia Hadapi Tekanan Krisis Ekonomi',
+            desc: 'Elvira Nabiullina, Gubernur Bank Sentral Rusia sejak 2013, muncul kembali di hadapan publik pada Juni 2026 setelah absen dua minggu, di tengah tekanan ekonomi domestik dan kelangkaan tenaga kerja yang belum pernah terjadi sebelumnya.',
+            body: '<p>Elvira Nabiullina lahir pada 29 Oktober 1963 di Ufa, Republik Bashkortostan, Uni Soviet. Ia meraih gelar ekonomi dari Universitas Negeri Moskow dan menempati berbagai posisi tinggi di pemerintahan Rusia sebelum ditunjuk sebagai Gubernur Bank Sentral Rusia pada 2013, menjadikannya perempuan pertama yang memimpin bank sentral negara G8.</p><p>Sepanjang kepemimpinannya, Nabiullina dikenal sebagai teknokrat yang piawai menjaga stabilitas finansial Rusia melalui berbagai krisis, termasuk sanksi internasional pascainvasi Ukraina 2022. Namun sejak 2025, tekanan terhadap ekonomi Rusia meningkat drastis akibat perang berkepanjangan dan isolasi ekonomi Barat.</p><p>Menurut laporan The New York Times pertengahan Juni 2026, Nabiullina sempat absen dari hadapan publik selama dua minggu, memicu spekulasi luas tentang kondisi kesehatannya di tengah ketegangan internal pemerintahan. Ia akhirnya muncul kembali dalam konferensi pers, berusaha memproyeksikan ketenangan meski situasi ekonomi domestik semakin genting.</p><p>Menurut Meduza, kemunculan publik pertamanya sejak awal Juni itu bertepatan dengan rapat dewan bank sentral yang membahas kemungkinan pemangkasan suku bunga acuan, sementara Presiden Putin sendiri menyatakan optimisme akan adanya penurunan suku bunga di tengah tren inflasi yang melandai.</p><p>Menurut Euromaidan Press, Nabiullina juga mengakui defisit tenaga kerja tanpa preseden sebesar 2,5 juta pekerja, seiring pabrik pertahanan dan front pertempuran menyerap tenaga kerja dalam jumlah besar — kondisi yang menurutnya “belum pernah dialami Rusia sebelumnya.”</p><p>Sebagai arsitek kebijakan moneter Rusia selama lebih dari satu dekade, Nabiullina kini menghadapi salah satu ujian tersulit kariernya: menjaga stabilitas ekonomi domestik di tengah tekanan perang, sanksi, dan krisis tenaga kerja yang terus membesar.</p>',
+            source: 'The New York Times',
+            sourceUrl: 'https://www.nytimes.com/2026/06/19/world/europe/russia-economy-interest-rates.html',
+            sourceSnippet: 'Back After Vanishing for 2 Weeks, Russian Banker Tries to Project Calm — NYT, 19 Juni 2026',
+            source2: 'Meduza',
+            sourceUrl2: 'https://meduza.io/en/news/2026/06/19/russia-s-central-bank-head-nabiullina-makes-first-public-appearance-since-early-june',
+            sourceSnippet2: 'Russia\'s central bank head Nabiullina makes first public appearance since early June — Meduza, Juni 2026',
+            source3: 'Euromaidan Press',
+            sourceUrl3: 'https://euromaidanpress.com/2026/04/29/russia-labor-floor-nabiullina-admits-unprecedented-shortage/',
+            sourceSnippet3: 'Russia has never seen this: central bank chief admits 2.5 million worker deficit — Euromaidan Press, April 2026'
+          },
+          en: {
+            title: 'Elvira Nabiullina — Russia\'s Central Bank Governor Faces Economic Crisis Pressure',
+            desc: 'Elvira Nabiullina, Governor of Russia\'s Central Bank since 2013, reappeared publicly in June 2026 after a two-week absence, amid unprecedented domestic economic pressure and labor shortages.',
+            body: '<p>Elvira Nabiullina was born on October 29, 1963, in Ufa, Bashkortostan, Soviet Union. She earned an economics degree from Moscow State University and held several senior Russian government posts before being appointed Governor of Russia\'s Central Bank in 2013, making her the first woman to lead a G8 nation\'s central bank.</p><p>Throughout her tenure, Nabiullina has been known as a skilled technocrat who maintained Russia\'s financial stability through multiple crises, including international sanctions following the 2022 invasion of Ukraine. However, since 2025, pressure on Russia\'s economy has escalated sharply due to the prolonged war and Western economic isolation.</p><p>According to The New York Times in mid-June 2026, Nabiullina had been absent from public view for two weeks, fueling widespread speculation about her health amid internal government tensions. She eventually reappeared at a press conference, trying to project calm despite an increasingly precarious domestic economic situation.</p><p>According to Meduza, her first public appearance since early June coincided with a central bank board meeting discussing a possible key rate cut, while President Putin himself expressed optimism about a rate reduction amid easing inflation trends.</p><p>According to Euromaidan Press, Nabiullina also acknowledged an unprecedented labor deficit of 2.5 million workers, as defense plants and the front absorb large portions of the workforce — a situation she described as something “Russia has never seen before.”</p><p>As the architect of Russian monetary policy for over a decade, Nabiullina now faces one of the toughest tests of her career: maintaining domestic economic stability amid the pressures of war, sanctions, and a growing labor crisis.</p>',
+            source: 'The New York Times',
+            sourceUrl: 'https://www.nytimes.com/2026/06/19/world/europe/russia-economy-interest-rates.html',
+            sourceSnippet: 'Back After Vanishing for 2 Weeks, Russian Banker Tries to Project Calm — NYT, June 19, 2026',
+            source2: 'Meduza',
+            sourceUrl2: 'https://meduza.io/en/news/2026/06/19/russia-s-central-bank-head-nabiullina-makes-first-public-appearance-since-early-june',
+            sourceSnippet2: 'Russia\'s central bank head Nabiullina makes first public appearance since early June — Meduza, June 2026',
+            source3: 'Euromaidan Press',
+            sourceUrl3: 'https://euromaidanpress.com/2026/04/29/russia-labor-floor-nabiullina-admits-unprecedented-shortage/',
+            sourceSnippet3: 'Russia has never seen this: central bank chief admits 2.5 million worker deficit — Euromaidan Press, April 2026'
+          },
+          ja: {
+            title: 'エルヴィラ・ナビウリナ — ロシア中央銀行総裁、経済危機の圧力に直面',
+            desc: 'ロシア中央銀行総裁エルヴィラ・ナビウリナは2週間の公の場からの不在後、2026年6月に再び姿を現した。',
+            body: '<p>ナビウリナ総裁は250万人規模の前例のない労働力不足を認め、ロシア経済への圧力が高まっていることを示した。</p>',
+            source: 'The New York Times', sourceUrl: 'https://www.nytimes.com/2026/06/19/world/europe/russia-economy-interest-rates.html',
+            sourceSnippet: '2週間ぶりの公の場復帰 — NYT, 2026年6月'
+          },
+          ko: {
+            title: '엘비라 나비울리나 — 경제 위기 압박에 직면한 러시아 중앙은행 총재',
+            desc: '러시아 중앙은행 총재 엘비라 나비울리나가 2주간의 공백 후 2026년 6월 다시 공개 석상에 모습을 드러냈다.',
+            body: '<p>나비울리나 총재는 250만 명 규모의 전례 없는 노동력 부족을 인정하며 러시아 경제에 대한 압박이 커지고 있음을 시사했다.</p>',
+            source: 'The New York Times', sourceUrl: 'https://www.nytimes.com/2026/06/19/world/europe/russia-economy-interest-rates.html',
+            sourceSnippet: '2주 만의 공개 석상 복귀 — 뉴욕타임스, 2026년 6월'
+          },
+          zh: {
+            title: '埃尔维拉·纳比乌琳娜 — 面临经济危机压力的俄罗斯央行行长',
+            desc: '俄罗斯央行行长埃尔维拉·纳比乌琳娜在缺席公开场合两周后，于2026年6月重新露面。',
+            body: '<p>纳比乌琳娜承认俄罗斯出现前所未有的250万劳动力缺口，显示俄罗斯经济压力持续加剧。</p>',
+            source: 'The New York Times', sourceUrl: 'https://www.nytimes.com/2026/06/19/world/europe/russia-economy-interest-rates.html',
+            sourceSnippet: '时隔两周重新露面 — 纽约时报，2026年6月'
+          }
+        }
+      },
+      {
+        id: 'rusia-mikhail-mishustin',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Mikhail Mishustin — PM Rusia Dorong Produktivitas Tenaga Kerja di Tengah Krisis Ekonomi',
+            desc: 'Perdana Menteri Rusia Mikhail Mishustin memimpin sesi strategis nasional tentang peningkatan produktivitas tenaga kerja pada akhir Juni 2026, sembari menandatangani kebijakan darurat energi domestik akibat tekanan ekonomi berkelanjutan.',
+            body: '<p>Mikhail Mishustin lahir pada 3 Maret 1966 di Moskow. Ia memiliki latar belakang teknokrat dengan karier panjang di bidang perpajakan, termasuk menjabat Kepala Layanan Pajak Federal Rusia sebelum ditunjuk sebagai Perdana Menteri oleh Presiden Vladimir Putin pada Januari 2020, menggantikan Dmitry Medvedev.</p><p>Sebagai PM, Mishustin dikenal dengan gaya kepemimpinan berbasis data dan digitalisasi birokrasi, serta perannya menjaga stabilitas administratif pemerintahan Rusia selama pandemi COVID-19 dan berlanjutnya perang di Ukraina yang telah membebani ekonomi domestik.</p><p>Menurut situs resmi Pemerintah Rusia awal Juli 2026, Mishustin memimpin sesi strategis nasional yang membahas cara-cara meningkatkan produktivitas tenaga kerja di sektor-sektor ekonomi utama, menyusul data dari Badan Statistik Federal yang menunjukkan produktivitas mulai tumbuh meski masih di bawah target pemerintah.</p><p>Menurut Mezha.net, dalam kapasitasnya sebagai kepala pemerintahan, Mishustin juga menandatangani dekrit yang mengizinkan penjualan bensin standar Euro 3 dengan kandungan sulfur lebih tinggi di seluruh Rusia hingga akhir 2026 — langkah darurat untuk mengatasi kelangkaan bahan bakar domestik akibat gangguan pasokan dan sanksi.</p><p>Menurut laporan OC Media, Mishustin turut aktif dalam diplomasi kawasan, melakukan kontak telepon dengan PM Armenia Nikol Pashinyan — kontak pertama sejak pemilu Armenia — di tengah dinamika hubungan Rusia dengan negara-negara bekas Uni Soviet yang terus berubah.</p><p>Dengan tantangan ekonomi domestik yang semakin kompleks, Mishustin tetap menjadi figur kunci teknokratis yang menjaga roda pemerintahan Rusia tetap berjalan di tengah tekanan geopolitik dan ekonomi yang belum mereda.</p>',
+            source: 'Government.ru',
+            sourceUrl: 'http://government.ru/en/news/59176/',
+            sourceSnippet: 'Mikhail Mishustin holds strategic session on ways to increase labour productivity — Government.ru, 2026',
+            source2: 'Mezha.net',
+            sourceUrl2: 'https://mezha.net/eng/bukvy/43cb8657_mishustin_allows_euro_3/',
+            sourceSnippet2: 'Mishustin allows Euro 3 gasoline sales across Russia until 2026 — Mezha.net, Juli 2026',
+            source3: 'OC Media',
+            sourceUrl3: 'https://oc-media.org/pashinyan-holds-call-with-russian-prime-minister-mishustin-in-first-contact-since-elections/',
+            sourceSnippet3: 'Pashinyan holds call with Russian PM Mishustin in first contact since elections — OC Media, 2026'
+          },
+          en: {
+            title: 'Mikhail Mishustin — Russian PM Pushes Labor Productivity Amid Economic Crisis',
+            desc: 'Russian Prime Minister Mikhail Mishustin led a national strategic session on boosting labor productivity in late June 2026, while signing emergency domestic fuel policy amid continued economic pressure.',
+            body: '<p>Mikhail Mishustin was born on March 3, 1966, in Moscow. He has a technocratic background with a long career in tax administration, including serving as Head of Russia\'s Federal Tax Service before being appointed Prime Minister by President Vladimir Putin in January 2020, succeeding Dmitry Medvedev.</p><p>As PM, Mishustin is known for a data-driven leadership style and bureaucratic digitalization, along with his role in maintaining administrative stability for the Russian government through the COVID-19 pandemic and the ongoing war in Ukraine, which has strained the domestic economy.</p><p>According to Russia\'s official government website in early July 2026, Mishustin led a national strategic session discussing ways to boost labor productivity across key economic sectors, following Federal Statistics Service data showing productivity beginning to grow though still below government targets.</p><p>According to Mezha.net, in his capacity as head of government, Mishustin also signed a decree permitting the sale of Euro 3 standard gasoline with higher sulfur content across Russia until the end of 2026 — an emergency measure to address domestic fuel shortages caused by supply disruptions and sanctions.</p><p>According to OC Media, Mishustin has also been active in regional diplomacy, holding a phone call with Armenian PM Nikol Pashinyan — their first contact since Armenia\'s elections — amid the shifting dynamics of Russia\'s relations with former Soviet states.</p><p>With increasingly complex domestic economic challenges, Mishustin remains a key technocratic figure keeping Russia\'s government running amid unrelenting geopolitical and economic pressure.</p>',
+            source: 'Government.ru',
+            sourceUrl: 'http://government.ru/en/news/59176/',
+            sourceSnippet: 'Mikhail Mishustin holds strategic session on ways to increase labour productivity — Government.ru, 2026',
+            source2: 'Mezha.net',
+            sourceUrl2: 'https://mezha.net/eng/bukvy/43cb8657_mishustin_allows_euro_3/',
+            sourceSnippet2: 'Mishustin allows Euro 3 gasoline sales across Russia until 2026 — Mezha.net, July 2026',
+            source3: 'OC Media',
+            sourceUrl3: 'https://oc-media.org/pashinyan-holds-call-with-russian-prime-minister-mishustin-in-first-contact-since-elections/',
+            sourceSnippet3: 'Pashinyan holds call with Russian PM Mishustin in first contact since elections — OC Media, 2026'
+          },
+          ja: {
+            title: 'ミハイル・ミシュスチン — 経済危機下で労働生産性向上を推進するロシア首相',
+            desc: 'ロシアのミハイル・ミシュスチン首相は2026年6月末、労働生産性向上に関する国家戦略会議を主導した。',
+            body: '<p>ミシュスチン首相は燃料不足に対応するため、硫黄含有量の高い規格外ガソリンの販売を許可する緊急令にも署名した。</p>',
+            source: 'Government.ru', sourceUrl: 'http://government.ru/en/news/59176/',
+            sourceSnippet: '労働生産性向上会議を主導 — ロシア政府公式, 2026年'
+          },
+          ko: {
+            title: '미하일 미슈스틴 — 경제 위기 속 노동생산성 향상을 추진하는 러시아 총리',
+            desc: '러시아의 미하일 미슈스틴 총리는 2026년 6월 말 노동생산성 향상에 관한 국가전략회의를 주재했다.',
+            body: '<p>미슈스틴 총리는 연료 부족에 대응하기 위해 황 함량이 높은 저품질 휘발유 판매를 허용하는 긴급 명령에도 서명했다.</p>',
+            source: 'Government.ru', sourceUrl: 'http://government.ru/en/news/59176/',
+            sourceSnippet: '노동생산성 회의 주재 — 러시아 정부 공식, 2026년'
+          },
+          zh: {
+            title: '米哈伊尔·米舒斯京 — 在经济危机中推动劳动生产率提升的俄罗斯总理',
+            desc: '俄罗斯总理米哈伊尔·米舒斯京于2026年6月底主持了一次关于提高劳动生产率的国家战略会议。',
+            body: '<p>米舒斯京总理还签署了紧急法令，允许在俄罗斯全国销售含硫量较高的欧三标准汽油，以应对燃料短缺问题。</p>',
+            source: 'Government.ru', sourceUrl: 'http://government.ru/en/news/59176/',
+            sourceSnippet: '主持劳动生产率会议 — 俄罗斯政府官网，2026年'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
