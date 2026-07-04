@@ -249,6 +249,62 @@
           }
         }
       }
+    ,
+      {
+        id: 'inggris-rachel-reeves',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Rachel Reeves — Menteri Keuangan Inggris Dukung Burnham dan Kunjungi Kyiv',
+            desc: 'Menteri Keuangan (Chancellor of the Exchequer) Inggris Rachel Reeves menyatakan dukungannya kepada Andy Burnham sebagai calon PM berikutnya, sembari melakukan kunjungan mendadak ke Kyiv untuk membahas pendanaan pertahanan Ukraina.',
+            body: '<p>Rachel Reeves lahir pada 13 Februari 1979 di Lewisham, London. Sebelum terjun ke politik, ia berkarier sebagai ekonom di Bank of England dan Bank of Scotland. Ia terpilih sebagai anggota Parlemen dari Partai Buruh pada 2010 dan ditunjuk sebagai Chancellor of the Exchequer pertama perempuan dalam sejarah Inggris pada 2024.</p><p>Sebagai Menteri Keuangan, Reeves bertanggung jawab merancang kebijakan fiskal Inggris di tengah tantangan ekonomi pascapandemi dan tekanan anggaran pertahanan yang meningkat akibat perang di Ukraina. Ia dikenal dengan pendekatan disiplin fiskal yang ketat namun kerap mendapat kritik dari sayap kiri partainya sendiri.</p><p>Menurut Reuters akhir Juni 2026, di tengah spekulasi pergantian kepemimpinan Partai Buruh, Reeves menyatakan dukungannya kepada Andy Burnham untuk menjadi Perdana Menteri berikutnya, sembari menegaskan bahwa dirinya akan tetap fokus menjalankan tugas sebagai Menteri Keuangan tanpa terganggu isu politik internal partai.</p><p>Menurut Pravda Ukraina, Reeves melakukan kunjungan mendadak ke Kyiv pada 27 Juni 2026 sebagai bagian dari pengumuman strategi pertahanan baru Inggris, mendiskusikan opsi pendanaan pertahanan Ukraina termasuk kemungkinan penggunaan aset Rusia yang dibekukan untuk membiayai kebutuhan militer Kyiv.</p><p>Menurut BBC, Reeves juga mendesak Burnham dan kubu internal partai untuk “tetap pada jalur” kebijakan ekonomi yang telah ia jalankan, mengklaim bahwa strategi pertumbuhan ekonominya “mulai membuahkan hasil” meski menghadapi tekanan politik domestik yang signifikan.</p><p>Dengan perannya yang strategis dalam kebijakan fiskal domestik dan diplomasi pertahanan internasional, Rachel Reeves tetap menjadi salah satu figur paling berpengaruh dalam pemerintahan Inggris di tengah dinamika politik internal yang terus bergejolak menjelang kemungkinan transisi kepemimpinan.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/uk/uks-reeves-backs-burnham-prime-minister-defers-own-role-2026-06-25/',
+            sourceSnippet: 'UK\'s Reeves says Burnham would provide stability as prime minister — Reuters, 25 Juni 2026',
+            source2: 'Pravda Ukraina',
+            sourceUrl2: 'https://www.pravda.com.ua/eng/news/2026/06/28/8041436/',
+            sourceSnippet2: 'UK Chancellor Reeves visits Kyiv — Pravda Ukraina, 28 Juni 2026',
+            source3: 'BBC News',
+            sourceUrl3: 'https://www.bbc.co.uk/news/articles/cvgm9mj262qo',
+            sourceSnippet3: 'Reeves urges Burnham to \'stick to what I\'m doing\' on economy — BBC, 2026'
+          },
+          en: {
+            title: 'Rachel Reeves — UK Chancellor Backs Burnham and Visits Kyiv',
+            desc: 'UK Chancellor of the Exchequer Rachel Reeves expressed support for Andy Burnham as the next Prime Minister, while making an unannounced visit to Kyiv to discuss Ukraine defense funding.',
+            body: '<p>Rachel Reeves was born on February 13, 1979, in Lewisham, London. Before entering politics, she worked as an economist at the Bank of England and Bank of Scotland. She was elected as a Labour Member of Parliament in 2010 and appointed the first female Chancellor of the Exchequer in British history in 2024.</p><p>As Chancellor, Reeves is responsible for shaping UK fiscal policy amid post-pandemic economic challenges and rising defense budget pressures caused by the war in Ukraine. She is known for a strict fiscal discipline approach, though she has often faced criticism from her party\'s left wing.</p><p>According to Reuters in late June 2026, amid speculation over Labour leadership changes, Reeves expressed support for Andy Burnham to become the next Prime Minister, while affirming that she would remain focused on her role as Chancellor without being distracted by internal party politics.</p><p>According to Pravda Ukraine, Reeves made an unannounced visit to Kyiv on June 27, 2026, as part of the UK\'s newly announced defense strategy, discussing options for funding Ukraine\'s defense, including the possible use of frozen Russian assets to finance Kyiv\'s military needs.</p><p>According to the BBC, Reeves also urged Burnham and internal party factions to “stick to” the economic policy she has pursued, claiming that her growth strategy is “beginning to bear fruit” despite facing significant domestic political pressure.</p><p>With her strategic role in domestic fiscal policy and international defense diplomacy, Rachel Reeves remains one of the most influential figures in the UK government amid ongoing internal political turbulence ahead of a possible leadership transition.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/uk/uks-reeves-backs-burnham-prime-minister-defers-own-role-2026-06-25/',
+            sourceSnippet: 'UK\'s Reeves says Burnham would provide stability as prime minister — Reuters, June 25, 2026',
+            source2: 'Pravda Ukraine',
+            sourceUrl2: 'https://www.pravda.com.ua/eng/news/2026/06/28/8041436/',
+            sourceSnippet2: 'UK Chancellor Reeves visits Kyiv — Pravda Ukraine, June 28, 2026',
+            source3: 'BBC News',
+            sourceUrl3: 'https://www.bbc.co.uk/news/articles/cvgm9mj262qo',
+            sourceSnippet3: 'Reeves urges Burnham to \'stick to what I\'m doing\' on economy — BBC, 2026'
+          },
+          ja: {
+            title: 'レイチェル・リーブス — バーナムを支持しキーウを訪問した英財務相',
+            desc: '英財務相レイチェル・リーブスは次期首相候補としてアンディ・バーナムへの支持を表明し、キーウを電撃訪問した。',
+            body: '<p>リーブス財務相はウクライナの防衛資金調達について協議し、凍結されたロシア資産の活用可能性を議論した。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/world/uk/uks-reeves-backs-burnham-prime-minister-defers-own-role-2026-06-25/',
+            sourceSnippet: 'バーナムを支持 — ロイター, 2026年6月'
+          },
+          ko: {
+            title: '레이첼 리브스 — 버넘을 지지하고 키이우를 방문한 영국 재무장관',
+            desc: '영국 재무장관 레이첼 리브스는 차기 총리 후보로 앤디 버넘을 지지한다고 밝히며 키이우를 전격 방문했다.',
+            body: '<p>리브스 장관은 우크라이나 국방 자금 조달 방안을 논의했으며, 동결된 러시아 자산 활용 가능성도 다뤘다.</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/world/uk/uks-reeves-backs-burnham-prime-minister-defers-own-role-2026-06-25/',
+            sourceSnippet: '버넘 지지 표명 — 로이터, 2026년 6월'
+          },
+          zh: {
+            title: '蕾切尔·里夫斯 — 支持伯纳姆并访问基辅的英国财政大臣',
+            desc: '英国财政大臣蕾切尔·里夫斯表示支持安迪·伯纳姆出任下任首相，并突访基辅。',
+            body: '<p>里夫斯讨论了乌克兰国防资金筹措方案，包括利用被冻结的俄罗斯资产为基辅提供军事资金支持的可能性。</p>',
+            source: 'Reuters', sourceUrl: 'https://www.reuters.com/world/uk/uks-reeves-backs-burnham-prime-minister-defers-own-role-2026-06-25/',
+            sourceSnippet: '表态支持伯纳姆 — 路透社，2026年6月'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
