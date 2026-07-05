@@ -249,6 +249,123 @@
           }
         }
       }
+      ,
+      {
+        id: 'israel-isaac-herzog',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Isaac Herzog — Presiden Israel yang Aktif dalam Diplomasi Global 2026',
+            desc: 'Isaac Herzog, Presiden Israel, terus menjalankan peran diplomatik aktif sepanjang 2026, mulai dari kunjungan kenegaraan ke Rumania hingga pidato di Konferensi Herzliya dan perayaan Hari Kemerdekaan AS bersama Duta Besar AS Mike Huckabee.',
+            body: '<p>Isaac Herzog menjabat sebagai Presiden Israel ke-11 sejak Juli 2021. Berbeda dari Perdana Menteri yang memegang kekuasaan eksekutif, posisi Presiden Israel bersifat lebih seremonial dan diplomatik, namun tetap memainkan peran penting dalam menjaga citra dan hubungan internasional negara tersebut, terutama di tengah situasi geopolitik kawasan yang tegang.</p><p>Pada akhir Juni 2026, Herzog menyampaikan pidato di Konferensi Herzliya 2026, forum kebijakan keamanan dan strategi tahunan paling berpengaruh di Israel, di mana ia membahas isu-isu strategis nasional termasuk keamanan regional dan hubungan diplomatik Israel dengan sekutu-sekutunya.</p><p>Beberapa hari kemudian, Herzog mengadakan konferensi pers bersama dengan Presiden Rumania Nicușor Dan di Bucharest, menegaskan komitmen Israel memperkuat hubungan bilateral dengan negara-negara Eropa Timur di tengah dinamika politik global yang terus berubah.</p><p>Pada awal Juli 2026, Herzog turut menghadiri pembukaan Maccabiah Games ke-22 di Yerusalem, ajang olahraga internasional bagi atlet Yahudi dari seluruh dunia, yang ia sebut sebagai \'tampilan kekuatan Yahudi\'. Acara ini menjadi salah satu momen diplomatik dan budaya penting bagi Israel di tahun 2026.</p><p>Menjelang perayaan Hari Kemerdekaan Amerika Serikat pada 4 Juli 2026, Herzog mengunjungi Duta Besar AS untuk Israel, Mike Huckabee, di Kedutaan Besar AS di Yerusalem, serta mengirimkan pesan ucapan selamat kepada Presiden AS Donald Trump, menegaskan hubungan erat kedua negara di tengah berbagai isu keamanan regional yang melibatkan Iran dan Lebanon.</p>',
+            source: 'JNS (Jewish News Syndicate)',
+            sourceUrl: 'https://www.jns.org/news/israel-news/herzog-marks-us-independence-day-with-visit-to-ambassador-huckabee',
+            sourceSnippet: 'Herzog marks US Independence Day with visit to Ambassador Huckabee — JNS, Juli 2026',
+            source2: 'The Jerusalem Post',
+            sourceUrl2: 'https://www.jpost.com/israel-news/article-901337',
+            sourceSnippet2: '\'Mazal tov America!\': Herzog shares congratulatory message with US amb. — Jerusalem Post, Juli 2026',
+            source3: 'i24NEWS',
+            sourceUrl3: 'https://www.i24news.tv/en/news/israel/sport/artc-22nd-maccabiah-games-open-in-jerusalem-as-president-herzog-hails-display-of-jewish-strength',
+            sourceSnippet3: '22nd Maccabiah Games open in Jerusalem as President Herzog hails \'display of Jewish strength\' — i24NEWS, Juli 2026',
+            source4: 'Gov.il (Situs Resmi Pemerintah Israel)',
+            sourceUrl4: 'https://www.gov.il/en/pages/president-herzog-addresses-the-2026-herzliya-conference-30-jun-2026',
+            sourceSnippet4: 'President Herzog addresses the 2026 Herzliya Conference — Gov.il, 30 Juni 2026'
+          },
+          en: {
+            title: 'Isaac Herzog — Israel\'s President Active in Global Diplomacy in 2026',
+            desc: 'Isaac Herzog, President of Israel, has maintained an active diplomatic role throughout 2026, from a state visit to Romania to addressing the Herzliya Conference and marking US Independence Day with Ambassador Mike Huckabee.',
+            body: '<p>Isaac Herzog has served as Israel\'s 11th President since July 2021. Unlike the Prime Minister who holds executive power, Israel\'s presidency is a more ceremonial and diplomatic role, yet it still plays an important part in maintaining the country\'s image and international relations, especially amid tense regional geopolitics.</p><p>In late June 2026, Herzog delivered an address at the 2026 Herzliya Conference, Israel\'s most influential annual security and strategy policy forum, discussing national strategic issues including regional security and Israel\'s diplomatic ties with its allies.</p><p>Days later, Herzog held a joint press conference with Romanian President Nicușor Dan in Bucharest, affirming Israel\'s commitment to strengthening bilateral relations with Eastern European nations amid shifting global political dynamics.</p><p>In early July 2026, Herzog attended the opening of the 22nd Maccabiah Games in Jerusalem, an international sporting event for Jewish athletes worldwide, which he described as a \'display of Jewish strength.\' The event marked one of Israel\'s key diplomatic and cultural moments of 2026.</p><p>Ahead of the US Independence Day celebration on July 4, 2026, Herzog visited US Ambassador to Israel Mike Huckabee at the American Embassy in Jerusalem, and sent a congratulatory message to US President Donald Trump, affirming the close ties between the two nations amid various regional security issues involving Iran and Lebanon.</p>',
+            source: 'JNS (Jewish News Syndicate)',
+            sourceUrl: 'https://www.jns.org/news/israel-news/herzog-marks-us-independence-day-with-visit-to-ambassador-huckabee',
+            sourceSnippet: 'Herzog marks US Independence Day with visit to Ambassador Huckabee — JNS, July 2026',
+            source2: 'The Jerusalem Post',
+            sourceUrl2: 'https://www.jpost.com/israel-news/article-901337',
+            sourceSnippet2: '\'Mazal tov America!\': Herzog shares congratulatory message with US amb. — Jerusalem Post, July 2026',
+            source3: 'i24NEWS',
+            sourceUrl3: 'https://www.i24news.tv/en/news/israel/sport/artc-22nd-maccabiah-games-open-in-jerusalem-as-president-herzog-hails-display-of-jewish-strength',
+            sourceSnippet3: '22nd Maccabiah Games open in Jerusalem as President Herzog hails \'display of Jewish strength\' — i24NEWS, July 2026'
+          },
+          ja: {
+            title: 'イサク・ヘルツォグ — 2026年、活発な外交を展開するイスラエル大統領',
+            desc: 'イサク・ヘルツォグ大統領は2026年を通じ、ルーマニア訪問からヘルツリーヤ会議演説、米独立記念日での祝賀まで積極的な外交活動を続けている。',
+            body: '<p>イサク・ヘルツォグは2021年7月からイスラエル第11代大統領を務める。2026年6月末にはヘルツリーヤ会議で演説し、地域安全保障や外交関係について発言した。</p><p>7月にはエルサレムで開催された第22回マカビア大会の開会式に出席し「ユダヤの力の表れ」と称賛した。</p>',
+            source: 'JNS (Jewish News Syndicate)',
+            sourceUrl: 'https://www.jns.org/news/israel-news/herzog-marks-us-independence-day-with-visit-to-ambassador-huckabee',
+            sourceSnippet: 'ヘルツォグ、米独立記念日にハッカビー大使を訪問 — JNS, 2026年7月'
+          },
+          ko: {
+            title: '이츠하크 헤르초그 — 2026년 활발한 외교를 펼치는 이스라엘 대통령',
+            desc: '이츠하크 헤르초그 대통령은 2026년 내내 루마니아 방문부터 헤르츨리야 회의 연설, 미국 독립기념일 축하까지 활발한 외교 활동을 이어가고 있다.',
+            body: '<p>이츠하크 헤르초그는 2021년 7월부터 이스라엘 제11대 대통령을 맡고 있다. 2026년 6월 말 헤르츨리야 회의에서 연설하며 지역 안보와 외교 관계에 대해 발언했다.</p><p>7월에는 예루살렘에서 열린 제22회 마카비아 대회 개막식에 참석해 "유대 민족 힘의 표현"이라 칭송했다.</p>',
+            source: 'JNS (Jewish News Syndicate)',
+            sourceUrl: 'https://www.jns.org/news/israel-news/herzog-marks-us-independence-day-with-visit-to-ambassador-huckabee',
+            sourceSnippet: '헤르초그, 미 독립기념일에 허커비 대사 방문 — JNS, 2026년 7월'
+          },
+          zh: {
+            title: '艾萨克·赫尔佐格 — 2026年积极开展外交的以色列总统',
+            desc: '以色列总统艾萨克·赫尔佐格在2026年全年保持活跃的外交角色，从访问罗马尼亚到在赫兹利亚会议上发表讲话，再到与美国大使共庆独立日。',
+            body: '<p>艾萨克·赫尔佐格自2021年7月起担任以色列第11任总统。2026年6月底，他在赫兹利亚会议上发表讲话，讨论地区安全与外交关系等战略议题。</p><p>7月，他出席了在耶路撒冷举行的第22届马加比亚运动会开幕式，称其为"犹太力量的展示"。</p>',
+            source: 'JNS (Jewish News Syndicate)',
+            sourceUrl: 'https://www.jns.org/news/israel-news/herzog-marks-us-independence-day-with-visit-to-ambassador-huckabee',
+            sourceSnippet: '赫尔佐格在美国独立日拜访哈克比大使 — JNS，2026年7月'
+          }
+        }
+      },
+      {
+        id: 'israel-gadi-eisenkot',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Gadi Eisenkot — Mantan Panglima IDF yang Jadi Rival Politik Utama Netanyahu',
+            desc: 'Gadi Eisenkot, mantan Kepala Staf Angkatan Pertahanan Israel (IDF), kini muncul sebagai salah satu rival politik terkuat Perdana Menteri Benjamin Netanyahu menjelang pemilu Israel mendatang, menurut sejumlah survei terbaru 2026.',
+            body: '<p>Gadi Eisenkot adalah mantan Kepala Staf Angkatan Pertahanan Israel (IDF) yang menjabat dari 2015 hingga 2019, dikenal luas atas kepemimpinannya dalam berbagai operasi militer signifikan Israel. Setelah pensiun dari militer, ia terjun ke dunia politik dan menjadi salah satu tokoh oposisi paling dihormati terhadap pemerintahan Netanyahu.</p><p>Menurut survei yang dirilis The Jerusalem Post awal Juli 2026, partai pecahan yang berpotensi dipimpin kubu anti-Netanyahu diproyeksikan meraih hasil signifikan dalam pemilu mendatang, sementara jajak pendapat JNS menunjukkan Eisenkot menempati posisi kedua sebagai kandidat yang dianggap paling layak menjadi Perdana Menteri berikutnya, dengan dukungan 26,5 persen responden — di bawah Netanyahu namun jauh di atas kandidat oposisi lainnya.</p><p>Eisenkot dikenal dengan gaya kepemimpinan yang tenang namun tegas, kontras dengan gaya politik Netanyahu yang lebih konfrontatif. Latar belakang militernya yang kuat, termasuk pengalamannya memimpin IDF selama periode-periode konflik penting, memberinya kredibilitas keamanan yang dihormati lintas spektrum politik Israel.</p><p>Menjelang pemilu Israel yang akan datang, Eisenkot dan sejumlah tokoh oposisi lain — termasuk kubu Bennett-Lapid dari Partai Bersama (Together Party) — bersaing memperebutkan dukungan publik di tengah tekanan politik, hukum, dan diplomatik yang terus meningkat terhadap Netanyahu, termasuk sorotan internasional atas kebijakan Israel di Lebanon dan hubungan dengan AS terkait isu Iran.</p><p>Meski Netanyahu masih dianggap sebagai kandidat terkuat untuk membentuk pemerintahan berikutnya menurut sejumlah jajak pendapat, kemunculan Eisenkot sebagai alternatif kredibel menandai pergeseran penting dalam lanskap politik Israel yang semakin terpolarisasi menjelang pemilu 2026.</p>',
+            source: 'The Jerusalem Post',
+            sourceUrl: 'https://www.jpost.com/israel-news/politics-and-diplomacy/article-901312',
+            sourceSnippet: 'Netanyahu-led breakaway party would win 16 seats, survey finds — Jerusalem Post, Juli 2026',
+            source2: 'JNS (Jewish News Syndicate)',
+            sourceUrl2: 'https://www.jns.org/news/israel-news/netanyahu-best-suited-as-next-prime-minister-likely-to-form-new-government-new-poll-suggests',
+            sourceSnippet2: 'Netanyahu best suited as next prime minister, poll suggests — JNS, Juli 2026',
+            source3: 'Al Jazeera',
+            sourceUrl3: 'https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career',
+            sourceSnippet3: 'Could Israel\'s coming election see an end to Netanyahu\'s political career? — Al Jazeera, 27 Juni 2026'
+          },
+          en: {
+            title: 'Gadi Eisenkot — Former IDF Chief Emerges as Netanyahu\'s Top Political Rival',
+            desc: 'Gadi Eisenkot, former Chief of Staff of the Israel Defense Forces (IDF), has emerged as one of the strongest political rivals to Prime Minister Benjamin Netanyahu ahead of Israel\'s upcoming election, according to recent 2026 polling.',
+            body: '<p>Gadi Eisenkot is a former Chief of Staff of the Israel Defense Forces (IDF), serving from 2015 to 2019, widely known for his leadership during several significant Israeli military operations. After retiring from the military, he entered politics and became one of the most respected opposition figures against Netanyahu\'s government.</p><p>According to a survey published by The Jerusalem Post in early July 2026, a breakaway party potentially led by anti-Netanyahu figures is projected to win significant seats in the upcoming election, while a JNS poll shows Eisenkot placing second as the candidate considered best suited to be the next Prime Minister, with 26.5 percent support — behind Netanyahu but well ahead of other opposition candidates.</p><p>Eisenkot is known for a calm yet firm leadership style, contrasting with Netanyahu\'s more confrontational political approach. His strong military background, including leading the IDF through critical conflict periods, gives him security credibility respected across Israel\'s political spectrum.</p><p>Ahead of Israel\'s upcoming election, Eisenkot and several other opposition figures — including the Bennett-Lapid Together Party bloc — are competing for public support amid mounting political, legal, and diplomatic pressure on Netanyahu, including international scrutiny over Israel\'s policies in Lebanon and US relations regarding Iran.</p>',
+            source: 'The Jerusalem Post',
+            sourceUrl: 'https://www.jpost.com/israel-news/politics-and-diplomacy/article-901312',
+            sourceSnippet: 'Netanyahu-led breakaway party would win 16 seats, survey finds — Jerusalem Post, July 2026',
+            source2: 'JNS (Jewish News Syndicate)',
+            sourceUrl2: 'https://www.jns.org/news/israel-news/netanyahu-best-suited-as-next-prime-minister-likely-to-form-new-government-new-poll-suggests',
+            sourceSnippet2: 'Netanyahu best suited as next prime minister, poll suggests — JNS, July 2026'
+          },
+          ja: {
+            title: 'ガディ・アイゼンコット — ネタニヤフ首相の最大の政敵に浮上した元IDF参謀総長',
+            desc: '元イスラエル国防軍参謀総長ガディ・アイゼンコットが、2026年の最新世論調査でネタニヤフ首相最大の政敵として浮上している。',
+            body: '<p>ガディ・アイゼンコットは2015年から2019年までIDF参謀総長を務めた人物。退役後政界入りし、ネタニヤフ政権への有力な対抗馬となっている。JNSの世論調査では次期首相候補として26.5％の支持を得て2位につけている。</p>',
+            source: 'The Jerusalem Post',
+            sourceUrl: 'https://www.jpost.com/israel-news/politics-and-diplomacy/article-901312',
+            sourceSnippet: 'ネタニヤフ系離党政党が16議席獲得の見込み — エルサレム・ポスト, 2026年7月'
+          },
+          ko: {
+            title: '가디 아이젠코트 — 네타냐후 총리의 최대 정적으로 부상한 전 IDF 참모총장',
+            desc: '전 이스라엘군(IDF) 참모총장 가디 아이젠코트가 2026년 최신 여론조사에서 네타냐후 총리의 최대 정적으로 부상했다.',
+            body: '<p>가디 아이젠코트는 2015년부터 2019년까지 IDF 참모총장을 지냈다. 퇴역 후 정계에 입문해 네타냐후 정권의 유력한 대항마가 됐다. JNS 여론조사에서 차기 총리 후보로 26.5%의 지지를 얻어 2위를 차지했다.</p>',
+            source: 'The Jerusalem Post',
+            sourceUrl: 'https://www.jpost.com/israel-news/politics-and-diplomacy/article-901312',
+            sourceSnippet: '네타냐후계 탈당 정당 16석 획득 전망 — 예루살렘포스트, 2026년 7월'
+          },
+          zh: {
+            title: '加迪·艾森科特 — 崛起为内塔尼亚胡最大政治对手的前以军参谋长',
+            desc: '以色列国防军前参谋长加迪·艾森科特在2026年最新民调中崛起为内塔尼亚胡总理最大的政治对手。',
+            body: '<p>加迪·艾森科特2015年至2019年担任以色列国防军参谋长。退役后从政，成为内塔尼亚胡政府最受尊敬的反对派人物之一。据JNS民调，他以26.5%的支持率位居次任总理最佳人选第二位。</p>',
+            source: 'The Jerusalem Post',
+            sourceUrl: 'https://www.jpost.com/israel-news/politics-and-diplomacy/article-901312',
+            sourceSnippet: '内塔尼亚胡系分裂政党预计获16席 — 耶路撒冷邮报，2026年7月'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
