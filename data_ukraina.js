@@ -253,6 +253,129 @@
           }
         }
       }
+      ,
+      {
+        id: 'ukraina-kyrylo-budanov',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Kyrylo Budanov — Mantan Kepala Intelijen HUR yang Kini Pimpin Kantor Presiden Ukraina',
+            desc: 'Kyrylo Budanov, mantan kepala badan intelijen militer HUR yang terkenal dengan operasi-operasi berani melawan Rusia, ditunjuk Presiden Zelensky sebagai Kepala Kantor Presiden Ukraina sejak 2 Januari 2026.',
+            body: '<p>Kyrylo Budanov adalah perwira militer Ukraina yang sebelumnya memimpin Direktorat Intelijen Utama Kementerian Pertahanan Ukraina (HUR/GUR) sejak 2020. Di bawah kepemimpinannya, HUR dikenal luas atas serangkaian operasi rahasia berisiko tinggi terhadap target-target Rusia, termasuk sabotase infrastruktur dan operasi drone jarak jauh yang mengejutkan dunia militer internasional.</p><p>Pada 2 Januari 2026, Presiden Volodymyr Zelensky mengumumkan penunjukan Budanov sebagai Kepala Kantor Presiden Ukraina, salah satu posisi paling berpengaruh di pemerintahan Kyiv. Posisi kepala HUR yang ditinggalkannya kemudian diisi oleh Vadym Ivashchenko, menandai salah satu pergeseran besar dalam struktur keamanan dan politik Ukraina di tengah perang yang berlanjut.</p><p>Sebagai Kepala Kantor Presiden, Budanov kini memainkan peran sentral dalam diplomasi tingkat tinggi Ukraina. Ia dilaporkan turut membahas prospek mengakhiri perang dengan Rusia sebelum musim dingin 2026, dengan menyebut target tersebut sebagai \'realistis\' mengingat posisi Ukraina yang kuat di medan tempur pada pertengahan tahun.</p><p>Budanov juga terlibat dalam sengketa diplomatik dengan Polandia terkait unit pasukan operasi khusus Ukraina bernama \'Heroes of UPA\', yang dianggap Warsawa sebagai penghormatan terhadap kelompok yang terlibat kontroversi sejarah Perang Dunia II. Kantornya menegaskan tidak akan mengubah nama unit tersebut meski mendapat tekanan diplomatik berkelanjutan dari Polandia.</p><p>Selain isu diplomatik, Budanov turut menekankan pentingnya Ukraina membangun hubungan yang baik atau setidaknya netral dengan negara-negara tetangga di masa depan, berdasarkan kalkulasi kepentingan nasional yang rasional — sebuah pandangan yang mencerminkan pergeseran strategi Kyiv menjelang kemungkinan babak baru negosiasi damai dengan Rusia.</p>',
+            source: 'BBC News',
+            sourceUrl: 'https://www.bbc.com/news/articles/cx2k0101enyo',
+            sourceSnippet: 'Zelensky names spy chief to head presidential office — BBC News, 2 Januari 2026',
+            source2: 'Al Jazeera',
+            sourceUrl2: 'https://www.aljazeera.com/news/2026/1/2/ukraines-zelenskyy-names-gur-chief-kyrylo-budanov-as-top-aide',
+            sourceSnippet2: 'Ukraine\'s Zelenskyy names GUR chief Kyrylo Budanov as top aide — Al Jazeera, 2 Januari 2026',
+            source3: 'Kyiv Independent',
+            sourceUrl3: 'https://kyivindependent.com/ending-russias-war-before-winter-is-realistic-budanov-says/',
+            sourceSnippet3: 'Ending Russia\'s war before winter is realistic, Budanov says — Kyiv Independent, 1 Juni 2026',
+            source4: 'Euromaidan Press',
+            sourceUrl4: 'https://euromaidanpress.com/2026/06/11/budanov-denies-heroes-of-upa-unit-renaming/',
+            sourceSnippet4: '\'Heroes of UPA\' unit will keep its name, Budanov\'s office says — Euromaidan Press, 11 Juni 2026'
+          },
+          en: {
+            title: 'Kyrylo Budanov — Former HUR Intelligence Chief Now Heads Ukraine\'s Presidential Office',
+            desc: 'Kyrylo Budanov, the former head of Ukraine\'s HUR military intelligence agency known for bold operations against Russia, was appointed by President Zelensky as Head of the Office of the President of Ukraine since January 2, 2026.',
+            body: '<p>Kyrylo Budanov is a Ukrainian military officer who previously led the Main Intelligence Directorate of Ukraine\'s Ministry of Defense (HUR/GUR) since 2020. Under his leadership, HUR became widely known for a series of high-risk covert operations against Russian targets, including infrastructure sabotage and long-range drone operations that stunned the international military community.</p><p>On January 2, 2026, President Volodymyr Zelensky announced Budanov\'s appointment as Head of the Office of the President of Ukraine, one of the most influential positions in Kyiv\'s government. His former post at HUR was filled by Vadym Ivashchenko, marking a major shift in Ukraine\'s security and political structure amid the ongoing war.</p><p>As Head of the Presidential Office, Budanov now plays a central role in Ukraine\'s high-level diplomacy. He has reportedly discussed prospects of ending the war with Russia before winter 2026, calling the goal \'realistic\' given Ukraine\'s strong battlefield position by mid-year.</p><p>Budanov has also been involved in a diplomatic dispute with Poland over a Ukrainian special operations unit named \'Heroes of UPA\', which Warsaw views as honoring a group involved in controversial WWII-era history. His office has affirmed it will not rename the unit despite continued diplomatic pressure from Poland.</p>',
+            source: 'BBC News',
+            sourceUrl: 'https://www.bbc.com/news/articles/cx2k0101enyo',
+            sourceSnippet: 'Zelensky names spy chief to head presidential office — BBC News, January 2 2026',
+            source2: 'Al Jazeera',
+            sourceUrl2: 'https://www.aljazeera.com/news/2026/1/2/ukraines-zelenskyy-names-gur-chief-kyrylo-budanov-as-top-aide',
+            sourceSnippet2: 'Ukraine\'s Zelenskyy names GUR chief Kyrylo Budanov as top aide — Al Jazeera, January 2 2026',
+            source3: 'Kyiv Independent',
+            sourceUrl3: 'https://kyivindependent.com/ending-russias-war-before-winter-is-realistic-budanov-says/',
+            sourceSnippet3: 'Ending Russia\'s war before winter is realistic, Budanov says — Kyiv Independent, June 1 2026'
+          },
+          ja: {
+            title: 'キリロ・ブダノフ — 元HUR情報局長、ウクライナ大統領府長官に',
+            desc: '対ロシア作戦で知られた軍事情報局HURの元長官キリロ・ブダノフが、2026年1月2日付でウクライナ大統領府長官に任命された。',
+            body: '<p>キリロ・ブダノフは2020年からウクライナ国防省軍事情報総局（HUR/GUR）を率い、対ロシア工作で名を馳せた。2026年1月、ゼレンスキー大統領は彼を大統領府長官に任命し、後任のHUR長官にはヴァディム・イヴァシチェンコが就いた。</p><p>新職務でブダノフは対ロシア和平交渉にも関与し、2026年冬までの終戦を「現実的」と述べている。</p>',
+            source: 'BBC News',
+            sourceUrl: 'https://www.bbc.com/news/articles/cx2k0101enyo',
+            sourceSnippet: 'ゼレンスキー、スパイ長官を大統領府長官に任命 — BBC News, 2026年1月2日'
+          },
+          ko: {
+            title: '키릴로 부다노우 — 前 HUR 정보국장, 우크라이나 대통령실장으로',
+            desc: '對러시아 작전으로 유명했던 군사정보국 HUR의 전 국장 키릴로 부다노우가 2026년 1월 2일자로 우크라이나 대통령실장에 임명됐다.',
+            body: '<p>키릴로 부다노우는 2020년부터 우크라이나 국방부 군사정보총국(HUR/GUR)을 이끌며 대러시아 작전으로 명성을 얻었다. 2026년 1월, 젤렌스키 대통령은 그를 대통령실장으로 임명했고, 후임 HUR 국장에는 바딤 이바셴코가 취임했다.</p><p>새 직무에서 부다노우는 대러 평화 협상에도 관여하며 2026년 겨울 전 종전이 "현실적"이라고 밝혔다.</p>',
+            source: 'BBC News',
+            sourceUrl: 'https://www.bbc.com/news/articles/cx2k0101enyo',
+            sourceSnippet: '젤렌스키, 스파이 총수를 대통령실장으로 임명 — BBC News, 2026년 1월 2일'
+          },
+          zh: {
+            title: '基里洛·布达诺夫 — 前HUR情报局长出任乌克兰总统办公室主任',
+            desc: '以对俄行动闻名的乌克兰军事情报局HUR前局长基里洛·布达诺夫，自2026年1月2日起被任命为乌克兰总统办公室主任。',
+            body: '<p>基里洛·布达诺夫自2020年起领导乌克兰国防部军事情报总局（HUR/GUR），因对俄秘密行动闻名。2026年1月，泽连斯基总统任命他为总统办公室主任，HUR局长一职由瓦迪姆·伊瓦申科接任。</p><p>在新职位上，布达诺夫也参与对俄和谈事务，称2026年冬季前结束战争"现实可行"。</p>',
+            source: 'BBC News',
+            sourceUrl: 'https://www.bbc.com/news/articles/cx2k0101enyo',
+            sourceSnippet: '泽连斯基任命间谍主管为总统办公室主任 — BBC新闻，2026年1月2日'
+          }
+        }
+      },
+      {
+        id: 'ukraina-rustem-umerov',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Rustem Umerov — Sekretaris Dewan Keamanan Nasional & Negosiator Utama Ukraina',
+            desc: 'Rustem Umerov, mantan Menteri Pertahanan Ukraina, kini menjabat Sekretaris Dewan Keamanan dan Pertahanan Nasional serta menjadi negosiator utama Ukraina dalam perundingan damai dan kerja sama pertahanan internasional sepanjang 2026.',
+            body: '<p>Rustem Umerov adalah politisi Ukraina keturunan Tatar Krimea yang sebelumnya menjabat Menteri Pertahanan Ukraina sebelum beralih peran menjadi Sekretaris Dewan Keamanan dan Pertahanan Nasional (RNBO). Dalam posisi barunya, ia menjadi salah satu tokoh kunci yang mewakili Ukraina dalam perundingan diplomatik dan pertahanan tingkat tinggi dengan sekutu internasional.</p><p>Sepanjang awal 2026, Umerov aktif dalam pembicaraan trilateral antara delegasi AS, Ukraina, dan Rusia yang digelar di Abu Dhabi, membahas kemungkinan jalan menuju penghentian konflik. Ia juga tercatat bertemu berkali-kali dengan Menteri Luar Negeri Turki Hakan Fidan di Ankara sepanjang 2026 untuk membahas kerja sama pertahanan dan diplomasi kawasan.</p><p>Pada Juni 2026, Umerov terbang ke Berlin untuk bertemu dengan penasihat keamanan nasional dari Jerman, Prancis, dan Inggris di tengah eskalasi ancaman Rusia terhadap Kyiv dan ketegangan seputar keanggotaan Ukraina di Uni Eropa — menegaskan posisinya sebagai negosiator utama Presiden Zelensky dalam isu keamanan strategis.</p><p>Sebagai bagian dari upaya memperkuat industri pertahanan dalam negeri, Umerov mengumumkan penerapan skema \'Fast Track\' yang mempercepat proses persetujuan ekspor produk militer buatan Ukraina menjadi hanya 30 hari sejak pengajuan aplikasi hingga keputusan akhir, sebuah langkah yang bertujuan meningkatkan pendapatan sekaligus memperkuat basis produksi senjata Ukraina.</p><p>Namun, Umerov juga menghadapi sorotan publik terkait tuduhan korupsi. Dewan Anti-Korupsi Publik Ukraina sempat menyerukan pemecatannya terkait dugaan keterlibatan dalam skandal pengadaan pertahanan, meski ia tetap mempertahankan posisinya dan terus menjalankan tugas-tugas diplomatik dan keamanan negara.</p>',
+            source: 'Interfax-Ukraine',
+            sourceUrl: 'https://en.interfax.com.ua/news/general/1181340.html',
+            sourceSnippet: 'Umerov: Ukraine introduces Fast Track for military exports — Interfax-Ukraine, Juli 2026',
+            source2: 'Politico Europe',
+            sourceUrl2: 'https://www.politico.eu/article/volodymyr-zelenskyy-top-negotiator-rustem-umerov-in-berlin-for-ukraine-peace-talks/',
+            sourceSnippet2: 'Zelenskyy\'s top negotiator flies to Berlin for talks — Politico Europe, Juni 2026',
+            source3: 'Turkiye Today',
+            sourceUrl3: 'https://www.turkiyetoday.com/nation/fidan-meets-ukraines-umerov-in-ankara-for-third-time-in-2026-3220607',
+            sourceSnippet3: 'Fidan meets Ukraine\'s Umerov in Ankara for third time in 2026 — Turkiye Today',
+            source4: 'WSWS',
+            sourceUrl4: 'https://www.wsws.org/en/articles/2026/05/09/okfw-m09.html',
+            sourceSnippet4: 'Ukraine\'s Defense Minister implicated in corruption scandal — WSWS, 9 Mei 2026'
+          },
+          en: {
+            title: 'Rustem Umerov — National Security Council Secretary & Ukraine\'s Top Negotiator',
+            desc: 'Rustem Umerov, Ukraine\'s former Defense Minister, now serves as Secretary of the National Security and Defense Council and is Ukraine\'s lead negotiator in peace talks and international defense cooperation throughout 2026.',
+            body: '<p>Rustem Umerov is a Ukrainian politician of Crimean Tatar descent who previously served as Ukraine\'s Defense Minister before transitioning to Secretary of the National Security and Defense Council (RNBO). In his new role, he has become a key figure representing Ukraine in high-level diplomatic and defense negotiations with international allies.</p><p>Throughout early 2026, Umerov was active in trilateral talks between US, Ukrainian, and Russian delegations held in Abu Dhabi, discussing possible paths toward ending the conflict. He also met repeatedly with Turkish Foreign Minister Hakan Fidan in Ankara throughout 2026 to discuss defense cooperation and regional diplomacy.</p><p>In June 2026, Umerov flew to Berlin to meet with national security advisers from Germany, France, and the UK amid escalating Russian threats to Kyiv and tensions over Ukraine\'s EU membership — affirming his role as President Zelensky\'s lead negotiator on strategic security matters.</p><p>As part of efforts to strengthen the domestic defense industry, Umerov announced a \'Fast Track\' scheme that speeds up export approval for Ukrainian-made military products to just 30 days from application to final decision, a move aimed at boosting revenue while strengthening Ukraine\'s weapons production base.</p>',
+            source: 'Interfax-Ukraine',
+            sourceUrl: 'https://en.interfax.com.ua/news/general/1181340.html',
+            sourceSnippet: 'Umerov: Ukraine introduces Fast Track for military exports — Interfax-Ukraine, July 2026',
+            source2: 'Politico Europe',
+            sourceUrl2: 'https://www.politico.eu/article/volodymyr-zelenskyy-top-negotiator-rustem-umerov-in-berlin-for-ukraine-peace-talks/',
+            sourceSnippet2: 'Zelenskyy\'s top negotiator flies to Berlin for talks — Politico Europe, June 2026',
+            source3: 'Turkiye Today',
+            sourceUrl3: 'https://www.turkiyetoday.com/nation/fidan-meets-ukraines-umerov-in-ankara-for-third-time-in-2026-3220607',
+            sourceSnippet3: 'Fidan meets Ukraine\'s Umerov in Ankara for third time in 2026 — Turkiye Today'
+          },
+          ja: {
+            title: 'ルステム・ウメロフ — 国家安全保障会議書記、ウクライナ首席交渉官',
+            desc: '元国防相ルステム・ウメロフは現在、国家安全保障・国防会議書記として2026年を通じ和平交渉と国際防衛協力の首席交渉官を務めている。',
+            body: '<p>ルステム・ウメロフはクリミア・タタール系のウクライナ政治家で、国防相を経て国家安全保障・国防会議（RNBO）書記に就任。2026年にはアブダビでの米露ウクライナ三者協議に参加し、トルコやベルリンでの外交協議にも関与している。</p><p>また国産兵器輸出の承認手続きを30日に短縮する「ファストトラック」制度を発表するなど、国防産業強化にも注力している。</p>',
+            source: 'Interfax-Ukraine',
+            sourceUrl: 'https://en.interfax.com.ua/news/general/1181340.html',
+            sourceSnippet: 'ウメロフ、軍事輸出のファストトラック導入を発表 — Interfax-Ukraine, 2026年7月'
+          },
+          ko: {
+            title: '루스템 우메로프 — 국가안보회의 서기, 우크라이나 수석 협상가',
+            desc: '전 국방장관 루스템 우메로프는 현재 국가안보국방회의 서기로서 2026년 내내 평화 협상과 국제 방위 협력의 수석 협상가 역할을 맡고 있다.',
+            body: '<p>크림 타타르계 우크라이나 정치인인 루스템 우메로프는 국방장관을 거쳐 국가안보국방회의(RNBO) 서기에 취임했다. 2026년 아부다비에서 열린 미-우크라이나-러시아 3자 회담에 참여했으며, 터키·베를린 외교 협의에도 관여하고 있다.</p><p>또한 국산 무기 수출 승인 절차를 30일로 단축하는 "패스트트랙" 제도를 발표하는 등 국방 산업 강화에도 힘쓰고 있다.</p>',
+            source: 'Interfax-Ukraine',
+            sourceUrl: 'https://en.interfax.com.ua/news/general/1181340.html',
+            sourceSnippet: '우메로프, 군사 수출 패스트트랙 도입 발표 — Interfax-Ukraine, 2026년 7월'
+          },
+          zh: {
+            title: '鲁斯特姆·乌梅罗夫 — 国家安全会议秘书，乌克兰首席谈判代表',
+            desc: '乌克兰前国防部长鲁斯特姆·乌梅罗夫现任国家安全与国防会议秘书，2026年全年担任乌克兰在和谈及国际防务合作中的首席谈判代表。',
+            body: '<p>鲁斯特姆·乌梅罗夫是克里米亚鞑靼裔乌克兰政治家，曾任国防部长，后转任国家安全与国防会议（RNBO）秘书。2026年他参与了在阿布扎比举行的美乌俄三方会谈，并多次赴土耳其、柏林进行外交磋商。</p><p>他还宣布推出"快速通道"计划，将乌克兰制造军事产品的出口审批时间缩短至30天，以加强国防产业基础。</p>',
+            source: 'Interfax-Ukraine',
+            sourceUrl: 'https://en.interfax.com.ua/news/general/1181340.html',
+            sourceSnippet: '乌梅罗夫宣布推出军事出口快速通道 — Interfax-Ukraine，2026年7月'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
