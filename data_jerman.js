@@ -249,6 +249,65 @@
           }
         }
       }
+      ,
+      {
+        id: 'jerman-alice-weidel',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Alice Weidel — Ketua AfD yang Membidik Kursi Kanselir Jerman',
+            desc: 'Alice Weidel, ketua bersama partai sayap kanan Alternative für Deutschland (AfD), semakin terang-terangan menargetkan kursi Kanselir Jerman, sembari menyerukan pemulihan hubungan Jerman-Rusia dan pengakhiran boikot energi Rusia.',
+            body: '<p>Alice Weidel adalah politisi Jerman yang menjabat sebagai ketua bersama (co-chairwoman) partai sayap kanan populis Alternative für Deutschland (AfD), salah satu partai dengan pertumbuhan dukungan tercepat di Jerman dalam beberapa tahun terakhir. Ia juga merupakan anggota Bundestag (parlemen federal Jerman).</p><p>Pada akhir Juni 2026, Weidel menyatakan secara terbuka ambisinya untuk membidik posisi Kanselir Jerman, sebuah langkah yang mencerminkan meningkatnya kepercayaan diri AfD di tengah pergeseran dukungan pemilih terhadap partai-partai sayap kanan di Eropa.</p><p>Dalam wawancara dengan Reuters awal Juli 2026, Weidel menyerukan agar Jerman mengakhiri boikot minyak dan gas Rusia guna memulihkan perekonomian nasional yang melemah, serta menegaskan niatnya untuk memulihkan hubungan diplomatik dan ekonomi Jerman-Rusia — sebuah posisi yang kontroversial mengingat sikap resmi pemerintah koalisi Kanselir Friedrich Merz yang tetap mendukung sanksi terhadap Rusia atas invasinya ke Ukraina.</p><p>Sepanjang musim panas 2026, Weidel turut menjadi sorotan media internasional termasuk BBC dan Euronews, salah satunya ketika sesi wawancara musim panasnya sempat terhenti akibat gangguan dari kelompok demonstran yang menentang kebijakan-kebijakan AfD di luar lokasi wawancara.</p><p>Kenaikan popularitas Weidel dan AfD menjadi salah satu dinamika politik paling signifikan di Jerman pada 2026, di tengah tantangan ekonomi domestik dan tekanan geopolitik dari AS terkait pengeluaran pertahanan NATO yang juga tengah dihadapi Kanselir Merz.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/afd-leader-vows-restore-german-russian-ties-she-eyes-chancellery-2026-06-30/',
+            sourceSnippet: 'AfD leader vows to restore German-Russian ties as she eyes chancellery — Reuters, 30 Juni 2026',
+            source2: 'DW (Deutsche Welle)',
+            sourceUrl2: 'https://www.dw.com/en/alice-weidel/t-60576421',
+            sourceSnippet2: 'Alice Weidel — profil dan latar belakang politik — DW',
+            source3: 'Britannica',
+            sourceUrl3: 'https://www.britannica.com/biography/Alice-Weidel',
+            sourceSnippet3: 'Alice Weidel | Biography, AfD, Germany, & Politics — Britannica'
+          },
+          en: {
+            title: 'Alice Weidel — AfD Leader Eyeing Germany\'s Chancellery',
+            desc: 'Alice Weidel, co-chairwoman of the far-right Alternative für Deutschland (AfD) party, is increasingly openly targeting Germany\'s chancellorship, while calling for restored Germany-Russia ties and an end to the Russian energy boycott.',
+            body: '<p>Alice Weidel is a German politician serving as co-chairwoman of the far-right populist Alternative für Deutschland (AfD) party, one of the fastest-growing parties in Germany in recent years. She is also a member of the Bundestag, Germany\'s federal parliament.</p><p>In late June 2026, Weidel openly stated her ambition to target Germany\'s chancellorship, a move reflecting AfD\'s growing confidence amid shifting voter support toward right-wing parties across Europe.</p><p>In an interview with Reuters in early July 2026, Weidel called for Germany to end its boycott of Russian oil and gas to revive the struggling national economy, and affirmed her intent to restore German-Russian diplomatic and economic ties — a controversial position given the official stance of Chancellor Friedrich Merz\'s coalition government, which continues to support sanctions against Russia over its invasion of Ukraine.</p><p>Throughout summer 2026, Weidel also drew international media attention including from BBC and Euronews, notably when her scheduled summer interview session was interrupted by demonstrators protesting AfD policies outside the interview location.</p><p>Weidel and AfD\'s rising popularity has become one of the most significant political dynamics in Germany in 2026, amid domestic economic challenges and geopolitical pressure from the US over NATO defense spending, an issue Chancellor Merz is also grappling with.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/afd-leader-vows-restore-german-russian-ties-she-eyes-chancellery-2026-06-30/',
+            sourceSnippet: 'AfD leader vows to restore German-Russian ties as she eyes chancellery — Reuters, June 30 2026',
+            source2: 'DW (Deutsche Welle)',
+            sourceUrl2: 'https://www.dw.com/en/alice-weidel/t-60576421',
+            sourceSnippet2: 'Alice Weidel — profile and political background — DW',
+            source3: 'Britannica',
+            sourceUrl3: 'https://www.britannica.com/biography/Alice-Weidel',
+            sourceSnippet3: 'Alice Weidel | Biography, AfD, Germany, & Politics — Britannica'
+          },
+          ja: {
+            title: 'アリス・ヴァイデル — 首相の座を狙うAfD党首',
+            desc: '極右政党「ドイツのための選択肢」（AfD）共同党首アリス・ヴァイデルが、首相の座を公然と目指し始めている。',
+            body: '<p>アリス・ヴァイデルはAfDの共同党首を務める連邦議会議員。2026年6月末、首相職への野心を公言し、ロシアとの関係修復やエネルギー禁輸の解除を訴えている。</p><p>これはメルツ首相率いる連立政権の対ロシア制裁継続方針とは対照的な立場である。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/afd-leader-vows-restore-german-russian-ties-she-eyes-chancellery-2026-06-30/',
+            sourceSnippet: 'AfD党首、独露関係修復を公約し首相職を視野に — ロイター, 2026年6月30日'
+          },
+          ko: {
+            title: '알리스 바이델 — 총리직을 노리는 AfD 대표',
+            desc: '극우 정당 "독일을 위한 대안"(AfD) 공동대표 알리스 바이델이 총리직을 공공연히 목표로 삼고 있다.',
+            body: '<p>알리스 바이델은 AfD 공동대표이자 연방의회 의원이다. 2026년 6월 말 총리직에 대한 야심을 공개적으로 밝혔으며, 러시아와의 관계 회복과 에너지 보이콧 종료를 촉구했다.</p><p>이는 메르츠 총리가 이끄는 연립정부의 대러 제재 유지 방침과 대조되는 입장이다.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/afd-leader-vows-restore-german-russian-ties-she-eyes-chancellery-2026-06-30/',
+            sourceSnippet: 'AfD 대표, 독-러 관계 회복 공약하며 총리직 겨냥 — 로이터, 2026년 6월 30일'
+          },
+          zh: {
+            title: '爱丽丝·魏德尔 — 瞄准总理之位的德国选择党领袖',
+            desc: '极右翼政党"德国选择党"（AfD）联合主席爱丽丝·魏德尔正日益公开地瞄准德国总理职位。',
+            body: '<p>爱丽丝·魏德尔是德国选择党联合主席，也是联邦议院议员。2026年6月底，她公开表示有意角逐总理职位，并呼吁恢复德俄关系、结束能源抵制。</p><p>这一立场与总理默茨领导的联合政府继续支持对俄制裁的官方立场形成鲜明对比。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/afd-leader-vows-restore-german-russian-ties-she-eyes-chancellery-2026-06-30/',
+            sourceSnippet: '选择党领袖誓言恢复德俄关系，同时瞄准总理职位 — 路透社，2026年6月30日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
