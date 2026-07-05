@@ -355,6 +355,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'china-he-lifeng',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'He Lifeng — Wakil PM China, Negosiator Utama Dagang dengan AS Jelang KTT Trump-Xi',
+            desc: 'He Lifeng, Wakil Perdana Menteri China, memimpin serangkaian negosiasi dagang penting dengan AS sepanjang 2026 di Paris dan Seoul, membuka jalan bagi KTT bersejarah antara Presiden Trump dan Presiden Xi Jinping.',
+            body: '<p>He Lifeng adalah Wakil Perdana Menteri China yang ditugaskan sebagai negosiator utama dalam pembicaraan dagang dengan Amerika Serikat, menjadikannya salah satu pejabat ekonomi paling berpengaruh dalam pemerintahan Presiden Xi Jinping di tengah ketegangan dagang global yang berkelanjutan.</p><p>Pada 15 Maret 2026, Politico dan Al Jazeera melaporkan bahwa perundingan dagang AS-China dibuka di Paris, dengan delegasi He Lifeng dan Menteri Keuangan AS Scott Bessent memulai pembicaraan yang bertujuan membuka jalan bagi kemungkinan KTT antara Presiden Trump dan Presiden Xi Jinping.</p><p>Media resmi pemerintah China melaporkan bahwa pembicaraan tersebut berlangsung \'jujur, mendalam, dan konstruktif\' membahas isu-isu ekonomi dan dagang antara kedua negara, menandai salah satu putaran diplomasi ekonomi paling penting antara AS dan China dalam beberapa tahun terakhir.</p><p>Pada 12 Mei 2026, Reuters dan Bloomberg melaporkan He Lifeng tiba di Korea Selatan untuk melanjutkan pembicaraan dagang dengan delegasi AS menjelang KTT Trump-Xi, dengan CNBC mencatat pertemuan tersebut sebagai salah satu dari lima hal penting yang perlu diperhatikan di Asia menjelang kunjungan Trump ke China.</p><p>South China Morning Post melaporkan bahwa perundingan cepat antara Bessent dan He di Seoul turut membahas kemungkinan kesepakatan seputar \'tiga B\' — istilah yang merujuk pada sejumlah isu utama dagang — sebagai persiapan menuju KTT presidensial antara Trump dan Xi di Beijing, menegaskan peran sentral He Lifeng sebagai arsitek diplomasi ekonomi China di panggung global 2026.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/asia-pacific/chinas-he-lifeng-arrives-south-korea-us-trade-talks-2026-05-12/',
+            sourceSnippet: 'China\'s He Lifeng arrives in South Korea for US trade talks — Reuters, 12 Mei 2026',
+            source2: 'Bloomberg',
+            sourceUrl2: 'https://www.bloomberg.com/news/articles/2026-05-13/china-s-top-trade-negotiator-meets-lee-ahead-of-bessent-talks',
+            sourceSnippet2: 'US, China Hold Trade Talks in Seoul Before Trump-Xi Summit — Bloomberg, 13 Mei 2026',
+            source3: 'Politico',
+            sourceUrl3: 'https://www.politico.com/news/2026/03/15/us-china-trade-talks-open-in-paris-paving-the-way-for-trump-xi-summit-00829218',
+            sourceSnippet3: 'US-China trade talks open in Paris, paving the way for Trump-Xi summit — Politico, 15 Maret 2026',
+            source4: 'South China Morning Post',
+            sourceUrl4: 'https://www.scmp.com/economy/global-economy/article/3353174/us-china-negotiations-seek-quick-seoul-search-deals-ahead-trumps-visit',
+            sourceSnippet4: 'US-China negotiations seek a quick Seoul search for deals — SCMP, Mei 2026'
+          },
+          en: {
+            title: 'He Lifeng — China\'s Vice Premier, Lead Trade Negotiator Ahead of the Trump-Xi Summit',
+            desc: 'He Lifeng, China\'s Vice Premier, has led a series of key trade negotiations with the US throughout 2026 in Paris and Seoul, paving the way for a historic summit between President Trump and President Xi Jinping.',
+            body: '<p>He Lifeng is China\'s Vice Premier, tasked as the lead negotiator in trade talks with the United States, making him one of the most influential economic officials in President Xi Jinping\'s government amid ongoing global trade tensions.</p><p>On March 15, 2026, Politico and Al Jazeera reported US-China trade talks opened in Paris, with He Lifeng\'s delegation and US Treasury Secretary Scott Bessent beginning discussions aimed at paving the way for a possible summit between President Trump and President Xi Jinping.</p><p>Chinese state media reported the talks were \'candid, in-depth, and constructive,\' addressing economic and trade issues between the two nations, marking one of the most significant rounds of economic diplomacy between the US and China in recent years.</p><p>On May 12, 2026, Reuters and Bloomberg reported He Lifeng arrived in South Korea to continue trade talks with the US delegation ahead of the Trump-Xi summit, with CNBC noting the meeting as one of five key things to watch in Asia ahead of Trump\'s visit to China.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/asia-pacific/chinas-he-lifeng-arrives-south-korea-us-trade-talks-2026-05-12/',
+            sourceSnippet: 'China\'s He Lifeng arrives in South Korea for US trade talks — Reuters, May 12 2026',
+            source2: 'Bloomberg',
+            sourceUrl2: 'https://www.bloomberg.com/news/articles/2026-05-13/china-s-top-trade-negotiator-meets-lee-ahead-of-bessent-talks',
+            sourceSnippet2: 'US, China Hold Trade Talks in Seoul Before Trump-Xi Summit — Bloomberg, May 13 2026',
+            source3: 'Politico',
+            sourceUrl3: 'https://www.politico.com/news/2026/03/15/us-china-trade-talks-open-in-paris-paving-the-way-for-trump-xi-summit-00829218',
+            sourceSnippet3: 'US-China trade talks open in Paris, paving the way for Trump-Xi summit — Politico, March 15 2026'
+          },
+          ja: {
+            title: '何立峰 — トランプ・習会談を前に対米貿易交渉を主導する中国副首相',
+            desc: '何立峰中国副首相は2026年、パリとソウルで対米貿易交渉を主導し、トランプ大統領と習近平国家主席の歴史的首脳会談への道を開いた。',
+            body: '<p>何立峰は対米貿易交渉の中国側責任者。2026年3月15日、パリで交渉開始。5月12日には韓国入りしベッセント米財務長官らと交渉を継続、トランプ・習会談への地ならしを進めた。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/asia-pacific/chinas-he-lifeng-arrives-south-korea-us-trade-talks-2026-05-12/',
+            sourceSnippet: '何立峰、対米貿易交渉のため訪韓 — ロイター, 2026年5月12日'
+          },
+          ko: {
+            title: '허리펑 — 트럼프-시진핑 정상회담 앞두고 대미 무역협상 이끄는 中 부총리',
+            desc: '허리펑 중국 부총리는 2026년 파리와 서울에서 대미 무역협상을 주도하며 트럼프 대통령과 시진핑 주석의 역사적 정상회담으로 가는 길을 열었다.',
+            body: '<p>허리펑은 대미 무역협상의 중국 측 책임자다. 2026년 3월 15일 파리에서 협상이 시작됐다. 5월 12일에는 방한해 베센트 미 재무장관 등과 협상을 이어가며 트럼프-시진핑 정상회담을 준비했다.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/asia-pacific/chinas-he-lifeng-arrives-south-korea-us-trade-talks-2026-05-12/',
+            sourceSnippet: '허리펑, 대미 무역협상 위해 방한 — 로이터, 2026년 5월 12일'
+          },
+          zh: {
+            title: '何立峰 — 在特习会前主导对美贸易谈判的中国副总理',
+            desc: '中国国务院副总理何立峰在2026年主导了在巴黎和首尔举行的一系列重要对美贸易谈判，为特朗普总统与习近平主席的历史性峰会铺平了道路。',
+            body: '<p>何立峰是对美贸易谈判的中方牵头人。2026年3月15日，中美贸易谈判在巴黎开启。5月12日他抵达韩国，与美方代表继续谈判，为特习会做准备。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/world/asia-pacific/chinas-he-lifeng-arrives-south-korea-us-trade-talks-2026-05-12/',
+            sourceSnippet: '中国何立峰抵韩举行对美贸易谈判 — 路透社，2026年5月12日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
