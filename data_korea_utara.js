@@ -249,6 +249,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'korea-utara-kim-ju-ae',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Kim Ju Ae — Putri Kim Jong Un yang Digadang Jadi Penerus Dinasti Kim',
+            desc: 'Kim Ju Ae, putri Pemimpin Tertinggi Kim Jong Un, semakin sering tampil di depan publik sejak 2022. Analis dan media Korea Selatan menilai peningkatan eksposurnya di 2026 sebagai tanda persiapan suksesi generasi keempat dinasti Kim.',
+            body: '<p>Kim Ju Ae pertama kali diperkenalkan ke publik pada November 2022 saat mendampingi ayahnya, Kim Jong Un, dalam peluncuran rudal balistik antarbenua Hwasong-17. Sejak saat itu, kemunculannya di berbagai acara kenegaraan dan militer terus meningkat, memicu spekulasi luas bahwa ia sedang dipersiapkan sebagai penerus kepemimpinan Korea Utara.</p><p>Menurut analisis Chosun Ilbo terhadap lebih dari 14.000 jam rekaman siaran KCNA, kemunculan Kim Ju Ae di televisi negara meningkat signifikan sepanjang 2024 hingga 2026, dengan lebih dari 30 kemunculan publik tercatat dalam setahun terakhir. Analis menyebut pola ini sebagai bentuk \'pelatihan suksesi\' yang khas dalam sistem politik Korea Utara.</p><p>Sejumlah pengamat internasional, termasuk yang dikutip Modern Diplomacy dan The Diplomat, mencatat bahwa jika Kim Ju Ae benar-benar ditetapkan sebagai penerus, ia akan menjadi pemimpin perempuan pertama dalam sejarah dinasti Kim yang berkuasa sejak 1948. Namun beberapa ahli memperingatkan bahwa budaya patrilineal Korea Utara yang kuat bisa menjadi hambatan besar bagi suksesi seorang perempuan.</p><p>Kunjungan Presiden China Xi Jinping ke Pyongyang pada Juni 2026 turut menjadi sorotan, dengan sejumlah media menganalisis kemungkinan pertemuan tersebut sebagai bentuk pengakuan informal China terhadap posisi Kim Ju Ae dalam struktur kekuasaan Korea Utara di masa depan, meski pemerintah Korea Utara belum pernah membuat pernyataan resmi mengenai status suksesi.</p><p>Hingga pertengahan 2026, Korea Utara belum mengonfirmasi status resmi Kim Ju Ae sebagai penerus. Namun, meningkatnya frekuensi kemunculannya di acara-acara militer dan negara terus menjadi bahan analisis intelijen dan media di Korea Selatan, Jepang, dan negara-negara Barat yang memantau ketat dinamika kekuasaan di Pyongyang.</p>',
+            source: 'The Chosun Ilbo',
+            sourceUrl: 'https://www.chosun.com/english/world-en/2026/06/23/7LOOKWO6QJDEZIJMT56CJKEH2Y/',
+            sourceSnippet: 'Kim Ju-ae\'s TV Surge Signals North Korea Successor Training — The Chosun Ilbo, 23 Juni 2026',
+            source2: 'NK News',
+            sourceUrl2: 'https://www.nknews.org/?p=971004',
+            sourceSnippet2: 'Heir apparent? What to look for in North Korea\'s possible successor — NK News, 29 April 2026',
+            source3: 'BBC News',
+            sourceUrl3: 'https://www.bbc.com/news/articles/cy82x9wve2xo',
+            sourceSnippet3: 'Kim Ju Ae: What Kim Jong Un\'s daughter\'s fashion tells us about North Korea — BBC, 5 Mei 2026',
+            source4: 'Daily NK',
+            sourceUrl4: 'https://www.dailynk.com/english/kim-ju-ae-succession-xi-jinping-pyongyang-visit/',
+            sourceSnippet4: 'Why Kim Ju Ae succession talk misses the point — Daily NK, Juni 2026'
+          },
+          en: {
+            title: 'Kim Ju Ae — Kim Jong Un\'s Daughter Tipped as Next Kim Dynasty Successor',
+            desc: 'Kim Ju Ae, the daughter of Supreme Leader Kim Jong Un, has appeared publicly with increasing frequency since 2022. South Korean analysts and media view her rising 2026 exposure as a sign of fourth-generation succession grooming within the Kim dynasty.',
+            body: '<p>Kim Ju Ae was first introduced publicly in November 2022 alongside her father during the launch of the Hwasong-17 intercontinental ballistic missile. Since then, her appearances at state and military events have steadily increased, fueling widespread speculation that she is being groomed as North Korea\'s next leader.</p><p>According to Chosun Ilbo\'s analysis of over 14,000 hours of KCNA broadcast footage, Kim Ju Ae\'s appearances on state television rose significantly from 2024 through 2026, with more than 30 public appearances recorded in the past year alone. Analysts describe this pattern as a form of \'successor training\' typical of North Korea\'s political system.</p><p>Several international observers, including those cited by Modern Diplomacy and The Diplomat, note that if Kim Ju Ae is indeed confirmed as successor, she would become the first female leader in the Kim dynasty\'s history of rule since 1948. However, some experts warn that North Korea\'s strong patrilineal culture could pose a significant obstacle to a female succession.</p><p>Chinese President Xi Jinping\'s visit to Pyongyang in June 2026 drew added attention, with several outlets analyzing the meeting as possible informal Chinese acknowledgment of Kim Ju Ae\'s future position in North Korea\'s power structure, though Pyongyang has made no official statement on succession status.</p><p>As of mid-2026, North Korea has not confirmed Kim Ju Ae\'s official status as successor. Still, her increasing frequency at military and state events remains a key subject of intelligence and media analysis in South Korea, Japan, and Western nations closely monitoring the power dynamics in Pyongyang.</p>',
+            source: 'The Chosun Ilbo',
+            sourceUrl: 'https://www.chosun.com/english/world-en/2026/06/23/7LOOKWO6QJDEZIJMT56CJKEH2Y/',
+            sourceSnippet: 'Kim Ju-ae\'s TV Surge Signals North Korea Successor Training — The Chosun Ilbo, June 23 2026',
+            source2: 'NK News',
+            sourceUrl2: 'https://www.nknews.org/?p=971004',
+            sourceSnippet2: 'Heir apparent? What to look for in North Korea\'s possible successor — NK News, April 29 2026',
+            source3: 'BBC News',
+            sourceUrl3: 'https://www.bbc.com/news/articles/cy82x9wve2xo',
+            sourceSnippet3: 'Kim Ju Ae: What Kim Jong Un\'s daughter\'s fashion tells us about North Korea — BBC, May 5 2026'
+          },
+          ja: {
+            title: '金主愛 — 金正恩氏の娘、後継者と目される人物',
+            desc: '金正恩の娘、金主愛は2022年以降公の場への露出を増やしており、2026年の分析では後継者育成の兆候とみられている。',
+            body: '<p>金主愛は2022年11月、火星17型ICBM発射の場で初めて公に姿を現した。以降、国家・軍事行事への登場が増加し、後継者として育成されているとの見方が強まっている。朝鮮日報の分析によれば、2024年から2026年にかけてKCNA映像での登場頻度が大幅に増加した。</p><p>もし正式に後継者となれば、1948年の建国以来続く金王朝史上初の女性指導者となる。2026年6月の習近平訪朝も、後継者問題との関連で注目を集めた。</p>',
+            source: 'The Chosun Ilbo',
+            sourceUrl: 'https://www.chosun.com/english/world-en/2026/06/23/7LOOKWO6QJDEZIJMT56CJKEH2Y/',
+            sourceSnippet: '金主愛のテレビ露出急増 後継者訓練を示唆 — 朝鮮日報, 2026年6月23日'
+          },
+          ko: {
+            title: '김주애 — 김정은의 딸, 차기 후계자로 거론',
+            desc: '김정은의 딸 김주애가 2022년 이후 공개 행보를 늘리고 있으며, 2026년 들어 후계 훈련의 신호로 분석되고 있다.',
+            body: '<p>김주애는 2022년 11월 화성-17형 ICBM 발사 현장에서 처음 공개됐다. 이후 국가 및 군사 행사 등장이 늘어나며 후계자로 육성되고 있다는 관측이 확산됐다. 조선일보 분석에 따르면 2024~2026년 KCNA 방송 노출 빈도가 크게 증가했다.</p><p>만약 공식 후계자로 확정되면 1948년 건국 이래 김씨 왕조 최초의 여성 지도자가 된다. 2026년 6월 시진핑의 방북도 후계 문제와 관련해 주목받았다.</p>',
+            source: 'The Chosun Ilbo',
+            sourceUrl: 'https://www.chosun.com/english/world-en/2026/06/23/7LOOKWO6QJDEZIJMT56CJKEH2Y/',
+            sourceSnippet: '김주애 TV 노출 급증, 후계자 훈련 시사 — 조선일보, 2026년 6월 23일'
+          },
+          zh: {
+            title: '金周爱 — 金正恩之女，被视为潜在接班人',
+            desc: '金正恩之女金周爱自2022年以来公开露面日益频繁，2026年的分析认为这是接班培养的迹象。',
+            body: '<p>金周爱于2022年11月在"火星-17"洲际弹道导弹发射现场首次公开露面。此后她在国家和军事场合的出镜率不断上升，外界普遍猜测她正被培养为接班人。据朝鲜日报对KCNA影像的分析，2024至2026年间她的电视露面频率显著增加。</p><p>若她最终被正式确立为接班人，将成为1948年建国以来金氏王朝历史上首位女性领导人。2026年6月习近平访朝一事，也被外界解读为与接班问题有关。</p>',
+            source: 'The Chosun Ilbo',
+            sourceUrl: 'https://www.chosun.com/english/world-en/2026/06/23/7LOOKWO6QJDEZIJMT56CJKEH2Y/',
+            sourceSnippet: '金周爱电视曝光激增，暗示接班培训 — 朝鲜日报，2026年6月23日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
