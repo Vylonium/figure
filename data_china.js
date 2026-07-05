@@ -293,6 +293,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'china-liang-wenfeng',
+        category: 'bisnis',
+        langs: {
+          id: {
+            title: 'Liang Wenfeng — Pendiri DeepSeek, Sosok di Balik Ledakan AI Murah China',
+            desc: 'Liang Wenfeng adalah pendiri DeepSeek, laboratorium AI asal Hangzhou yang mengguncang industri global dengan model AI berbiaya rendah namun berkinerja tinggi. Pada 2026, DeepSeek berhasil menghimpun pendanaan besar dan menegaskan ambisi mencapai kecerdasan umum buatan (AGI).',
+            body: '<p>Liang Wenfeng adalah pendiri DeepSeek, laboratorium kecerdasan buatan yang berbasis di Hangzhou, China, sekaligus pendiri firma perdagangan kuantitatif High-Flyer Capital Management. Ia dikenal sebagai sosok kunci di balik model AI DeepSeek-R1 yang mengejutkan dunia teknologi global akhir 2025 karena efisiensi biaya pelatihannya yang jauh lebih rendah dibanding pesaing-pesaing Barat.</p><p>Menurut jurnal Nature, terobosan teknis DeepSeek-R1 menggunakan metode Group Relative Policy Optimization dan reinforcement learning murni untuk menghasilkan kemampuan penalaran yang muncul secara emergen, dengan biaya pelatihan dilaporkan hanya sekitar 294 ribu dolar AS — jauh lebih murah dibanding model-model besar buatan perusahaan AI Amerika.</p><p>Pada Juni 2026, CNBC melaporkan bahwa DeepSeek menutup putaran pendanaan eksternal pertamanya, menilai laboratorium AI tersebut lebih dari 50 miliar dolar AS. Axios sebelumnya melaporkan bahwa DeepSeek tengah menghimpun dana sekitar 7,4 miliar dolar dari investor termasuk Tencent dan CATL pada valuasi sekitar 52 miliar dolar.</p><p>South China Morning Post melaporkan bahwa pendanaan besar ini turut memperkuat kendali Liang atas arah perusahaan di tengah persaingan AI yang kian memanas antara China dan negara-negara Barat. Menurut Bloomberg, manajemen senior DeepSeek menyampaikan kepada calon investor dalam putaran pendanaan 70 miliar yuan (sekitar 10 miliar dolar) bahwa perusahaan akan terus mengejar target ambisius mencapai kecerdasan umum buatan (AGI).</p><p>Liang, yang masuk daftar Nature\'s 10 tahun 2025 sebagai salah satu tokoh paling berpengaruh dalam sains, kini dipandang sebagai representasi baru kebangkitan industri AI China yang mampu bersaing dengan raksasa teknologi Silicon Valley menggunakan pendekatan riset yang jauh lebih hemat biaya.</p>',
+            source: 'Nature',
+            sourceUrl: 'https://www.nature.com/articles/d41586-025-03845-4',
+            sourceSnippet: 'The Chinese finance whizz whose DeepSeek AI model stunned the world — Nature, 8 Desember 2025',
+            source2: 'CNBC',
+            sourceUrl2: 'https://www.cnbc.com/2026/06/18/no-poaching-our-people-chinas-deepseek-reportedly-tells-investors.html',
+            sourceSnippet2: 'China\'s AI behemoth DeepSeek reportedly tells investors — CNBC, 18 Juni 2026',
+            source3: 'South China Morning Post',
+            sourceUrl3: 'https://www.scmp.com/tech/big-tech/article/3357525/how-deepseeks-landmark-funding-secures-liang-wenfengs-grip-chinas-ai-rivalry-heats',
+            sourceSnippet3: 'How DeepSeek\'s landmark funding cements founder\'s grip — SCMP, Juni 2026',
+            source4: 'Bloomberg',
+            sourceUrl4: 'https://www.bloomberg.com/news/articles/2026-05-22/deepseek-founder-declares-agi-goal-as-10-billion-round-advances',
+            sourceSnippet4: 'DeepSeek Founder Declares AGI Goal as $10 Billion Round Advances — Bloomberg, 22 Mei 2026'
+          },
+          en: {
+            title: 'Liang Wenfeng — DeepSeek Founder Behind China\'s Cheap AI Boom',
+            desc: 'Liang Wenfeng is the founder of DeepSeek, the Hangzhou-based AI lab that shook the global industry with low-cost yet high-performing AI models. In 2026, DeepSeek raised major funding and reaffirmed its ambition to reach artificial general intelligence (AGI).',
+            body: '<p>Liang Wenfeng is the founder of DeepSeek, an AI lab based in Hangzhou, China, and also founder of quantitative trading firm High-Flyer Capital Management. He is known as the key figure behind the DeepSeek-R1 model that stunned the global tech world in late 2025 due to its dramatically lower training costs compared to Western competitors.</p><p>According to Nature, DeepSeek-R1\'s technical breakthrough used Group Relative Policy Optimization and pure reinforcement learning to produce emergent reasoning capabilities, with training costs reportedly around $294,000 — far cheaper than large models built by American AI companies.</p><p>In June 2026, CNBC reported that DeepSeek closed its first external funding round, valuing the AI lab at over $50 billion. Axios had earlier reported DeepSeek was raising around $7.4 billion from investors including Tencent and CATL at a roughly $52 billion valuation.</p><p>South China Morning Post reported that this major funding round further cemented Liang\'s grip on the company\'s direction amid intensifying AI rivalry between China and Western nations. According to Bloomberg, DeepSeek\'s senior management told potential investors in its 70 billion yuan (~$10 billion) funding round that the company would continue pursuing its ambitious AGI goal.</p>',
+            source: 'Nature',
+            sourceUrl: 'https://www.nature.com/articles/d41586-025-03845-4',
+            sourceSnippet: 'The Chinese finance whizz whose DeepSeek AI model stunned the world — Nature, December 8 2025',
+            source2: 'CNBC',
+            sourceUrl2: 'https://www.cnbc.com/2026/06/18/no-poaching-our-people-chinas-deepseek-reportedly-tells-investors.html',
+            sourceSnippet2: 'China\'s AI behemoth DeepSeek reportedly tells investors — CNBC, June 18 2026',
+            source3: 'Bloomberg',
+            sourceUrl3: 'https://www.bloomberg.com/news/articles/2026-05-22/deepseek-founder-declares-agi-goal-as-10-billion-round-advances',
+            sourceSnippet3: 'DeepSeek Founder Declares AGI Goal as $10 Billion Round Advances — Bloomberg, May 22 2026'
+          },
+          ja: {
+            title: '梁文峰 — 中国製安価AIブームの立役者、DeepSeek創業者',
+            desc: '梁文峰は杭州拠点のAI研究所DeepSeekの創業者。低コストながら高性能なAIモデルで世界を驚かせた。2026年には大型資金調達を実施しAGI実現を目指すと表明。',
+            body: '<p>梁文峰はDeepSeekおよび定量取引会社ハイフライヤーの創業者。DeepSeek-R1モデルは訓練コストがわずか約29万4千ドルとされ、西側企業を大きく下回るコストで話題となった。2026年6月には50億ドル超の評価額で初の外部資金調達を完了したと報じられている。</p>',
+            source: 'Nature',
+            sourceUrl: 'https://www.nature.com/articles/d41586-025-03845-4',
+            sourceSnippet: '世界を驚かせたDeepSeekの中国人金融の天才 — Nature, 2025年12月8日'
+          },
+          ko: {
+            title: '량원펑 — 중국 저비용 AI 붐의 주역, 딥시크 창업자',
+            desc: '량원펑은 항저우 기반 AI 연구소 딥시크의 창업자로, 저비용 고성능 AI 모델로 세계를 놀라게 했다. 2026년 대규모 자금 조달에 성공하며 AGI 달성 목표를 재확인했다.',
+            body: '<p>량원펑은 딥시크와 퀀트 트레이딩 회사 하이플라이어의 창업자다. 딥시크-R1 모델은 훈련 비용이 약 29만 4천 달러에 불과해 서구 기업 대비 훨씬 저렴한 비용으로 화제가 됐다. 2026년 6월에는 500억 달러 이상의 가치로 첫 외부 투자 유치를 완료했다고 보도됐다.</p>',
+            source: 'Nature',
+            sourceUrl: 'https://www.nature.com/articles/d41586-025-03845-4',
+            sourceSnippet: '세계를 놀라게 한 딥시크의 중국 금융 천재 — 네이처, 2025년 12월 8일'
+          },
+          zh: {
+            title: '梁文峰 — 中国低成本AI热潮背后的DeepSeek创始人',
+            desc: '梁文峰是总部位于杭州的AI实验室DeepSeek创始人，其低成本高性能AI模型震惊全球业界。2026年DeepSeek完成大规模融资，并重申实现通用人工智能（AGI）的目标。',
+            body: '<p>梁文峰是DeepSeek及量化交易公司幻方量化的创始人。DeepSeek-R1模型据报道训练成本仅约29.4万美元，远低于西方企业的大型模型成本。2026年6月，据报道DeepSeek完成首轮外部融资，估值超过500亿美元。</p>',
+            source: 'Nature',
+            sourceUrl: 'https://www.nature.com/articles/d41586-025-03845-4',
+            sourceSnippet: '震惊世界的DeepSeek中国金融奇才 — 自然杂志，2025年12月8日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
