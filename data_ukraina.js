@@ -376,6 +376,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'ukraina-vitali-klitschko',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Vitali Klitschko — Wali Kota Kyiv di Garis Depan Serangan Rudal Rusia Terbesar 2026',
+            desc: 'Vitali Klitschko, Wali Kota Kyiv dan mantan juara tinju dunia, menjadi juru bicara utama dalam melaporkan dampak serangan rudal dan drone Rusia terbesar terhadap ibu kota Ukraina sepanjang 2026, sembari terus mendorong upaya pemulihan pascaperang.',
+            body: '<p>Vitali Klitschko adalah Wali Kota Kyiv sejak 2014 dan mantan juara tinju kelas berat dunia yang beralih menjadi politisi. Sepanjang perang Rusia-Ukraina yang berkelanjutan, ia menjadi salah satu suara paling konsisten dalam melaporkan kondisi ibu kota Ukraina kepada dunia internasional.</p><p>Pada awal Juli 2026, Kyiv Independent melaporkan bahwa serangan rudal dan drone Rusia menewaskan sedikitnya 31 orang dan melukai lebih dari 100 lainnya di Kyiv, dengan Angkatan Udara Ukraina mencatat 74 rudal dan 496 drone jarak jauh diluncurkan dalam serangan yang disebut sebagai yang terbesar sejak dimulainya perang.</p><p>DW dan CNBC melaporkan bahwa Klitschko menyebut serangan tersebut sebagai yang terbesar menghantam Kyiv, dengan Polandia mengerahkan jet tempur dan Finlandia membatasi wilayah udaranya sebagai respons atas eskalasi serangan besar-besaran Rusia terhadap berbagai wilayah Ukraina, tidak hanya Kyiv.</p><p>Selain menghadapi serangan militer, Klitschko juga aktif dalam upaya pemulihan pascaperang Ukraina. Menurut Euronews pada 26 Juni 2026, dalam Konferensi Pemulihan Ukraina di Gdańsk, Polandia, ia menegaskan bahwa \'Ukraina harus melakukan persis seperti yang dilakukan Polandia\' dalam proses pemulihan ekonomi pascaperang, meski hubungan diplomatik Ukraina-Polandia sempat tegang dalam beberapa isu.</p><p>Sebagai Wali Kota Kyiv, Klitschko terus memainkan peran ganda: memimpin respons darurat kota terhadap serangan Rusia yang terus berlanjut, sekaligus menjadi salah satu diplomat kota paling aktif dalam forum-forum internasional yang membahas masa depan rekonstruksi Ukraina pascaperang.</p>',
+            source: 'Kyiv Independent',
+            sourceUrl: 'https://kyivindependent.com/explosions-rock-kyiv-as-ukraine-braces-for-russias-next-bombardment/',
+            sourceSnippet: '\'Serious destruction\' — massive Russian missile, drone attack on Kyiv kills at least 31 — Kyiv Independent, Juli 2026',
+            source2: 'DW (Deutsche Welle)',
+            sourceUrl2: 'https://www.dw.com/en/russia-launches-attacks-on-kyiv-killing-at-least-18-and-injuring-scores/a-77794194',
+            sourceSnippet2: 'Russian attack on Kyiv kills at least 18, injures scores — DW, Juli 2026',
+            source3: 'CNBC',
+            sourceUrl3: 'https://www.cnbc.com/2026/07/02/russia-launches-missile-drone-strikes-ukraine-kyiv.html',
+            sourceSnippet3: 'Russia launches massive strike on Ukraine as Poland scrambles jets — CNBC, 2 Juli 2026',
+            source4: 'Euronews',
+            sourceUrl4: 'https://www.euronews.com/my-europe/2026/06/26/kyiv-mayor-at-ukraine-recovery-conference-in-gdansk-ukraine-must-do-exactly-what-poland-di',
+            sourceSnippet4: 'Kyiv mayor at Ukraine Recovery Conference in Gdańsk: \'Ukraine must do exactly what Poland did\' — Euronews, 26 Juni 2026'
+          },
+          en: {
+            title: 'Vitali Klitschko — Kyiv Mayor on the Frontline of Russia\'s Largest 2026 Missile Attack',
+            desc: 'Vitali Klitschko, Mayor of Kyiv and former world boxing champion, has become the leading voice reporting on Russia\'s largest missile and drone attacks on Ukraine\'s capital throughout 2026, while continuing to push for post-war recovery efforts.',
+            body: '<p>Vitali Klitschko has been Mayor of Kyiv since 2014 and is a former world heavyweight boxing champion turned politician. Throughout the ongoing Russia-Ukraine war, he has become one of the most consistent voices reporting on the condition of Ukraine\'s capital to the international community.</p><p>In early July 2026, Kyiv Independent reported that Russian missile and drone strikes killed at least 31 people and injured over 100 others in Kyiv, with Ukraine\'s Air Force recording 74 missiles and 496 long-range drones launched in what was described as the largest attack since the war began.</p><p>DW and CNBC reported Klitschko described the attack as the largest to hit Kyiv, with Poland scrambling fighter jets and Finland restricting its airspace in response to Russia\'s escalating large-scale strikes across various Ukrainian regions, not just Kyiv.</p><p>Beyond facing military attacks, Klitschko has also been active in Ukraine\'s post-war recovery efforts. According to Euronews on June 26, 2026, at the Ukraine Recovery Conference in Gdańsk, Poland, he affirmed that \'Ukraine must do exactly what Poland did\' in its post-war economic recovery process, despite recent diplomatic tensions between Ukraine and Poland on various issues.</p>',
+            source: 'Kyiv Independent',
+            sourceUrl: 'https://kyivindependent.com/explosions-rock-kyiv-as-ukraine-braces-for-russias-next-bombardment/',
+            sourceSnippet: '\'Serious destruction\' — massive Russian missile, drone attack on Kyiv kills at least 31 — Kyiv Independent, July 2026',
+            source2: 'DW (Deutsche Welle)',
+            sourceUrl2: 'https://www.dw.com/en/russia-launches-attacks-on-kyiv-killing-at-least-18-and-injuring-scores/a-77794194',
+            sourceSnippet2: 'Russian attack on Kyiv kills at least 18, injures scores — DW, July 2026',
+            source3: 'Euronews',
+            sourceUrl3: 'https://www.euronews.com/my-europe/2026/06/26/kyiv-mayor-at-ukraine-recovery-conference-in-gdansk-ukraine-must-do-exactly-what-poland-di',
+            sourceSnippet3: 'Kyiv mayor at Ukraine Recovery Conference in Gdańsk: \'Ukraine must do exactly what Poland did\' — Euronews, June 26 2026'
+          },
+          ja: {
+            title: 'ヴィタリ・クリチコ — 2026年最大級のロシア軍ミサイル攻撃最前線に立つキーウ市長',
+            desc: 'キーウ市長で元世界ボクシング王者のヴィタリ・クリチコは、2026年を通じロシアの大規模ミサイル・ドローン攻撃を国際社会に伝える主要な声であり続けている。',
+            body: '<p>クリチコは2014年からキーウ市長を務める。2026年7月初旬、ロシアのミサイル・ドローン攻撃で少なくとも31人が死亡、100人以上が負傷したと報じられた。彼はこれを開戦以来最大の攻撃と表現した。</p>',
+            source: 'Kyiv Independent',
+            sourceUrl: 'https://kyivindependent.com/explosions-rock-kyiv-as-ukraine-braces-for-russias-next-bombardment/',
+            sourceSnippet: 'ロシアの大規模攻撃でキーウ31人死亡 — キーウ・インディペンデント, 2026年7月'
+          },
+          ko: {
+            title: '비탈리 클리치코 — 2026년 최대 규모 러시아 미사일 공격 최전선의 키이우 시장',
+            desc: '키이우 시장이자 전 세계 복싱 챔피언인 비탈리 클리치코는 2026년 내내 러시아의 대규모 미사일·드론 공격을 국제사회에 알리는 주요 목소리로 활동하고 있다.',
+            body: '<p>클리치코는 2014년부터 키이우 시장을 맡고 있다. 2026년 7월 초 러시아의 미사일·드론 공격으로 최소 31명이 사망하고 100명 이상이 부상당했다고 보도됐다. 그는 이를 개전 이래 최대 규모 공격이라고 표현했다.</p>',
+            source: 'Kyiv Independent',
+            sourceUrl: 'https://kyivindependent.com/explosions-rock-kyiv-as-ukraine-braces-for-russias-next-bombardment/',
+            sourceSnippet: '러시아 대규모 공격으로 키이우 31명 사망 — 키이우 인디펜던트, 2026년 7월'
+          },
+          zh: {
+            title: '维塔利·克利奇科 — 站在2026年俄罗斯最大规模导弹袭击前线的基辅市长',
+            desc: '基辅市长、前世界拳击冠军维塔利·克利奇科在2026年全年一直是向国际社会通报俄罗斯大规模导弹与无人机袭击的主要声音。',
+            body: '<p>克利奇科自2014年起担任基辅市长。2026年7月初，俄罗斯导弹和无人机袭击造成至少31人死亡，100多人受伤。他将此次袭击描述为开战以来规模最大的一次。</p>',
+            source: 'Kyiv Independent',
+            sourceUrl: 'https://kyivindependent.com/explosions-rock-kyiv-as-ukraine-braces-for-russias-next-bombardment/',
+            sourceSnippet: '俄罗斯大规模袭击致基辅31人死亡 — 基辅独立报，2026年7月'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
