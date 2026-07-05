@@ -249,6 +249,71 @@
           }
         }
       }
+      ,
+      {
+        id: 'kanada-danielle-smith',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Danielle Smith — Perdana Menteri Alberta di Tengah Perdebatan Referendum Pemisahan Diri',
+            desc: 'Danielle Smith, Perdana Menteri (Premier) Provinsi Alberta, tengah menghadapi tekanan politik besar terkait rencana referendum pemisahan diri Alberta dari Kanada yang dijadwalkan pada Oktober 2026, di tengah sengketa hukum dan penolakan publik terhadap kinerjanya.',
+            body: '<p>Danielle Smith menjabat sebagai Premier Alberta, provinsi kaya minyak dan gas di Kanada barat, sejak Oktober 2022. Ia dikenal sebagai tokoh konservatif yang vokal mendorong otonomi lebih besar bagi Alberta, termasuk dalam isu energi dan hubungan dengan pemerintah federal Ottawa.</p><p>Sepanjang 2026, Alberta diguncang perdebatan sengit soal rencana referendum pemisahan diri dari Kanada, yang dijadwalkan digelar pada 19 Oktober 2026. Petisi bertajuk \'Stay Free Alberta\' sempat ditolak oleh keputusan hakim, namun Smith mengajukan permohonan agar keputusan tersebut ditinjau ulang, dengan menyebut proses konsultasi Masyarakat Adat sebagai isu yang dipertaruhkan demi \'demokrasi\'.</p><p>Menjelang perayaan Hari Kanada awal Juli 2026, Smith tampil di hadapan publik di Calgary di tengah suasana emosional campur aduk warga Alberta — sebagian merayakan identitas Kanada, sementara sebagian lain mendukung penuh gagasan pemisahan diri provinsi tersebut.</p><p>Di sisi lain, Smith juga mendorong proyek pipa minyak baru menuju pesisir British Columbia, berjanji akan melibatkan kelompok Masyarakat Adat (First Nations) dalam prosesnya — meski langkah ini muncul di tengah sengketa berkelanjutan terkait isu pemisahan diri yang memecah opini publik Alberta.</p><p>Menurut survei terbaru Ipsos, mayoritas warga Alberta — 56 persen — menyatakan tidak puas dengan kinerja Smith sebagai Premier, dan 58 persen tidak setuju dengan cara ia menangani isu pemisahan diri. Namun partai Smith, United Conservative Party (UCP), masih mempertahankan dukungan sebesar 48 persen, menjadikan pertarungan politik Alberta salah satu yang paling dipantau di Kanada sepanjang 2026.</p>',
+            source: 'CTV News',
+            sourceUrl: 'https://www.ctvnews.ca/canada/alberta-referendum/article/the-line-is-drawn-oil-and-gas-issues-divide-albertans-in-separation-debate/',
+            sourceSnippet: '\'The line is drawn\': Energy issues divide Albertans in separation debate — CTV News, Juli 2026',
+            source2: 'National Observer',
+            sourceUrl2: 'https://www.nationalobserver.com/2026/07/02/news/separation-anxiety-canada-day-evokes-emotional-mixture-alberta',
+            sourceSnippet2: 'Separation anxiety: Canada Day evokes an emotional mixture in Alberta — National Observer, 2 Juli 2026',
+            source3: 'CBC News',
+            sourceUrl3: 'https://www.cbc.ca/news/canada/calgary/alberta-separation-court-jeff-rath-danielle-smith-9.7240418',
+            sourceSnippet3: 'Alberta judge reserves decision on separatist petition ruling — CBC News, Juni 2026',
+            source4: 'Ipsos',
+            sourceUrl4: 'https://www.ipsos.com/en-ca/majority-albertans-disapprove-danielle-smiths-performance',
+            sourceSnippet4: 'Majority of Albertans Disapprove of Danielle Smith\'s Performance — Ipsos, Juni 2026',
+            source5: 'ConstructConnect',
+            sourceUrl5: 'https://canada.constructconnect.com/joc/news/government/2026/07/alberta-seeks-first-nations-collaboration-on-pipeline-amid-separation-feud',
+            sourceSnippet5: 'Alberta seeks First Nations\' collaboration on pipeline amid separation feud — ConstructConnect, Juli 2026'
+          },
+          en: {
+            title: 'Danielle Smith — Alberta Premier Amid Separation Referendum Debate',
+            desc: 'Danielle Smith, Premier of Alberta, is facing significant political pressure over a planned Alberta separation referendum scheduled for October 2026, amid legal disputes and public disapproval of her performance.',
+            body: '<p>Danielle Smith has served as Premier of Alberta, Canada\'s oil and gas-rich western province, since October 2022. She is known as a vocal conservative figure pushing for greater autonomy for Alberta, including on energy issues and relations with the federal government in Ottawa.</p><p>Throughout 2026, Alberta has been rocked by fierce debate over a planned separation referendum from Canada, scheduled for October 19, 2026. The \'Stay Free Alberta\' petition was thrown out by a judge\'s ruling, but Smith is seeking to have that decision reviewed, framing the Indigenous consultation process as an issue at stake for \'democracy\'.</p><p>Ahead of Canada Day celebrations in early July 2026, Smith appeared publicly in Calgary amid a mixed emotional atmosphere among Albertans — some celebrating Canadian identity, others fully supporting the province\'s separation.</p><p>Separately, Smith is also pushing a new oil pipeline project to the British Columbia coast, promising to involve First Nations groups in the process — even as this move unfolds amid the ongoing separation dispute dividing Alberta\'s public opinion.</p><p>According to a recent Ipsos survey, a majority of Albertans — 56 percent — disapprove of Smith\'s performance as Premier, and 58 percent disapprove of her handling of the separation issue. However, Smith\'s United Conservative Party (UCP) still holds 48 percent support, making Alberta\'s political battle one of the most closely watched in Canada throughout 2026.</p>',
+            source: 'CTV News',
+            sourceUrl: 'https://www.ctvnews.ca/canada/alberta-referendum/article/the-line-is-drawn-oil-and-gas-issues-divide-albertans-in-separation-debate/',
+            sourceSnippet: '\'The line is drawn\': Energy issues divide Albertans in separation debate — CTV News, July 2026',
+            source2: 'National Observer',
+            sourceUrl2: 'https://www.nationalobserver.com/2026/07/02/news/separation-anxiety-canada-day-evokes-emotional-mixture-alberta',
+            sourceSnippet2: 'Separation anxiety: Canada Day evokes an emotional mixture in Alberta — National Observer, July 2 2026',
+            source3: 'Ipsos',
+            sourceUrl3: 'https://www.ipsos.com/en-ca/majority-albertans-disapprove-danielle-smiths-performance',
+            sourceSnippet3: 'Majority of Albertans Disapprove of Danielle Smith\'s Performance — Ipsos, June 2026'
+          },
+          ja: {
+            title: 'ダニエル・スミス — 分離独立住民投票を巡るアルバータ州首相',
+            desc: 'アルバータ州首相ダニエル・スミスは、2026年10月に予定される州の分離独立住民投票を巡り大きな政治的圧力に直面している。',
+            body: '<p>ダニエル・スミスは2022年10月からアルバータ州首相を務め、州の自治拡大を訴える保守派として知られる。2026年10月19日に予定される分離独立住民投票を巡り、州内で激しい議論が続いている。</p><p>Ipsosの最新調査では56％の州民がスミスの実績に不満を示す一方、彼女の政党UCPは48％の支持を維持している。</p>',
+            source: 'CTV News',
+            sourceUrl: 'https://www.ctvnews.ca/canada/alberta-referendum/article/the-line-is-drawn-oil-and-gas-issues-divide-albertans-in-separation-debate/',
+            sourceSnippet: 'エネルギー問題がアルバータ分離論争を分断 — CTVニュース, 2026年7月'
+          },
+          ko: {
+            title: '다니엘 스미스 — 분리독립 국민투표 논쟁 속 앨버타 주총리',
+            desc: '앨버타 주총리 다니엘 스미스는 2026년 10월 예정된 주 분리독립 국민투표를 둘러싸고 큰 정치적 압박에 직면해 있다.',
+            body: '<p>다니엘 스미스는 2022년 10월부터 앨버타 주총리를 맡고 있으며, 주의 자치권 확대를 주장하는 보수 성향 정치인으로 알려져 있다. 2026년 10월 19일로 예정된 분리독립 국민투표를 두고 주 내에서 격렬한 논쟁이 이어지고 있다.</p><p>입소스의 최신 여론조사에 따르면 주민 56%가 스미스의 실적에 불만을 표했으나, 그녀의 정당 UCP는 여전히 48%의 지지를 유지하고 있다.</p>',
+            source: 'CTV News',
+            sourceUrl: 'https://www.ctvnews.ca/canada/alberta-referendum/article/the-line-is-drawn-oil-and-gas-issues-divide-albertans-in-separation-debate/',
+            sourceSnippet: '에너지 문제로 갈라진 앨버타 분리 논쟁 — CTV뉴스, 2026년 7월'
+          },
+          zh: {
+            title: '丹妮尔·史密斯 — 阿尔伯塔省长，深陷分离公投争议',
+            desc: '阿尔伯塔省长丹妮尔·史密斯正面临巨大政治压力，该省计划于2026年10月举行分离公投。',
+            body: '<p>丹妮尔·史密斯自2022年10月起担任阿尔伯塔省长，是主张扩大该省自治权的保守派代表人物。围绕定于2026年10月19日举行的分离公投，该省内部争论激烈。</p><p>据益普索最新调查，56%的省民对史密斯的表现不满，但她所属的联合保守党（UCP）仍保持48%的支持率。</p>',
+            source: 'CTV News',
+            sourceUrl: 'https://www.ctvnews.ca/canada/alberta-referendum/article/the-line-is-drawn-oil-and-gas-issues-divide-albertans-in-separation-debate/',
+            sourceSnippet: '能源问题令阿尔伯塔分离争论加剧 — CTV新闻，2026年7月'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
