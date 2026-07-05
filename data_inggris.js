@@ -305,6 +305,74 @@
           }
         }
       }
+      ,
+      {
+        id: 'inggris-nigel-farage',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Nigel Farage — Pemimpin Reform UK yang Guncang Peta Politik Inggris 2026',
+            desc: 'Nigel Farage, pemimpin partai Reform UK, terus menjadi sorotan utama politik Inggris pada 2026, dengan partainya kini dipandang sebagai kekuatan politik utama, meski menghadapi tantangan momentum dan pengawasan etika terbaru.',
+            body: '<p>Nigel Farage adalah pemimpin Reform UK, partai politik populis kanan yang mengalami lonjakan dukungan signifikan di Inggris sepanjang 2025-2026. Ia dikenal luas sebagai tokoh utama gerakan Brexit dan kini memimpin salah satu kekuatan politik paling berpengaruh di Inggris menjelang kemungkinan pemilu umum dini.</p><p>Menurut survei YouGov musim panas 2026, sebanyak 61 persen warga Inggris kini memandang Reform UK sebagai \'partai utama\', meningkat drastis dari hanya 19 persen dua tahun sebelumnya — menandakan pergeseran besar dalam lanskap politik Inggris yang sebelumnya didominasi Partai Buruh dan Konservatif.</p><p>The Guardian melaporkan pada 4 Juli 2026 bahwa para pemimpin politik Skotlandia dan Irlandia mulai bersiap menghadapi kemungkinan pecahnya persatuan Inggris Raya jika Farage dan Reform UK berhasil membentuk pemerintahan, mencerminkan kekhawatiran konstitusional yang meluas di kalangan negara-negara konstituen Inggris.</p><p>Namun, Farage juga menghadapi tantangan signifikan. Pada 2 Juli 2026, The Guardian melaporkan bahwa ia dilaporkan ke badan pengawas standar etika parlemen terkait dugaan lobi kripto usai pertemuan pribadinya dengan Gubernur Bank of England. New Statesman turut mempertanyakan apakah momentum politik Farage mulai melemah usai serangkaian kekecewaan dalam pemilu sela, termasuk kekalahan di Makerfield.</p><p>Meski begitu, Reform UK terus mendapat dukungan finansial besar, termasuk dari donor miliarder ketiga partai tersebut, Sasan Ghandehari, yang menjanjikan dana jutaan pound untuk mendukung Farage membangun \'perang kas\' menjelang kemungkinan pemilu umum dini di Inggris.</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government',
+            sourceSnippet: 'Celtic nations begin to plan for breakup of UK in event of Reform election win — The Guardian, 4 Juli 2026',
+            source2: 'YouGov',
+            sourceUrl2: 'https://yougov.com/en-gb/articles/55091-how-do-britons-see-the-parties-summer-2026',
+            sourceSnippet2: 'How do Britons see the parties, summer 2026? — YouGov, Juli 2026',
+            source3: 'The Guardian',
+            sourceUrl3: 'https://www.theguardian.com/politics/2026/jul/02/nigel-farage-reported-standards-watchdog-alleged-crypto-lobbying',
+            sourceSnippet3: 'Nigel Farage reported to standards watchdog over \'crypto lobbying\' — The Guardian, 2 Juli 2026',
+            source4: 'The Telegraph',
+            sourceUrl4: 'https://www.telegraph.co.uk/politics/2026/07/03/reform-uk-nigel-farage-billionaire-sasan-ghandehari/',
+            sourceSnippet4: 'Only Farage can deliver change, says Reform\'s third billionaire backer — The Telegraph, 3 Juli 2026',
+            source5: 'New Statesman',
+            sourceUrl5: 'https://www.newstatesman.com/politics/2026/07/is-nigel-farage-losing-momentum',
+            sourceSnippet5: 'Nigel Farage\'s aura loss — New Statesman, Juli 2026'
+          },
+          en: {
+            title: 'Nigel Farage — Reform UK Leader Reshaping Britain\'s Political Map in 2026',
+            desc: 'Nigel Farage, leader of Reform UK, remains a dominant force in British politics in 2026, with his party now seen as a major political power, though facing recent momentum challenges and ethics scrutiny.',
+            body: '<p>Nigel Farage is the leader of Reform UK, a right-wing populist political party that has surged in support across Britain throughout 2025-2026. Widely known as a key figure of the Brexit movement, he now leads one of Britain\'s most influential political forces ahead of a possible early general election.</p><p>According to a YouGov survey in summer 2026, 61% of Britons now see Reform UK as a \'main party,\' up dramatically from just 19% two years earlier — signaling a major shift in Britain\'s political landscape previously dominated by Labour and the Conservatives.</p><p>The Guardian reported on July 4, 2026, that Scottish and Irish political leaders are beginning to prepare for the possible breakup of the UK union should Farage and Reform UK form a government, reflecting widespread constitutional concerns among Britain\'s constituent nations.</p><p>However, Farage also faces significant challenges. On July 2, 2026, The Guardian reported he was referred to parliament\'s standards watchdog over alleged crypto lobbying following a private meeting with the Governor of the Bank of England. New Statesman also questioned whether Farage\'s political momentum is fading after a series of by-election disappointments, including a defeat in Makerfield.</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government',
+            sourceSnippet: 'Celtic nations begin to plan for breakup of UK in event of Reform election win — The Guardian, July 4 2026',
+            source2: 'YouGov',
+            sourceUrl2: 'https://yougov.com/en-gb/articles/55091-how-do-britons-see-the-parties-summer-2026',
+            sourceSnippet2: 'How do Britons see the parties, summer 2026? — YouGov, July 2026',
+            source3: 'The Guardian',
+            sourceUrl3: 'https://www.theguardian.com/politics/2026/jul/02/nigel-farage-reported-standards-watchdog-alleged-crypto-lobbying',
+            sourceSnippet3: 'Nigel Farage reported to standards watchdog over \'crypto lobbying\' — The Guardian, July 2 2026',
+            source4: 'New Statesman',
+            sourceUrl4: 'https://www.newstatesman.com/politics/2026/07/is-nigel-farage-losing-momentum',
+            sourceSnippet4: 'Nigel Farage\'s aura loss — New Statesman, July 2026'
+          },
+          ja: {
+            title: 'ナイジェル・ファラージ — 2026年英国政治地図を揺るがすリフォームUK党首',
+            desc: 'リフォームUK党首ナイジェル・ファラージは2026年も英国政治の中心的存在であり続けているが、勢いの陰りと倫理面での監視にも直面している。',
+            body: '<p>ファラージはBrexit運動の中心人物として知られ、現在は右派ポピュリスト政党リフォームUKを率いる。YouGov調査では61％の英国民が同党を「主要政党」とみなしている。しかし仮想通貨ロビー疑惑で倫理監視機関に通報されるなど課題も抱える。</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/politics/2026/jul/02/nigel-farage-reported-standards-watchdog-alleged-crypto-lobbying',
+            sourceSnippet: 'ファラージ氏、仮想通貨ロビー疑惑で通報 — ガーディアン, 2026年7月2日'
+          },
+          ko: {
+            title: '나이젤 파라지 — 2026년 영국 정치 지형을 뒤흔드는 리폼UK 대표',
+            desc: '리폼UK 대표 나이젤 파라지는 2026년에도 영국 정치의 핵심 인물로 남아있지만, 최근 동력 약화와 윤리 논란에 직면해 있다.',
+            body: '<p>파라지는 브렉시트 운동의 핵심 인물로 알려져 있으며, 현재 우파 포퓰리즘 정당 리폼UK를 이끌고 있다. YouGov 조사에 따르면 영국민 61%가 이 정당을 "주요 정당"으로 본다. 그러나 암호화폐 로비 의혹으로 윤리감시기구에 신고되는 등 어려움도 겪고 있다.</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/politics/2026/jul/02/nigel-farage-reported-standards-watchdog-alleged-crypto-lobbying',
+            sourceSnippet: '파라지, 암호화폐 로비 의혹으로 신고 — 가디언, 2026년 7월 2일'
+          },
+          zh: {
+            title: '奈杰尔·法拉奇 — 撼动2026年英国政治版图的改革党领袖',
+            desc: '英国改革党领袖奈杰尔·法拉奇在2026年依然是英国政坛的核心人物，但也面临势头减弱和道德操守方面的审查。',
+            body: '<p>法拉奇是脱欧运动的核心人物，现领导右翼民粹政党"改革党"。据YouGov调查，61%的英国人认为该党是"主要政党"。但他也因加密货币游说疑云被举报至议会道德监察机构。</p>',
+            source: 'The Guardian',
+            sourceUrl: 'https://www.theguardian.com/politics/2026/jul/02/nigel-farage-reported-standards-watchdog-alleged-crypto-lobbying',
+            sourceSnippet: '法拉奇因加密货币游说疑云被举报 — 卫报，2026年7月2日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
