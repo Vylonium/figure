@@ -302,6 +302,123 @@
           }
         }
       }
+      ,
+      {
+        id: 'prancis-christine-lagarde',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Christine Lagarde — Presiden ECB yang Pertimbangkan Terjun ke Politik Prancis',
+            desc: 'Christine Lagarde, Presiden Bank Sentral Eropa (ECB), pada awal Juli 2026 tidak menutup kemungkinan mengundurkan diri lebih awal dari jabatannya untuk terjun ke arena politik Prancis menjelang pemilu presiden 2027.',
+            body: '<p>Christine Lagarde adalah Presiden Bank Sentral Eropa (ECB) sejak 2019, sebelumnya menjabat Direktur Pelaksana Dana Moneter Internasional (IMF) dan Menteri Keuangan Prancis. Ia dikenal luas sebagai salah satu tokoh keuangan perempuan paling berpengaruh di dunia.</p><p>Pada 3 Juli 2026, Reuters melaporkan bahwa Lagarde tidak menutup kemungkinan mengakhiri masa jabatannya di ECB lebih awal dari jadwal seharusnya akhir 2027, untuk mempertimbangkan peran dalam politik Prancis. Pernyataan ini muncul di tengah spekulasi luas mengenai kemungkinan pencalonannya dalam pemilu presiden Prancis 2027.</p><p>CNBC dan Politico Europe melaporkan bahwa pengunduran diri dini Lagarde berpotensi memberi ruang bagi para pemimpin politik Eropa untuk memilih penggantinya di ECB lebih awal, sekaligus membuka jalan baginya untuk berperan aktif dalam kampanye presiden Prancis mendatang.</p><p>Pada 29 Juni 2026, dalam pidatonya di ECB Forum on Central Banking di Sintra, Portugal, Lagarde menegaskan bahwa ECB tengah \'kembali ke dasar\' kebijakan moneter di tengah lingkungan ekonomi global yang penuh ketidakpastian, seraya menyerukan adaptasi kebijakan terhadap volatilitas pasar yang meningkat.</p><p>Lagarde juga dijadwalkan menghadiri pertemuan Ecofin Menteri Keuangan Uni Eropa di Brussels pekan berikutnya, menggantikan kehadiran Gubernur Bank Sentral Kroasia. Langkah-langkah ini menandakan Lagarde tetap aktif dalam agenda kebijakan Eropa, sembari mempertimbangkan masa depan politiknya di Prancis.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/business/ecbs-lagarde-says-she-cant-rule-out-early-departure-2026-07-03/',
+            sourceSnippet: 'ECB\'s Lagarde won\'t rule out early departure — Reuters, 3 Juli 2026',
+            source2: 'CNBC',
+            sourceUrl2: 'https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html',
+            sourceSnippet2: 'Christine Lagarde leaves door open to early ECB exit — CNBC, 3 Juli 2026',
+            source3: 'Politico Europe',
+            sourceUrl3: 'https://www.politico.eu/article/christine-lagarde-floats-early-ecb-exit-to-play-role-in-french-presidential-campaign/',
+            sourceSnippet3: 'Lagarde floats early ECB exit to play role in French presidential campaign — Politico Europe, Juli 2026',
+            source4: 'Euronews',
+            sourceUrl4: 'https://www.euronews.com/business/2026/06/30/christine-lagardes-sintra-speech-signals-a-new-ecb-playbook',
+            sourceSnippet4: 'Christine Lagarde\'s Sintra speech signals a new ECB playbook — Euronews, 30 Juni 2026'
+          },
+          en: {
+            title: 'Christine Lagarde — ECB President Weighing a Move into French Politics',
+            desc: 'Christine Lagarde, President of the European Central Bank (ECB), stated in early July 2026 that she cannot rule out an early departure from her post to enter French politics ahead of the 2027 presidential election.',
+            body: '<p>Christine Lagarde has served as President of the European Central Bank (ECB) since 2019, having previously served as Managing Director of the IMF and France\'s Finance Minister. She is widely regarded as one of the most influential women in global finance.</p><p>On July 3, 2026, Reuters reported that Lagarde would not rule out ending her ECB term earlier than its scheduled end in late 2027, to consider a role in French politics. The statement came amid widespread speculation about her potential candidacy in France\'s 2027 presidential election.</p><p>CNBC and Politico Europe reported that Lagarde\'s early resignation could give European political leaders room to choose her ECB successor sooner, while opening a path for her to actively participate in the upcoming French presidential campaign.</p><p>On June 29, 2026, in her speech at the ECB Forum on Central Banking in Sintra, Portugal, Lagarde affirmed that the ECB was going \'back to basics\' on monetary policy amid an uncertain global economic environment, calling for policy adaptation to increased market volatility.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/business/ecbs-lagarde-says-she-cant-rule-out-early-departure-2026-07-03/',
+            sourceSnippet: 'ECB\'s Lagarde won\'t rule out early departure — Reuters, July 3 2026',
+            source2: 'CNBC',
+            sourceUrl2: 'https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html',
+            sourceSnippet2: 'Christine Lagarde leaves door open to early ECB exit — CNBC, July 3 2026',
+            source3: 'Politico Europe',
+            sourceUrl3: 'https://www.politico.eu/article/christine-lagarde-floats-early-ecb-exit-to-play-role-in-french-presidential-campaign/',
+            sourceSnippet3: 'Lagarde floats early ECB exit to play role in French presidential campaign — Politico Europe, July 2026'
+          },
+          ja: {
+            title: 'クリスティーヌ・ラガルド — フランス政界転身を模索するECB総裁',
+            desc: '欧州中央銀行（ECB）総裁クリスティーヌ・ラガルドは2026年7月初旬、2027年フランス大統領選を見据え、任期満了前の早期退任もあり得るとの姿勢を示した。',
+            body: '<p>ラガルドは2019年からECB総裁を務め、以前はIMF専務理事、フランス財務相を歴任した。2026年7月3日、ロイターは彼女が任期満了前の退任を否定しなかったと報じた。フランス政界への転身が憶測されている。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/business/ecbs-lagarde-says-she-cant-rule-out-early-departure-2026-07-03/',
+            sourceSnippet: 'ラガルド総裁、早期退任を否定せず — ロイター, 2026年7月3日'
+          },
+          ko: {
+            title: '크리스틴 라가르드 — 프랑스 정계 진출을 저울질하는 ECB 총재',
+            desc: '유럽중앙은행(ECB) 총재 크리스틴 라가르드는 2026년 7월 초, 2027년 프랑스 대선을 앞두고 임기 만료 전 조기 퇴임 가능성을 배제하지 않았다.',
+            body: '<p>라가르드는 2019년부터 ECB 총재를 맡고 있으며 이전에는 IMF 총재, 프랑스 재무장관을 지냈다. 2026년 7월 3일 로이터는 그녀가 임기 만료 전 퇴임 가능성을 배제하지 않았다고 보도했다. 프랑스 정계 진출 가능성이 제기되고 있다.</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/business/ecbs-lagarde-says-she-cant-rule-out-early-departure-2026-07-03/',
+            sourceSnippet: '라가르드 총재, 조기 퇴임 가능성 배제 안 해 — 로이터, 2026년 7월 3일'
+          },
+          zh: {
+            title: '克里斯蒂娜·拉加德 — 考虑投身法国政坛的欧洲央行行长',
+            desc: '欧洲央行行长克里斯蒂娜·拉加德在2026年7月初表示，不排除在任期届满前提前离任、投身2027年法国总统大选的可能性。',
+            body: '<p>拉加德自2019年起担任欧洲央行行长，此前曾任国际货币基金组织总裁、法国财政部长。2026年7月3日，路透社报道称她未排除提前卸任的可能性，外界猜测她可能投身法国政坛。</p>',
+            source: 'Reuters',
+            sourceUrl: 'https://www.reuters.com/business/ecbs-lagarde-says-she-cant-rule-out-early-departure-2026-07-03/',
+            sourceSnippet: '欧洲央行拉加德不排除提前离任 — 路透社，2026年7月3日'
+          }
+        }
+      },
+      {
+        id: 'prancis-edouard-philippe',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Édouard Philippe — Mantan PM Prancis, Kandidat Kuat Presiden 2027 di Tengah Sorotan Hukum',
+            desc: 'Édouard Philippe, mantan Perdana Menteri Prancis dan Wali Kota Le Havre, dipandang sebagai salah satu kandidat utama Prancis untuk pemilu presiden 2027, meski kini menghadapi penyelidikan hukum terkait dugaan penggelapan.',
+            body: '<p>Édouard Philippe adalah politisi sentris Prancis yang menjabat Perdana Menteri di bawah Presiden Emmanuel Macron dari 2017 hingga 2020. Setelah meninggalkan jabatan tersebut, ia menjadi Wali Kota Le Havre dan mendirikan partai politiknya sendiri, Horizons, sembari terus membangun basis dukungan menuju pemilu presiden 2027.</p><p>Menurut analisis Politico Europe, Philippe dipandang sebagai salah satu kandidat terpopuler di antara puluhan tokoh yang telah dideklarasikan atau berpotensi maju dalam pemilu presiden Prancis 2027, dengan strategi mengambil posisi lebih ke kanan untuk melawan kekuatan sayap kanan seperti Marine Le Pen dan Jordan Bardella dari Rassemblement National (RN).</p><p>Namun pada 20 Mei 2026, France24 melaporkan bahwa Philippe menjadi target penyelidikan penggelapan dana oleh jaksa Prancis, sebuah pukulan hukum yang berpotensi membayangi pencalonannya sebagai salah satu kandidat sentris terdepan dalam pemilu mendatang.</p><p>Le Monde mencatat dalam rangkumannya bahwa setidaknya 34 tokoh telah dideklarasikan atau berpotensi maju dalam pemilu presiden Prancis 2027, menandakan lanskap politik yang sangat terfragmentasi menjelang pemilu tersebut, dengan partai sayap kanan RN tetap unggul dalam berbagai survei terbaru.</p><p>Meski menghadapi tantangan hukum, Philippe tetap dipandang sebagai representasi kekuatan politik sentris yang berupaya menahan laju kemenangan sayap kanan di Prancis, di tengah meningkatnya pesimisme publik terhadap masa depan politik negara tersebut menjelang 2027.</p>',
+            source: 'Politico Europe',
+            sourceUrl: 'https://www.politico.eu/article/edouard-philippe-can-he-become-frances-next-president/',
+            sourceSnippet: 'Edouard Philippe tilts right to combat far right in French presidential race — Politico Europe, Juni 2026',
+            source2: 'France24',
+            sourceUrl2: 'https://www.france24.com/en/france/20260520-french-presidential-candidate-philippe-targeted-in-embezzlement-probe',
+            sourceSnippet2: 'French presidential contender Édouard Philippe targeted by embezzlement probe — France24, 20 Mei 2026',
+            source3: 'Le Monde',
+            sourceUrl3: 'https://www.lemonde.fr/en/les-decodeurs/article/2026/07/02/2027-french-presidential-election-who-s-already-running-who-could-be-and-key-dates_6752856_9.html',
+            sourceSnippet3: '2027 French presidential election: Who\'s already running — Le Monde, 2 Juli 2026'
+          },
+          en: {
+            title: 'Édouard Philippe — Former French PM, Leading 2027 Presidential Contender Amid Legal Scrutiny',
+            desc: 'Édouard Philippe, former Prime Minister of France and Mayor of Le Havre, is seen as one of France\'s leading candidates for the 2027 presidential election, though he now faces a legal investigation over alleged embezzlement.',
+            body: '<p>Édouard Philippe is a centrist French politician who served as Prime Minister under President Emmanuel Macron from 2017 to 2020. After leaving the post, he became Mayor of Le Havre and founded his own political party, Horizons, while building support toward the 2027 presidential election.</p><p>According to Politico Europe\'s analysis, Philippe is seen as one of the most popular candidates among dozens of declared or potential contenders in France\'s 2027 presidential race, adopting a strategy of tilting further right to counter far-right forces like Marine Le Pen and Jordan Bardella of the National Rally (RN).</p><p>However, on May 20, 2026, France24 reported that Philippe became the target of an embezzlement investigation by French prosecutors, a legal blow that could overshadow his candidacy as one of the leading centrist contenders in the upcoming election.</p><p>Le Monde noted in its roundup that at least 34 figures have declared or could potentially run in France\'s 2027 presidential election, signaling a highly fragmented political landscape ahead of the vote, with the far-right RN party remaining ahead in recent polls.</p>',
+            source: 'Politico Europe',
+            sourceUrl: 'https://www.politico.eu/article/edouard-philippe-can-he-become-frances-next-president/',
+            sourceSnippet: 'Edouard Philippe tilts right to combat far right in French presidential race — Politico Europe, June 2026',
+            source2: 'France24',
+            sourceUrl2: 'https://www.france24.com/en/france/20260520-french-presidential-candidate-philippe-targeted-in-embezzlement-probe',
+            sourceSnippet2: 'French presidential contender Édouard Philippe targeted by embezzlement probe — France24, May 20 2026'
+          },
+          ja: {
+            title: 'エドゥアール・フィリップ — 元仏首相、法的疑惑を抱えつつ2027年大統領選有力候補',
+            desc: '元フランス首相でルアーヴル市長のエドゥアール・フィリップは、2027年大統領選の有力候補と目される一方、横領疑惑の捜査対象となっている。',
+            body: '<p>フィリップは2017年から2020年までマクロン政権下で首相を務めた中道政治家。2026年5月20日、検察当局による横領容疑の捜査対象になったと報じられた。極右対抗の中道候補として注目されている。</p>',
+            source: 'France24',
+            sourceUrl: 'https://www.france24.com/en/france/20260520-french-presidential-candidate-philippe-targeted-in-embezzlement-probe',
+            sourceSnippet: 'フィリップ氏、横領疑惑の捜査対象に — France24, 2026年5月20日'
+          },
+          ko: {
+            title: '에두아르 필리프 — 법적 논란 속 2027년 대선 유력 후보, 전 프랑스 총리',
+            desc: '전 프랑스 총리이자 르아브르 시장인 에두아르 필리프는 2027년 대선 유력 후보로 꼽히는 한편, 횡령 의혹 수사 대상이 됐다.',
+            body: '<p>필리프는 2017년부터 2020년까지 마크롱 정부에서 총리를 지낸 중도 정치인이다. 2026년 5월 20일 검찰의 횡령 혐의 수사 대상이 됐다고 보도됐다. 극우에 맞서는 중도 후보로 주목받고 있다.</p>',
+            source: 'France24',
+            sourceUrl: 'https://www.france24.com/en/france/20260520-french-presidential-candidate-philippe-targeted-in-embezzlement-probe',
+            sourceSnippet: '필리프, 횡령 의혹 수사 대상 — France24, 2026년 5월 20일'
+          },
+          zh: {
+            title: '爱德华·菲利普 — 深陷法律风波的法国前总理，2027年大选热门候选人',
+            desc: '法国前总理、勒阿弗尔市长爱德华·菲利普被视为2027年总统大选的热门候选人之一，但目前正面临贪污调查。',
+            body: '<p>菲利普是中间派政治家，2017年至2020年在马克龙政府担任总理。2026年5月20日，据报道他成为检方贪污调查对象。他被视为对抗极右翼的中间派候选人。</p>',
+            source: 'France24',
+            sourceUrl: 'https://www.france24.com/en/france/20260520-french-presidential-candidate-philippe-targeted-in-embezzlement-probe',
+            sourceSnippet: '菲利普成为贪污调查对象 — 法国24台，2026年5月20日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
