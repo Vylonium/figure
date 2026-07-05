@@ -311,6 +311,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'korea-utara-jo-yong-won',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Jo Yong Won — Tangan Kanan Kim Jong Un yang Naik ke Presidium Partai dalam Kongres ke-9',
+            desc: 'Jo Yong Won, sekretaris senior dan orang kepercayaan generasi Kim Jong Un, dipromosikan ke Presidium Partai — kelompok pejabat tertinggi WPK — dalam Kongres Partai ke-9 Korea Utara pada Februari 2026, menandai reshuffle kepemimpinan besar-besaran.',
+            body: '<p>Jo Yong Won adalah sekretaris senior Partai Buruh Korea (WPK) yang telah muncul di media negara mendampingi Kim Jong Un selama lebih dari satu dekade. Ia dikenal sebagai salah satu \'sekutu generasi\' Kim — tokoh yang naik bersama dengan Kim dari usia yang sama dan terikat oleh hubungan personal, bukan sekadar hierarki organisasi.</p><p>Menurut analisis The Diplomat pada 25 Februari 2026, Kongres Partai ke-9 WPK yang digelar 19-25 Februari 2026 menghasilkan rombakan besar dalam Komite Sentral, dengan sekitar 40 persen dari 138 anggota Komite Sentral diganti — sebuah reshuffle yang mengangkat sekutu-sekutu generasi dan institusional Kim sekaligus menyingkirkan sejumlah tokoh senior.</p><p>Dalam kongres tersebut, Jo Yong Won menerima kehormatan bergabung dengan Presidium Partai — kelompok pejabat tertinggi dalam struktur WPK — usai sebelumnya menjabat sekretaris Komite Sentral. Promosi ini menegaskan posisinya sebagai salah satu tokoh paling berpengaruh dan tepercaya di lingkaran dalam kekuasaan Kim Jong Un saat ini.</p><p>Reshuffle ini turut menyingkirkan sejumlah tokoh senior seperti Choe Ryong Hae, salah satu anggota lingkaran dalam Kim yang telah lama berkuasa, serta Ri Pyong Chol, mantan wakil ketua Komisi Militer Pusat yang berperan penting dalam pengembangan rudal Korea Utara — menandakan pergeseran generasi yang signifikan dalam elite kekuasaan Pyongyang.</p><p>Menurut analisis tersebut, promosi tokoh-tokoh seperti Jo Yong Won dan Kim Yo Jong (adik Kim Jong Un) ke posisi-posisi kunci mencerminkan strategi Kim Jong Un untuk memperkuat basis kekuasaannya dengan sekutu-sekutu yang lebih muda dan loyal, sekaligus mempersiapkan struktur kepemimpinan jangka panjang rezim di tengah tantangan geopolitik yang terus berkembang.</p>',
+            source: 'The Diplomat',
+            sourceUrl: 'https://thediplomat.com/2026/02/kim-jong-uns-ninth-party-congress-personnel-shakeup/',
+            sourceSnippet: 'Kim Jong Un\'s Ninth Party Congress Personnel Shakeup — The Diplomat, 25 Februari 2026',
+            source2: 'Reuters',
+            sourceUrl2: 'https://www.reuters.com/world/asia-pacific/north-korea-ruling-workers-party-re-elects-kim-jong-un-general-secretary-kcna-2026-02-22/',
+            sourceSnippet2: 'North Korea\'s ruling Workers\' Party re-elects Kim Jong Un general secretary — Reuters, 22 Februari 2026',
+            source3: 'The Chosun Ilbo',
+            sourceUrl3: 'https://www.chosun.com/english/north-korea-en/2026/02/24/W6CPJZ5TUNEDJGCGAFVKFD7X2A/',
+            sourceSnippet3: 'North Korean Workers\' Party Leadership Overhauled — The Chosun Ilbo, 24 Februari 2026',
+            source4: 'The Korea Times',
+            sourceUrl4: 'https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260220/n-korea-overhauls-inner-circle-removing-old-guard',
+            sourceSnippet4: 'N. Korea overhauls inner circle, removing old guard — The Korea Times, 20 Februari 2026'
+          },
+          en: {
+            title: 'Jo Yong Won — Kim Jong Un\'s Right-Hand Man Elevated to Party Presidium at 9th Congress',
+            desc: 'Jo Yong Won, a senior secretary and generational confidant of Kim Jong Un, was promoted to the Party Presidium — the highest tier of WPK officials — at North Korea\'s 9th Party Congress in February 2026, marking a major leadership reshuffle.',
+            body: '<p>Jo Yong Won is a senior secretary of the Workers\' Party of Korea (WPK) who has appeared in state media alongside Kim Jong Un for over a decade. He is known as one of Kim\'s \'generational allies\' — figures who rose alongside Kim at a similar age, bound by personal relationships rather than mere organizational hierarchy.</p><p>According to The Diplomat\'s analysis on February 25, 2026, the WPK\'s 9th Party Congress held February 19-25, 2026 produced a major Central Committee shakeup, with about 40% of its 138 members replaced — a reshuffle elevating Kim\'s generational and institutional allies while sidelining several senior figures.</p><p>At the congress, Jo Yong Won received the honor of joining the Party Presidium — the highest group of officials within the WPK structure — after previously serving as a Central Committee secretary. This promotion affirms his position as one of the most influential and trusted figures in Kim Jong Un\'s current inner circle.</p><p>The reshuffle also removed senior figures such as Choe Ryong Hae, a longtime member of Kim\'s inner circle, and Ri Pyong Chol, a former vice chairman of the Central Military Commission who played a key role in North Korea\'s missile development — signaling a significant generational shift within Pyongyang\'s power elite.</p>',
+            source: 'The Diplomat',
+            sourceUrl: 'https://thediplomat.com/2026/02/kim-jong-uns-ninth-party-congress-personnel-shakeup/',
+            sourceSnippet: 'Kim Jong Un\'s Ninth Party Congress Personnel Shakeup — The Diplomat, February 25 2026',
+            source2: 'Reuters',
+            sourceUrl2: 'https://www.reuters.com/world/asia-pacific/north-korea-ruling-workers-party-re-elects-kim-jong-un-general-secretary-kcna-2026-02-22/',
+            sourceSnippet2: 'North Korea\'s ruling Workers\' Party re-elects Kim Jong Un general secretary — Reuters, February 22 2026',
+            source3: 'The Chosun Ilbo',
+            sourceUrl3: 'https://www.chosun.com/english/north-korea-en/2026/02/24/W6CPJZ5TUNEDJGCGAFVKFD7X2A/',
+            sourceSnippet3: 'North Korean Workers\' Party Leadership Overhauled — The Chosun Ilbo, February 24 2026'
+          },
+          ja: {
+            title: 'ジョ・ヨンウォン — 第9回党大会で党常務委員会入りした金正恩氏側近',
+            desc: '金正恩氏の側近ジョ・ヨンウォンは、2026年2月の第9回党大会で党最高機関である常務委員会入りを果たし、大規模な指導部刷新を象徴する人事となった。',
+            body: '<p>ジョ・ヨンウォンは朝鮮労働党の書記で、10年以上金正恩氏と共に国営メディアに登場してきた側近。2026年2月の第9回党大会で中央委員138人の40％が入れ替わる大規模な刷新が行われ、彼は常務委員会入りを果たした。</p>',
+            source: 'The Diplomat',
+            sourceUrl: 'https://thediplomat.com/2026/02/kim-jong-uns-ninth-party-congress-personnel-shakeup/',
+            sourceSnippet: '金正恩氏の第9回党大会人事刷新 — ザ・ディプロマット, 2026年2月25日'
+          },
+          ko: {
+            title: '조용원 — 제9차 당대회에서 정치국 상무위원회 입성한 김정은 측근',
+            desc: '김정은의 측근 조용원은 2026년 2월 열린 제9차 당대회에서 당 최고기구인 상무위원회에 입성하며 대규모 지도부 개편을 상징하는 인사가 됐다.',
+            body: '<p>조용원은 조선노동당 서기로, 10년 넘게 김정은과 함께 국영매체에 등장해온 측근이다. 2026년 2월 제9차 당대회에서 중앙위원 138명 중 40%가 교체되는 대규모 개편이 이뤄졌고, 그는 상무위원회에 입성했다.</p>',
+            source: 'The Diplomat',
+            sourceUrl: 'https://thediplomat.com/2026/02/kim-jong-uns-ninth-party-congress-personnel-shakeup/',
+            sourceSnippet: '김정은의 제9차 당대회 인사 개편 — 더 디플로맷, 2026년 2월 25일'
+          },
+          zh: {
+            title: '赵勇元 — 在第九次党代会晋升政治局常委的金正恩心腹',
+            desc: '金正恩心腹赵勇元在2026年2月举行的朝鲜第九次党代会上晋升为党内最高机构政治局常委，标志着一次重大的领导层洗牌。',
+            body: '<p>赵勇元是朝鲜劳动党书记，十多年来一直伴随金正恩出现在官方媒体上。2026年2月第九次党代会上，138名中央委员中约40%被更换，他晋升为政治局常委。</p>',
+            source: 'The Diplomat',
+            sourceUrl: 'https://thediplomat.com/2026/02/kim-jong-uns-ninth-party-congress-personnel-shakeup/',
+            sourceSnippet: '金正恩第九次党代会人事洗牌 — 外交学者，2026年2月25日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
