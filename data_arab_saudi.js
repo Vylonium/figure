@@ -367,6 +367,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'arab-saudi-reema-bint-bandar',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Reema bint Bandar — Duta Besar Arab Saudi untuk AS, Aktif dalam Diplomasi Ekonomi dan Keamanan',
+            desc: 'Putri Reema bint Bandar Al Saud, Duta Besar Arab Saudi untuk Amerika Serikat, menjadi salah satu diplomat perempuan paling menonjol Kerajaan, aktif dalam diplomasi ekonomi, keamanan regional, dan promosi olahraga menjelang Piala Dunia 2026.',
+            body: '<p>Putri Reema bint Bandar Al Saud adalah Duta Besar Arab Saudi untuk Amerika Serikat, salah satu posisi diplomatik paling penting bagi Kerajaan mengingat hubungan strategis Riyadh dengan Washington di berbagai bidang termasuk keamanan, energi, dan investasi. Ia merupakan perempuan pertama yang menjabat sebagai duta besar Arab Saudi.</p><p>Pada 13 Juni 2026, menurut Saudi Press Agency (SPA), Reema menyatakan bahwa partisipasi Tim Nasional Arab Saudi dalam Piala Dunia 2026 mencerminkan perkembangan kualitatif olahraga Arab Saudi, menegaskan kebanggaan Kerajaan atas kemajuan pesat sektor sepak bola nasional yang didukung investasi besar-besaran dalam beberapa tahun terakhir.</p><p>Pada Maret 2026, Reema turut berperan dalam pertemuan diplomatik penting di Washington bersama utusan negara-negara GCC dan Yordania, menegaskan hak pertahanan diri kawasan Teluk dalam pembicaraan keamanan dengan pejabat AS, menurut laporan Saudi Gazette. Pertemuan ini terjadi di tengah meningkatnya ketegangan terkait eskalasi Iran di kawasan.</p><p>Reema juga aktif dalam diplomasi ekonomi, termasuk kunjungannya ke fasilitas Boeing di Charleston, Carolina Selatan pada awal Juni 2026, sebagai bagian dari upaya memperkuat hubungan investasi dan kerja sama industri kedirgantaraan antara Arab Saudi dan Amerika Serikat.</p><p>Sebagai diplomat perempuan terkemuka Arab Saudi, kiprah Reema turut menjadi simbol transformasi sosial Kerajaan di panggung diplomasi internasional, merepresentasikan kemajuan partisipasi perempuan Saudi dalam bidang yang secara historis didominasi laki-laki, sejalan dengan agenda reformasi Vision 2030.</p>',
+            source: 'Saudi Press Agency (SPA)',
+            sourceUrl: 'https://www.spa.gov.sa/en/N2611826',
+            sourceSnippet: 'Saudi Ambassador to US: National Team\'s Participation in World Cup 2026 Reflects Qualitative Development — SPA, 13 Juni 2026',
+            source2: 'Arab News',
+            sourceUrl2: 'https://www.arabnews.com/node/2646116/saudi-arabia',
+            sourceSnippet2: 'Saudi ambassador to US visits Boeing facilities in Charleston — Arab News, Juni 2026',
+            source3: 'Saudi Gazette',
+            sourceUrl3: 'https://saudigazette.com.sa/article/659878',
+            sourceSnippet3: 'GCC envoys affirm right to self-defense in Washington security talks — Saudi Gazette, 19 Maret 2026',
+            source4: 'Times of Israel (Blog)',
+            sourceUrl4: 'https://blogs.timesofisrael.com/riyadhs-message-no-more-room-for-irans-escalation/',
+            sourceSnippet4: 'Riyadh\'s Message: No More Room for Iran\'s Escalation — Times of Israel Blogs, 21 Maret 2026'
+          },
+          en: {
+            title: 'Reema bint Bandar — Saudi Ambassador to the US, Active in Economic and Security Diplomacy',
+            desc: 'Princess Reema bint Bandar Al Saud, Saudi Arabia\'s Ambassador to the United States, is one of the Kingdom\'s most prominent female diplomats, active in economic diplomacy, regional security, and sports promotion ahead of the 2026 World Cup.',
+            body: '<p>Princess Reema bint Bandar Al Saud is Saudi Arabia\'s Ambassador to the United States, one of the Kingdom\'s most important diplomatic posts given Riyadh\'s strategic ties with Washington across security, energy, and investment. She is the first woman to serve as Saudi Arabia\'s ambassador.</p><p>On June 13, 2026, according to the Saudi Press Agency (SPA), Reema stated that the Saudi national team\'s participation in the 2026 World Cup reflects the qualitative development of Saudi sports, affirming the Kingdom\'s pride in the rapid progress of its football sector, backed by massive investment in recent years.</p><p>In March 2026, Reema played a role in key diplomatic talks in Washington alongside GCC and Jordanian envoys, affirming the Gulf region\'s right to self-defense in security talks with US officials, according to Saudi Gazette. The meeting came amid rising tensions over Iran\'s regional escalation.</p><p>Reema has also been active in economic diplomacy, including a visit to Boeing\'s facilities in Charleston, South Carolina in early June 2026, as part of efforts to strengthen investment ties and aerospace industry cooperation between Saudi Arabia and the United States.</p>',
+            source: 'Saudi Press Agency (SPA)',
+            sourceUrl: 'https://www.spa.gov.sa/en/N2611826',
+            sourceSnippet: 'Saudi Ambassador to US: National Team\'s Participation in World Cup 2026 Reflects Qualitative Development — SPA, June 13 2026',
+            source2: 'Arab News',
+            sourceUrl2: 'https://www.arabnews.com/node/2646116/saudi-arabia',
+            sourceSnippet2: 'Saudi ambassador to US visits Boeing facilities in Charleston — Arab News, June 2026',
+            source3: 'Saudi Gazette',
+            sourceUrl3: 'https://saudigazette.com.sa/article/659878',
+            sourceSnippet3: 'GCC envoys affirm right to self-defense in Washington security talks — Saudi Gazette, March 19 2026'
+          },
+          ja: {
+            title: 'リーマ・ビント・バンダル — 経済・安全保障外交で活躍する駐米サウジ大使',
+            desc: 'リーマ・ビント・バンダル王女は駐米サウジアラビア大使であり、2026年W杯を前に経済外交、地域安全保障、スポーツ振興で活躍している。',
+            body: '<p>リーマ王女はサウジアラビア初の女性大使。2026年6月13日、SPAによれば彼女はサウジ代表のW杯出場がスポーツの質的発展を反映すると述べた。3月にはGCC・ヨルダン使節とワシントンでの安全保障協議に参加した。</p>',
+            source: 'Saudi Press Agency (SPA)',
+            sourceUrl: 'https://www.spa.gov.sa/en/N2611826',
+            sourceSnippet: 'サウジ大使、W杯出場はスポーツの質的発展を反映 — SPA, 2026年6月13日'
+          },
+          ko: {
+            title: '리마 빈트 반다르 — 경제·안보 외교에서 활약하는 주미 사우디 대사',
+            desc: '리마 빈트 반다르 공주는 주미 사우디아라비아 대사로, 2026년 월드컵을 앞두고 경제 외교, 지역 안보, 스포츠 진흥에서 활약하고 있다.',
+            body: '<p>리마 공주는 사우디아라비아 최초의 여성 대사다. 2026년 6월 13일 SPA에 따르면 그녀는 사우디 대표팀의 월드컵 출전이 스포츠의 질적 발전을 반영한다고 밝혔다. 3월에는 GCC·요르단 사절단과 워싱턴 안보 협의에 참여했다.</p>',
+            source: 'Saudi Press Agency (SPA)',
+            sourceUrl: 'https://www.spa.gov.sa/en/N2611826',
+            sourceSnippet: '사우디 대사, 월드컵 출전은 스포츠 질적 발전 반영 — SPA, 2026년 6월 13일'
+          },
+          zh: {
+            title: '瑞玛·班达尔 — 活跃于经济与安全外交的沙特驻美大使',
+            desc: '瑞玛·班达尔公主是沙特阿拉伯驻美国大使，在2026年世界杯前活跃于经济外交、地区安全及体育推广领域。',
+            body: '<p>瑞玛公主是沙特阿拉伯首位女性大使。据2026年6月13日沙特通讯社报道，她表示沙特国家队参加世界杯反映了体育的质的发展。3月她与海湾合作委员会及约旦使节在华盛顿参加了安全会谈。</p>',
+            source: 'Saudi Press Agency (SPA)',
+            sourceUrl: 'https://www.spa.gov.sa/en/N2611826',
+            sourceSnippet: '沙特大使：世界杯参赛反映体育质的发展 — 沙特通讯社，2026年6月13日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
