@@ -302,6 +302,129 @@
           }
         }
       }
+      ,
+      {
+        id: 'rusia-kirill-dmitriev',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Kirill Dmitriev — Utusan Ekonomi Putin di Balik Negosiasi Rahasia dengan AS',
+            desc: 'Kirill Dmitriev, kepala Dana Investasi Langsung Rusia (RDIF) dan utusan khusus ekonomi Presiden Putin, menjadi tokoh sentral dalam serangkaian negosiasi rahasia dengan pejabat AS sepanjang 2026 terkait energi, ekonomi, dan penyelesaian perang Ukraina.',
+            body: '<p>Kirill Dmitriev adalah kepala Dana Investasi Langsung Rusia (RDIF) yang ditugaskan Presiden Vladimir Putin sebagai utusan khusus untuk kerja sama ekonomi internasional. Sepanjang 2026, ia menjadi salah satu tokoh paling aktif dalam jalur diplomasi ekonomi antara Rusia dan Amerika Serikat di tengah perang yang berkelanjutan di Ukraina.</p><p>Pada Maret 2026, Dmitriev bertemu dengan negosiator AS di Florida untuk pembicaraan pertama semacam itu, yang menurut The Moscow Times turut dihadiri oleh Steve Witkoff dan Jared Kushner dari pihak AS, membahas kerja sama energi Rusia dan kemungkinan penyelesaian konflik Ukraina.</p><p>Pada April 2026, Pravda Ukraine dan Reuters melaporkan Dmitriev kembali terbang ke AS untuk melanjutkan pembicaraan dengan pejabat tim Trump mengenai isu Ukraina dan peluang kerja sama ekonomi antara kedua negara, menegaskan perannya sebagai saluran komunikasi utama Kremlin dengan Washington.</p><p>Pada Juni 2026, Dmitriev menyatakan kepada media bahwa kontak AS-Rusia terjadi \'beberapa kali seminggu\' meski negosiasi damai Ukraina mengalami kebuntuan, sembari menuduh Inggris dan negara-negara Eropa berupaya \'menggagalkan\' proses perdamaian Ukraina — pernyataan yang menuai kontroversi di kalangan sekutu Barat Ukraina.</p><p>Sebagai utusan ekonomi utama Kremlin, Dmitriev memainkan peran ganda: menjaga jalur komunikasi terbuka dengan AS di tengah sanksi Barat terhadap Rusia, sekaligus mempromosikan potensi investasi dan kerja sama ekonomi pasca-perang, menjadikannya salah satu tokoh paling dipantau dalam diplomasi geopolitik 2026.</p>',
+            source: 'The Moscow Times',
+            sourceUrl: 'https://www.themoscowtimes.com/2026/03/12/putin-envoy-kirill-dmitriev-meets-with-witkoff-and-kushner-to-discuss-russian-energy-a92208',
+            sourceSnippet: 'Putin Envoy Kirill Dmitriev Meets With Witkoff and Kushner — The Moscow Times, 12 Maret 2026',
+            source2: 'Reuters',
+            sourceUrl2: 'https://www.reuters.com/world/putin-envoy-says-russia-us-talks-energy-economy-continue-2026-06-04/',
+            sourceSnippet2: 'Putin envoy says Russia-US talks on energy, economy continue — Reuters, 4 Juni 2026',
+            source3: 'Pravda Ukraine',
+            sourceUrl3: 'https://www.pravda.com.ua/eng/news/2026/04/10/8029539/',
+            sourceSnippet3: 'Putin\'s envoy Dmitriev arrives in US for talks with Trump\'s officials — Pravda Ukraine, 10 April 2026',
+            source4: 'The National News',
+            sourceUrl4: 'https://www.thenationalnews.com/news/europe/2026/06/05/uk-and-europe-seeking-to-derail-ukraine-peace-process-russian-economic-envoy-claims/',
+            sourceSnippet4: 'UK and Europe seek to \'derail\' Ukraine peace process, Russian envoy claims — The National, 5 Juni 2026'
+          },
+          en: {
+            title: 'Kirill Dmitriev — Putin\'s Economic Envoy Behind Secret Talks with the US',
+            desc: 'Kirill Dmitriev, head of the Russian Direct Investment Fund (RDIF) and President Putin\'s special economic envoy, has been a central figure in a series of behind-the-scenes negotiations with US officials throughout 2026 on energy, economy, and a potential Ukraine war settlement.',
+            body: '<p>Kirill Dmitriev is the head of the Russian Direct Investment Fund (RDIF), tasked by President Vladimir Putin as special envoy for international economic cooperation. Throughout 2026, he has been one of the most active figures in the economic diplomacy track between Russia and the United States amid the ongoing war in Ukraine.</p><p>In March 2026, Dmitriev met US negotiators in Florida for the first such talks, which according to The Moscow Times included Steve Witkoff and Jared Kushner on the US side, discussing Russian energy cooperation and potential Ukraine conflict resolution.</p><p>In April 2026, Pravda Ukraine and Reuters reported Dmitriev again flew to the US to continue talks with Trump administration officials on Ukraine issues and potential economic cooperation between the two nations, affirming his role as the Kremlin\'s key communication channel with Washington.</p><p>In June 2026, Dmitriev told media that US-Russia contacts occurred \'several times a week\' even as Ukraine peace negotiations stalled, while accusing the UK and European nations of trying to \'derail\' the Ukraine peace process — a claim that drew controversy among Ukraine\'s Western allies.</p>',
+            source: 'The Moscow Times',
+            sourceUrl: 'https://www.themoscowtimes.com/2026/03/12/putin-envoy-kirill-dmitriev-meets-with-witkoff-and-kushner-to-discuss-russian-energy-a92208',
+            sourceSnippet: 'Putin Envoy Kirill Dmitriev Meets With Witkoff and Kushner — The Moscow Times, March 12 2026',
+            source2: 'Reuters',
+            sourceUrl2: 'https://www.reuters.com/world/putin-envoy-says-russia-us-talks-energy-economy-continue-2026-06-04/',
+            sourceSnippet2: 'Putin envoy says Russia-US talks on energy, economy continue — Reuters, June 4 2026',
+            source3: 'The National News',
+            sourceUrl3: 'https://www.thenationalnews.com/news/europe/2026/06/05/uk-and-europe-seeking-to-derail-ukraine-peace-process-russian-economic-envoy-claims/',
+            sourceSnippet3: 'UK and Europe seek to \'derail\' Ukraine peace process, Russian envoy claims — The National, June 5 2026'
+          },
+          ja: {
+            title: 'キリル・ドミトリエフ — 米国との秘密交渉を担うプーチンの経済特使',
+            desc: 'ロシア直接投資基金（RDIF）代表でプーチン大統領の経済特使キリル・ドミトリエフは、2026年を通じ米露間のエネルギー・経済・ウクライナ和平を巡る水面下交渉の中心人物となっている。',
+            body: '<p>ドミトリエフは2026年3月にフロリダで米交渉団と会談、4月にも訪米し交渉を継続。6月には米露接触が「週に数回」行われていると明かした。</p>',
+            source: 'The Moscow Times',
+            sourceUrl: 'https://www.themoscowtimes.com/2026/03/12/putin-envoy-kirill-dmitriev-meets-with-witkoff-and-kushner-to-discuss-russian-energy-a92208',
+            sourceSnippet: 'プーチン特使ドミトリエフ、ウィトコフ氏らと会談 — モスクワ・タイムズ, 2026年3月12日'
+          },
+          ko: {
+            title: '키릴 드미트리예프 — 美와의 비밀 협상을 이끄는 푸틴의 경제 특사',
+            desc: '러시아 직접투자기금(RDIF) 대표이자 푸틴 대통령의 경제 특사인 키릴 드미트리예프는 2026년 내내 미-러 간 에너지·경제·우크라이나 평화협상 관련 물밑 협상의 핵심 인물로 활동하고 있다.',
+            body: '<p>드미트리예프는 2026년 3월 플로리다에서 미국 협상팀과 회담했으며, 4월에도 방미해 협상을 이어갔다. 6월에는 미-러 접촉이 "주 여러 차례" 이뤄지고 있다고 밝혔다.</p>',
+            source: 'The Moscow Times',
+            sourceUrl: 'https://www.themoscowtimes.com/2026/03/12/putin-envoy-kirill-dmitriev-meets-with-witkoff-and-kushner-to-discuss-russian-energy-a92208',
+            sourceSnippet: '푸틴 특사 드미트리예프, 위트코프 등과 회담 — 모스크바타임스, 2026년 3월 12일'
+          },
+          zh: {
+            title: '基里尔·德米特里耶夫 — 主导对美秘密谈判的普京经济特使',
+            desc: '俄罗斯直接投资基金（RDIF）负责人、普京总统经济特使基里尔·德米特里耶夫，在2026年全年一直是俄美围绕能源、经济及乌克兰战争解决方案幕后谈判的核心人物。',
+            body: '<p>德米特里耶夫于2026年3月在佛罗里达与美国谈判代表会面，4月再次访美继续谈判。6月他透露俄美接触"每周数次"。</p>',
+            source: 'The Moscow Times',
+            sourceUrl: 'https://www.themoscowtimes.com/2026/03/12/putin-envoy-kirill-dmitriev-meets-with-witkoff-and-kushner-to-discuss-russian-energy-a92208',
+            sourceSnippet: '普京特使德米特里耶夫与威特科夫等会面 — 莫斯科时报，2026年3月12日'
+          }
+        }
+      },
+      {
+        id: 'rusia-german-gref',
+        category: 'bisnis',
+        langs: {
+          id: {
+            title: 'German Gref — Bos Sberbank yang Peringatkan Ekonomi Rusia "Tak Bisa Bertahan Lama"',
+            desc: 'German Gref, CEO Sberbank, bank terbesar Rusia, pada akhir Juni 2026 mengeluarkan peringatan keras bahwa ekonomi Rusia tidak akan mampu bertahan lama di bawah suku bunga acuan tinggi, sembari mendesak bank sentral segera memangkas suku bunga.',
+            body: '<p>German Gref adalah CEO Sberbank, bank komersial terbesar di Rusia, yang juga dikenal sebagai salah satu teknokrat senior paling berpengaruh dalam lingkaran ekonomi Presiden Vladimir Putin. Ia sebelumnya menjabat Menteri Pembangunan Ekonomi dan Perdagangan Rusia sebelum memimpin Sberbank sejak 2007.</p><p>Menurut laporan New York Post pada 1 Juli 2026, Gref secara terbuka meminta Putin untuk mengakhiri perang di Ukraina, memperingatkan bahwa konflik yang telah berlangsung empat tahun tersebut membebani perekonomian Rusia hingga titik yang disebutnya \'tidak dapat bertahan lama\'.</p><p>The Moscow Times dan Meduza melaporkan bahwa Gref berulang kali menyerukan bank sentral Rusia untuk memangkas suku bunga acuan, dengan alasan bahwa suku bunga tinggi saat ini menekan investasi dan pertumbuhan ekonomi domestik. Ia menyebut kondisi tersebut menciptakan \'tekanan depresif\' pada perekonomian nasional.</p><p>Meski demikian, pada awal Juni 2026, Gref juga menyatakan kepada Reuters bahwa pertumbuhan ekonomi Rusia dalam kondisi saat ini merupakan \'sebuah keajaiban\', mengingat tekanan sanksi Barat yang berkelanjutan terhadap negara tersebut sejak invasi ke Ukraina dimulai.</p><p>Pada Mei 2026, Gref turut dihormati oleh Universitas Tsinghua China meski berstatus sebagai bankir yang disanksi oleh AS, dan mendampingi Putin dalam kunjungan kenegaraan ke Beijing. Sberbank di bawah kepemimpinannya juga mengumumkan rencana meluncurkan robot humanoid setinggi 180 cm bernama \'Green\' untuk sektor ritel dan manufaktur pada musim gugur 2026, menegaskan ambisi diversifikasi bisnis Sberbank ke sektor teknologi tinggi.</p>',
+            source: 'New York Post',
+            sourceUrl: 'https://nypost.com/2026/07/01/world-news/putins-top-banker-begs-for-end-to-ukraine-war-in-stark-warning/',
+            sourceSnippet: 'Russia\'s top banker begs Putin to end Ukraine war — New York Post, 1 Juli 2026',
+            source2: 'Meduza',
+            sourceUrl2: 'https://meduza.io/en/news/2026/06/30/sberbank-chief-gref-says-russian-economy-cannot-survive-long-under-current-key-interest-rate',
+            sourceSnippet2: 'Sberbank chief Gref says Russian economy \'cannot survive long\' — Meduza, 30 Juni 2026',
+            source3: 'Reuters',
+            sourceUrl3: 'https://www.reuters.com/business/finance/sberbank-ceo-says-russias-economic-growth-current-conditions-is-a-miracle-2026-06-05/',
+            sourceSnippet3: 'Sberbank CEO says Russia\'s economic growth is \'a miracle\' — Reuters, 5 Juni 2026',
+            source4: 'The Star (Malaysia)',
+            sourceUrl4: 'https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/24/chinas-tsinghua-university-honours-german-gref-russian-banker-sanctioned-by-us',
+            sourceSnippet4: 'China\'s Tsinghua University honours German Gref — The Star, 24 Mei 2026'
+          },
+          en: {
+            title: 'German Gref — Sberbank Chief Warns Russia\'s Economy \'Cannot Survive Long\'',
+            desc: 'German Gref, CEO of Sberbank, Russia\'s largest bank, issued a stark warning in late June 2026 that Russia\'s economy cannot survive long under current high interest rates, urging the central bank to cut rates immediately.',
+            body: '<p>German Gref is CEO of Sberbank, Russia\'s largest commercial bank, also known as one of the most influential senior technocrats in President Vladimir Putin\'s economic circle. He previously served as Russia\'s Minister of Economic Development and Trade before leading Sberbank since 2007.</p><p>According to a New York Post report on July 1, 2026, Gref publicly called on Putin to end the war in Ukraine, warning that the four-year-old conflict is dragging Russia\'s economy to a point he described as unable to \'survive long.\'</p><p>The Moscow Times and Meduza reported that Gref has repeatedly called on Russia\'s central bank to cut its key interest rate, arguing that current high rates are suppressing investment and domestic economic growth, describing conditions as creating \'depressive pressure\' on the national economy.</p><p>Nonetheless, in early June 2026, Gref also told Reuters that Russia\'s economic growth under current conditions was \'a miracle,\' given the continued pressure from Western sanctions on the country since the invasion of Ukraine began.</p>',
+            source: 'New York Post',
+            sourceUrl: 'https://nypost.com/2026/07/01/world-news/putins-top-banker-begs-for-end-to-ukraine-war-in-stark-warning/',
+            sourceSnippet: 'Russia\'s top banker begs Putin to end Ukraine war — New York Post, July 1 2026',
+            source2: 'Meduza',
+            sourceUrl2: 'https://meduza.io/en/news/2026/06/30/sberbank-chief-gref-says-russian-economy-cannot-survive-long-under-current-key-interest-rate',
+            sourceSnippet2: 'Sberbank chief Gref says Russian economy \'cannot survive long\' — Meduza, June 30 2026',
+            source3: 'Reuters',
+            sourceUrl3: 'https://www.reuters.com/business/finance/sberbank-ceo-says-russias-economic-growth-current-conditions-is-a-miracle-2026-06-05/',
+            sourceSnippet3: 'Sberbank CEO says Russia\'s economic growth is \'a miracle\' — Reuters, June 5 2026'
+          },
+          ja: {
+            title: 'ゲルマン・グレフ — ロシア経済「長く持たない」と警告するズベルバンク頭取',
+            desc: 'ロシア最大手銀行ズベルバンクのゲルマン・グレフ頭取は2026年6月末、現行の高金利下でロシア経済は長く持たないと警告し、中央銀行に利下げを求めた。',
+            body: '<p>グレフは2007年からズベルバンクを率いる。2026年7月1日、ニューヨーク・ポストはプーチン氏にウクライナ戦争終結を求めたと報じた。高金利がロシア経済に「抑圧的圧力」を与えていると警告している。</p>',
+            source: 'New York Post',
+            sourceUrl: 'https://nypost.com/2026/07/01/world-news/putins-top-banker-begs-for-end-to-ukraine-war-in-stark-warning/',
+            sourceSnippet: 'ロシア最大手銀行トップ、プーチン氏に終戦要請 — ニューヨーク・ポスト, 2026年7月1日'
+          },
+          ko: {
+            title: '게르만 그레프 — 러시아 경제 "오래 못 버틴다" 경고한 스베르방크 행장',
+            desc: '러시아 최대 은행 스베르방크의 게르만 그레프 행장은 2026년 6월 말, 현재의 고금리 하에서 러시아 경제가 오래 버티지 못할 것이라 경고하며 중앙은행에 즉각적인 금리 인하를 촉구했다.',
+            body: '<p>그레프는 2007년부터 스베르방크를 이끌고 있다. 2026년 7월 1일 뉴욕포스트는 그가 푸틴에게 우크라이나 전쟁 종식을 촉구했다고 보도했다. 고금리가 러시아 경제에 "억압적 압력"을 가하고 있다고 경고했다.</p>',
+            source: 'New York Post',
+            sourceUrl: 'https://nypost.com/2026/07/01/world-news/putins-top-banker-begs-for-end-to-ukraine-war-in-stark-warning/',
+            sourceSnippet: '러시아 최대 은행장, 푸틴에 종전 요청 — 뉴욕포스트, 2026년 7월 1일'
+          },
+          zh: {
+            title: '格尔曼·格列夫 — 警告俄罗斯经济"撑不了多久"的联邦储蓄银行行长',
+            desc: '俄罗斯最大银行联邦储蓄银行行长格尔曼·格列夫在2026年6月底发出严厉警告，称在当前高利率下俄罗斯经济撑不了多久，敦促央行立即降息。',
+            body: '<p>格列夫自2007年起领导联邦储蓄银行。据2026年7月1日纽约邮报报道，他公开呼吁普京结束乌克兰战争。他警告高利率正对俄罗斯经济造成"压抑性压力"。</p>',
+            source: 'New York Post',
+            sourceUrl: 'https://nypost.com/2026/07/01/world-news/putins-top-banker-begs-for-end-to-ukraine-war-in-stark-warning/',
+            sourceSnippet: '俄罗斯最大银行行长呼吁普京停战 — 纽约邮报，2026年7月1日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
