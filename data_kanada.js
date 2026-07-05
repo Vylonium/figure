@@ -314,6 +314,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'kanada-doug-ford',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Doug Ford — Premier Ontario, Garda Depan "Perang Ekonomi" Kanada Melawan Tarif Trump',
+            desc: 'Doug Ford, Premier Provinsi Ontario, menjadi salah satu tokoh paling vokal dalam menghadapi kebijakan tarif Presiden AS Donald Trump sepanjang 2026, sembari menyebut situasi dagang saat ini sebagai "perang ekonomi" antara Kanada dan AS.',
+            body: '<p>Doug Ford adalah Premier Provinsi Ontario, provinsi dengan ekonomi terbesar di Kanada, sekaligus pemimpin Partai Progresif-Konservatif provinsi tersebut. Sepanjang 2026, ia menjadi salah satu tokoh politik Kanada paling vokal dalam merespons kebijakan tarif dagang Presiden AS Donald Trump terhadap produk-produk Kanada.</p><p>Pada 24 Februari 2026, WCAX melaporkan bahwa Ford menyatakan \'tembok-tembok mulai runtuh\' bagi Trump usai keputusan Mahkamah Agung AS terkait tarif, sembari menegaskan Kanada tengah berada dalam \'perang ekonomi\' dan bahwa tidak ada kesepakatan lebih baik daripada kesepakatan buruk dengan pemerintahan Trump.</p><p>The Globe and Mail melaporkan bahwa acara Doug Ford bersama US Chamber of Commerce dibatalkan setelah keluhan dari Gedung Putih, dengan sumber menyebut Ford dipandang sebagai \'masalah besar\' oleh pemerintahan Trump — menegaskan posisinya sebagai salah satu figur paling berpengaruh dalam ketegangan dagang Kanada-AS.</p><p>Ford juga terlibat dalam kebijakan kontroversial larangan penjualan minuman keras asal AS di sebagian besar provinsi Kanada. Dalam wawancara dengan CBS News pada April 2026, ia membela kebijakan tersebut dengan menyatakan \'kami tidak memulai ini sama sekali\', merujuk pada eskalasi tarif yang dipicu pihak AS terlebih dahulu.</p><p>Menjelang pertemuan trilateral AS-Kanada-Meksiko pada 1 Juli 2026 untuk meninjau ulang perjanjian dagang, BNN Bloomberg mencatat sejumlah keluhan utama AS terhadap Kanada, sementara Politico melaporkan bagaimana kesepakatan dagang yang sempat menunjukkan kemajuan pada awal Mei 2026 tiba-tiba runtuh dalam waktu 16 hari, menegaskan betapa rapuhnya hubungan dagang kedua negara di tengah tekanan politik dari kedua belah pihak.</p>',
+            source: 'WCAX',
+            sourceUrl: 'https://www.wcax.com/2026/02/24/ontarios-premier-says-walls-are-closing-trump-after-supreme-court-tariff-decision/',
+            sourceSnippet: 'Ontario\'s premier says \'the walls are closing in\' on Trump — WCAX, 24 Februari 2026',
+            source2: 'The Globe and Mail',
+            sourceUrl2: 'https://www.theglobeandmail.com/canada/article-us-chamber-of-commerce-event-with-doug-ford-cancelled-after-white/',
+            sourceSnippet2: 'U.S. Chamber of Commerce event with Doug Ford cancelled after White House complaints — The Globe and Mail',
+            source3: 'Politico',
+            sourceUrl3: 'https://www.politico.com/news/2026/05/05/inside-collapse-canada-us-trade-deal-00905837',
+            sourceSnippet3: '16 days from momentum to meltdown in Canada-US trade talks — Politico, 5 Mei 2026',
+            source4: 'BNN Bloomberg',
+            sourceUrl4: 'https://www.bnnbloomberg.ca/tariffs/2026/06/30/key-us-complaints-against-canada-ahead-of-trade-review/',
+            sourceSnippet4: 'Key U.S. complaints against Canada ahead of trade review — BNN Bloomberg, 30 Juni 2026'
+          },
+          en: {
+            title: 'Doug Ford — Ontario Premier at the Frontline of Canada\'s Trade \'Economic War\' with Trump',
+            desc: 'Doug Ford, Premier of Ontario, has become one of the most vocal figures confronting US President Donald Trump\'s tariff policies throughout 2026, describing the current trade situation as an \'economic war\' between Canada and the US.',
+            body: '<p>Doug Ford is Premier of Ontario, Canada\'s largest provincial economy, and leader of the province\'s Progressive Conservative Party. Throughout 2026, he has been one of Canada\'s most vocal political figures in responding to US President Donald Trump\'s tariff policies on Canadian goods.</p><p>On February 24, 2026, WCAX reported Ford stated \'the walls are closing in\' on Trump following a US Supreme Court ruling on tariffs, affirming Canada is in an \'economic war\' and that no deal is better than a bad deal with the Trump administration.</p><p>The Globe and Mail reported that a Doug Ford event with the US Chamber of Commerce was cancelled following complaints from the White House, with a source describing Ford as viewed as a \'major problem\' by the Trump administration — affirming his position as one of the most influential figures in Canada-US trade tensions.</p><p>Ford has also been involved in the controversial policy banning US liquor sales in most Canadian provinces. In an interview with CBS News in April 2026, he defended the policy, stating \'we didn\'t start this at all,\' referring to the tariff escalation initiated by the US side first.</p>',
+            source: 'WCAX',
+            sourceUrl: 'https://www.wcax.com/2026/02/24/ontarios-premier-says-walls-are-closing-trump-after-supreme-court-tariff-decision/',
+            sourceSnippet: 'Ontario\'s premier says \'the walls are closing in\' on Trump — WCAX, February 24 2026',
+            source2: 'The Globe and Mail',
+            sourceUrl2: 'https://www.theglobeandmail.com/canada/article-us-chamber-of-commerce-event-with-doug-ford-cancelled-after-white/',
+            sourceSnippet2: 'U.S. Chamber of Commerce event with Doug Ford cancelled after White House complaints — The Globe and Mail',
+            source3: 'Politico',
+            sourceUrl3: 'https://www.politico.com/news/2026/05/05/inside-collapse-canada-us-trade-deal-00905837',
+            sourceSnippet3: '16 days from momentum to meltdown in Canada-US trade talks — Politico, May 5 2026'
+          },
+          ja: {
+            title: 'ダグ・フォード — 対トランプ「経済戦争」の最前線に立つオンタリオ州首相',
+            desc: 'オンタリオ州首相ダグ・フォードは2026年、トランプ大統領の関税政策に対抗する最も声高な人物の一人となり、現在の貿易状況を米加間の「経済戦争」と表現している。',
+            body: '<p>フォードはカナダ最大の経済規模を持つオンタリオ州首相。2026年2月24日、最高裁の関税判断を受け「トランプを追い詰めている」と発言、経済戦争の最中にあると強調した。ホワイトハウスから「大きな問題」と見なされているとも報じられている。</p>',
+            source: 'WCAX',
+            sourceUrl: 'https://www.wcax.com/2026/02/24/ontarios-premier-says-walls-are-closing-trump-after-supreme-court-tariff-decision/',
+            sourceSnippet: 'オンタリオ州首相、トランプ氏を追い詰めると発言 — WCAX, 2026年2月24日'
+          },
+          ko: {
+            title: '더그 포드 — 트럼프와의 "경제 전쟁" 최전선에 선 온타리오 주총리',
+            desc: '온타리오 주총리 더그 포드는 2026년 트럼프 대통령의 관세 정책에 맞서는 가장 목소리 큰 인물 중 하나가 되었으며, 현재의 무역 상황을 미-캐나다 간 "경제 전쟁"으로 규정했다.',
+            body: '<p>포드는 캐나다 최대 경제 규모를 가진 온타리오 주총리다. 2026년 2월 24일 대법원의 관세 판결 이후 "트럼프를 몰아붙이고 있다"고 발언하며 경제 전쟁 상황임을 강조했다. 백악관으로부터 "큰 골칫거리"로 여겨진다고도 보도됐다.</p>',
+            source: 'WCAX',
+            sourceUrl: 'https://www.wcax.com/2026/02/24/ontarios-premier-says-walls-are-closing-trump-after-supreme-court-tariff-decision/',
+            sourceSnippet: '온타리오 주총리, 트럼프 몰아붙인다 발언 — WCAX, 2026년 2월 24일'
+          },
+          zh: {
+            title: '道格·福特 — 站在对特朗普"经济战"最前线的安大略省长',
+            desc: '安大略省长道格·福特在2026年成为应对特朗普总统关税政策最直言不讳的人物之一，将当前的贸易局势称为加美之间的"经济战"。',
+            body: '<p>福特是加拿大经济规模最大的安大略省省长。2026年2月24日，在最高法院关税裁决后，他表示"正在逼近特朗普"，强调双方正处于经济战状态。据报道白宫将他视为"重大麻烦"。</p>',
+            source: 'WCAX',
+            sourceUrl: 'https://www.wcax.com/2026/02/24/ontarios-premier-says-walls-are-closing-trump-after-supreme-court-tariff-decision/',
+            sourceSnippet: '安大略省长称正在逼近特朗普 — WCAX，2026年2月24日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
