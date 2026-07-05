@@ -308,6 +308,62 @@
           }
         }
       }
+      ,
+      {
+        id: 'jerman-markus-soder',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Markus Söder — Perdana Menteri Bayern, Serukan Wajib Militer di Tengah Penarikan Pasukan AS',
+            desc: 'Markus Söder, Perdana Menteri (Minister-President) Bavaria, mendesak penerapan wajib militer bagi Jerman sekaligus menyerukan Berlin menggantikan pasukan AS yang akan ditarik dari wilayahnya, mencerminkan meningkatnya kekhawatiran keamanan Jerman pada 2026.',
+            body: '<p>Markus Söder adalah Perdana Menteri (Minister-President) Negara Bagian Bayern, salah satu figur paling berpengaruh dalam Uni Sosial Kristen (CSU), partai sayap konservatif yang menjadi mitra koalisi Uni Demokrat Kristen (CDU) pimpinan Kanselir Friedrich Merz di tingkat federal.</p><p>Pada 25 April 2026, Deutsche Welle melaporkan bahwa Söder mengkritik rencana pemerintah federal soal wajib militer sukarela, menyerukan agar Jerman menerapkan sistem wajib militer wajib (compulsory) alih-alih sukarela, di tengah meningkatnya kekhawatiran keamanan Eropa akibat perang Rusia-Ukraina yang berkepanjangan.</p><p>Pada 5 Mei 2026, Euractiv melaporkan Söder menyerukan agar personel militer Jerman menggantikan pasukan AS yang akan ditarik dari wilayah Bavaria, sebuah usulan yang mencerminkan kekhawatiran mendalam terkait dampak ekonomi dan keamanan dari penarikan pasukan AS di Eropa di bawah kebijakan pemerintahan Trump.</p><p>Söder turut aktif dalam diplomasi ekonomi, termasuk kunjungannya ke pabrik BMW di Spartanburg, Amerika Serikat pada Maret 2026, sebagai bagian dari upaya memperkuat hubungan ekonomi Bavaria dengan mitra dagang internasional di tengah ketegangan tarif global.</p><p>Sebagai salah satu tokoh CSU paling senior, Söder juga kerap dipandang sebagai kandidat potensial untuk peran kepemimpinan nasional Jerman di masa depan, dengan sikap tegasnya soal pertahanan dan keamanan yang semakin relevan di tengah dinamika geopolitik Eropa yang bergejolak sepanjang 2026.</p>',
+            source: 'DW (Deutsche Welle)',
+            sourceUrl: 'https://www.dw.com/en/germany-news-s%C3%B6der-calls-for-compulsory-military-service/live-76930770',
+            sourceSnippet: 'Germany news: Söder calls for compulsory military service — DW, 25 April 2026',
+            source2: 'Euractiv',
+            sourceUrl2: 'https://www.euractiv.com/news/bavaria-calls-on-berlin-to-replace-soon-to-be-gone-us-troops/',
+            sourceSnippet2: 'Bavaria calls on Berlin to replace soon-to-be-gone US troops — Euractiv, 5 Mei 2026',
+            source3: 'DW (Deutsche Welle)',
+            sourceUrl3: 'https://www.dw.com/en/germany-news-bavarias-state-premier-markus-s%C3%B6der-visits-bmw-plant-in-us/live-76601171',
+            sourceSnippet3: 'Germany news: Bavaria\'s state premier visits BMW plant in US — DW, 31 Maret 2026'
+          },
+          en: {
+            title: 'Markus Söder — Bavaria\'s State Premier Calls for Conscription Amid US Troop Drawdown',
+            desc: 'Markus Söder, Minister-President of Bavaria, has urged Germany to introduce compulsory military service and called on Berlin to replace departing US troops in his state, reflecting growing German security concerns in 2026.',
+            body: '<p>Markus Söder is Minister-President of the German state of Bavaria, one of the most influential figures in the Christian Social Union (CSU), the conservative sister party in coalition with Chancellor Friedrich Merz\'s Christian Democratic Union (CDU) at the federal level.</p><p>On April 25, 2026, Deutsche Welle reported Söder criticized the federal government\'s voluntary military service plan, calling for Germany to implement a compulsory conscription system instead, amid growing European security concerns from the prolonged Russia-Ukraine war.</p><p>On May 5, 2026, Euractiv reported Söder called for German military personnel to replace US troops set to withdraw from Bavaria, a proposal reflecting deep concerns over the economic and security impact of US troop drawdowns in Europe under the Trump administration\'s policies.</p><p>Söder has also been active in economic diplomacy, including a visit to a BMW plant in Spartanburg, United States in March 2026, as part of efforts to strengthen Bavaria\'s economic ties with international trade partners amid global tariff tensions.</p>',
+            source: 'DW (Deutsche Welle)',
+            sourceUrl: 'https://www.dw.com/en/germany-news-s%C3%B6der-calls-for-compulsory-military-service/live-76930770',
+            sourceSnippet: 'Germany news: Söder calls for compulsory military service — DW, April 25 2026',
+            source2: 'Euractiv',
+            sourceUrl2: 'https://www.euractiv.com/news/bavaria-calls-on-berlin-to-replace-soon-to-be-gone-us-troops/',
+            sourceSnippet2: 'Bavaria calls on Berlin to replace soon-to-be-gone US troops — Euractiv, May 5 2026'
+          },
+          ja: {
+            title: 'マルクス・ゼーダー — 米軍撤退の中、徴兵制を求めるバイエルン州首相',
+            desc: 'バイエルン州首相マルクス・ゼーダーは、ドイツに徴兵制導入を求め、州内から撤退する米軍の代替をベルリンに要請した。',
+            body: '<p>ゼーダーはCSUの有力者でバイエルン州首相を務める。2026年4月25日、政府の任意兵役案を批判し義務的徴兵制を主張。5月にはバイエルンから撤退する米軍の代替をドイツ軍に求めた。</p>',
+            source: 'DW (Deutsche Welle)',
+            sourceUrl: 'https://www.dw.com/en/germany-news-s%C3%B6der-calls-for-compulsory-military-service/live-76930770',
+            sourceSnippet: 'ゼーダー氏、義務的徴兵制を要求 — DW, 2026年4月25日'
+          },
+          ko: {
+            title: '마르쿠스 죄더 — 미군 철수 속 징병제 도입 촉구한 바이에른 주총리',
+            desc: '바이에른 주총리 마르쿠스 죄더는 독일에 의무 징병제 도입을 촉구하고, 주 내에서 철수하는 미군을 대체할 것을 베를린에 요청했다.',
+            body: '<p>죄더는 CSU의 유력 인사로 바이에른 주총리를 맡고 있다. 2026년 4월 25일 정부의 자원 병역제안을 비판하며 의무 징병제를 주장했다. 5월에는 바이에른에서 철수하는 미군을 독일군으로 대체할 것을 촉구했다.</p>',
+            source: 'DW (Deutsche Welle)',
+            sourceUrl: 'https://www.dw.com/en/germany-news-s%C3%B6der-calls-for-compulsory-military-service/live-76930770',
+            sourceSnippet: '죄더, 의무 징병제 요구 — DW, 2026년 4월 25일'
+          },
+          zh: {
+            title: '马库斯·瑟德 — 在美军撤离之际呼吁征兵制的巴伐利亚州长',
+            desc: '巴伐利亚州长马库斯·瑟德敦促德国实行义务兵役制，并要求柏林方面接替即将从该州撤离的美军。',
+            body: '<p>瑟德是基社盟（CSU）的重要人物，担任巴伐利亚州长。2026年4月25日，他批评政府的自愿兵役计划，主张实行义务征兵制。5月他呼吁德军接替从巴伐利亚撤离的美军。</p>',
+            source: 'DW (Deutsche Welle)',
+            sourceUrl: 'https://www.dw.com/en/germany-news-s%C3%B6der-calls-for-compulsory-military-service/live-76930770',
+            sourceSnippet: '瑟德要求实行义务征兵制 — 德国之声，2026年4月25日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
