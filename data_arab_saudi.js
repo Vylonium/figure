@@ -305,6 +305,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'arab-saudi-turki-al-sheikh',
+        category: 'seni-hiburan',
+        langs: {
+          id: {
+            title: 'Turki Al-Sheikh — Ketua Otoritas Hiburan Umum di Balik Kebangkitan Riyadh Season',
+            desc: 'Turki Al-Sheikh, Penasihat Ketua Dewan Otoritas Hiburan Umum (GEA) Arab Saudi, menjadi arsitek utama di balik ledakan industri hiburan Kerajaan lewat Riyadh Season yang menarik jutaan pengunjung dan investasi besar dalam olahraga global.',
+            body: '<p>Turki Al-Sheikh adalah Penasihat Ketua Dewan Otoritas Hiburan Umum (General Entertainment Authority/GEA) Arab Saudi, lembaga pemerintah yang bertanggung jawab mengembangkan industri hiburan negara sebagai bagian dari visi transformasi ekonomi Vision 2030. Ia dikenal luas sebagai sosok paling berpengaruh di balik ekspansi besar-besaran sektor hiburan dan olahraga Arab Saudi dalam beberapa tahun terakhir.</p><p>Menurut Saudi Gazette pada 20 Januari 2026, Al-Sheikh mengumumkan bahwa Riyadh Season 2025-2026 berhasil menarik 14 juta pengunjung, sebuah pencapaian besar yang menegaskan status acara tersebut sebagai salah satu festival hiburan terbesar di dunia, mencakup 11 zona tematik dengan acara mulai dari WWE Royal Rumble, konser Soundstorm, hingga pertandingan tinju kelas dunia.</p><p>Al-Sheikh juga aktif dalam industri tinju global, termasuk menjalin hubungan dengan petinju legendaris Meksiko Canelo Alvarez. Menurut laporan Marca pada September 2025, Al-Sheikh mengajukan proposal kerja sama jangka panjang dengan Canelo hingga masa pensiunnya, memperkuat dominasi Arab Saudi dalam penyelenggaraan pertandingan tinju kelas dunia.</p><p>Pada Oktober 2025, namanya turut mencuat dalam spekulasi seputar klub sepak bola Manchester United, setelah Times of India melaporkan bahwa candaan viral Al-Sheikh di media sosial memicu isu kemungkinan langkah akuisisi klub tersebut, menunjukkan pengaruhnya yang meluas hingga ke industri sepak bola Eropa.</p><p>Sebagai bagian dari acara Riyadh Season, Al-Sheikh juga mengawasi penyelenggaraan Joy Awards, ajang penghargaan hiburan tahunan Arab Saudi. Pada Januari 2026, ajang tersebut menobatkan bintang sepak bola Maroko Yassine Bounou sebagai atlet favorit publik menjelang final Piala Afrika, menegaskan jangkauan acara ini yang kini menjadi salah satu tontonan nasional paling dinanti di Kerajaan.</p>',
+            source: 'Saudi Gazette',
+            sourceUrl: 'https://saudigazette.com.sa/article/658294',
+            sourceSnippet: 'Riyadh Season draws 14 million visitors — Saudi Gazette, 20 Januari 2026',
+            source2: 'Marca',
+            sourceUrl2: 'https://www.marca.com/en/boxing/2025/09/16/68c92cd646163f45648b45a7.html',
+            sourceSnippet2: 'Turki Al-Sheikh proposes to Canelo Alvarez to work with him until his retirement — Marca, 16 September 2025',
+            source3: 'Times of India',
+            sourceUrl3: 'https://timesofindia.indiatimes.com/world/middle-east/saudi-gea-chairman-turki-alsheikh-sparks-manchester-united-buzz-with-viral-beard-joke-and-takeover-hints/articleshow/124822468.cms',
+            sourceSnippet3: 'Saudi GEA Chairman Turki Al-Sheikh sparks Manchester United buzz — Times of India, 26 Oktober 2025',
+            source4: 'House of Saud',
+            sourceUrl4: 'https://houseofsaud.com/travel/riyadh-season-calendar/',
+            sourceSnippet4: 'Riyadh Season Month-by-Month: Full Events Calendar — House of Saud, 11 April 2026'
+          },
+          en: {
+            title: 'Turki Al-Sheikh — GEA Chairman Advisor Behind Riyadh Season\'s Rise',
+            desc: 'Turki Al-Sheikh, Chairman Advisor of Saudi Arabia\'s General Entertainment Authority (GEA), is the key architect behind the Kingdom\'s entertainment industry boom through Riyadh Season, drawing millions of visitors and major investments in global sports.',
+            body: '<p>Turki Al-Sheikh is Chairman Advisor of Saudi Arabia\'s General Entertainment Authority (GEA), the government body responsible for developing the country\'s entertainment industry as part of the Vision 2030 economic transformation. He is widely known as the most influential figure behind Saudi Arabia\'s massive expansion in entertainment and sports in recent years.</p><p>According to Saudi Gazette on January 20, 2026, Al-Sheikh announced that Riyadh Season 2025-2026 attracted 14 million visitors, a major achievement affirming the event\'s status as one of the world\'s largest entertainment festivals, spanning 11 themed zones with events ranging from WWE Royal Rumble to Soundstorm concerts to world-class boxing matches.</p><p>Al-Sheikh is also active in the global boxing industry, including building ties with Mexican boxing legend Canelo Alvarez. According to a Marca report from September 2025, Al-Sheikh proposed a long-term partnership with Canelo through his retirement, strengthening Saudi Arabia\'s dominance in hosting world-class boxing matches.</p><p>In October 2025, his name also surfaced in speculation surrounding Manchester United, after Times of India reported that Al-Sheikh\'s viral social media joke sparked buzz about a possible club takeover, showing his influence extending into European football.</p>',
+            source: 'Saudi Gazette',
+            sourceUrl: 'https://saudigazette.com.sa/article/658294',
+            sourceSnippet: 'Riyadh Season draws 14 million visitors — Saudi Gazette, January 20 2026',
+            source2: 'Marca',
+            sourceUrl2: 'https://www.marca.com/en/boxing/2025/09/16/68c92cd646163f45648b45a7.html',
+            sourceSnippet2: 'Turki Al-Sheikh proposes to Canelo Alvarez to work with him until his retirement — Marca, September 16 2025',
+            source3: 'Times of India',
+            sourceUrl3: 'https://timesofindia.indiatimes.com/world/middle-east/saudi-gea-chairman-turki-alsheikh-sparks-manchester-united-buzz-with-viral-beard-joke-and-takeover-hints/articleshow/124822468.cms',
+            sourceSnippet3: 'Saudi GEA Chairman Turki Al-Sheikh sparks Manchester United buzz — Times of India, October 26 2025'
+          },
+          ja: {
+            title: 'トルキ・アル・シェイク — リヤド・シーズン隆盛の立役者、GEA会長顧問',
+            desc: 'サウジアラビア娯楽庁（GEA）会長顧問トルキ・アル・シェイクは、リヤド・シーズンを通じ王国の娯楽産業ブームを牽引する中心人物。',
+            body: '<p>アル・シェイクはGEA会長顧問として、2025-2026年リヤド・シーズンに1400万人の来場者を集めたと発表。WWEロイヤルランブルやサウンドストーム、世界級ボクシングなど11エリアで構成される。カネロ・アルバレスとの長期提携提案でも話題になった。</p>',
+            source: 'Saudi Gazette',
+            sourceUrl: 'https://saudigazette.com.sa/article/658294',
+            sourceSnippet: 'リヤド・シーズン、1400万人の来場者を記録 — サウジ・ガゼット, 2026年1月20日'
+          },
+          ko: {
+            title: '투르키 알셰이크 — 리야드 시즌 부흥의 주역, GEA 회장 고문',
+            desc: '사우디아라비아 오락청(GEA) 회장 고문 투르키 알셰이크는 리야드 시즌을 통해 왕국의 엔터테인먼트 산업 붐을 이끄는 핵심 인물이다.',
+            body: '<p>알셰이크는 GEA 회장 고문으로서 2025-2026 리야드 시즌에 1400만 명의 방문객을 유치했다고 발표했다. WWE 로얄럼블, 사운드스톰, 세계급 복싱 경기 등 11개 구역으로 구성된다. 카넬로 알바레스와의 장기 협력 제안으로도 화제가 됐다.</p>',
+            source: 'Saudi Gazette',
+            sourceUrl: 'https://saudigazette.com.sa/article/658294',
+            sourceSnippet: '리야드 시즌, 방문객 1400만 명 기록 — 사우디 가제트, 2026년 1월 20일'
+          },
+          zh: {
+            title: '图尔基·阿勒谢赫 — 引领利雅得季崛起的GEA主席顾问',
+            desc: '沙特阿拉伯通用娱乐局（GEA）主席顾问图尔基·阿勒谢赫，是通过"利雅得季"推动王国娱乐产业繁荣的核心人物。',
+            body: '<p>阿勒谢赫作为GEA主席顾问，宣布2025-2026利雅得季吸引了1400万游客。活动涵盖WWE皇家大战、Soundstorm音乐节及世界级拳击赛事等11个主题区域。他与传奇拳手卡内洛·阿尔瓦雷斯的长期合作提议也备受关注。</p>',
+            source: 'Saudi Gazette',
+            sourceUrl: 'https://saudigazette.com.sa/article/658294',
+            sourceSnippet: '利雅得季吸引1400万游客 — 沙特公报，2026年1月20日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
