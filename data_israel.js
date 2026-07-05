@@ -366,6 +366,68 @@
           }
         }
       }
+      ,
+      {
+        id: 'israel-bezalel-smotrich',
+        category: 'politik',
+        langs: {
+          id: {
+            title: 'Bezalel Smotrich — Menteri Keuangan Israel, Dorong Pemukiman Baru di Gaza Utara',
+            desc: 'Bezalel Smotrich, Menteri Keuangan Israel dari sayap kanan jauh, menegaskan rencana pembangunan tiga pemukiman Israel di Gaza utara sudah siap dilaksanakan, sembari menyatakan Israel tidak akan menarik pasukan dari Lebanon selatan meski ada tekanan AS.',
+            body: '<p>Bezalel Smotrich adalah Menteri Keuangan Israel sekaligus pemimpin partai sayap kanan jauh Religious Zionism, salah satu mitra koalisi utama Perdana Menteri Benjamin Netanyahu. Ia dikenal luas sebagai salah satu tokoh paling vokal dalam mendorong ekspansi pemukiman Israel di wilayah Palestina.</p><p>Menurut laporan Haaretz pada 30 Juni 2026, Smotrich menyatakan Israel siap membangun tiga pemukiman baru di Gaza utara \'segera\', dengan menegaskan \'kami harus menyelesaikan penaklukan seluruh Gaza\' saat melakukan tur di perbatasan Gaza. Ia menyebut rencana tersebut kini tinggal menunggu persetujuan Perdana Menteri Netanyahu.</p><p>The Jerusalem Post melaporkan pada awal Juli 2026 bahwa Smotrich menegaskan rencana pemukiman tersebut memang tengah menunggu keputusan final Netanyahu, sementara Al Jazeera pada 4 Juli 2026 menyebut pernyataan Smotrich dan Netanyahu sebagai sinyal paling jelas hingga saat ini bahwa Israel serius mempertimbangkan pembangunan pemukiman permanen di wilayah Gaza.</p><p>Selain isu Gaza, Smotrich juga menegaskan sikap keras terhadap Lebanon. Menurut Iran International dan i24NEWS pada pertengahan 2026, ia menyatakan Israel tidak akan menarik pasukannya dari Lebanon selatan selama Hizbullah masih eksis, bahkan di tengah tekanan diplomatik dari Amerika Serikat, dengan menegaskan kehadiran militer Israel di sana akan bertahan \'selama bertahun-tahun\'.</p><p>Sikap tegas Smotrich soal Gaza dan Lebanon menjadikannya salah satu tokoh paling kontroversial sekaligus berpengaruh dalam koalisi pemerintahan Netanyahu, di tengah meningkatnya isolasi diplomatik internasional terhadap Israel yang tercermin dalam berbagai survei dan laporan lembaga think tank global sepanjang 2026.</p>',
+            source: 'Haaretz',
+            sourceUrl: 'https://www.haaretz.com/gaza/2026-06-30/ty-article/.premium/smotrich-israel-ready-to-build-three-settlements-in-gaza-immediately/0000019f-180e-d222-a9ff-9e1f38f90000',
+            sourceSnippet: 'Smotrich: Israel ready to build three settlements in Gaza \'immediately\' — Haaretz, 30 Juni 2026',
+            source2: 'The Jerusalem Post',
+            sourceUrl2: 'https://www.jpost.com/israel-news/politics-and-diplomacy/article-901000',
+            sourceSnippet2: 'Bezalel Smotrich says Gaza settlement plans await Netanyahu\'s approval — Jerusalem Post, Juli 2026',
+            source3: 'Al Jazeera',
+            sourceUrl3: 'https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza',
+            sourceSnippet3: 'Could Israel really build settlements in Gaza? — Al Jazeera, 4 Juli 2026',
+            source4: 'i24NEWS',
+            sourceUrl4: 'https://www.i24news.tv/en/news/israel/defense/artc-bezalel-smotrich-israel-will-remain-in-lebanon-even-in-the-face-of-american-pressure',
+            sourceSnippet4: 'Bezalel Smotrich: Israel Will Remain In Lebanon Even In The Face Of American Pressure — i24NEWS, Juni 2026'
+          },
+          en: {
+            title: 'Bezalel Smotrich — Israel\'s Finance Minister Pushes New Settlements in Northern Gaza',
+            desc: 'Bezalel Smotrich, Israel\'s far-right Finance Minister, has affirmed plans to build three new Israeli settlements in northern Gaza are ready to proceed, while stating Israel will not withdraw troops from southern Lebanon despite US pressure.',
+            body: '<p>Bezalel Smotrich is Israel\'s Finance Minister and leader of the far-right Religious Zionism party, one of Prime Minister Benjamin Netanyahu\'s key coalition partners. He is widely known as one of the most vocal advocates for expanding Israeli settlements in Palestinian territories.</p><p>According to a Haaretz report on June 30, 2026, Smotrich stated Israel is ready to build three new settlements in northern Gaza \'immediately,\' affirming \'we must finish conquering all of Gaza\' while touring the Gaza border. He said the plan now awaits Prime Minister Netanyahu\'s approval.</p><p>The Jerusalem Post reported in early July 2026 that Smotrich affirmed the settlement plan indeed awaits Netanyahu\'s final decision, while Al Jazeera on July 4, 2026 described the statements from Smotrich and Netanyahu as the clearest signal yet that Israel is seriously considering permanent settlements in Gaza.</p><p>Beyond the Gaza issue, Smotrich has also affirmed a hardline stance on Lebanon. According to Iran International and i24NEWS in mid-2026, he stated Israel will not withdraw its forces from southern Lebanon as long as Hezbollah exists, even amid US diplomatic pressure, affirming Israel\'s military presence there would last \'for years.\'</p>',
+            source: 'Haaretz',
+            sourceUrl: 'https://www.haaretz.com/gaza/2026-06-30/ty-article/.premium/smotrich-israel-ready-to-build-three-settlements-in-gaza-immediately/0000019f-180e-d222-a9ff-9e1f38f90000',
+            sourceSnippet: 'Smotrich: Israel ready to build three settlements in Gaza \'immediately\' — Haaretz, June 30 2026',
+            source2: 'The Jerusalem Post',
+            sourceUrl2: 'https://www.jpost.com/israel-news/politics-and-diplomacy/article-901000',
+            sourceSnippet2: 'Bezalel Smotrich says Gaza settlement plans await Netanyahu\'s approval — Jerusalem Post, July 2026',
+            source3: 'Al Jazeera',
+            sourceUrl3: 'https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza',
+            sourceSnippet3: 'Could Israel really build settlements in Gaza? — Al Jazeera, July 4 2026'
+          },
+          ja: {
+            title: 'ベザレル・スモトリッチ — ガザ北部への入植を推進するイスラエル財務相',
+            desc: '極右政治家でイスラエル財務相のベザレル・スモトリッチは、ガザ北部への新規入植地3か所の建設計画が準備済みだと明言、レバノン南部からの撤退も拒否している。',
+            body: '<p>スモトリッチは財務相であり極右政党「宗教シオニズム」党首。2026年6月30日、ハアレツによれば彼はガザ北部に入植地3か所を「即座に」建設する用意があると述べた。レバノン南部からの撤退も拒否している。</p>',
+            source: 'Haaretz',
+            sourceUrl: 'https://www.haaretz.com/gaza/2026-06-30/ty-article/.premium/smotrich-israel-ready-to-build-three-settlements-in-gaza-immediately/0000019f-180e-d222-a9ff-9e1f38f90000',
+            sourceSnippet: 'スモトリッチ、ガザ入植地建設の用意 — ハアレツ, 2026年6月30日'
+          },
+          ko: {
+            title: '베잘렐 스모트리치 — 가자지구 북부 신규 정착촌 추진하는 이스라엘 재무장관',
+            desc: '극우 정치인이자 이스라엘 재무장관인 베잘렐 스모트리치는 가자지구 북부에 신규 정착촌 3곳 건설 계획이 준비됐다고 밝혔으며, 레바논 남부 철군도 거부하고 있다.',
+            body: '<p>스모트리치는 재무장관이자 극우 정당 "종교 시온주의" 대표다. 2026년 6월 30일 하아레츠에 따르면 그는 가자지구 북부에 정착촌 3곳을 "즉시" 건설할 준비가 됐다고 밝혔다. 레바논 남부 철군도 거부하고 있다.</p>',
+            source: 'Haaretz',
+            sourceUrl: 'https://www.haaretz.com/gaza/2026-06-30/ty-article/.premium/smotrich-israel-ready-to-build-three-settlements-in-gaza-immediately/0000019f-180e-d222-a9ff-9e1f38f90000',
+            sourceSnippet: '스모트리치, 가자 정착촌 건설 준비 — 하아레츠, 2026년 6월 30일'
+          },
+          zh: {
+            title: '贝扎雷勒·斯莫特里赫 — 推动加沙北部新定居点的以色列财政部长',
+            desc: '极右翼政治人物、以色列财政部长贝扎雷勒·斯莫特里赫表示，在加沙北部建立三个新定居点的计划已准备就绪，同时拒绝从黎巴嫩南部撤军。',
+            body: '<p>斯莫特里赫是财政部长兼极右翼政党"宗教锡安主义"领袖。据2026年6月30日《国土报》报道，他表示已准备好"立即"在加沙北部建立三个定居点。他也拒绝从黎巴嫩南部撤军。</p>',
+            source: 'Haaretz',
+            sourceUrl: 'https://www.haaretz.com/gaza/2026-06-30/ty-article/.premium/smotrich-israel-ready-to-build-three-settlements-in-gaza-immediately/0000019f-180e-d222-a9ff-9e1f38f90000',
+            sourceSnippet: '斯莫特里赫：准备立即建定居点 — 国土报，2026年6月30日'
+          }
+        }
+      }
     ]
   };
   window.countries = window.countryDataFiles;
